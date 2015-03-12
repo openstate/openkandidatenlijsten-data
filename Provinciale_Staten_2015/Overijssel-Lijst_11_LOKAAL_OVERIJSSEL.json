@@ -1,0 +1,142 @@
+{
+  "title": "Lijst_11_LOKAAL_OVERIJSSEL",
+  "members": [
+    {
+      "position": 1,
+      "full_name": "R.A. de Koe",
+      "place": "Rijssen",
+      "gender": "m",
+      "last_name": "de Koe",
+      "first_name": "Rob"
+    },
+    {
+      "position": 2,
+      "full_name": "G. Botter",
+      "place": "Sibculo",
+      "gender": "v",
+      "last_name": "Botter",
+      "first_name": "Gertie"
+    },
+    {
+      "position": 3,
+      "full_name": "L.G.M. Bongers",
+      "place": "Ommen",
+      "gender": "m",
+      "last_name": "Bongers",
+      "first_name": "Leo"
+    },
+    {
+      "position": 4,
+      "full_name": "J.H.J. Rouwenhorst",
+      "place": "Haaksbergen",
+      "gender": "m",
+      "last_name": "Rouwenhorst",
+      "first_name": "Jeffrey"
+    },
+    {
+      "position": 5,
+      "full_name": "A. Holtland",
+      "place": "IJsselmuiden",
+      "gender": "m",
+      "last_name": "Holtland",
+      "first_name": "Albert"
+    },
+    {
+      "position": 6,
+      "full_name": "J.H.H. Filipsen",
+      "place": "Overdinkel",
+      "gender": "m",
+      "last_name": "Filipsen",
+      "first_name": "Henk"
+    },
+    {
+      "position": 7,
+      "full_name": "H.W. Mekelenkamp",
+      "place": "Nieuwleusen",
+      "gender": "m",
+      "last_name": "Mekelenkamp",
+      "first_name": "Hein"
+    },
+    {
+      "position": 8,
+      "full_name": "S.M. Spans-Witte",
+      "place": "Sint Jansklooster",
+      "gender": "v",
+      "last_name": "Spans-Witte",
+      "first_name": "Malissa"
+    },
+    {
+      "position": 9,
+      "full_name": "R.A. Dekker",
+      "place": "IJhorst",
+      "gender": "m",
+      "last_name": "Dekker",
+      "first_name": "Alex"
+    },
+    {
+      "position": 10,
+      "full_name": "G.S. de Jonge",
+      "place": "Ommen",
+      "gender": "m",
+      "last_name": "de Jonge",
+      "first_name": "Gerrit"
+    },
+    {
+      "position": 11,
+      "full_name": "P.M. Baarslag-de Mönnink",
+      "place": "Hardenberg",
+      "gender": "v",
+      "last_name": "Baarslag-de Mönnink",
+      "first_name": "Petra"
+    },
+    {
+      "position": 12,
+      "full_name": "J.J.H. Hammink",
+      "place": "Almelo",
+      "gender": "m",
+      "last_name": "Hammink",
+      "first_name": "Jan"
+    },
+    {
+      "position": 13,
+      "full_name": "M.G. Kroonenburg-Kolk",
+      "place": "IJhorst",
+      "gender": "v",
+      "last_name": "Kroonenburg-Kolk",
+      "first_name": "Greetje"
+    },
+    {
+      "position": 14,
+      "full_name": "E.H. Zwahlen",
+      "place": "Steenwijk",
+      "gender": "m",
+      "last_name": "Zwahlen",
+      "first_name": "Eric-Hans"
+    },
+    {
+      "position": 15,
+      "full_name": "H.A.T. Karel-Plat",
+      "place": "Kampen",
+      "gender": "v",
+      "last_name": "Karel-Plat",
+      "first_name": "Rita"
+    },
+    {
+      "position": 16,
+      "full_name": "E.C. ter Haar",
+      "place": "Losser",
+      "gender": "v",
+      "last_name": "ter Haar",
+      "first_name": "Lies"
+    },
+    {
+      "position": 17,
+      "full_name": "G.M. Bakker-Vogel",
+      "place": "Enschede",
+      "gender": "v",
+      "last_name": "Bakker-Vogel",
+      "first_name": "Gertrud"
+    }
+  ],
+  "description": ""
+}

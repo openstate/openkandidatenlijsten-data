@@ -1,0 +1,38 @@
+{
+  "title": "Lijst_12_Vrijzinnige_Partij",
+  "members": [
+    {
+      "position": 1,
+      "full_name": "M.L.P. Loomans",
+      "place": "Soest",
+      "gender": "v",
+      "last_name": "Loomans",
+      "first_name": "Marie-Louise"
+    },
+    {
+      "position": 2,
+      "full_name": "M.J.P. Bongers",
+      "place": "Utrecht",
+      "gender": "m",
+      "last_name": "Bongers",
+      "first_name": "Maurice"
+    },
+    {
+      "position": 3,
+      "full_name": "P.J.A.M. Klaren",
+      "place": "Amersfoort",
+      "gender": "m",
+      "last_name": "Klaren",
+      "first_name": "Peter"
+    },
+    {
+      "position": 4,
+      "full_name": "L.P.M.J. Canjels",
+      "place": "Soest",
+      "gender": "m",
+      "last_name": "Canjels",
+      "first_name": "Bob"
+    }
+  ],
+  "description": ""
+}

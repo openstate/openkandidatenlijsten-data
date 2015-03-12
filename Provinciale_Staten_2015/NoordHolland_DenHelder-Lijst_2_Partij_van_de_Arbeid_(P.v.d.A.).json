@@ -1,0 +1,214 @@
+{
+  "title": "Lijst_2_Partij_van_de_Arbeid_(P.v.d.A.)",
+  "members": [
+    {
+      "position": 1,
+      "full_name": "T.P.J. Talsma",
+      "place": "Callantsoog",
+      "gender": "m",
+      "last_name": "Talsma",
+      "first_name": "Tjeerd"
+    },
+    {
+      "position": 2,
+      "full_name": "E.M. van Duijn",
+      "place": "Kudelstaart",
+      "gender": "v",
+      "last_name": "van Duijn",
+      "first_name": "Marieke"
+    },
+    {
+      "position": 3,
+      "full_name": "A. Tekin",
+      "place": "Amsterdam",
+      "gender": "m",
+      "last_name": "Tekin",
+      "first_name": "Adnan"
+    },
+    {
+      "position": 4,
+      "full_name": "A.A.J. Jellema",
+      "place": "Den Helder",
+      "gender": "v",
+      "last_name": "Jellema",
+      "first_name": "Aukelien"
+    },
+    {
+      "position": 5,
+      "full_name": "X.J. den Uyl",
+      "place": "Haarlem",
+      "gender": "m",
+      "last_name": "den Uyl",
+      "first_name": "Xander"
+    },
+    {
+      "position": 6,
+      "full_name": "C.W.M. van Rooij",
+      "place": "Purmerend",
+      "gender": "v",
+      "last_name": "van Rooij",
+      "first_name": "Rina"
+    },
+    {
+      "position": 7,
+      "full_name": "J. Nieuwenburg",
+      "place": "Haarlem",
+      "gender": "m",
+      "last_name": "Nieuwenburg",
+      "first_name": "Jan"
+    },
+    {
+      "position": 8,
+      "full_name": "S.S. Doevendans",
+      "place": "Amsterdam",
+      "gender": "v",
+      "last_name": "Doevendans",
+      "first_name": "Sandra"
+    },
+    {
+      "position": 9,
+      "full_name": "N. Papineau Salm",
+      "place": "Amsterdam",
+      "gender": "m",
+      "last_name": "Papineau Salm",
+      "first_name": "Nico"
+    },
+    {
+      "position": 10,
+      "full_name": "L.H. Voskuil",
+      "place": "Naarden",
+      "gender": "m",
+      "last_name": "Voskuil",
+      "first_name": "Lars"
+    },
+    {
+      "position": 11,
+      "full_name": "H. Erarslan",
+      "place": "Amsterdam",
+      "gender": "m",
+      "last_name": "Erarslan",
+      "first_name": "Huseyin"
+    },
+    {
+      "position": 12,
+      "full_name": "W. Eckhardt-Angna",
+      "place": "Amsterdam Zuidoost",
+      "gender": "v",
+      "last_name": "Eckhardt-Angna",
+      "first_name": "Mala"
+    },
+    {
+      "position": 13,
+      "full_name": "P.A. Medema",
+      "place": "Anna Paulowna",
+      "gender": "m",
+      "last_name": "Medema",
+      "first_name": "Paul"
+    },
+    {
+      "position": 14,
+      "full_name": "M.G. van Musscher",
+      "place": "Dirkshorn",
+      "gender": "v",
+      "last_name": "van Musscher",
+      "first_name": "Mirjam"
+    },
+    {
+      "position": 15,
+      "full_name": "G.J. Boeijink",
+      "place": "Winkel",
+      "gender": "m",
+      "last_name": "Boeijink",
+      "first_name": "Jan"
+    },
+    {
+      "position": 16,
+      "full_name": "E. Falan",
+      "place": "Hilversum",
+      "gender": "m",
+      "last_name": "Falan",
+      "first_name": "Emil"
+    },
+    {
+      "position": 17,
+      "full_name": "M. Troostwijk",
+      "place": "Heerhugowaard",
+      "gender": "v",
+      "last_name": "Troostwijk",
+      "first_name": "Marianne"
+    },
+    {
+      "position": 18,
+      "full_name": "R.J. de Graaf",
+      "place": "Julianadorp",
+      "gender": "m",
+      "last_name": "de Graaf",
+      "first_name": "Richard"
+    },
+    {
+      "position": 19,
+      "full_name": "E.R. Bloembergen",
+      "place": "Vogelenzang",
+      "gender": "m",
+      "last_name": "Bloembergen",
+      "first_name": "Eric"
+    },
+    {
+      "position": 20,
+      "full_name": "J. Ringma",
+      "place": "Amsterdam",
+      "gender": "v",
+      "last_name": "Ringma",
+      "first_name": "Marianne"
+    },
+    {
+      "position": 21,
+      "full_name": "E.P. Veenhoven",
+      "place": "Haarlem",
+      "gender": "v",
+      "last_name": "Veenhoven",
+      "first_name": "Els"
+    },
+    {
+      "position": 22,
+      "full_name": "J.C. Meijer",
+      "place": "Alkmaar",
+      "gender": "m",
+      "last_name": "Meijer",
+      "first_name": "Hans"
+    },
+    {
+      "position": 23,
+      "full_name": "C.P. Lionahr-Vernie",
+      "place": "Amstelveen",
+      "gender": "v",
+      "last_name": "Lionahr-Vernie",
+      "first_name": "Cynthia"
+    },
+    {
+      "position": 24,
+      "full_name": "J.X.B. Donata",
+      "place": "Amsterdam",
+      "gender": "m",
+      "last_name": "Donata",
+      "first_name": "Jaime"
+    },
+    {
+      "position": 25,
+      "full_name": "F. Oulad Hadj",
+      "place": "Amsterdam",
+      "gender": "v",
+      "last_name": "Oulad Hadj",
+      "first_name": "Fatima"
+    },
+    {
+      "position": 26,
+      "full_name": "E.P. Wagemaker",
+      "place": "Hoorn",
+      "gender": "m",
+      "last_name": "Wagemaker",
+      "first_name": "Ed"
+    }
+  ],
+  "description": ""
+}

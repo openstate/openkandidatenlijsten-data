@@ -1,0 +1,118 @@
+{
+  "title": "Lijst_15_Seniorenpartij_Groningen",
+  "members": [
+    {
+      "position": 1,
+      "full_name": "J. Ottens",
+      "place": "Delfzijl",
+      "gender": "m",
+      "last_name": "Ottens",
+      "first_name": "Jan"
+    },
+    {
+      "position": 2,
+      "full_name": "J.H. ten Hoove",
+      "place": "Groningen",
+      "gender": "m",
+      "last_name": "ten Hoove",
+      "first_name": "Johan"
+    },
+    {
+      "position": 3,
+      "full_name": "J. de Groot",
+      "place": "Muntendam",
+      "gender": "v",
+      "last_name": "de Groot",
+      "first_name": "Janny"
+    },
+    {
+      "position": 4,
+      "full_name": "J. Mulder",
+      "place": "Westerlee",
+      "gender": "m",
+      "last_name": "Mulder",
+      "first_name": "Jan"
+    },
+    {
+      "position": 5,
+      "full_name": "G.A. van Amson",
+      "place": "Delfzijl",
+      "gender": "m",
+      "last_name": "van Amson",
+      "first_name": "George"
+    },
+    {
+      "position": 6,
+      "full_name": "J. Hilgen",
+      "place": "Stadskanaal",
+      "gender": "m",
+      "last_name": "Hilgen",
+      "first_name": "Jans"
+    },
+    {
+      "position": 7,
+      "full_name": "H. Beks",
+      "place": "Delfzijl",
+      "gender": "m",
+      "last_name": "Beks",
+      "first_name": "Harry"
+    },
+    {
+      "position": 8,
+      "full_name": "W.J. Tammenga",
+      "place": "Groningen",
+      "gender": "m",
+      "last_name": "Tammenga",
+      "first_name": "Wim"
+    },
+    {
+      "position": 9,
+      "full_name": "H. Wiltens",
+      "place": "Groningen",
+      "gender": "v",
+      "last_name": "Wiltens",
+      "first_name": "Heike"
+    },
+    {
+      "position": 10,
+      "full_name": "A.J. Puister",
+      "place": "Groningen",
+      "gender": "m",
+      "last_name": "Puister",
+      "first_name": "Andries"
+    },
+    {
+      "position": 11,
+      "full_name": "W.M. Huisman",
+      "place": "Delfzijl",
+      "gender": "v",
+      "last_name": "Huisman",
+      "first_name": "Wijka"
+    },
+    {
+      "position": 12,
+      "full_name": "V.J. Arnaud",
+      "place": "Delfzijl",
+      "gender": "v",
+      "last_name": "Arnaud",
+      "first_name": "Vionella"
+    },
+    {
+      "position": 13,
+      "full_name": "A.S. Yilmaz",
+      "place": "Appingedam",
+      "gender": "m",
+      "last_name": "Yilmaz",
+      "first_name": "Abdul"
+    },
+    {
+      "position": 14,
+      "full_name": "G. Dodde",
+      "place": "Veendam",
+      "gender": "m",
+      "last_name": "Dodde",
+      "first_name": "Geerd"
+    }
+  ],
+  "description": ""
+}

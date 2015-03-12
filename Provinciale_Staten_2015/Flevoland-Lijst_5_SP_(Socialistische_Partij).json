@@ -1,0 +1,206 @@
+{
+  "title": "Lijst_5_SP_(Socialistische_Partij)",
+  "members": [
+    {
+      "position": 1,
+      "full_name": "A. Stuivenberg",
+      "place": "Almere",
+      "gender": "m",
+      "last_name": "Stuivenberg",
+      "first_name": "Arie"
+    },
+    {
+      "position": 2,
+      "full_name": "C.P.M. de Waal",
+      "place": "Lelystad",
+      "gender": "v",
+      "last_name": "de Waal",
+      "first_name": "Ine"
+    },
+    {
+      "position": 3,
+      "full_name": "H.A. van der Linden",
+      "place": "Almere",
+      "gender": "m",
+      "last_name": "van der Linden",
+      "first_name": "Henk"
+    },
+    {
+      "position": 4,
+      "full_name": "S. Verbeek",
+      "place": "Lelystad",
+      "gender": "v",
+      "last_name": "Verbeek",
+      "first_name": "Symaiah"
+    },
+    {
+      "position": 5,
+      "full_name": "T.G. Hoekstra",
+      "place": "Rutten",
+      "gender": "v",
+      "last_name": "Hoekstra",
+      "first_name": "Tjitske"
+    },
+    {
+      "position": 6,
+      "full_name": "H. van Ravenzwaaij",
+      "place": "Almere",
+      "gender": "m",
+      "last_name": "van Ravenzwaaij",
+      "first_name": "Herbert"
+    },
+    {
+      "position": 7,
+      "full_name": "W.F. Mulckhuijse",
+      "place": "Almere",
+      "gender": "m",
+      "last_name": "Mulckhuijse",
+      "first_name": "Frans"
+    },
+    {
+      "position": 8,
+      "full_name": "M. Müller",
+      "place": "Almere",
+      "gender": "v",
+      "last_name": "Müller",
+      "first_name": "Maike"
+    },
+    {
+      "position": 9,
+      "full_name": "D. van Sluijs",
+      "place": "Emmeloord",
+      "gender": "v",
+      "last_name": "van Sluijs",
+      "first_name": "Denise"
+    },
+    {
+      "position": 10,
+      "full_name": "A. Vermeulen",
+      "place": "Almere",
+      "gender": "m",
+      "last_name": "Vermeulen",
+      "first_name": "Arno"
+    },
+    {
+      "position": 11,
+      "full_name": "M. Broekhuijsen",
+      "place": "Biddinghuizen",
+      "gender": "v",
+      "last_name": "Broekhuijsen",
+      "first_name": "Maaike"
+    },
+    {
+      "position": 12,
+      "full_name": "H.D. Tjon-A-Kon",
+      "place": "Almere",
+      "gender": "v",
+      "last_name": "Tjon-A-Kon",
+      "first_name": "Helga"
+    },
+    {
+      "position": 13,
+      "full_name": "I.J. Louweret",
+      "place": "Almere",
+      "gender": "m",
+      "last_name": "Louweret",
+      "first_name": "Sjaak"
+    },
+    {
+      "position": 14,
+      "full_name": "J.J.C. Everhard",
+      "place": "Almere",
+      "gender": "m",
+      "last_name": "Everhard",
+      "first_name": "Hans"
+    },
+    {
+      "position": 15,
+      "full_name": "P.J. Niebeek",
+      "place": "Lelystad",
+      "gender": "m",
+      "last_name": "Niebeek",
+      "first_name": "Pieter Jan"
+    },
+    {
+      "position": 16,
+      "full_name": "J. Preuter",
+      "place": "Swifterbant",
+      "gender": "m",
+      "last_name": "Preuter",
+      "first_name": "Jan"
+    },
+    {
+      "position": 17,
+      "full_name": "W.J. Guldemond",
+      "place": "Emmeloord",
+      "gender": "v",
+      "last_name": "Guldemond",
+      "first_name": "Wilma"
+    },
+    {
+      "position": 18,
+      "full_name": "K. Schmitt",
+      "place": "Lelystad",
+      "gender": "v",
+      "last_name": "Schmitt",
+      "first_name": "Katja"
+    },
+    {
+      "position": 19,
+      "full_name": "G.A. Blaauw",
+      "place": "Ens",
+      "gender": "v",
+      "last_name": "Blaauw",
+      "first_name": "Amy"
+    },
+    {
+      "position": 20,
+      "full_name": "J.M. Desumma-Kreelekamp",
+      "place": "Almere",
+      "gender": "v",
+      "last_name": "Desumma-Kreelekamp",
+      "first_name": "Ans"
+    },
+    {
+      "position": 21,
+      "full_name": "O.G.H.J. Roch",
+      "place": "Emmeloord",
+      "gender": "m",
+      "last_name": "Roch",
+      "first_name": "Oswald"
+    },
+    {
+      "position": 22,
+      "full_name": "J. Lewis",
+      "place": "Zeewolde",
+      "gender": "m",
+      "last_name": "Lewis",
+      "first_name": "Hans"
+    },
+    {
+      "position": 23,
+      "full_name": "D.N. Stanneveld",
+      "place": "Almere",
+      "gender": "m",
+      "last_name": "Stanneveld",
+      "first_name": "Daniël"
+    },
+    {
+      "position": 24,
+      "full_name": "E.N.J. de Waal",
+      "place": "Emmeloord",
+      "gender": "m",
+      "last_name": "de Waal",
+      "first_name": "Erik"
+    },
+    {
+      "position": 25,
+      "full_name": "J.M. van den Heuvel",
+      "place": "Lelystad",
+      "gender": "m",
+      "last_name": "van den Heuvel",
+      "first_name": "John"
+    }
+  ],
+  "description": ""
+}

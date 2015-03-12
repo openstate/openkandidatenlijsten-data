@@ -1,0 +1,238 @@
+{
+  "title": "Lijst_2_VVD",
+  "members": [
+    {
+      "position": 1,
+      "full_name": "M. Boumans",
+      "place": "Haren Gn",
+      "gender": "m",
+      "last_name": "Boumans",
+      "first_name": "Mark"
+    },
+    {
+      "position": 2,
+      "full_name": "E.M. Wulfse",
+      "place": "Groningen",
+      "gender": "v",
+      "last_name": "Wulfse",
+      "first_name": "Mirjam"
+    },
+    {
+      "position": 3,
+      "full_name": "N. Bakker",
+      "place": "Pieterburen",
+      "gender": "m",
+      "last_name": "Bakker",
+      "first_name": "Nico"
+    },
+    {
+      "position": 4,
+      "full_name": "M. Oosterhuis",
+      "place": "Groningen",
+      "gender": "m",
+      "last_name": "Oosterhuis",
+      "first_name": "Matthijs"
+    },
+    {
+      "position": 5,
+      "full_name": "L.N. Dijkstra",
+      "place": "Groningen",
+      "gender": "v",
+      "last_name": "Dijkstra",
+      "first_name": "Laura"
+    },
+    {
+      "position": 6,
+      "full_name": "P.T.R. Haseloop",
+      "place": "Leek",
+      "gender": "m",
+      "last_name": "Haseloop",
+      "first_name": "Paul"
+    },
+    {
+      "position": 7,
+      "full_name": "C.A. Rogge-Schneider",
+      "place": "Haren Gn",
+      "gender": "v",
+      "last_name": "Rogge-Schneider",
+      "first_name": "Charlotte"
+    },
+    {
+      "position": 8,
+      "full_name": "M.K.R. Miesen",
+      "place": "Groningen",
+      "gender": "m",
+      "last_name": "Miesen",
+      "first_name": "Madà"
+    },
+    {
+      "position": 9,
+      "full_name": "C.J.H. Ubels",
+      "place": "Zuidbroek",
+      "gender": "m",
+      "last_name": "Ubels",
+      "first_name": "Chris"
+    },
+    {
+      "position": 10,
+      "full_name": "A.B. Vink",
+      "place": "Schildwolde",
+      "gender": "m",
+      "last_name": "Vink",
+      "first_name": "Dolf"
+    },
+    {
+      "position": 11,
+      "full_name": "W.H. Snijder",
+      "place": "Wagenborgen",
+      "gender": "v",
+      "last_name": "Snijder",
+      "first_name": "Willemien"
+    },
+    {
+      "position": 12,
+      "full_name": "W.J. Hut",
+      "place": "Groningen",
+      "gender": "m",
+      "last_name": "Hut",
+      "first_name": "Wim"
+    },
+    {
+      "position": 13,
+      "full_name": "V.M.E. Kerremans",
+      "place": "Haren Gn",
+      "gender": "v",
+      "last_name": "Kerremans",
+      "first_name": "Vera"
+    },
+    {
+      "position": 14,
+      "full_name": "B.J. Vlonk",
+      "place": "Leek",
+      "gender": "m",
+      "last_name": "Vlonk",
+      "first_name": "Bouke Jan"
+    },
+    {
+      "position": 15,
+      "full_name": "H.M. Rijlaarsdam-Sikma",
+      "place": "Scheemda",
+      "gender": "v",
+      "last_name": "Rijlaarsdam-Sikma",
+      "first_name": "Hiltje"
+    },
+    {
+      "position": 16,
+      "full_name": "H.B. Wijnholds",
+      "place": "Bourtange",
+      "gender": "v",
+      "last_name": "Wijnholds",
+      "first_name": "Beertje"
+    },
+    {
+      "position": 17,
+      "full_name": "J.H. Sipma",
+      "place": "Oldekerk",
+      "gender": "m",
+      "last_name": "Sipma",
+      "first_name": "Jarig"
+    },
+    {
+      "position": 18,
+      "full_name": "T.K. van der Meulen",
+      "place": "Oostwold",
+      "gender": "m",
+      "last_name": "van der Meulen",
+      "first_name": "Tom Karst"
+    },
+    {
+      "position": 19,
+      "full_name": "L. Westerhuis",
+      "place": "Usquert",
+      "gender": "m",
+      "last_name": "Westerhuis",
+      "first_name": "Lammert"
+    },
+    {
+      "position": 20,
+      "full_name": "J.P. van der Vis",
+      "place": "Leens",
+      "gender": "m",
+      "last_name": "van der Vis",
+      "first_name": "Johan"
+    },
+    {
+      "position": 21,
+      "full_name": "M.A. Menger",
+      "place": "Winschoten",
+      "gender": "m",
+      "last_name": "Menger",
+      "first_name": "Martin"
+    },
+    {
+      "position": 22,
+      "full_name": "R.P. Prummel",
+      "place": "Groningen",
+      "gender": "m",
+      "last_name": "Prummel",
+      "first_name": "Robert Paul"
+    },
+    {
+      "position": 23,
+      "full_name": "L.H. Hilarides",
+      "place": "Winschoten",
+      "gender": "m",
+      "last_name": "Hilarides",
+      "first_name": "Leon"
+    },
+    {
+      "position": 24,
+      "full_name": "T. Boelens",
+      "place": "Hoogezand",
+      "gender": "m",
+      "last_name": "Boelens",
+      "first_name": "Tim"
+    },
+    {
+      "position": 25,
+      "full_name": "F.H. Wünker",
+      "place": "Winschoten",
+      "gender": "m",
+      "last_name": "Wünker",
+      "first_name": "Erich"
+    },
+    {
+      "position": 26,
+      "full_name": "J. Meesters",
+      "place": "Hoogezand",
+      "gender": "m",
+      "last_name": "Meesters",
+      "first_name": "Jan"
+    },
+    {
+      "position": 27,
+      "full_name": "G. Borgesius",
+      "place": "Musselkanaal",
+      "gender": "m",
+      "last_name": "Borgesius",
+      "first_name": "Goedhart"
+    },
+    {
+      "position": 28,
+      "full_name": "A.C.L. Rutte",
+      "place": "Groningen",
+      "gender": "m",
+      "last_name": "Rutte",
+      "first_name": "Arno"
+    },
+    {
+      "position": 29,
+      "full_name": "B.G. de Boer",
+      "place": "Groningen",
+      "gender": "v",
+      "last_name": "de Boer",
+      "first_name": "Betty"
+    }
+  ],
+  "description": ""
+}

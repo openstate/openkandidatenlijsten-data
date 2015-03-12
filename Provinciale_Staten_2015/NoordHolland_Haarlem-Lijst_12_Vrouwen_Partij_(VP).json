@@ -1,0 +1,62 @@
+{
+  "title": "Lijst_12_Vrouwen_Partij_(VP)",
+  "members": [
+    {
+      "position": 1,
+      "full_name": "M.M. Sparla",
+      "place": "De Kwakel",
+      "gender": "v",
+      "last_name": "Sparla",
+      "first_name": "Monique"
+    },
+    {
+      "position": 2,
+      "full_name": "K.A. Chaudry",
+      "place": "'s-Gravenhage",
+      "gender": "m",
+      "last_name": "Chaudry",
+      "first_name": "Khalid"
+    },
+    {
+      "position": 3,
+      "full_name": "J. Vermeulen-Wilshaus",
+      "place": "Bunnik",
+      "gender": "v",
+      "last_name": "Vermeulen-Wilshaus",
+      "first_name": "Jolanda"
+    },
+    {
+      "position": 4,
+      "full_name": "M.M. de Jong",
+      "place": "Beverwijk",
+      "gender": "v",
+      "last_name": "de Jong",
+      "first_name": "Mar"
+    },
+    {
+      "position": 5,
+      "full_name": "A.C. de Jong",
+      "place": "Beverwijk",
+      "gender": "m",
+      "last_name": "de Jong",
+      "first_name": "Aäron"
+    },
+    {
+      "position": 6,
+      "full_name": "A. Dijkkamp-de Leer",
+      "place": "Den Helder",
+      "gender": "v",
+      "last_name": "Dijkkamp-de Leer",
+      "first_name": "Anita"
+    },
+    {
+      "position": 7,
+      "full_name": "W. van der Schaaf",
+      "place": "Heerenveen",
+      "gender": "v",
+      "last_name": "van der Schaaf",
+      "first_name": "Wietske"
+    }
+  ],
+  "description": ""
+}

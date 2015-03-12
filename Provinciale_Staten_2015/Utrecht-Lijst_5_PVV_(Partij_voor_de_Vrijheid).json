@@ -1,0 +1,126 @@
+{
+  "title": "Lijst_5_PVV_(Partij_voor_de_Vrijheid)",
+  "members": [
+    {
+      "position": 1,
+      "full_name": "R.G.J. Dercksen",
+      "place": "Bosch en Duin",
+      "gender": "m",
+      "last_name": "Dercksen",
+      "first_name": "René"
+    },
+    {
+      "position": 2,
+      "full_name": "H. IJssennagger",
+      "place": "Bilthoven",
+      "gender": "m",
+      "last_name": "IJssennagger",
+      "first_name": "Han"
+    },
+    {
+      "position": 3,
+      "full_name": "E.J. Broere-Kaal",
+      "place": "Soest",
+      "gender": "v",
+      "last_name": "Broere-Kaal",
+      "first_name": "Elly"
+    },
+    {
+      "position": 4,
+      "full_name": "W.J. Ubaghs",
+      "place": "Maarssen",
+      "gender": "m",
+      "last_name": "Ubaghs",
+      "first_name": "Wim"
+    },
+    {
+      "position": 5,
+      "full_name": "H. van Deún",
+      "place": "Utrecht",
+      "gender": "m",
+      "last_name": "van Deún",
+      "first_name": "Henk"
+    },
+    {
+      "position": 6,
+      "full_name": "I.H.C. van den Besselaar",
+      "place": "Utrecht",
+      "gender": "m",
+      "last_name": "van den Besselaar",
+      "first_name": "Ino"
+    },
+    {
+      "position": 7,
+      "full_name": "F.M. Thiadens",
+      "place": "Doorn",
+      "gender": "m",
+      "last_name": "Thiadens",
+      "first_name": "Folkert"
+    },
+    {
+      "position": 8,
+      "full_name": "D.C. van Eibergen Santhagens",
+      "place": "Soest",
+      "gender": "m",
+      "last_name": "van Eibergen Santhagens",
+      "first_name": "Daan"
+    },
+    {
+      "position": 9,
+      "full_name": "P.R. van Well",
+      "place": "Zeist",
+      "gender": "m",
+      "last_name": "van Well",
+      "first_name": "Paul"
+    },
+    {
+      "position": 10,
+      "full_name": "J. Pool",
+      "place": "Utrecht",
+      "gender": "m",
+      "last_name": "Pool",
+      "first_name": "Joeri"
+    },
+    {
+      "position": 11,
+      "full_name": "P.F. Koops",
+      "place": "Bunschoten-Spakenburg",
+      "gender": "m",
+      "last_name": "Koops",
+      "first_name": "Peter Frans"
+    },
+    {
+      "position": 12,
+      "full_name": "J. Ketjen",
+      "place": "Eemnes",
+      "gender": "m",
+      "last_name": "Ketjen",
+      "first_name": "Joost"
+    },
+    {
+      "position": 13,
+      "full_name": "G.J.H. Henken",
+      "place": "Elst Ut",
+      "gender": "m",
+      "last_name": "Henken",
+      "first_name": "Bert"
+    },
+    {
+      "position": 14,
+      "full_name": "J.D.F. Daeter",
+      "place": "Montfoort",
+      "gender": "m",
+      "last_name": "Daeter",
+      "first_name": "Jochem"
+    },
+    {
+      "position": 15,
+      "full_name": "M.E.D. van der Horst",
+      "place": "Utrecht",
+      "gender": "m",
+      "last_name": "van der Horst",
+      "first_name": "Michel"
+    }
+  ],
+  "description": ""
+}

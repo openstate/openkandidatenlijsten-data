@@ -1,0 +1,150 @@
+{
+  "title": "Lijst_1_VVD",
+  "members": [
+    {
+      "position": 1,
+      "full_name": "J. Lodders",
+      "place": "Zeewolde",
+      "gender": "m",
+      "last_name": "Lodders",
+      "first_name": "Jaap"
+    },
+    {
+      "position": 2,
+      "full_name": "A. Gijsberts",
+      "place": "Almere",
+      "gender": "m",
+      "last_name": "Gijsberts",
+      "first_name": "Bert"
+    },
+    {
+      "position": 3,
+      "full_name": "J.J. Klijnstra-Rippen",
+      "place": "Lelystad",
+      "gender": "v",
+      "last_name": "Klijnstra-Rippen",
+      "first_name": "Janet"
+    },
+    {
+      "position": 4,
+      "full_name": "J. de Reus",
+      "place": "Lelystad",
+      "gender": "m",
+      "last_name": "de Reus",
+      "first_name": "Jan"
+    },
+    {
+      "position": 5,
+      "full_name": "M. Smeels-Zechner",
+      "place": "Almere",
+      "gender": "v",
+      "last_name": "Smeels-Zechner",
+      "first_name": "Mirjam"
+    },
+    {
+      "position": 6,
+      "full_name": "H.W.E. van Vliet",
+      "place": "Dronten",
+      "gender": "m",
+      "last_name": "van Vliet",
+      "first_name": "Huib"
+    },
+    {
+      "position": 7,
+      "full_name": "E.F. Plate",
+      "place": "Zeewolde",
+      "gender": "m",
+      "last_name": "Plate",
+      "first_name": "Eduard"
+    },
+    {
+      "position": 8,
+      "full_name": "R.P.G. Bosma",
+      "place": "Emmeloord",
+      "gender": "m",
+      "last_name": "Bosma",
+      "first_name": "Remco"
+    },
+    {
+      "position": 9,
+      "full_name": "M.E.H. Broen",
+      "place": "Almere",
+      "gender": "v",
+      "last_name": "Broen",
+      "first_name": "Elise"
+    },
+    {
+      "position": 10,
+      "full_name": "T.J.G. Vulink",
+      "place": "Dronten",
+      "gender": "m",
+      "last_name": "Vulink",
+      "first_name": "Theo"
+    },
+    {
+      "position": 11,
+      "full_name": "P. ten Napel",
+      "place": "Urk",
+      "gender": "m",
+      "last_name": "ten Napel",
+      "first_name": "Philip"
+    },
+    {
+      "position": 12,
+      "full_name": "M.C. Boogaard",
+      "place": "Almere",
+      "gender": "m",
+      "last_name": "Boogaard",
+      "first_name": "Marco"
+    },
+    {
+      "position": 13,
+      "full_name": "J.M.H. d'Hooghe-Molenkamp",
+      "place": "Dronten",
+      "gender": "v",
+      "last_name": "d'Hooghe-Molenkamp",
+      "first_name": "Anke"
+    },
+    {
+      "position": 14,
+      "full_name": "A. van Stenus-van Basten",
+      "place": "Almere",
+      "gender": "v",
+      "last_name": "van Stenus-van Basten",
+      "first_name": "Netty"
+    },
+    {
+      "position": 15,
+      "full_name": "P.S.A. Gach",
+      "place": "Dronten",
+      "gender": "m",
+      "last_name": "Gach",
+      "first_name": "Paul"
+    },
+    {
+      "position": 16,
+      "full_name": "M. Jonker-Waterlander",
+      "place": "Emmeloord",
+      "gender": "v",
+      "last_name": "Jonker-Waterlander",
+      "first_name": "Meintje"
+    },
+    {
+      "position": 17,
+      "full_name": "B. Hoogezand",
+      "place": "Dronten",
+      "gender": "m",
+      "last_name": "Hoogezand",
+      "first_name": "Barry"
+    },
+    {
+      "position": 18,
+      "full_name": "A.H. Vermeer",
+      "place": "Swifterbant",
+      "gender": "m",
+      "last_name": "Vermeer",
+      "first_name": "Herman"
+    }
+  ],
+  "description": ""
+}

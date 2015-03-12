@@ -1,0 +1,102 @@
+{
+  "title": "Lijst_12_Senioren_Belang_Noord",
+  "members": [
+    {
+      "position": 1,
+      "full_name": "B. Hoeksema",
+      "place": "Emmen",
+      "gender": "m",
+      "last_name": "Hoeksema",
+      "first_name": "Bé"
+    },
+    {
+      "position": 2,
+      "full_name": "M. Sanders",
+      "place": "Emmen",
+      "gender": "v",
+      "last_name": "Sanders",
+      "first_name": "Marjan"
+    },
+    {
+      "position": 3,
+      "full_name": "J. Grethe",
+      "place": "Emmen",
+      "gender": "m",
+      "last_name": "Grethe",
+      "first_name": "Johan"
+    },
+    {
+      "position": 4,
+      "full_name": "A. van Dijken",
+      "place": "Emmen",
+      "gender": "m",
+      "last_name": "van Dijken",
+      "first_name": "Albert"
+    },
+    {
+      "position": 5,
+      "full_name": "H. Kruise",
+      "place": "Emmen",
+      "gender": "m",
+      "last_name": "Kruise",
+      "first_name": "Henk"
+    },
+    {
+      "position": 6,
+      "full_name": "H.E.H. Wolf",
+      "place": "Bunne",
+      "gender": "m",
+      "last_name": "Wolf",
+      "first_name": "Henk"
+    },
+    {
+      "position": 7,
+      "full_name": "I.C.D. Roelfzema",
+      "place": "Meppel",
+      "gender": "v",
+      "last_name": "Roelfzema",
+      "first_name": "Irene"
+    },
+    {
+      "position": 8,
+      "full_name": "J.C. Geers",
+      "place": "Bovensmilde",
+      "gender": "m",
+      "last_name": "Geers",
+      "first_name": "Hans"
+    },
+    {
+      "position": 9,
+      "full_name": "A.A. Pepping",
+      "place": "Emmen",
+      "gender": "m",
+      "last_name": "Pepping",
+      "first_name": "Bert"
+    },
+    {
+      "position": 10,
+      "full_name": "A.M. Burgert",
+      "place": "Emmen",
+      "gender": "v",
+      "last_name": "Burgert",
+      "first_name": "Annemieke"
+    },
+    {
+      "position": 11,
+      "full_name": "J.K.A. Reilman",
+      "place": "Emmen",
+      "gender": "m",
+      "last_name": "Reilman",
+      "first_name": "Joop"
+    },
+    {
+      "position": 12,
+      "full_name": "E.K. Wijngaard",
+      "place": "Emmen",
+      "gender": "m",
+      "last_name": "Wijngaard",
+      "first_name": "Evert"
+    }
+  ],
+  "description": ""
+}

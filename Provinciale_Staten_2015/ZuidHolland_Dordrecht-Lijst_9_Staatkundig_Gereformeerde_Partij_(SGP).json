@@ -1,0 +1,246 @@
+{
+  "title": "Lijst_9_Staatkundig_Gereformeerde_Partij_(SGP)",
+  "members": [
+    {
+      "position": 1,
+      "full_name": "S. Stoop",
+      "place": "Dirksland",
+      "gender": "m",
+      "last_name": "Stoop",
+      "first_name": "Servaas"
+    },
+    {
+      "position": 2,
+      "full_name": "H. van Dieren",
+      "place": "Lexmond",
+      "gender": "m",
+      "last_name": "van Dieren",
+      "first_name": "Henk"
+    },
+    {
+      "position": 3,
+      "full_name": "C. van der Velden",
+      "place": "Krimpen aan den IJssel",
+      "gender": "m",
+      "last_name": "van der Velden",
+      "first_name": "Chris"
+    },
+    {
+      "position": 4,
+      "full_name": "J.K. Matze",
+      "place": "Nieuw-Beijerland",
+      "gender": "m",
+      "last_name": "Matze",
+      "first_name": "Johan"
+    },
+    {
+      "position": 5,
+      "full_name": "C.P.W. van den Berg",
+      "place": "Waddinxveen",
+      "gender": "m",
+      "last_name": "van den Berg",
+      "first_name": "Peter"
+    },
+    {
+      "position": 6,
+      "full_name": "W.J. van Duijn",
+      "place": "Katwijk",
+      "gender": "m",
+      "last_name": "van Duijn",
+      "first_name": "Wim"
+    },
+    {
+      "position": 7,
+      "full_name": "H. Herweijer",
+      "place": "Dirksland",
+      "gender": "m",
+      "last_name": "Herweijer",
+      "first_name": "Hendrik"
+    },
+    {
+      "position": 8,
+      "full_name": "A.D. van der Wulp",
+      "place": "'s-Gravendeel",
+      "gender": "m",
+      "last_name": "van der Wulp",
+      "first_name": "Adriaan"
+    },
+    {
+      "position": 9,
+      "full_name": "C.N. de Jager",
+      "place": "Sliedrecht",
+      "gender": "m",
+      "last_name": "de Jager",
+      "first_name": "Nico"
+    },
+    {
+      "position": 10,
+      "full_name": "A.T. van der Wulp",
+      "place": "'s-Gravendeel",
+      "gender": "m",
+      "last_name": "van der Wulp",
+      "first_name": "Anthony"
+    },
+    {
+      "position": 11,
+      "full_name": "G.P. Schipaanboord",
+      "place": "Leiderdorp",
+      "gender": "m",
+      "last_name": "Schipaanboord",
+      "first_name": "Geert"
+    },
+    {
+      "position": 12,
+      "full_name": "P.A. Zevenbergen",
+      "place": "Alblasserdam",
+      "gender": "m",
+      "last_name": "Zevenbergen",
+      "first_name": "Peter"
+    },
+    {
+      "position": 13,
+      "full_name": "J.N. Rozendaal",
+      "place": "Papendrecht",
+      "gender": "m",
+      "last_name": "Rozendaal",
+      "first_name": "Jan Nathan"
+    },
+    {
+      "position": 14,
+      "full_name": "T.A. Stoop",
+      "place": "Hendrik-Ido-Ambacht",
+      "gender": "m",
+      "last_name": "Stoop",
+      "first_name": "Teunis"
+    },
+    {
+      "position": 15,
+      "full_name": "D.J.H. van Dijk",
+      "place": "Benthuizen",
+      "gender": "m",
+      "last_name": "van Dijk",
+      "first_name": "Diederik"
+    },
+    {
+      "position": 16,
+      "full_name": "J.L. van den Heuvel",
+      "place": "Bodegraven",
+      "gender": "m",
+      "last_name": "van den Heuvel",
+      "first_name": "Jan Leendert"
+    },
+    {
+      "position": 17,
+      "full_name": "H. Akkerman",
+      "place": "Gorinchem",
+      "gender": "m",
+      "last_name": "Akkerman",
+      "first_name": "Harmen"
+    },
+    {
+      "position": 18,
+      "full_name": "W.J. Vroegindeweij",
+      "place": "Katwijk",
+      "gender": "m",
+      "last_name": "Vroegindeweij",
+      "first_name": "Wouter-Jan"
+    },
+    {
+      "position": 19,
+      "full_name": "P.M.D. Weijers",
+      "place": "Capelle aan den IJssel",
+      "gender": "m",
+      "last_name": "Weijers",
+      "first_name": "Pieter"
+    },
+    {
+      "position": 20,
+      "full_name": "C.A. Egas",
+      "place": "Bleskensgraaf ca",
+      "gender": "m",
+      "last_name": "Egas",
+      "first_name": "Corné"
+    },
+    {
+      "position": 21,
+      "full_name": "M.P. de Graaf",
+      "place": "Delft",
+      "gender": "m",
+      "last_name": "de Graaf",
+      "first_name": "Martin"
+    },
+    {
+      "position": 22,
+      "full_name": "E.J. Nieuwenhuis",
+      "place": "Lisse",
+      "gender": "m",
+      "last_name": "Nieuwenhuis",
+      "first_name": "Evert Jan"
+    },
+    {
+      "position": 23,
+      "full_name": "J. de Vos",
+      "place": "Hardinxveld-Giessendam",
+      "gender": "m",
+      "last_name": "de Vos",
+      "first_name": "Jan"
+    },
+    {
+      "position": 24,
+      "full_name": "M.J.W. Hoek",
+      "place": "Gouda",
+      "gender": "m",
+      "last_name": "Hoek",
+      "first_name": "Rien"
+    },
+    {
+      "position": 25,
+      "full_name": "W. Anker",
+      "place": "Vlaardingen",
+      "gender": "m",
+      "last_name": "Anker",
+      "first_name": "William"
+    },
+    {
+      "position": 26,
+      "full_name": "P.C. Grinwis",
+      "place": "Ouddorp",
+      "gender": "m",
+      "last_name": "Grinwis",
+      "first_name": "Peter"
+    },
+    {
+      "position": 27,
+      "full_name": "A. van der Wende",
+      "place": "Berkenwoude",
+      "gender": "m",
+      "last_name": "van der Wende",
+      "first_name": "André"
+    },
+    {
+      "position": 28,
+      "full_name": "J.S. Breedveld",
+      "place": "Barendrecht",
+      "gender": "m",
+      "last_name": "Breedveld",
+      "first_name": "John"
+    },
+    {
+      "position": 29,
+      "full_name": "V.A. Smit",
+      "place": "Ridderkerk",
+      "gender": "m",
+      "last_name": "Smit",
+      "first_name": "Volbregt"
+    },
+    {
+      "position": 30,
+      "full_name": "J.A. Schippers",
+      "place": "Rotterdam",
+      "gender": "m",
+      "last_name": "Schippers",
+      "first_name": "Jan"
+    }
+  ],
+  "description": ""
+}

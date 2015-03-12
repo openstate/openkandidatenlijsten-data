@@ -1,0 +1,182 @@
+{
+  "title": "Lijst_3_PVV_(Partij_voor_de_Vrijheid)",
+  "members": [
+    {
+      "position": 1,
+      "full_name": "A.W.J.A. van Hattem",
+      "place": "Steensel",
+      "gender": "m",
+      "last_name": "van Hattem",
+      "first_name": "Alexander"
+    },
+    {
+      "position": 2,
+      "full_name": "H.F. van den Berg",
+      "place": "Tilburg",
+      "gender": "m",
+      "last_name": "van den Berg",
+      "first_name": "Harry"
+    },
+    {
+      "position": 3,
+      "full_name": "P. van der Kammen",
+      "place": "Tilburg",
+      "gender": "v",
+      "last_name": "van der Kammen",
+      "first_name": "Patricia"
+    },
+    {
+      "position": 4,
+      "full_name": "L.A.G. Roks",
+      "place": "Etten-Leur",
+      "gender": "m",
+      "last_name": "Roks",
+      "first_name": "Louis"
+    },
+    {
+      "position": 5,
+      "full_name": "J.C. Kardol",
+      "place": "Uden",
+      "gender": "v",
+      "last_name": "Kardol",
+      "first_name": "Joyce"
+    },
+    {
+      "position": 6,
+      "full_name": "M.C.H. Boon",
+      "place": "Bergen op Zoom",
+      "gender": "m",
+      "last_name": "Boon",
+      "first_name": "Maikel"
+    },
+    {
+      "position": 7,
+      "full_name": "W.J. Bakker",
+      "place": "Waalwijk",
+      "gender": "m",
+      "last_name": "Bakker",
+      "first_name": "Willem"
+    },
+    {
+      "position": 8,
+      "full_name": "A.G. Hof",
+      "place": "Helmond",
+      "gender": "m",
+      "last_name": "Hof",
+      "first_name": "André"
+    },
+    {
+      "position": 9,
+      "full_name": "S. Booij",
+      "place": "Nieuw-Vossemeer",
+      "gender": "m",
+      "last_name": "Booij",
+      "first_name": "Sander"
+    },
+    {
+      "position": 10,
+      "full_name": "T. Langman",
+      "place": "Eindhoven",
+      "gender": "m",
+      "last_name": "Langman",
+      "first_name": "Tjerk"
+    },
+    {
+      "position": 11,
+      "full_name": "A.M.C. Weij",
+      "place": "Gemert",
+      "gender": "v",
+      "last_name": "Weij",
+      "first_name": "Alida"
+    },
+    {
+      "position": 12,
+      "full_name": "J.O. Raats",
+      "place": "Etten-Leur",
+      "gender": "m",
+      "last_name": "Raats",
+      "first_name": "Jake Owen"
+    },
+    {
+      "position": 13,
+      "full_name": "P. van den Oudenalder - Tolk",
+      "place": "Schijndel",
+      "gender": "v",
+      "last_name": "van den Oudenalder - Tolk",
+      "first_name": "Patty"
+    },
+    {
+      "position": 14,
+      "full_name": "J.P.W.M. Trebus",
+      "place": "Roosendaal",
+      "gender": "m",
+      "last_name": "Trebus",
+      "first_name": "Frank"
+    },
+    {
+      "position": 15,
+      "full_name": "W.C. Verbaarschot",
+      "place": "Roosendaal",
+      "gender": "m",
+      "last_name": "Verbaarschot",
+      "first_name": "Wim"
+    },
+    {
+      "position": 16,
+      "full_name": "R. van Duijn",
+      "place": "Rosmalen",
+      "gender": "m",
+      "last_name": "van Duijn",
+      "first_name": "René"
+    },
+    {
+      "position": 17,
+      "full_name": "C.A.J.M. Frijters",
+      "place": "Bergen op Zoom",
+      "gender": "m",
+      "last_name": "Frijters",
+      "first_name": "Kees"
+    },
+    {
+      "position": 18,
+      "full_name": "M. Hendriks",
+      "place": "Eindhoven",
+      "gender": "v",
+      "last_name": "Hendriks",
+      "first_name": "Anita"
+    },
+    {
+      "position": 19,
+      "full_name": "E. van Dijk",
+      "place": "Gilze",
+      "gender": "m",
+      "last_name": "van Dijk",
+      "first_name": "Emiel"
+    },
+    {
+      "position": 20,
+      "full_name": "N.A. Choenni",
+      "place": "Oosterhout",
+      "gender": "v",
+      "last_name": "Choenni",
+      "first_name": "Nathalie"
+    },
+    {
+      "position": 21,
+      "full_name": "M.A.J.L. Frijters-Klijnen",
+      "place": "Bergen op Zoom",
+      "gender": "v",
+      "last_name": "Frijters-Klijnen",
+      "first_name": "Mariette"
+    },
+    {
+      "position": 22,
+      "full_name": "R. Dol",
+      "place": "Uden",
+      "gender": "m",
+      "last_name": "Dol",
+      "first_name": "Ronald"
+    }
+  ],
+  "description": ""
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Lijst_14_Libertarische_Partij_(LP)",
+  "members": [
+    {
+      "position": 1,
+      "full_name": "K.J. Wassenaar",
+      "place": "Leeuwarden",
+      "gender": "m",
+      "last_name": "Wassenaar",
+      "first_name": "Klaas"
+    },
+    {
+      "position": 2,
+      "full_name": "M. van der Wal",
+      "place": "Kollumerzwaag",
+      "gender": "m",
+      "last_name": "van der Wal",
+      "first_name": "Marinus"
+    },
+    {
+      "position": 3,
+      "full_name": "J. Koopmans",
+      "place": "Leeuwarden",
+      "gender": "m",
+      "last_name": "Koopmans",
+      "first_name": "Jurjen"
+    }
+  ],
+  "description": ""
+}

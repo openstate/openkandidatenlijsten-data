@@ -1,0 +1,46 @@
+{
+  "title": "Lijst_10_PLATFORM_VRIJE_POLITIEK",
+  "members": [
+    {
+      "position": 1,
+      "full_name": "J.L. Broers",
+      "place": "Helmond",
+      "gender": "m",
+      "last_name": "Broers",
+      "first_name": "Leo"
+    },
+    {
+      "position": 2,
+      "full_name": "J.P. van der Meer",
+      "place": "Hilvarenbeek",
+      "gender": "m",
+      "last_name": "van der Meer",
+      "first_name": "Jan Piet"
+    },
+    {
+      "position": 3,
+      "full_name": "K.M. Rijnders",
+      "place": "Eindhoven",
+      "gender": "m",
+      "last_name": "Rijnders",
+      "first_name": "Kees"
+    },
+    {
+      "position": 4,
+      "full_name": "A.R.B.G. Teeven",
+      "place": "Sint-Oedenrode",
+      "gender": "m",
+      "last_name": "Teeven",
+      "first_name": "Harry"
+    },
+    {
+      "position": 5,
+      "full_name": "G.A. Wonink",
+      "place": "Eindhoven",
+      "gender": "m",
+      "last_name": "Wonink",
+      "first_name": "Ge"
+    }
+  ],
+  "description": ""
+}

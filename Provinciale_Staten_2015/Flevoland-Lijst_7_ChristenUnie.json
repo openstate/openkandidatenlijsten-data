@@ -1,0 +1,246 @@
+{
+  "title": "Lijst_7_ChristenUnie",
+  "members": [
+    {
+      "position": 1,
+      "full_name": "R.J. Siepel",
+      "place": "Dronten",
+      "gender": "m",
+      "last_name": "Siepel",
+      "first_name": "Roelof"
+    },
+    {
+      "position": 2,
+      "full_name": "H.J. Hofstra",
+      "place": "Lelystad",
+      "gender": "m",
+      "last_name": "Hofstra",
+      "first_name": "Harold"
+    },
+    {
+      "position": 3,
+      "full_name": "L. Post",
+      "place": "Urk",
+      "gender": "m",
+      "last_name": "Post",
+      "first_name": "Louwe"
+    },
+    {
+      "position": 4,
+      "full_name": "L. Ferdinand",
+      "place": "Almere",
+      "gender": "m",
+      "last_name": "Ferdinand",
+      "first_name": "Lloyd"
+    },
+    {
+      "position": 5,
+      "full_name": "A.M. Groen",
+      "place": "Lelystad",
+      "gender": "v",
+      "last_name": "Groen",
+      "first_name": "Astrid"
+    },
+    {
+      "position": 6,
+      "full_name": "J. van Dijk",
+      "place": "Lelystad",
+      "gender": "m",
+      "last_name": "van Dijk",
+      "first_name": "Jan"
+    },
+    {
+      "position": 7,
+      "full_name": "F.J.C. Volmer",
+      "place": "Lelystad",
+      "gender": "m",
+      "last_name": "Volmer",
+      "first_name": "Jarno"
+    },
+    {
+      "position": 8,
+      "full_name": "J.G. Timmermans",
+      "place": "Emmeloord",
+      "gender": "m",
+      "last_name": "Timmermans",
+      "first_name": "Johan"
+    },
+    {
+      "position": 9,
+      "full_name": "J. Sikkema",
+      "place": "Emmeloord",
+      "gender": "m",
+      "last_name": "Sikkema",
+      "first_name": "Jebbe"
+    },
+    {
+      "position": 10,
+      "full_name": "A.T. Strating-Baas",
+      "place": "Zeewolde",
+      "gender": "v",
+      "last_name": "Strating-Baas",
+      "first_name": "Tamara"
+    },
+    {
+      "position": 11,
+      "full_name": "P.M.L. van der Vloed",
+      "place": "Dronten",
+      "gender": "m",
+      "last_name": "van der Vloed",
+      "first_name": "Piet"
+    },
+    {
+      "position": 12,
+      "full_name": "D. Bakker-Ras",
+      "place": "Urk",
+      "gender": "v",
+      "last_name": "Bakker-Ras",
+      "first_name": "Danielle"
+    },
+    {
+      "position": 13,
+      "full_name": "J. Otter",
+      "place": "Almere",
+      "gender": "m",
+      "last_name": "Otter",
+      "first_name": "Jan"
+    },
+    {
+      "position": 14,
+      "full_name": "E.W. Suithoff",
+      "place": "Zeewolde",
+      "gender": "m",
+      "last_name": "Suithoff",
+      "first_name": "Ewout"
+    },
+    {
+      "position": 15,
+      "full_name": "H. van Keulen-Nentjes",
+      "place": "Emmeloord",
+      "gender": "v",
+      "last_name": "van Keulen-Nentjes",
+      "first_name": "Henriette"
+    },
+    {
+      "position": 16,
+      "full_name": "R.R. Roseval",
+      "place": "Almere",
+      "gender": "m",
+      "last_name": "Roseval",
+      "first_name": "Ronny"
+    },
+    {
+      "position": 17,
+      "full_name": "M.A. Witteveen-Rigterink",
+      "place": "Dronten",
+      "gender": "v",
+      "last_name": "Witteveen-Rigterink",
+      "first_name": "Marianne"
+    },
+    {
+      "position": 18,
+      "full_name": "A.K.C. Quist",
+      "place": "Tollebeek",
+      "gender": "m",
+      "last_name": "Quist",
+      "first_name": "Klaas"
+    },
+    {
+      "position": 19,
+      "full_name": "H.M. van den Hout",
+      "place": "Almere",
+      "gender": "v",
+      "last_name": "van den Hout",
+      "first_name": "Hetty"
+    },
+    {
+      "position": 20,
+      "full_name": "H.G.F. Hübbers",
+      "place": "Zeewolde",
+      "gender": "m",
+      "last_name": "Hübbers",
+      "first_name": "Harry"
+    },
+    {
+      "position": 21,
+      "full_name": "R.G. Dorland-Goodijk",
+      "place": "Almere",
+      "gender": "v",
+      "last_name": "Dorland-Goodijk",
+      "first_name": "Geriene"
+    },
+    {
+      "position": 22,
+      "full_name": "E.S.W. Bron",
+      "place": "Zeewolde",
+      "gender": "m",
+      "last_name": "Bron",
+      "first_name": "Ernst"
+    },
+    {
+      "position": 23,
+      "full_name": "H.F. Coenen",
+      "place": "Urk",
+      "gender": "m",
+      "last_name": "Coenen",
+      "first_name": "Hein"
+    },
+    {
+      "position": 24,
+      "full_name": "A. Woord",
+      "place": "Urk",
+      "gender": "m",
+      "last_name": "Woord",
+      "first_name": "Albert"
+    },
+    {
+      "position": 25,
+      "full_name": "J. Oosterveld",
+      "place": "Dronten",
+      "gender": "m",
+      "last_name": "Oosterveld",
+      "first_name": "Jaap"
+    },
+    {
+      "position": 26,
+      "full_name": "A.M.P. Benard",
+      "place": "Almere",
+      "gender": "m",
+      "last_name": "Benard",
+      "first_name": "Marcel"
+    },
+    {
+      "position": 27,
+      "full_name": "A. Poppe",
+      "place": "Nagele",
+      "gender": "m",
+      "last_name": "Poppe",
+      "first_name": "Andries"
+    },
+    {
+      "position": 28,
+      "full_name": "G.M. Dijksterhuis",
+      "place": "Zeewolde",
+      "gender": "m",
+      "last_name": "Dijksterhuis",
+      "first_name": "Gerben"
+    },
+    {
+      "position": 29,
+      "full_name": "F. Brouwer",
+      "place": "Urk",
+      "gender": "m",
+      "last_name": "Brouwer",
+      "first_name": "Freek"
+    },
+    {
+      "position": 30,
+      "full_name": "E. van Wageningen",
+      "place": "Lelystad",
+      "gender": "v",
+      "last_name": "van Wageningen",
+      "first_name": "Elly"
+    }
+  ],
+  "description": "Gecombineerd met Staatkundig Gereformeerde Partij (SGP)"
+}

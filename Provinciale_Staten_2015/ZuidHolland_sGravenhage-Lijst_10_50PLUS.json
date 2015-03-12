@@ -1,0 +1,142 @@
+{
+  "title": "Lijst_10_50PLUS",
+  "members": [
+    {
+      "position": 1,
+      "full_name": "J.W.A. Struijlaard",
+      "place": "Rotterdam",
+      "gender": "m",
+      "last_name": "Struijlaard",
+      "first_name": "John"
+    },
+    {
+      "position": 2,
+      "full_name": "W.M. Bakx",
+      "place": "Hillegom",
+      "gender": "m",
+      "last_name": "Bakx",
+      "first_name": "Willem"
+    },
+    {
+      "position": 3,
+      "full_name": "P. Pont",
+      "place": "Delft",
+      "gender": "m",
+      "last_name": "Pont",
+      "first_name": "Peter"
+    },
+    {
+      "position": 4,
+      "full_name": "L.H.C. de Keijzer",
+      "place": "Rijswijk",
+      "gender": "m",
+      "last_name": "de Keijzer",
+      "first_name": "Laurens"
+    },
+    {
+      "position": 5,
+      "full_name": "S.F. Fekkes",
+      "place": "'s-Gravenhage",
+      "gender": "m",
+      "last_name": "Fekkes",
+      "first_name": "Sjoerd"
+    },
+    {
+      "position": 6,
+      "full_name": "J.C. Siemons",
+      "place": "Rotterdam",
+      "gender": "m",
+      "last_name": "Siemons",
+      "first_name": "Sjef"
+    },
+    {
+      "position": 7,
+      "full_name": "J.H. Haasnoot",
+      "place": "Katwijk",
+      "gender": "m",
+      "last_name": "Haasnoot",
+      "first_name": "Jaap"
+    },
+    {
+      "position": 8,
+      "full_name": "R.V. De Mulder",
+      "place": "Rotterdam",
+      "gender": "m",
+      "last_name": "De Mulder",
+      "first_name": "Richard"
+    },
+    {
+      "position": 9,
+      "full_name": "M.S. Hilte",
+      "place": "Zuidland",
+      "gender": "v",
+      "last_name": "Hilte",
+      "first_name": "Marianne"
+    },
+    {
+      "position": 10,
+      "full_name": "F. Dor",
+      "place": "Rotterdam",
+      "gender": "m",
+      "last_name": "Dor",
+      "first_name": "Frans"
+    },
+    {
+      "position": 11,
+      "full_name": "R.P.C. Haksel",
+      "place": "Zoetermeer",
+      "gender": "m",
+      "last_name": "Haksel",
+      "first_name": "Robert"
+    },
+    {
+      "position": 12,
+      "full_name": "A.E. de Vries",
+      "place": "'s-Gravenhage",
+      "gender": "m",
+      "last_name": "de Vries",
+      "first_name": "Auke"
+    },
+    {
+      "position": 13,
+      "full_name": "C.J. Cornet",
+      "place": "Hillegom",
+      "gender": "m",
+      "last_name": "Cornet",
+      "first_name": "Hans"
+    },
+    {
+      "position": 14,
+      "full_name": "M.D.M. Bom",
+      "place": "Rotterdam",
+      "gender": "v",
+      "last_name": "Bom",
+      "first_name": "Madzy"
+    },
+    {
+      "position": 15,
+      "full_name": "J.R. Nagel",
+      "place": "'s-Gravenhage",
+      "gender": "v",
+      "last_name": "Nagel",
+      "first_name": "Joke"
+    },
+    {
+      "position": 16,
+      "full_name": "F.T. Frietema de Vries",
+      "place": "Voorschoten",
+      "gender": "v",
+      "last_name": "Frietema de Vries",
+      "first_name": "Femke"
+    },
+    {
+      "position": 17,
+      "full_name": "A.H.J.F.S. Münninghoff",
+      "place": "'s-Gravenhage",
+      "gender": "m",
+      "last_name": "Münninghoff",
+      "first_name": "Alexander"
+    }
+  ],
+  "description": ""
+}

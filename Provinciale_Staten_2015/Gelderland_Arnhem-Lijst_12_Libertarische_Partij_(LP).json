@@ -1,0 +1,46 @@
+{
+  "title": "Lijst_12_Libertarische_Partij_(LP)",
+  "members": [
+    {
+      "position": 1,
+      "full_name": "L.E.P.T. de Krosse",
+      "place": "Arnhem",
+      "gender": "m",
+      "last_name": "de Krosse",
+      "first_name": "Luc"
+    },
+    {
+      "position": 2,
+      "full_name": "M.C.A. Liethof",
+      "place": "Arnhem",
+      "gender": "m",
+      "last_name": "Liethof",
+      "first_name": "Matthijs"
+    },
+    {
+      "position": 3,
+      "full_name": "M.J. Liesker",
+      "place": "Arnhem",
+      "gender": "m",
+      "last_name": "Liesker",
+      "first_name": "Maarten"
+    },
+    {
+      "position": 4,
+      "full_name": "C.H. Loef",
+      "place": "Arnhem",
+      "gender": "v",
+      "last_name": "Loef",
+      "first_name": "Rynn"
+    },
+    {
+      "position": 5,
+      "full_name": "G.A. Katgert",
+      "place": "Wageningen",
+      "gender": "m",
+      "last_name": "Katgert",
+      "first_name": "Anthony"
+    }
+  ],
+  "description": ""
+}

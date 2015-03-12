@@ -1,0 +1,198 @@
+{
+  "title": "Lijst_5_SP_(Socialistische_Partij)",
+  "members": [
+    {
+      "position": 1,
+      "full_name": "W.L.M. van den Heuvel",
+      "place": "Hengelo (O)",
+      "gender": "m",
+      "last_name": "van den Heuvel",
+      "first_name": "William"
+    },
+    {
+      "position": 2,
+      "full_name": "M.A.C. Breedijk",
+      "place": "Nijverdal",
+      "gender": "v",
+      "last_name": "Breedijk",
+      "first_name": "Marianne"
+    },
+    {
+      "position": 3,
+      "full_name": "G. van der Ven-Lodder",
+      "place": "Almelo",
+      "gender": "v",
+      "last_name": "van der Ven-Lodder",
+      "first_name": "Gezina"
+    },
+    {
+      "position": 4,
+      "full_name": "H. Broekhuijs",
+      "place": "Schalkhaar",
+      "gender": "m",
+      "last_name": "Broekhuijs",
+      "first_name": "Harry"
+    },
+    {
+      "position": 5,
+      "full_name": "H.J. Klein Bleumink-Hooiveld",
+      "place": "Hengelo (O)",
+      "gender": "v",
+      "last_name": "Klein Bleumink-Hooiveld",
+      "first_name": "Henriette"
+    },
+    {
+      "position": 6,
+      "full_name": "T. Grobben",
+      "place": "Almelo",
+      "gender": "v",
+      "last_name": "Grobben",
+      "first_name": "Tessa"
+    },
+    {
+      "position": 7,
+      "full_name": "E. van den Berg",
+      "place": "Wijhe",
+      "gender": "v",
+      "last_name": "van den Berg",
+      "first_name": "Ellen"
+    },
+    {
+      "position": 8,
+      "full_name": "S.M.A. Roijen",
+      "place": "Kampen",
+      "gender": "m",
+      "last_name": "Roijen",
+      "first_name": "Bas"
+    },
+    {
+      "position": 9,
+      "full_name": "P.M. Wilkinson-Hillen",
+      "place": "Enschede",
+      "gender": "v",
+      "last_name": "Wilkinson-Hillen",
+      "first_name": "Paulien"
+    },
+    {
+      "position": 10,
+      "full_name": "J.A. Koning",
+      "place": "Borne",
+      "gender": "m",
+      "last_name": "Koning",
+      "first_name": "Johan"
+    },
+    {
+      "position": 11,
+      "full_name": "M. Hulstijn",
+      "place": "Zwolle",
+      "gender": "m",
+      "last_name": "Hulstijn",
+      "first_name": "Maarten"
+    },
+    {
+      "position": 12,
+      "full_name": "A.M. Lassche",
+      "place": "Enschede",
+      "gender": "v",
+      "last_name": "Lassche",
+      "first_name": "Ans"
+    },
+    {
+      "position": 13,
+      "full_name": "R. Kolner",
+      "place": "Hengelo (O)",
+      "gender": "m",
+      "last_name": "Kolner",
+      "first_name": "Rob"
+    },
+    {
+      "position": 14,
+      "full_name": "K. Sa'ad",
+      "place": "IJsselmuiden",
+      "gender": "m",
+      "last_name": "Sa'ad",
+      "first_name": "Khaled"
+    },
+    {
+      "position": 15,
+      "full_name": "J.E.L. Futselaar",
+      "place": "Enschede",
+      "gender": "v",
+      "last_name": "Futselaar",
+      "first_name": "Annelies"
+    },
+    {
+      "position": 16,
+      "full_name": "W.B.M. Lourenssen",
+      "place": "Raalte",
+      "gender": "m",
+      "last_name": "Lourenssen",
+      "first_name": "Willy"
+    },
+    {
+      "position": 17,
+      "full_name": "G. Laarhuis",
+      "place": "Delden",
+      "gender": "m",
+      "last_name": "Laarhuis",
+      "first_name": "Gerard"
+    },
+    {
+      "position": 18,
+      "full_name": "A.J. Boddeus",
+      "place": "Kampen",
+      "gender": "m",
+      "last_name": "Boddeus",
+      "first_name": "Richard"
+    },
+    {
+      "position": 19,
+      "full_name": "R. Faber",
+      "place": "Oldenzaal",
+      "gender": "m",
+      "last_name": "Faber",
+      "first_name": "Ruurd"
+    },
+    {
+      "position": 20,
+      "full_name": "F.W. Futselaar",
+      "place": "Zwolle",
+      "gender": "m",
+      "last_name": "Futselaar",
+      "first_name": "Frank"
+    },
+    {
+      "position": 21,
+      "full_name": "V.H. Mulder",
+      "place": "Hengelo (O)",
+      "gender": "m",
+      "last_name": "Mulder",
+      "first_name": "Vincent"
+    },
+    {
+      "position": 22,
+      "full_name": "F.J. Cornelissen",
+      "place": "Almelo",
+      "gender": "m",
+      "last_name": "Cornelissen",
+      "first_name": "Javier"
+    },
+    {
+      "position": 23,
+      "full_name": "M.A. ten Heuw",
+      "place": "Hengelo (O)",
+      "gender": "v",
+      "last_name": "ten Heuw",
+      "first_name": "Mariska"
+    },
+    {
+      "position": 24,
+      "full_name": "T.E. Siderius",
+      "place": "Zwolle",
+      "gender": "v",
+      "last_name": "Siderius",
+      "first_name": "Tjitske"
+    }
+  ],
+  "description": ""
+}

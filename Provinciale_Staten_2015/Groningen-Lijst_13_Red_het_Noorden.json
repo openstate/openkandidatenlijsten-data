@@ -1,0 +1,22 @@
+{
+  "title": "Lijst_13_Red_het_Noorden",
+  "members": [
+    {
+      "position": 1,
+      "full_name": "G.A. Scholtens",
+      "place": "Smilde",
+      "gender": "m",
+      "last_name": "Scholtens",
+      "first_name": "Jerry"
+    },
+    {
+      "position": 2,
+      "full_name": "P.C.J. Muijzert",
+      "place": "Oude Pekela",
+      "gender": "m",
+      "last_name": "Muijzert",
+      "first_name": "Pieter"
+    }
+  ],
+  "description": ""
+}
