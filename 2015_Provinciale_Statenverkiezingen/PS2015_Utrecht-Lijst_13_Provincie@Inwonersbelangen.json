@@ -1,0 +1,174 @@
+{
+  "title": "Lijst 13 Provincie@Inwonersbelangen",
+  "description": "",
+  "candidates": [
+    {
+      "position": 1,
+      "full_name": "J.R.J. van Engelen",
+      "place": "Nieuwegein",
+      "gender": "m",
+      "last_name": "van Engelen",
+      "first_name": "John"
+    },
+    {
+      "position": 2,
+      "full_name": "J.L.M. van Rensen",
+      "place": "Harmelen",
+      "gender": "m",
+      "last_name": "van Rensen",
+      "first_name": "Jan - Hubert"
+    },
+    {
+      "position": 3,
+      "full_name": "J Verbeek-Beverwijk",
+      "place": "Nieuwegein",
+      "gender": "v",
+      "last_name": "Verbeek-Beverwijk",
+      "first_name": "Jacqueline"
+    },
+    {
+      "position": 4,
+      "full_name": "C.L. Jonkers",
+      "place": "Montfoort",
+      "gender": "m",
+      "last_name": "Jonkers",
+      "first_name": "Rob"
+    },
+    {
+      "position": 5,
+      "full_name": "R. Roos",
+      "place": "Kockengen",
+      "gender": "m",
+      "last_name": "Roos",
+      "first_name": "Rob"
+    },
+    {
+      "position": 6,
+      "full_name": "H.M. Saaltink",
+      "place": "Leusden",
+      "gender": "m",
+      "last_name": "Saaltink",
+      "first_name": "Harry"
+    },
+    {
+      "position": 7,
+      "full_name": "M.M. Verbruggen- Ezendam",
+      "place": "Vinkeveen",
+      "gender": "v",
+      "last_name": "Verbruggen- Ezendam",
+      "first_name": "Mirjam"
+    },
+    {
+      "position": 8,
+      "full_name": "J.C. van der Does",
+      "place": "Woerden",
+      "gender": "m",
+      "last_name": "van der Does",
+      "first_name": "Jaap"
+    },
+    {
+      "position": 9,
+      "full_name": "S Streekstra",
+      "place": "Driebergen-Rijsenburg",
+      "gender": "m",
+      "last_name": "Streekstra",
+      "first_name": "Sybe"
+    },
+    {
+      "position": 10,
+      "full_name": "I de Liefde",
+      "place": "Vianen",
+      "gender": "v",
+      "last_name": "de Liefde",
+      "first_name": "Iris"
+    },
+    {
+      "position": 11,
+      "full_name": "V.A.M. Verhaar",
+      "place": "Nieuwegein",
+      "gender": "m",
+      "last_name": "Verhaar",
+      "first_name": "Vincent"
+    },
+    {
+      "position": 12,
+      "full_name": "E.C. van Ommeren",
+      "place": "Utrecht",
+      "gender": "m",
+      "last_name": "van Ommeren",
+      "first_name": "Eddy"
+    },
+    {
+      "position": 13,
+      "full_name": "J.J.T. Sistermans",
+      "place": "Harmelen",
+      "gender": "m",
+      "last_name": "Sistermans",
+      "first_name": "Jacques"
+    },
+    {
+      "position": 14,
+      "full_name": "J.E. Kemna",
+      "place": "Elst Ut",
+      "gender": "m",
+      "last_name": "Kemna",
+      "first_name": "Jeroen"
+    },
+    {
+      "position": 15,
+      "full_name": "J.H. Huntink - Bos",
+      "place": "Montfoort",
+      "gender": "v",
+      "last_name": "Huntink - Bos",
+      "first_name": "Angelique"
+    },
+    {
+      "position": 16,
+      "full_name": "H.A. van Assem",
+      "place": "Woerden",
+      "gender": "m",
+      "last_name": "van Assem",
+      "first_name": "Hendrie"
+    },
+    {
+      "position": 17,
+      "full_name": "A van der Veen",
+      "place": "Montfoort",
+      "gender": "m",
+      "last_name": "van der Veen",
+      "first_name": "Aad"
+    },
+    {
+      "position": 18,
+      "full_name": "P.M. Terpstra",
+      "place": "Zeist",
+      "gender": "m",
+      "last_name": "Terpstra",
+      "first_name": "Piet"
+    },
+    {
+      "position": 19,
+      "full_name": "E Verkaik",
+      "place": "Montfoort",
+      "gender": "m",
+      "last_name": "Verkaik",
+      "first_name": "Eimert"
+    },
+    {
+      "position": 20,
+      "full_name": "W.G. Smit",
+      "place": "Cothen",
+      "gender": "m",
+      "last_name": "Smit",
+      "first_name": "Wietze"
+    },
+    {
+      "position": 21,
+      "full_name": "C.C. de Kam",
+      "place": "Utrecht",
+      "gender": "v",
+      "last_name": "de Kam",
+      "first_name": "Ineke"
+    }
+  ]
+}

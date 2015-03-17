@@ -1,1 +1,142 @@
-{"description": "", "members": [{"first_name": "Jan", "last_name": "van Gerven", "gender": "m", "place": "Riethoven", "full_name": "J.W.M van Gerven", "position": 1}, {"first_name": "Geert", "last_name": "Antonis", "gender": "m", "place": "Riethoven", "full_name": "G.P.F Antonis", "position": 2}, {"first_name": "Jan", "last_name": "de Kruif", "gender": "m", "place": "Hooge Mierde", "full_name": "J.H de Kruif", "position": 3}, {"first_name": "Theo", "last_name": "Geldens", "gender": "m", "place": "Valkenswaard", "full_name": "T.P.T.H Geldens", "position": 4}, {"first_name": "Wim", "last_name": "Jaspers", "gender": "m", "place": "Someren", "full_name": "W.C.P.H Jaspers", "position": 5}, {"first_name": "Cees", "last_name": "Vogels", "gender": "m", "place": "Vught", "full_name": "C.W Vogels", "position": 6}, {"first_name": "Wilma", "last_name": "Kwinten-Winters", "gender": "v", "place": "Luyksgestel", "full_name": "W.J.A Kwinten-Winters", "position": 7}, {"first_name": "Hub", "last_name": "Smolders", "gender": "m", "place": "Sint-Oedenrode", "full_name": "H.M.L Smolders", "position": 8}, {"first_name": "Jan", "last_name": "Schapendonk", "gender": "m", "place": "Udenhout", "full_name": "J.G.A.M Schapendonk", "position": 9}, {"first_name": "Leo", "last_name": "Lommen", "gender": "m", "place": "Waalre", "full_name": "L.N.J.M Lommen", "position": 10}, {"first_name": "Ad", "last_name": "van de Ven", "gender": "m", "place": "Oirschot", "full_name": "A.T.M van de Ven", "position": 11}, {"first_name": "Mark", "last_name": "Verhoeven", "gender": "m", "place": "Luyksgestel", "full_name": "M.J Verhoeven", "position": 12}, {"first_name": "Frans", "last_name": "van der Heijden", "gender": "m", "place": "Valkenswaard", "full_name": "F.G.J van der Heijden", "position": 13}, {"first_name": "Pleun", "last_name": "Hulsen", "gender": "m", "place": "Sint-Oedenrode", "full_name": "P.P.J.W Hulsen", "position": 14}, {"first_name": "Dennis", "last_name": "van Gerwen", "gender": "m", "place": "Valkenswaard", "full_name": "D.P.A.J van Gerwen", "position": 15}, {"first_name": "Quinn", "last_name": "Lommen", "gender": "m", "place": "Waalre", "full_name": "Q.N.L Lommen", "position": 16}, {"first_name": "Eric", "last_name": "Bax", "gender": "m", "place": "Geldrop", "full_name": "H.H.M Bax", "position": 17}], "title": "Lijst_4_Werken_aan_Water"}
+{
+  "title": "Lijst 4 Werken aan Water",
+  "description": "",
+  "candidates": [
+    {
+      "position": 1,
+      "full_name": "J.W.M van Gerven",
+      "place": "Riethoven",
+      "gender": "m",
+      "last_name": "van Gerven",
+      "first_name": "Jan"
+    },
+    {
+      "position": 2,
+      "full_name": "G.P.F Antonis",
+      "place": "Riethoven",
+      "gender": "m",
+      "last_name": "Antonis",
+      "first_name": "Geert"
+    },
+    {
+      "position": 3,
+      "full_name": "J.H de Kruif",
+      "place": "Hooge Mierde",
+      "gender": "m",
+      "last_name": "de Kruif",
+      "first_name": "Jan"
+    },
+    {
+      "position": 4,
+      "full_name": "T.P.T.H Geldens",
+      "place": "Valkenswaard",
+      "gender": "m",
+      "last_name": "Geldens",
+      "first_name": "Theo"
+    },
+    {
+      "position": 5,
+      "full_name": "W.C.P.H Jaspers",
+      "place": "Someren",
+      "gender": "m",
+      "last_name": "Jaspers",
+      "first_name": "Wim"
+    },
+    {
+      "position": 6,
+      "full_name": "C.W Vogels",
+      "place": "Vught",
+      "gender": "m",
+      "last_name": "Vogels",
+      "first_name": "Cees"
+    },
+    {
+      "position": 7,
+      "full_name": "W.J.A Kwinten-Winters",
+      "place": "Luyksgestel",
+      "gender": "v",
+      "last_name": "Kwinten-Winters",
+      "first_name": "Wilma"
+    },
+    {
+      "position": 8,
+      "full_name": "H.M.L Smolders",
+      "place": "Sint-Oedenrode",
+      "gender": "m",
+      "last_name": "Smolders",
+      "first_name": "Hub"
+    },
+    {
+      "position": 9,
+      "full_name": "J.G.A.M Schapendonk",
+      "place": "Udenhout",
+      "gender": "m",
+      "last_name": "Schapendonk",
+      "first_name": "Jan"
+    },
+    {
+      "position": 10,
+      "full_name": "L.N.J.M Lommen",
+      "place": "Waalre",
+      "gender": "m",
+      "last_name": "Lommen",
+      "first_name": "Leo"
+    },
+    {
+      "position": 11,
+      "full_name": "A.T.M van de Ven",
+      "place": "Oirschot",
+      "gender": "m",
+      "last_name": "van de Ven",
+      "first_name": "Ad"
+    },
+    {
+      "position": 12,
+      "full_name": "M.J Verhoeven",
+      "place": "Luyksgestel",
+      "gender": "m",
+      "last_name": "Verhoeven",
+      "first_name": "Mark"
+    },
+    {
+      "position": 13,
+      "full_name": "F.G.J van der Heijden",
+      "place": "Valkenswaard",
+      "gender": "m",
+      "last_name": "van der Heijden",
+      "first_name": "Frans"
+    },
+    {
+      "position": 14,
+      "full_name": "P.P.J.W Hulsen",
+      "place": "Sint-Oedenrode",
+      "gender": "m",
+      "last_name": "Hulsen",
+      "first_name": "Pleun"
+    },
+    {
+      "position": 15,
+      "full_name": "D.P.A.J van Gerwen",
+      "place": "Valkenswaard",
+      "gender": "m",
+      "last_name": "van Gerwen",
+      "first_name": "Dennis"
+    },
+    {
+      "position": 16,
+      "full_name": "Q.N.L Lommen",
+      "place": "Waalre",
+      "gender": "m",
+      "last_name": "Lommen",
+      "first_name": "Quinn"
+    },
+    {
+      "position": 17,
+      "full_name": "H.H.M Bax",
+      "place": "Geldrop",
+      "gender": "m",
+      "last_name": "Bax",
+      "first_name": "Eric"
+    }
+  ]
+}

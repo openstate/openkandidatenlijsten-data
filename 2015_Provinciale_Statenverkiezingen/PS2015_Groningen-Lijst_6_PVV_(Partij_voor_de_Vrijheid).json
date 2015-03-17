@@ -1,0 +1,86 @@
+{
+  "title": "Lijst 6 PVV (Partij voor de Vrijheid)",
+  "description": "",
+  "candidates": [
+    {
+      "position": 1,
+      "full_name": "A.J.M. van Kesteren",
+      "place": "Groningen",
+      "gender": "m",
+      "last_name": "van Kesteren",
+      "first_name": "Ton"
+    },
+    {
+      "position": 2,
+      "full_name": "J.C. van der Horst",
+      "place": "Groningen",
+      "gender": "m",
+      "last_name": "van der Horst",
+      "first_name": "Jesse"
+    },
+    {
+      "position": 3,
+      "full_name": "D. Ram",
+      "place": "Groningen",
+      "gender": "m",
+      "last_name": "Ram",
+      "first_name": "Dennis"
+    },
+    {
+      "position": 4,
+      "full_name": "R.M. Kaatee",
+      "place": "Groningen",
+      "gender": "m",
+      "last_name": "Kaatee",
+      "first_name": "Ronald"
+    },
+    {
+      "position": 5,
+      "full_name": "R.B. Blaauw",
+      "place": "Oude Pekela",
+      "gender": "m",
+      "last_name": "Blaauw",
+      "first_name": "Reinder"
+    },
+    {
+      "position": 6,
+      "full_name": "J.H. van de Kerkhof",
+      "place": "Groningen",
+      "gender": "m",
+      "last_name": "van de Kerkhof",
+      "first_name": "Hans"
+    },
+    {
+      "position": 7,
+      "full_name": "G.M.M. Koopman",
+      "place": "Oudeschip",
+      "gender": "v",
+      "last_name": "Koopman",
+      "first_name": "Isabel"
+    },
+    {
+      "position": 8,
+      "full_name": "M. de Boer",
+      "place": "Leek",
+      "gender": "m",
+      "last_name": "de Boer",
+      "first_name": "Marc"
+    },
+    {
+      "position": 9,
+      "full_name": "B.O. Onnes",
+      "place": "Groningen",
+      "gender": "m",
+      "last_name": "Onnes",
+      "first_name": "Bart"
+    },
+    {
+      "position": 10,
+      "full_name": "H. Mulder",
+      "place": "Haren Gn",
+      "gender": "m",
+      "last_name": "Mulder",
+      "first_name": "Hendrik"
+    }
+  ]
+}

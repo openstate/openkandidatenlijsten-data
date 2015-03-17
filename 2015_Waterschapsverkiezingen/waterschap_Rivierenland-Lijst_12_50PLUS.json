@@ -1,1 +1,38 @@
-{"description": "", "members": [{"first_name": "Jan", "last_name": "Opschoor", "gender": "m", "place": "Nederhemert", "full_name": "J. Opschoor", "position": 1}, {"first_name": "Ruud", "last_name": "Bakkers", "gender": "m", "place": "Millingen aan de Rijn", "full_name": "R.G.J. Bakkers", "position": 2}, {"first_name": "Theo", "last_name": "Weijers", "gender": "m", "place": "Wijchen", "full_name": "T.A. Weijers", "position": 3}, {"first_name": "Walter", "last_name": "Verhoeven", "gender": "m", "place": "Elst", "full_name": "W.J.H. Verhoeven", "position": 4}], "title": "Lijst_12_50PLUS"}
+{
+  "title": "Lijst 12 50PLUS",
+  "description": "",
+  "candidates": [
+    {
+      "position": 1,
+      "full_name": "J. Opschoor",
+      "place": "Nederhemert",
+      "gender": "m",
+      "last_name": "Opschoor",
+      "first_name": "Jan"
+    },
+    {
+      "position": 2,
+      "full_name": "R.G.J. Bakkers",
+      "place": "Millingen aan de Rijn",
+      "gender": "m",
+      "last_name": "Bakkers",
+      "first_name": "Ruud"
+    },
+    {
+      "position": 3,
+      "full_name": "T.A. Weijers",
+      "place": "Wijchen",
+      "gender": "m",
+      "last_name": "Weijers",
+      "first_name": "Theo"
+    },
+    {
+      "position": 4,
+      "full_name": "W.J.H. Verhoeven",
+      "place": "Elst",
+      "gender": "m",
+      "last_name": "Verhoeven",
+      "first_name": "Walter"
+    }
+  ]
+}

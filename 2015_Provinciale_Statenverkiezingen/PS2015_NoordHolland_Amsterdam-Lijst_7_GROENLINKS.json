@@ -1,0 +1,198 @@
+{
+  "title": "Lijst_7 GROENLINKS",
+  "description": "",
+  "candidates": [
+    {
+      "position": 1,
+      "full_name": "A. Hietbrink",
+      "place": "Egmond aan Zee",
+      "gender": "m",
+      "last_name": "Hietbrink",
+      "first_name": "Alwin"
+    },
+    {
+      "position": 2,
+      "full_name": "V.M. Dalm",
+      "place": "Amsterdam",
+      "gender": "v",
+      "last_name": "Dalm",
+      "first_name": "Vera"
+    },
+    {
+      "position": 3,
+      "full_name": "S. van Berkum",
+      "place": "Amsterdam",
+      "gender": "m",
+      "last_name": "van Berkum",
+      "first_name": "Servaz"
+    },
+    {
+      "position": 4,
+      "full_name": "R.P.M. Kocken",
+      "place": "Amsterdam",
+      "gender": "v",
+      "last_name": "Kocken",
+      "first_name": "Rosan"
+    },
+    {
+      "position": 5,
+      "full_name": "F.J. Kramer",
+      "place": "Amsterdam",
+      "gender": "m",
+      "last_name": "Kramer",
+      "first_name": "Fred"
+    },
+    {
+      "position": 6,
+      "full_name": "V. Koerse",
+      "place": "Monnickendam",
+      "gender": "m",
+      "last_name": "Koerse",
+      "first_name": "Vincent"
+    },
+    {
+      "position": 7,
+      "full_name": "Z. Pels",
+      "place": "Amsterdam",
+      "gender": "v",
+      "last_name": "Pels",
+      "first_name": "Zita"
+    },
+    {
+      "position": 8,
+      "full_name": "J.C.N. Wagenaar",
+      "place": "Hoogkarspel",
+      "gender": "m",
+      "last_name": "Wagenaar",
+      "first_name": "Sjon"
+    },
+    {
+      "position": 9,
+      "full_name": "J. Gringhuis",
+      "place": "Diemen",
+      "gender": "m",
+      "last_name": "Gringhuis",
+      "first_name": "Jesper"
+    },
+    {
+      "position": 10,
+      "full_name": "R. Diktaş",
+      "place": "Alkmaar",
+      "gender": "m",
+      "last_name": "Diktaş",
+      "first_name": "Riza"
+    },
+    {
+      "position": 11,
+      "full_name": "J.C.M. Olsthoorn",
+      "place": "Bloemendaal",
+      "gender": "m",
+      "last_name": "Olsthoorn",
+      "first_name": "Hans"
+    },
+    {
+      "position": 12,
+      "full_name": "K.R. Jongsma",
+      "place": "Amsterdam",
+      "gender": "v",
+      "last_name": "Jongsma",
+      "first_name": "Karin"
+    },
+    {
+      "position": 13,
+      "full_name": "J. Huijberts",
+      "place": "Barsingerhorn",
+      "gender": "v",
+      "last_name": "Huijberts",
+      "first_name": "Jola"
+    },
+    {
+      "position": 14,
+      "full_name": "E.A. Peters",
+      "place": "Amsterdam",
+      "gender": "v",
+      "last_name": "Peters",
+      "first_name": "Lilian"
+    },
+    {
+      "position": 15,
+      "full_name": "L. Dannenburg",
+      "place": "Amsterdam",
+      "gender": "v",
+      "last_name": "Dannenburg",
+      "first_name": "Lucia"
+    },
+    {
+      "position": 16,
+      "full_name": "P. Seitzinger",
+      "place": "Amsterdam",
+      "gender": "v",
+      "last_name": "Seitzinger",
+      "first_name": "Patricia"
+    },
+    {
+      "position": 17,
+      "full_name": "N. Özütok",
+      "place": "Amsterdam",
+      "gender": "v",
+      "last_name": "Özütok",
+      "first_name": "Nevin"
+    },
+    {
+      "position": 18,
+      "full_name": "A. Turgut",
+      "place": "Amsterdam",
+      "gender": "m",
+      "last_name": "Turgut",
+      "first_name": "Avni"
+    },
+    {
+      "position": 19,
+      "full_name": "F. Ulichki Boudchourt",
+      "place": "Amsterdam",
+      "gender": "v",
+      "last_name": "Ulichki Boudchourt",
+      "first_name": "Fenna"
+    },
+    {
+      "position": 20,
+      "full_name": "A. van den Brand",
+      "place": "Spierdijk",
+      "gender": "m",
+      "last_name": "van den Brand",
+      "first_name": "Arie"
+    },
+    {
+      "position": 21,
+      "full_name": "M. van Poelgeest",
+      "place": "Amsterdam",
+      "gender": "m",
+      "last_name": "van Poelgeest",
+      "first_name": "Maarten"
+    },
+    {
+      "position": 22,
+      "full_name": "L. Sipkes",
+      "place": "Ursem",
+      "gender": "v",
+      "last_name": "Sipkes",
+      "first_name": "Leoni"
+    },
+    {
+      "position": 23,
+      "full_name": "L. van Tongeren",
+      "place": "Amsterdam",
+      "gender": "v",
+      "last_name": "van Tongeren",
+      "first_name": "Liesbeth"
+    },
+    {
+      "position": 24,
+      "full_name": "L. Grooten",
+      "place": "Amsterdam",
+      "gender": "v",
+      "last_name": "Grooten",
+      "first_name": "Lene"
+    }
+  ]
+}

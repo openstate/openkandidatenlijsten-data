@@ -1,1 +1,38 @@
-{"description": "", "members": [{"first_name": "Sjef", "last_name": "Siemons", "gender": "m", "place": "Rotterdam", "full_name": "J.C. Siemons", "position": 1}, {"first_name": "Richard", "last_name": "De Mulder", "gender": "m", "place": "Rotterdam", "full_name": "R.V. De Mulder", "position": 2}, {"first_name": "Aad", "last_name": "de Man", "gender": "m", "place": "Nieuwerkerk aan den IJssel", "full_name": "A.A. de Man", "position": 3}, {"first_name": "John", "last_name": "Struijlaard", "gender": "m", "place": "Rotterdam", "full_name": "J.W.A. Struijlaard", "position": 4}], "title": "Lijst_9_50PLUS"}
+{
+  "title": "Lijst 9 50PLUS",
+  "description": "",
+  "candidates": [
+    {
+      "position": 1,
+      "full_name": "J.C. Siemons",
+      "place": "Rotterdam",
+      "gender": "m",
+      "last_name": "Siemons",
+      "first_name": "Sjef"
+    },
+    {
+      "position": 2,
+      "full_name": "R.V. De Mulder",
+      "place": "Rotterdam",
+      "gender": "m",
+      "last_name": "De Mulder",
+      "first_name": "Richard"
+    },
+    {
+      "position": 3,
+      "full_name": "A.A. de Man",
+      "place": "Nieuwerkerk aan den IJssel",
+      "gender": "m",
+      "last_name": "de Man",
+      "first_name": "Aad"
+    },
+    {
+      "position": 4,
+      "full_name": "J.W.A. Struijlaard",
+      "place": "Rotterdam",
+      "gender": "m",
+      "last_name": "Struijlaard",
+      "first_name": "John"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "title": "Lijst 11 ChristenUnie-SGP",
+  "description": "",
+  "candidates": [
+    {
+      "position": 1,
+      "full_name": "J. Bezemer",
+      "place": "Amsterdam",
+      "gender": "m",
+      "last_name": "Bezemer",
+      "first_name": "Jan"
+    },
+    {
+      "position": 2,
+      "full_name": "P.G. Heijkamp",
+      "place": "Enkhuizen",
+      "gender": "m",
+      "last_name": "Heijkamp",
+      "first_name": "Pieter"
+    },
+    {
+      "position": 3,
+      "full_name": "C.L. Maas",
+      "place": "Hoorn",
+      "gender": "m",
+      "last_name": "Maas",
+      "first_name": "Kees"
+    },
+    {
+      "position": 4,
+      "full_name": "W. Visser",
+      "place": "Koog aan de Zaan",
+      "gender": "m",
+      "last_name": "Visser",
+      "first_name": "Willem"
+    },
+    {
+      "position": 5,
+      "full_name": "R.W.I.M. Tromp",
+      "place": "Schagen",
+      "gender": "m",
+      "last_name": "Tromp",
+      "first_name": "Raymund"
+    },
+    {
+      "position": 6,
+      "full_name": "H. Meijer",
+      "place": "Zaandam",
+      "gender": "m",
+      "last_name": "Meijer",
+      "first_name": "Harmen"
+    },
+    {
+      "position": 7,
+      "full_name": "J.P. de Groot",
+      "place": "Kreileroord",
+      "gender": "m",
+      "last_name": "de Groot",
+      "first_name": "Johan Paul"
+    },
+    {
+      "position": 8,
+      "full_name": "P.F. Bras",
+      "place": "Den Helder",
+      "gender": "m",
+      "last_name": "Bras",
+      "first_name": "Piet"
+    },
+    {
+      "position": 9,
+      "full_name": "J.H. van Zaane",
+      "place": "Koog aan de Zaan",
+      "gender": "m",
+      "last_name": "van Zaane",
+      "first_name": "Jan"
+    }
+  ]
+}

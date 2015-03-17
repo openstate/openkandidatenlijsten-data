@@ -1,1 +1,62 @@
-{"description": "", "members": [{"first_name": "Remmie", "last_name": "Winters", "gender": "m", "place": "Eesveen", "full_name": "R.K. Winters", "position": 1}, {"first_name": "Betty", "last_name": "Poutsma-Jansen", "gender": "v", "place": "Hoogeveen", "full_name": "A. Poutsma-Jansen", "position": 2}, {"first_name": "Roel", "last_name": "Huls", "gender": "m", "place": "Zwartsluis", "full_name": "R. Huls", "position": 3}, {"first_name": "Alex", "last_name": "Langius", "gender": "m", "place": "Assen", "full_name": "A.L. Langius", "position": 4}, {"first_name": "Hugo", "last_name": "Waalewijn", "gender": "m", "place": "Beilen", "full_name": "H. Waalewijn", "position": 5}, {"first_name": "Wout", "last_name": "Kompagnie", "gender": "m", "place": "Meppel", "full_name": "W. Kompagnie", "position": 6}, {"first_name": "Henk", "last_name": "Boxum", "gender": "m", "place": "Sint Jansklooster", "full_name": "H.J. Boxum", "position": 7}], "title": "Lijst_5_ChristenUnie"}
+{
+  "title": "Lijst 5 ChristenUnie",
+  "description": "",
+  "candidates": [
+    {
+      "position": 1,
+      "full_name": "R.K. Winters",
+      "place": "Eesveen",
+      "gender": "m",
+      "last_name": "Winters",
+      "first_name": "Remmie"
+    },
+    {
+      "position": 2,
+      "full_name": "A. Poutsma-Jansen",
+      "place": "Hoogeveen",
+      "gender": "v",
+      "last_name": "Poutsma-Jansen",
+      "first_name": "Betty"
+    },
+    {
+      "position": 3,
+      "full_name": "R. Huls",
+      "place": "Zwartsluis",
+      "gender": "m",
+      "last_name": "Huls",
+      "first_name": "Roel"
+    },
+    {
+      "position": 4,
+      "full_name": "A.L. Langius",
+      "place": "Assen",
+      "gender": "m",
+      "last_name": "Langius",
+      "first_name": "Alex"
+    },
+    {
+      "position": 5,
+      "full_name": "H. Waalewijn",
+      "place": "Beilen",
+      "gender": "m",
+      "last_name": "Waalewijn",
+      "first_name": "Hugo"
+    },
+    {
+      "position": 6,
+      "full_name": "W. Kompagnie",
+      "place": "Meppel",
+      "gender": "m",
+      "last_name": "Kompagnie",
+      "first_name": "Wout"
+    },
+    {
+      "position": 7,
+      "full_name": "H.J. Boxum",
+      "place": "Sint Jansklooster",
+      "gender": "m",
+      "last_name": "Boxum",
+      "first_name": "Henk"
+    }
+  ]
+}

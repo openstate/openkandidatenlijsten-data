@@ -1,0 +1,118 @@
+{
+  "title": "Lijst_18 PSP'92 Gelderland",
+  "description": "",
+  "candidates": [
+    {
+      "position": 1,
+      "full_name": "R. Barends",
+      "place": "Nijmegen",
+      "gender": "m",
+      "last_name": "Barends",
+      "first_name": "Ramon"
+    },
+    {
+      "position": 2,
+      "full_name": "A.M. van Harten",
+      "place": "Arnhem",
+      "gender": "v",
+      "last_name": "van Harten",
+      "first_name": "Annemarie"
+    },
+    {
+      "position": 3,
+      "full_name": "S.G. Wierda",
+      "place": "Lent",
+      "gender": "m",
+      "last_name": "Wierda",
+      "first_name": "Sent"
+    },
+    {
+      "position": 4,
+      "full_name": "R.H.J.J. Sleegers",
+      "place": "Tiel",
+      "gender": "m",
+      "last_name": "Sleegers",
+      "first_name": "Richard"
+    },
+    {
+      "position": 5,
+      "full_name": "N. Sendar",
+      "place": "'s-Heerenberg",
+      "gender": "v",
+      "last_name": "Sendar",
+      "first_name": "Nelly"
+    },
+    {
+      "position": 6,
+      "full_name": "M.R. Brouwer",
+      "place": "Dieren",
+      "gender": "m",
+      "last_name": "Brouwer",
+      "first_name": "Marcel"
+    },
+    {
+      "position": 7,
+      "full_name": "M. Achouitar",
+      "place": "Nijmegen",
+      "gender": "m",
+      "last_name": "Achouitar",
+      "first_name": "Mohamed"
+    },
+    {
+      "position": 8,
+      "full_name": "A.J. Kon",
+      "place": "Arnhem",
+      "gender": "m",
+      "last_name": "Kon",
+      "first_name": "Johannes"
+    },
+    {
+      "position": 9,
+      "full_name": "C. Aktaş",
+      "place": "Nijmegen",
+      "gender": "m",
+      "last_name": "Aktaş",
+      "first_name": "Cevdet"
+    },
+    {
+      "position": 10,
+      "full_name": "B. Yachou",
+      "place": "Arnhem",
+      "gender": "m",
+      "last_name": "Yachou",
+      "first_name": "Bilal"
+    },
+    {
+      "position": 11,
+      "full_name": "H. Chaoui",
+      "place": "Nijmegen",
+      "gender": "m",
+      "last_name": "Chaoui",
+      "first_name": "Hicham"
+    },
+    {
+      "position": 12,
+      "full_name": "M.M.H. Rook",
+      "place": "Dieren",
+      "gender": "v",
+      "last_name": "Rook",
+      "first_name": "Magda"
+    },
+    {
+      "position": 13,
+      "full_name": "C. Edelenbosch",
+      "place": "Enkhuizen",
+      "gender": "m",
+      "last_name": "Edelenbosch",
+      "first_name": "Cor"
+    },
+    {
+      "position": 14,
+      "full_name": "J.H. Peters",
+      "place": "Groesbeek",
+      "gender": "m",
+      "last_name": "Peters",
+      "first_name": "Hans"
+    }
+  ]
+}

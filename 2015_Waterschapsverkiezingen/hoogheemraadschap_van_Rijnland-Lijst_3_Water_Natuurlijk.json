@@ -1,1 +1,214 @@
-{"description": "Gecombineerd met Partij van de Arbeid (P.v.d.A.)", "members": [{"first_name": "Martine", "last_name": "Leewis", "gender": "v", "place": "Leiden", "full_name": "M.E.F. Leewis", "position": 1}, {"first_name": "Waldo", "last_name": "von Faber", "gender": "m", "place": "Oegstgeest", "full_name": "G.H. von Faber", "position": 2}, {"first_name": "Ed", "last_name": "de Meijer", "gender": "m", "place": "Voorschoten", "full_name": "E.C. de Meijer", "position": 3}, {"first_name": "Sita", "last_name": "Dewkalie", "gender": "v", "place": "Leiden", "full_name": "S.U. Dewkalie", "position": 4}, {"first_name": "Willem", "last_name": "Kikkert", "gender": "m", "place": "Aalsmeer", "full_name": "W. Kikkert", "position": 5}, {"first_name": "Enrico", "last_name": "van Dijk", "gender": "m", "place": "Haarlem", "full_name": "H. van Dijk", "position": 6}, {"first_name": "Michiel", "last_name": "Hermsen", "gender": "m", "place": "Zandvoort", "full_name": "M.C. Hermsen", "position": 7}, {"first_name": "Ad", "last_name": "Faasse", "gender": "m", "place": "Alphen aan den Rijn", "full_name": "A.M. Faasse", "position": 8}, {"first_name": "Mieke", "last_name": "Weterings", "gender": "v", "place": "Leiden", "full_name": "M.A.J. Weterings", "position": 9}, {"first_name": "Hans", "last_name": "Olsthoorn", "gender": "m", "place": "Bloemendaal", "full_name": "J.C.M. Olsthoorn", "position": 10}, {"first_name": "Wouter", "last_name": "Enderink", "gender": "m", "place": "Gouda", "full_name": "W. Enderink", "position": 11}, {"first_name": "Han", "last_name": "Hendrickx", "gender": "m", "place": "Alphen aan den Rijn", "full_name": "J.J.E.M. Hendrickx", "position": 12}, {"first_name": "Marion", "last_name": "van Leeuwen", "gender": "v", "place": "Gouda", "full_name": "M.J.W. van Leeuwen", "position": 13}, {"first_name": "Klaas", "last_name": "Groen", "gender": "m", "place": "Leiden", "full_name": "K.P. Groen", "position": 14}, {"first_name": "Pim", "last_name": "van Riet", "gender": "m", "place": "Aalsmeer", "full_name": "P. van Riet", "position": 15}, {"first_name": "Corn\u00e9", "last_name": "Nijburg", "gender": "m", "place": "Hoofddorp", "full_name": "C. Nijburg", "position": 16}, {"first_name": "Ronald", "last_name": "Pleij", "gender": "m", "place": "Alphen aan den Rijn", "full_name": "R.J.M. Pleij", "position": 17}, {"first_name": "Ckees", "last_name": "van Oijen", "gender": "m", "place": "Leiden", "full_name": "C.H.J. van Oijen", "position": 18}, {"first_name": "Wil", "last_name": "van Warmerdam", "gender": "m", "place": "Spaarndam gem. Haarlem", "full_name": "W.N.M. van Warmerdam", "position": 19}, {"first_name": "Otto", "last_name": "Cox", "gender": "m", "place": "Leiden", "full_name": "D.O. Cox", "position": 20}, {"first_name": "Edith", "last_name": "van Middelkoop", "gender": "v", "place": "Leiden", "full_name": "E.E. van Middelkoop", "position": 21}, {"first_name": "Hans", "last_name": "Vingerling", "gender": "m", "place": "Katwijk", "full_name": "J.J. Vingerling", "position": 22}, {"first_name": "Rik", "last_name": "Rolleman", "gender": "m", "place": "Aalsmeer", "full_name": "H.G. Rolleman", "position": 23}, {"first_name": "Wanda", "last_name": "Zevenboom", "gender": "v", "place": "Leiden", "full_name": "W. Zevenboom", "position": 24}, {"first_name": "Piet", "last_name": "de Ruiter", "gender": "m", "place": "Nieuw-Vennep", "full_name": "P.C. de Ruiter", "position": 25}, {"first_name": "Hans", "last_name": "Schouffoer", "gender": "m", "place": "Leiden", "full_name": "J.G.M. Schouffoer", "position": 26}], "title": "Lijst_3_Water_Natuurlijk"}
+{
+  "title": "Lijst 3 Water Natuurlijk",
+  "description": "Gecombineerd met Partij van de Arbeid (P.v.d.A.)",
+  "candidates": [
+    {
+      "position": 1,
+      "full_name": "M.E.F. Leewis",
+      "place": "Leiden",
+      "gender": "v",
+      "last_name": "Leewis",
+      "first_name": "Martine"
+    },
+    {
+      "position": 2,
+      "full_name": "G.H. von Faber",
+      "place": "Oegstgeest",
+      "gender": "m",
+      "last_name": "von Faber",
+      "first_name": "Waldo"
+    },
+    {
+      "position": 3,
+      "full_name": "E.C. de Meijer",
+      "place": "Voorschoten",
+      "gender": "m",
+      "last_name": "de Meijer",
+      "first_name": "Ed"
+    },
+    {
+      "position": 4,
+      "full_name": "S.U. Dewkalie",
+      "place": "Leiden",
+      "gender": "v",
+      "last_name": "Dewkalie",
+      "first_name": "Sita"
+    },
+    {
+      "position": 5,
+      "full_name": "W. Kikkert",
+      "place": "Aalsmeer",
+      "gender": "m",
+      "last_name": "Kikkert",
+      "first_name": "Willem"
+    },
+    {
+      "position": 6,
+      "full_name": "H. van Dijk",
+      "place": "Haarlem",
+      "gender": "m",
+      "last_name": "van Dijk",
+      "first_name": "Enrico"
+    },
+    {
+      "position": 7,
+      "full_name": "M.C. Hermsen",
+      "place": "Zandvoort",
+      "gender": "m",
+      "last_name": "Hermsen",
+      "first_name": "Michiel"
+    },
+    {
+      "position": 8,
+      "full_name": "A.M. Faasse",
+      "place": "Alphen aan den Rijn",
+      "gender": "m",
+      "last_name": "Faasse",
+      "first_name": "Ad"
+    },
+    {
+      "position": 9,
+      "full_name": "M.A.J. Weterings",
+      "place": "Leiden",
+      "gender": "v",
+      "last_name": "Weterings",
+      "first_name": "Mieke"
+    },
+    {
+      "position": 10,
+      "full_name": "J.C.M. Olsthoorn",
+      "place": "Bloemendaal",
+      "gender": "m",
+      "last_name": "Olsthoorn",
+      "first_name": "Hans"
+    },
+    {
+      "position": 11,
+      "full_name": "W. Enderink",
+      "place": "Gouda",
+      "gender": "m",
+      "last_name": "Enderink",
+      "first_name": "Wouter"
+    },
+    {
+      "position": 12,
+      "full_name": "J.J.E.M. Hendrickx",
+      "place": "Alphen aan den Rijn",
+      "gender": "m",
+      "last_name": "Hendrickx",
+      "first_name": "Han"
+    },
+    {
+      "position": 13,
+      "full_name": "M.J.W. van Leeuwen",
+      "place": "Gouda",
+      "gender": "v",
+      "last_name": "van Leeuwen",
+      "first_name": "Marion"
+    },
+    {
+      "position": 14,
+      "full_name": "K.P. Groen",
+      "place": "Leiden",
+      "gender": "m",
+      "last_name": "Groen",
+      "first_name": "Klaas"
+    },
+    {
+      "position": 15,
+      "full_name": "P. van Riet",
+      "place": "Aalsmeer",
+      "gender": "m",
+      "last_name": "van Riet",
+      "first_name": "Pim"
+    },
+    {
+      "position": 16,
+      "full_name": "C. Nijburg",
+      "place": "Hoofddorp",
+      "gender": "m",
+      "last_name": "Nijburg",
+      "first_name": "Corné"
+    },
+    {
+      "position": 17,
+      "full_name": "R.J.M. Pleij",
+      "place": "Alphen aan den Rijn",
+      "gender": "m",
+      "last_name": "Pleij",
+      "first_name": "Ronald"
+    },
+    {
+      "position": 18,
+      "full_name": "C.H.J. van Oijen",
+      "place": "Leiden",
+      "gender": "m",
+      "last_name": "van Oijen",
+      "first_name": "Ckees"
+    },
+    {
+      "position": 19,
+      "full_name": "W.N.M. van Warmerdam",
+      "place": "Spaarndam gem. Haarlem",
+      "gender": "m",
+      "last_name": "van Warmerdam",
+      "first_name": "Wil"
+    },
+    {
+      "position": 20,
+      "full_name": "D.O. Cox",
+      "place": "Leiden",
+      "gender": "m",
+      "last_name": "Cox",
+      "first_name": "Otto"
+    },
+    {
+      "position": 21,
+      "full_name": "E.E. van Middelkoop",
+      "place": "Leiden",
+      "gender": "v",
+      "last_name": "van Middelkoop",
+      "first_name": "Edith"
+    },
+    {
+      "position": 22,
+      "full_name": "J.J. Vingerling",
+      "place": "Katwijk",
+      "gender": "m",
+      "last_name": "Vingerling",
+      "first_name": "Hans"
+    },
+    {
+      "position": 23,
+      "full_name": "H.G. Rolleman",
+      "place": "Aalsmeer",
+      "gender": "m",
+      "last_name": "Rolleman",
+      "first_name": "Rik"
+    },
+    {
+      "position": 24,
+      "full_name": "W. Zevenboom",
+      "place": "Leiden",
+      "gender": "v",
+      "last_name": "Zevenboom",
+      "first_name": "Wanda"
+    },
+    {
+      "position": 25,
+      "full_name": "P.C. de Ruiter",
+      "place": "Nieuw-Vennep",
+      "gender": "m",
+      "last_name": "de Ruiter",
+      "first_name": "Piet"
+    },
+    {
+      "position": 26,
+      "full_name": "J.G.M. Schouffoer",
+      "place": "Leiden",
+      "gender": "m",
+      "last_name": "Schouffoer",
+      "first_name": "Hans"
+    }
+  ]
+}

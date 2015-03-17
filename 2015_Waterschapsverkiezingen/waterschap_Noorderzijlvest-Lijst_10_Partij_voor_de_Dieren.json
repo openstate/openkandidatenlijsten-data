@@ -1,1 +1,70 @@
-{"description": "", "members": [{"first_name": "Renata", "last_name": "Grijpstra", "gender": "v", "place": "Groningen", "full_name": "R.M. Grijpstra", "position": 1}, {"first_name": "Saskia", "last_name": "Bakker", "gender": "v", "place": "De Wilp", "full_name": "S.A. Bakker", "position": 2}, {"first_name": "Ettie", "last_name": "Zijlstra", "gender": "v", "place": "Groningen", "full_name": "P. Zijlstra", "position": 3}, {"first_name": "Evelien", "last_name": "Bernabela", "gender": "v", "place": "Groningen", "full_name": "E.E. Bernabela", "position": 4}, {"first_name": "Mariken", "last_name": "Jongman", "gender": "v", "place": "Groningen", "full_name": "M.J. Jongman", "position": 5}, {"first_name": "Wynanda", "last_name": "van der Land", "gender": "v", "place": "Groningen", "full_name": "W. van der Land", "position": 6}, {"first_name": "Mark", "last_name": "Breman", "gender": "m", "place": "De Wilp", "full_name": "M. Breman", "position": 7}, {"first_name": "Gerjan", "last_name": "Kelder", "gender": "m", "place": "Groningen", "full_name": "G.J. Kelder", "position": 8}], "title": "Lijst_10_Partij_voor_de_Dieren"}
+{
+  "title": "Lijst 10 Partij voor de Dieren",
+  "description": "",
+  "candidates": [
+    {
+      "position": 1,
+      "full_name": "R.M. Grijpstra",
+      "place": "Groningen",
+      "gender": "v",
+      "last_name": "Grijpstra",
+      "first_name": "Renata"
+    },
+    {
+      "position": 2,
+      "full_name": "S.A. Bakker",
+      "place": "De Wilp",
+      "gender": "v",
+      "last_name": "Bakker",
+      "first_name": "Saskia"
+    },
+    {
+      "position": 3,
+      "full_name": "P. Zijlstra",
+      "place": "Groningen",
+      "gender": "v",
+      "last_name": "Zijlstra",
+      "first_name": "Ettie"
+    },
+    {
+      "position": 4,
+      "full_name": "E.E. Bernabela",
+      "place": "Groningen",
+      "gender": "v",
+      "last_name": "Bernabela",
+      "first_name": "Evelien"
+    },
+    {
+      "position": 5,
+      "full_name": "M.J. Jongman",
+      "place": "Groningen",
+      "gender": "v",
+      "last_name": "Jongman",
+      "first_name": "Mariken"
+    },
+    {
+      "position": 6,
+      "full_name": "W. van der Land",
+      "place": "Groningen",
+      "gender": "v",
+      "last_name": "van der Land",
+      "first_name": "Wynanda"
+    },
+    {
+      "position": 7,
+      "full_name": "M. Breman",
+      "place": "De Wilp",
+      "gender": "m",
+      "last_name": "Breman",
+      "first_name": "Mark"
+    },
+    {
+      "position": 8,
+      "full_name": "G.J. Kelder",
+      "place": "Groningen",
+      "gender": "m",
+      "last_name": "Kelder",
+      "first_name": "Gerjan"
+    }
+  ]
+}

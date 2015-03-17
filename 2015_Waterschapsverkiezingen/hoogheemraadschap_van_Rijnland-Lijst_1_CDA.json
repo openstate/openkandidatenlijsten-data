@@ -1,1 +1,230 @@
-{"description": "Gecombineerd met ChristenUnie-SGP", "members": [{"first_name": "Hans", "last_name": "Demoed", "gender": "m", "place": "Hazerswoude-Dorp", "full_name": "J.J. Demoed", "position": 1}, {"first_name": "Marco", "last_name": "Kastelein", "gender": "m", "place": "Gouda", "full_name": "M. Kastelein", "position": 2}, {"first_name": "Marlies", "last_name": "de Vries", "gender": "v", "place": "Velserbroek", "full_name": "E.J. de Vries", "position": 3}, {"first_name": "Erik", "last_name": "Oostwouder", "gender": "m", "place": "Haarlemmermeer", "full_name": "H.J. Oostwouder", "position": 4}, {"first_name": "Han", "last_name": "Zweers", "gender": "m", "place": "Alphen aan den Rijn", "full_name": "J.G.M. Zweers", "position": 5}, {"first_name": "Bert", "last_name": "van Leeuwen", "gender": "m", "place": "Warmond", "full_name": "G.L.C.M. van Leeuwen", "position": 6}, {"first_name": "Paul", "last_name": "Olthof", "gender": "m", "place": "Zoeterwoude", "full_name": "H.P. Olthof", "position": 7}, {"first_name": "Els", "last_name": "Kelder-Voskuilen", "gender": "v", "place": "Ter Aar", "full_name": "E.W. Kelder-Voskuilen", "position": 8}, {"first_name": "Jan", "last_name": "van den Assem", "gender": "m", "place": "Haarlem", "full_name": "J. van den Assem", "position": 9}, {"first_name": "Jos", "last_name": "Beugelsdijk", "gender": "m", "place": "Noordwijkerhout", "full_name": "J.J.J. Beugelsdijk", "position": 10}, {"first_name": "Andr\u00e9", "last_name": "Burger", "gender": "m", "place": "Vogelenzang", "full_name": "A.J.G. Burger", "position": 11}, {"first_name": "Matthias", "last_name": "Wagenaar", "gender": "m", "place": "Haarlem", "full_name": "M.T. Wagenaar", "position": 12}, {"first_name": "Jan", "last_name": "Kroft", "gender": "m", "place": "Alphen aan den Rijn", "full_name": "J.H.M. Kroft", "position": 13}, {"first_name": "Ed", "last_name": "Koster", "gender": "m", "place": "Haarlemmermeer", "full_name": "A. Koster", "position": 14}, {"first_name": "Dirk", "last_name": "de Blaeij", "gender": "m", "place": "Oegstgeest", "full_name": "D. de Blaeij", "position": 15}, {"first_name": "Martie", "last_name": "Vink-van Bruggen", "gender": "v", "place": "Spaarndam", "full_name": "M.J.P. Vink-van Bruggen", "position": 16}, {"first_name": "Jankees", "last_name": "Salverda", "gender": "m", "place": "Gouda", "full_name": "J.C. Salverda", "position": 17}, {"first_name": "Leo", "last_name": "van Ewijk", "gender": "m", "place": "Leidschendam", "full_name": "L.A.M. van Ewijk", "position": 18}, {"first_name": "Pieter", "last_name": "Hellinga", "gender": "m", "place": "Oegstgeest", "full_name": "P. Hellinga", "position": 19}, {"first_name": "Marieke", "last_name": "Waterlander-de Boer", "gender": "v", "place": "Heemstede", "full_name": "M.A.U. Waterlander-de Boer", "position": 20}, {"first_name": "Jan", "last_name": "Beelen", "gender": "m", "place": "Zandvoort", "full_name": "J.R. Beelen", "position": 21}, {"first_name": "Wilbert", "last_name": "van der Post", "gender": "m", "place": "Leiden", "full_name": "W.H.L. van der Post", "position": 22}, {"first_name": "Johan", "last_name": "Hoogendoorn", "gender": "m", "place": "Woubrugge", "full_name": "J. Hoogendoorn", "position": 23}, {"first_name": "Cor", "last_name": "de Vlieger", "gender": "m", "place": "IJmuiden", "full_name": "C.J. de Vlieger", "position": 24}, {"first_name": "Bep", "last_name": "Heemskerk-van den Broek", "gender": "v", "place": "Aalsmeer", "full_name": "G.A.M. Heemskerk-van den Broek", "position": 25}, {"first_name": "Boudi", "last_name": "van Vlijmen", "gender": "m", "place": "Heemstede", "full_name": "E.J.M. van Vlijmen", "position": 26}, {"first_name": "Wim", "last_name": "Doeven", "gender": "m", "place": "Halfweg", "full_name": "W.M.C. Doeven", "position": 27}, {"first_name": "Henk", "last_name": "Koelman", "gender": "m", "place": "Spaarndam", "full_name": "H.J.M. Koelman", "position": 28}], "title": "Lijst_1_CDA"}
+{
+  "title": "Lijst 1 CDA",
+  "description": "Gecombineerd met ChristenUnie-SGP",
+  "candidates": [
+    {
+      "position": 1,
+      "full_name": "J.J. Demoed",
+      "place": "Hazerswoude-Dorp",
+      "gender": "m",
+      "last_name": "Demoed",
+      "first_name": "Hans"
+    },
+    {
+      "position": 2,
+      "full_name": "M. Kastelein",
+      "place": "Gouda",
+      "gender": "m",
+      "last_name": "Kastelein",
+      "first_name": "Marco"
+    },
+    {
+      "position": 3,
+      "full_name": "E.J. de Vries",
+      "place": "Velserbroek",
+      "gender": "v",
+      "last_name": "de Vries",
+      "first_name": "Marlies"
+    },
+    {
+      "position": 4,
+      "full_name": "H.J. Oostwouder",
+      "place": "Haarlemmermeer",
+      "gender": "m",
+      "last_name": "Oostwouder",
+      "first_name": "Erik"
+    },
+    {
+      "position": 5,
+      "full_name": "J.G.M. Zweers",
+      "place": "Alphen aan den Rijn",
+      "gender": "m",
+      "last_name": "Zweers",
+      "first_name": "Han"
+    },
+    {
+      "position": 6,
+      "full_name": "G.L.C.M. van Leeuwen",
+      "place": "Warmond",
+      "gender": "m",
+      "last_name": "van Leeuwen",
+      "first_name": "Bert"
+    },
+    {
+      "position": 7,
+      "full_name": "H.P. Olthof",
+      "place": "Zoeterwoude",
+      "gender": "m",
+      "last_name": "Olthof",
+      "first_name": "Paul"
+    },
+    {
+      "position": 8,
+      "full_name": "E.W. Kelder-Voskuilen",
+      "place": "Ter Aar",
+      "gender": "v",
+      "last_name": "Kelder-Voskuilen",
+      "first_name": "Els"
+    },
+    {
+      "position": 9,
+      "full_name": "J. van den Assem",
+      "place": "Haarlem",
+      "gender": "m",
+      "last_name": "van den Assem",
+      "first_name": "Jan"
+    },
+    {
+      "position": 10,
+      "full_name": "J.J.J. Beugelsdijk",
+      "place": "Noordwijkerhout",
+      "gender": "m",
+      "last_name": "Beugelsdijk",
+      "first_name": "Jos"
+    },
+    {
+      "position": 11,
+      "full_name": "A.J.G. Burger",
+      "place": "Vogelenzang",
+      "gender": "m",
+      "last_name": "Burger",
+      "first_name": "André"
+    },
+    {
+      "position": 12,
+      "full_name": "M.T. Wagenaar",
+      "place": "Haarlem",
+      "gender": "m",
+      "last_name": "Wagenaar",
+      "first_name": "Matthias"
+    },
+    {
+      "position": 13,
+      "full_name": "J.H.M. Kroft",
+      "place": "Alphen aan den Rijn",
+      "gender": "m",
+      "last_name": "Kroft",
+      "first_name": "Jan"
+    },
+    {
+      "position": 14,
+      "full_name": "A. Koster",
+      "place": "Haarlemmermeer",
+      "gender": "m",
+      "last_name": "Koster",
+      "first_name": "Ed"
+    },
+    {
+      "position": 15,
+      "full_name": "D. de Blaeij",
+      "place": "Oegstgeest",
+      "gender": "m",
+      "last_name": "de Blaeij",
+      "first_name": "Dirk"
+    },
+    {
+      "position": 16,
+      "full_name": "M.J.P. Vink-van Bruggen",
+      "place": "Spaarndam",
+      "gender": "v",
+      "last_name": "Vink-van Bruggen",
+      "first_name": "Martie"
+    },
+    {
+      "position": 17,
+      "full_name": "J.C. Salverda",
+      "place": "Gouda",
+      "gender": "m",
+      "last_name": "Salverda",
+      "first_name": "Jankees"
+    },
+    {
+      "position": 18,
+      "full_name": "L.A.M. van Ewijk",
+      "place": "Leidschendam",
+      "gender": "m",
+      "last_name": "van Ewijk",
+      "first_name": "Leo"
+    },
+    {
+      "position": 19,
+      "full_name": "P. Hellinga",
+      "place": "Oegstgeest",
+      "gender": "m",
+      "last_name": "Hellinga",
+      "first_name": "Pieter"
+    },
+    {
+      "position": 20,
+      "full_name": "M.A.U. Waterlander-de Boer",
+      "place": "Heemstede",
+      "gender": "v",
+      "last_name": "Waterlander-de Boer",
+      "first_name": "Marieke"
+    },
+    {
+      "position": 21,
+      "full_name": "J.R. Beelen",
+      "place": "Zandvoort",
+      "gender": "m",
+      "last_name": "Beelen",
+      "first_name": "Jan"
+    },
+    {
+      "position": 22,
+      "full_name": "W.H.L. van der Post",
+      "place": "Leiden",
+      "gender": "m",
+      "last_name": "van der Post",
+      "first_name": "Wilbert"
+    },
+    {
+      "position": 23,
+      "full_name": "J. Hoogendoorn",
+      "place": "Woubrugge",
+      "gender": "m",
+      "last_name": "Hoogendoorn",
+      "first_name": "Johan"
+    },
+    {
+      "position": 24,
+      "full_name": "C.J. de Vlieger",
+      "place": "IJmuiden",
+      "gender": "m",
+      "last_name": "de Vlieger",
+      "first_name": "Cor"
+    },
+    {
+      "position": 25,
+      "full_name": "G.A.M. Heemskerk-van den Broek",
+      "place": "Aalsmeer",
+      "gender": "v",
+      "last_name": "Heemskerk-van den Broek",
+      "first_name": "Bep"
+    },
+    {
+      "position": 26,
+      "full_name": "E.J.M. van Vlijmen",
+      "place": "Heemstede",
+      "gender": "m",
+      "last_name": "van Vlijmen",
+      "first_name": "Boudi"
+    },
+    {
+      "position": 27,
+      "full_name": "W.M.C. Doeven",
+      "place": "Halfweg",
+      "gender": "m",
+      "last_name": "Doeven",
+      "first_name": "Wim"
+    },
+    {
+      "position": 28,
+      "full_name": "H.J.M. Koelman",
+      "place": "Spaarndam",
+      "gender": "m",
+      "last_name": "Koelman",
+      "first_name": "Henk"
+    }
+  ]
+}

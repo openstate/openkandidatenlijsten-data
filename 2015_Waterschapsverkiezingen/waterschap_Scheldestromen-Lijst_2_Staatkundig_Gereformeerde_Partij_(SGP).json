@@ -1,1 +1,174 @@
-{"description": "", "members": [{"first_name": "Gert", "last_name": "van Kralingen", "gender": "m", "place": "Middelburg", "full_name": "G. van Kralingen", "position": 1}, {"first_name": "Cees", "last_name": "Verloop", "gender": "m", "place": "Oud-Vossemeer", "full_name": "C. Verloop", "position": 2}, {"first_name": "Henk", "last_name": "Verheuvel", "gender": "m", "place": "'s-Gravenpolder", "full_name": "H.G.L. Verheuvel", "position": 3}, {"first_name": "Chris", "last_name": "Koopman", "gender": "m", "place": "Sint-Maartensdijk", "full_name": "C. Koopman", "position": 4}, {"first_name": "Jan", "last_name": "de Korte", "gender": "m", "place": "Meliskerke", "full_name": "J.L. de Korte", "position": 5}, {"first_name": "Marcel", "last_name": "Goud", "gender": "m", "place": "Terneuzen", "full_name": "C.M.J. Goud", "position": 6}, {"first_name": "Lodewijk", "last_name": "Nijsse", "gender": "m", "place": "'s-Gravenpolder", "full_name": "L. Nijsse", "position": 7}, {"first_name": "Corn\u00e9", "last_name": "Stouten", "gender": "m", "place": "Oosterland", "full_name": "C.W. Stouten", "position": 8}, {"first_name": "Ko", "last_name": "Jansen", "gender": "m", "place": "Kruiningen", "full_name": "J. Jansen", "position": 9}, {"first_name": "Ko", "last_name": "Boogaard", "gender": "m", "place": "Meliskerke", "full_name": "J. Boogaard", "position": 10}, {"first_name": "Ren\u00e9", "last_name": "Weststrate", "gender": "m", "place": "Goes", "full_name": "R. Weststrate", "position": 11}, {"first_name": "Aart-Jan", "last_name": "Bil", "gender": "m", "place": "Kerkwerve", "full_name": "A.J.J. Bil", "position": 12}, {"first_name": "Leo", "last_name": "Kosten", "gender": "m", "place": "Kapelle", "full_name": "L.F. Kosten", "position": 13}, {"first_name": "Dany", "last_name": "Dieleman", "gender": "m", "place": "Biervliet", "full_name": "D.G. Dieleman", "position": 14}, {"first_name": "Abco", "last_name": "Fierloos", "gender": "m", "place": "Kruiningen", "full_name": "J.A. Fierloos", "position": 15}, {"first_name": "Jan", "last_name": "de Visser", "gender": "m", "place": "Gapinge", "full_name": "J. de Visser", "position": 16}, {"first_name": "Ko", "last_name": "Pladdet", "gender": "m", "place": "Biervliet", "full_name": "J.P. Pladdet", "position": 17}, {"first_name": "Wim", "last_name": "Houtekamer", "gender": "m", "place": "Oosterland", "full_name": "W.C. Houtekamer", "position": 18}, {"first_name": "Pieter", "last_name": "de Visser", "gender": "m", "place": "Aagtekerke", "full_name": "P. de Visser", "position": 19}, {"first_name": "Teo", "last_name": "Zevenbergen", "gender": "m", "place": "Nieuwerkerk", "full_name": "A.T. Zevenbergen", "position": 20}, {"first_name": "Han", "last_name": "Giljam", "gender": "m", "place": "Bruinisse", "full_name": "J.L. Giljam", "position": 21}], "title": "Lijst_2_Staatkundig_Gereformeerde_Partij_(SGP)"}
+{
+  "title": "Lijst 2 Staatkundig Gereformeerde Partij (SGP)",
+  "description": "",
+  "candidates": [
+    {
+      "position": 1,
+      "full_name": "G. van Kralingen",
+      "place": "Middelburg",
+      "gender": "m",
+      "last_name": "van Kralingen",
+      "first_name": "Gert"
+    },
+    {
+      "position": 2,
+      "full_name": "C. Verloop",
+      "place": "Oud-Vossemeer",
+      "gender": "m",
+      "last_name": "Verloop",
+      "first_name": "Cees"
+    },
+    {
+      "position": 3,
+      "full_name": "H.G.L. Verheuvel",
+      "place": "'s-Gravenpolder",
+      "gender": "m",
+      "last_name": "Verheuvel",
+      "first_name": "Henk"
+    },
+    {
+      "position": 4,
+      "full_name": "C. Koopman",
+      "place": "Sint-Maartensdijk",
+      "gender": "m",
+      "last_name": "Koopman",
+      "first_name": "Chris"
+    },
+    {
+      "position": 5,
+      "full_name": "J.L. de Korte",
+      "place": "Meliskerke",
+      "gender": "m",
+      "last_name": "de Korte",
+      "first_name": "Jan"
+    },
+    {
+      "position": 6,
+      "full_name": "C.M.J. Goud",
+      "place": "Terneuzen",
+      "gender": "m",
+      "last_name": "Goud",
+      "first_name": "Marcel"
+    },
+    {
+      "position": 7,
+      "full_name": "L. Nijsse",
+      "place": "'s-Gravenpolder",
+      "gender": "m",
+      "last_name": "Nijsse",
+      "first_name": "Lodewijk"
+    },
+    {
+      "position": 8,
+      "full_name": "C.W. Stouten",
+      "place": "Oosterland",
+      "gender": "m",
+      "last_name": "Stouten",
+      "first_name": "Corné"
+    },
+    {
+      "position": 9,
+      "full_name": "J. Jansen",
+      "place": "Kruiningen",
+      "gender": "m",
+      "last_name": "Jansen",
+      "first_name": "Ko"
+    },
+    {
+      "position": 10,
+      "full_name": "J. Boogaard",
+      "place": "Meliskerke",
+      "gender": "m",
+      "last_name": "Boogaard",
+      "first_name": "Ko"
+    },
+    {
+      "position": 11,
+      "full_name": "R. Weststrate",
+      "place": "Goes",
+      "gender": "m",
+      "last_name": "Weststrate",
+      "first_name": "René"
+    },
+    {
+      "position": 12,
+      "full_name": "A.J.J. Bil",
+      "place": "Kerkwerve",
+      "gender": "m",
+      "last_name": "Bil",
+      "first_name": "Aart-Jan"
+    },
+    {
+      "position": 13,
+      "full_name": "L.F. Kosten",
+      "place": "Kapelle",
+      "gender": "m",
+      "last_name": "Kosten",
+      "first_name": "Leo"
+    },
+    {
+      "position": 14,
+      "full_name": "D.G. Dieleman",
+      "place": "Biervliet",
+      "gender": "m",
+      "last_name": "Dieleman",
+      "first_name": "Dany"
+    },
+    {
+      "position": 15,
+      "full_name": "J.A. Fierloos",
+      "place": "Kruiningen",
+      "gender": "m",
+      "last_name": "Fierloos",
+      "first_name": "Abco"
+    },
+    {
+      "position": 16,
+      "full_name": "J. de Visser",
+      "place": "Gapinge",
+      "gender": "m",
+      "last_name": "de Visser",
+      "first_name": "Jan"
+    },
+    {
+      "position": 17,
+      "full_name": "J.P. Pladdet",
+      "place": "Biervliet",
+      "gender": "m",
+      "last_name": "Pladdet",
+      "first_name": "Ko"
+    },
+    {
+      "position": 18,
+      "full_name": "W.C. Houtekamer",
+      "place": "Oosterland",
+      "gender": "m",
+      "last_name": "Houtekamer",
+      "first_name": "Wim"
+    },
+    {
+      "position": 19,
+      "full_name": "P. de Visser",
+      "place": "Aagtekerke",
+      "gender": "m",
+      "last_name": "de Visser",
+      "first_name": "Pieter"
+    },
+    {
+      "position": 20,
+      "full_name": "A.T. Zevenbergen",
+      "place": "Nieuwerkerk",
+      "gender": "m",
+      "last_name": "Zevenbergen",
+      "first_name": "Teo"
+    },
+    {
+      "position": 21,
+      "full_name": "J.L. Giljam",
+      "place": "Bruinisse",
+      "gender": "m",
+      "last_name": "Giljam",
+      "first_name": "Han"
+    }
+  ]
+}

@@ -1,1 +1,94 @@
-{"description": "", "members": [{"first_name": "Theun", "last_name": "Wiersma", "gender": "m", "place": "Sneek", "full_name": "T. Wiersma", "position": 1}, {"first_name": "Pietsje", "last_name": "Spijkstra", "gender": "v", "place": "Ternaard", "full_name": "P.T. Spijkstra", "position": 2}, {"first_name": "Jan", "last_name": "Waterlander", "gender": "m", "place": "Leeuwarden", "full_name": "J. Waterlander", "position": 3}, {"first_name": "Cor", "last_name": "Wijnstra", "gender": "m", "place": "Leeuwarden", "full_name": "C. Wijnstra", "position": 4}, {"first_name": "Doeke", "last_name": "de Vries", "gender": "m", "place": "Stavoren", "full_name": "D.P. de Vries", "position": 5}, {"first_name": "Geert", "last_name": "de Jong", "gender": "m", "place": "Harlingen", "full_name": "G. de Jong", "position": 6}, {"first_name": "Heero", "last_name": "Postema", "gender": "m", "place": "Opeinde", "full_name": "H. Postema", "position": 7}, {"first_name": "Mathilde", "last_name": "Prinsen", "gender": "v", "place": "Harlingen", "full_name": "M. Prinsen", "position": 8}, {"first_name": "Aafke", "last_name": "Klopman", "gender": "v", "place": "Leeuwarden", "full_name": "A.W. Klopman", "position": 9}, {"first_name": "Lian", "last_name": "Keune", "gender": "v", "place": "Lemmer", "full_name": "C.M. Keune", "position": 10}, {"first_name": "William", "last_name": "Hogenbirk", "gender": "m", "place": "Lemmer", "full_name": "W.S. Hogenbirk", "position": 11}], "title": "Lijst_9_50PLUS"}
+{
+  "title": "Lijst 9 50PLUS",
+  "description": "",
+  "candidates": [
+    {
+      "position": 1,
+      "full_name": "T. Wiersma",
+      "place": "Sneek",
+      "gender": "m",
+      "last_name": "Wiersma",
+      "first_name": "Theun"
+    },
+    {
+      "position": 2,
+      "full_name": "P.T. Spijkstra",
+      "place": "Ternaard",
+      "gender": "v",
+      "last_name": "Spijkstra",
+      "first_name": "Pietsje"
+    },
+    {
+      "position": 3,
+      "full_name": "J. Waterlander",
+      "place": "Leeuwarden",
+      "gender": "m",
+      "last_name": "Waterlander",
+      "first_name": "Jan"
+    },
+    {
+      "position": 4,
+      "full_name": "C. Wijnstra",
+      "place": "Leeuwarden",
+      "gender": "m",
+      "last_name": "Wijnstra",
+      "first_name": "Cor"
+    },
+    {
+      "position": 5,
+      "full_name": "D.P. de Vries",
+      "place": "Stavoren",
+      "gender": "m",
+      "last_name": "de Vries",
+      "first_name": "Doeke"
+    },
+    {
+      "position": 6,
+      "full_name": "G. de Jong",
+      "place": "Harlingen",
+      "gender": "m",
+      "last_name": "de Jong",
+      "first_name": "Geert"
+    },
+    {
+      "position": 7,
+      "full_name": "H. Postema",
+      "place": "Opeinde",
+      "gender": "m",
+      "last_name": "Postema",
+      "first_name": "Heero"
+    },
+    {
+      "position": 8,
+      "full_name": "M. Prinsen",
+      "place": "Harlingen",
+      "gender": "v",
+      "last_name": "Prinsen",
+      "first_name": "Mathilde"
+    },
+    {
+      "position": 9,
+      "full_name": "A.W. Klopman",
+      "place": "Leeuwarden",
+      "gender": "v",
+      "last_name": "Klopman",
+      "first_name": "Aafke"
+    },
+    {
+      "position": 10,
+      "full_name": "C.M. Keune",
+      "place": "Lemmer",
+      "gender": "v",
+      "last_name": "Keune",
+      "first_name": "Lian"
+    },
+    {
+      "position": 11,
+      "full_name": "W.S. Hogenbirk",
+      "place": "Lemmer",
+      "gender": "m",
+      "last_name": "Hogenbirk",
+      "first_name": "William"
+    }
+  ]
+}

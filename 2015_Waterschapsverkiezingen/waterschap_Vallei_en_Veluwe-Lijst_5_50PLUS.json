@@ -1,1 +1,38 @@
-{"description": "", "members": [{"first_name": "Gerrit", "last_name": "Sprik", "gender": "m", "place": "Apeldoorn", "full_name": "G.C. Sprik", "position": 1}, {"first_name": "Wil", "last_name": "Bouwman", "gender": "m", "place": "Achterveld", "full_name": "W.W.M. Bouwman", "position": 2}, {"first_name": "Frits", "last_name": "van Barneveld", "gender": "m", "place": "Veenendaal", "full_name": "F. van Barneveld", "position": 3}, {"first_name": "Peter", "last_name": "Koning", "gender": "m", "place": "Amersfoort", "full_name": "P.J.B. Koning", "position": 4}], "title": "Lijst_5_50PLUS"}
+{
+  "title": "Lijst 5 50PLUS",
+  "description": "",
+  "candidates": [
+    {
+      "position": 1,
+      "full_name": "G.C. Sprik",
+      "place": "Apeldoorn",
+      "gender": "m",
+      "last_name": "Sprik",
+      "first_name": "Gerrit"
+    },
+    {
+      "position": 2,
+      "full_name": "W.W.M. Bouwman",
+      "place": "Achterveld",
+      "gender": "m",
+      "last_name": "Bouwman",
+      "first_name": "Wil"
+    },
+    {
+      "position": 3,
+      "full_name": "F. van Barneveld",
+      "place": "Veenendaal",
+      "gender": "m",
+      "last_name": "van Barneveld",
+      "first_name": "Frits"
+    },
+    {
+      "position": 4,
+      "full_name": "P.J.B. Koning",
+      "place": "Amersfoort",
+      "gender": "m",
+      "last_name": "Koning",
+      "first_name": "Peter"
+    }
+  ]
+}

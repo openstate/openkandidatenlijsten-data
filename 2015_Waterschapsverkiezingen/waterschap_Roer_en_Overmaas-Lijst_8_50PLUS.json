@@ -1,1 +1,30 @@
-{"description": "", "members": [{"first_name": "Jacques", "last_name": "Arntz", "gender": "m", "place": "Bunde", "full_name": "J.A.M. Arntz", "position": 1}, {"first_name": "Willy", "last_name": "Bronckers", "gender": "m", "place": "Maastricht", "full_name": "W.J. Bronckers", "position": 2}, {"first_name": "Charl", "last_name": "Martens", "gender": "m", "place": "Merkelbeek", "full_name": "C.R.J. Martens", "position": 3}], "title": "Lijst_8_50PLUS"}
+{
+  "title": "Lijst 8 50PLUS",
+  "description": "",
+  "candidates": [
+    {
+      "position": 1,
+      "full_name": "J.A.M. Arntz",
+      "place": "Bunde",
+      "gender": "m",
+      "last_name": "Arntz",
+      "first_name": "Jacques"
+    },
+    {
+      "position": 2,
+      "full_name": "W.J. Bronckers",
+      "place": "Maastricht",
+      "gender": "m",
+      "last_name": "Bronckers",
+      "first_name": "Willy"
+    },
+    {
+      "position": 3,
+      "full_name": "C.R.J. Martens",
+      "place": "Merkelbeek",
+      "gender": "m",
+      "last_name": "Martens",
+      "first_name": "Charl"
+    }
+  ]
+}

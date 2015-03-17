@@ -1,1 +1,158 @@
-{"description": "", "members": [{"first_name": "Johan", "last_name": "Huber", "gender": "m", "place": "Brielle", "full_name": "J.J.L. Huber", "position": 1}, {"first_name": "Henk", "last_name": "Steehouwer", "gender": "m", "place": "Rotterdam", "full_name": "H.J. Steehouwer", "position": 2}, {"first_name": "Marco", "last_name": "Schurg", "gender": "m", "place": "Heinenoord", "full_name": "M. Schurg", "position": 3}, {"first_name": "Ria", "last_name": "de Sutter - Besters", "gender": "v", "place": "Rozenburg", "full_name": "M.J. de Sutter - Besters", "position": 4}, {"first_name": "Eimert", "last_name": "Doedens", "gender": "m", "place": "Hellevoetsluis", "full_name": "E.H. Doedens", "position": 5}, {"first_name": "Jaap", "last_name": "Faber", "gender": "m", "place": "Rotterdam", "full_name": "J. Faber", "position": 6}, {"first_name": "Jean", "last_name": "van der Horst", "gender": "m", "place": "Goedereede", "full_name": "J.A.M. van der Horst", "position": 7}, {"first_name": "Cor", "last_name": "Buijs", "gender": "m", "place": "Rotterdam", "full_name": "C.G.Q. Buijs", "position": 8}, {"first_name": "Dirk Jan", "last_name": "Polak", "gender": "m", "place": "Poortugaal", "full_name": "D.J. Polak", "position": 9}, {"first_name": "Helmich", "last_name": "Rigter", "gender": "m", "place": "Rotterdam", "full_name": "H.J. Rigter", "position": 10}, {"first_name": "Jurgen", "last_name": "Klapwijk", "gender": "m", "place": "Ridderkerk", "full_name": "J.D.B. Klapwijk", "position": 11}, {"first_name": "Rinus", "last_name": "Vos", "gender": "m", "place": "Ridderkerk", "full_name": "M. Vos", "position": 12}, {"first_name": "Wiebe", "last_name": "Pannekoek", "gender": "m", "place": "Spijkenisse", "full_name": "W. Pannekoek", "position": 13}, {"first_name": "Tini", "last_name": "Berning - van Oostveen", "gender": "v", "place": "Brielle", "full_name": "C.M. Berning - van Oostveen", "position": 14}, {"first_name": "Maarten", "last_name": "Heijndijk", "gender": "m", "place": "Rockanje", "full_name": "M. Heijndijk", "position": 15}, {"first_name": "Jos\u00e9", "last_name": "van Noort", "gender": "v", "place": "Geervliet", "full_name": "J.J. van Noort", "position": 16}, {"first_name": "Wim", "last_name": "Biemond", "gender": "m", "place": "Heerjansdam", "full_name": "W. Biemond", "position": 17}, {"first_name": "Wim", "last_name": "Middendorp", "gender": "m", "place": "Hoogvliet Rotterdam", "full_name": "W.A.A. Middendorp", "position": 18}, {"first_name": "Hanneke", "last_name": "Ouwens", "gender": "v", "place": "Dordrecht", "full_name": "J. Ouwens", "position": 19}], "title": "Lijst_7_Hollandse_Delta_Natuurlijk"}
+{
+  "title": "Lijst 7 Hollandse Delta Natuurlijk",
+  "description": "",
+  "candidates": [
+    {
+      "position": 1,
+      "full_name": "J.J.L. Huber",
+      "place": "Brielle",
+      "gender": "m",
+      "last_name": "Huber",
+      "first_name": "Johan"
+    },
+    {
+      "position": 2,
+      "full_name": "H.J. Steehouwer",
+      "place": "Rotterdam",
+      "gender": "m",
+      "last_name": "Steehouwer",
+      "first_name": "Henk"
+    },
+    {
+      "position": 3,
+      "full_name": "M. Schurg",
+      "place": "Heinenoord",
+      "gender": "m",
+      "last_name": "Schurg",
+      "first_name": "Marco"
+    },
+    {
+      "position": 4,
+      "full_name": "M.J. de Sutter - Besters",
+      "place": "Rozenburg",
+      "gender": "v",
+      "last_name": "de Sutter - Besters",
+      "first_name": "Ria"
+    },
+    {
+      "position": 5,
+      "full_name": "E.H. Doedens",
+      "place": "Hellevoetsluis",
+      "gender": "m",
+      "last_name": "Doedens",
+      "first_name": "Eimert"
+    },
+    {
+      "position": 6,
+      "full_name": "J. Faber",
+      "place": "Rotterdam",
+      "gender": "m",
+      "last_name": "Faber",
+      "first_name": "Jaap"
+    },
+    {
+      "position": 7,
+      "full_name": "J.A.M. van der Horst",
+      "place": "Goedereede",
+      "gender": "m",
+      "last_name": "van der Horst",
+      "first_name": "Jean"
+    },
+    {
+      "position": 8,
+      "full_name": "C.G.Q. Buijs",
+      "place": "Rotterdam",
+      "gender": "m",
+      "last_name": "Buijs",
+      "first_name": "Cor"
+    },
+    {
+      "position": 9,
+      "full_name": "D.J. Polak",
+      "place": "Poortugaal",
+      "gender": "m",
+      "last_name": "Polak",
+      "first_name": "Dirk Jan"
+    },
+    {
+      "position": 10,
+      "full_name": "H.J. Rigter",
+      "place": "Rotterdam",
+      "gender": "m",
+      "last_name": "Rigter",
+      "first_name": "Helmich"
+    },
+    {
+      "position": 11,
+      "full_name": "J.D.B. Klapwijk",
+      "place": "Ridderkerk",
+      "gender": "m",
+      "last_name": "Klapwijk",
+      "first_name": "Jurgen"
+    },
+    {
+      "position": 12,
+      "full_name": "M. Vos",
+      "place": "Ridderkerk",
+      "gender": "m",
+      "last_name": "Vos",
+      "first_name": "Rinus"
+    },
+    {
+      "position": 13,
+      "full_name": "W. Pannekoek",
+      "place": "Spijkenisse",
+      "gender": "m",
+      "last_name": "Pannekoek",
+      "first_name": "Wiebe"
+    },
+    {
+      "position": 14,
+      "full_name": "C.M. Berning - van Oostveen",
+      "place": "Brielle",
+      "gender": "v",
+      "last_name": "Berning - van Oostveen",
+      "first_name": "Tini"
+    },
+    {
+      "position": 15,
+      "full_name": "M. Heijndijk",
+      "place": "Rockanje",
+      "gender": "m",
+      "last_name": "Heijndijk",
+      "first_name": "Maarten"
+    },
+    {
+      "position": 16,
+      "full_name": "J.J. van Noort",
+      "place": "Geervliet",
+      "gender": "v",
+      "last_name": "van Noort",
+      "first_name": "José"
+    },
+    {
+      "position": 17,
+      "full_name": "W. Biemond",
+      "place": "Heerjansdam",
+      "gender": "m",
+      "last_name": "Biemond",
+      "first_name": "Wim"
+    },
+    {
+      "position": 18,
+      "full_name": "W.A.A. Middendorp",
+      "place": "Hoogvliet Rotterdam",
+      "gender": "m",
+      "last_name": "Middendorp",
+      "first_name": "Wim"
+    },
+    {
+      "position": 19,
+      "full_name": "J. Ouwens",
+      "place": "Dordrecht",
+      "gender": "v",
+      "last_name": "Ouwens",
+      "first_name": "Hanneke"
+    }
+  ]
+}

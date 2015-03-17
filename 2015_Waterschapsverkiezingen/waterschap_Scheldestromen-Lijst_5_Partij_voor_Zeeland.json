@@ -1,1 +1,214 @@
-{"description": "", "members": [{"first_name": "Gert-Jan", "last_name": "Minderhoud", "gender": "m", "place": "Oudelande", "full_name": "G.C.J. Minderhoud", "position": 1}, {"first_name": "Kees", "last_name": "Hanse", "gender": "m", "place": "Zierikzee", "full_name": "C.H.J. Hanse", "position": 2}, {"first_name": "Marien", "last_name": "Weststrate", "gender": "m", "place": "Krabbendijke", "full_name": "M. Weststrate", "position": 3}, {"first_name": "Fran\u00e7ois", "last_name": "Babijn", "gender": "m", "place": "Oostburg", "full_name": "F. Babijn", "position": 4}, {"first_name": "Lia", "last_name": "Flikweert", "gender": "v", "place": "Sluis", "full_name": "L.E. Flikweert", "position": 5}, {"first_name": "Han", "last_name": "van \u0165 Hof", "gender": "m", "place": "Sint-Annaland", "full_name": "J.J. van \u0165 Hof", "position": 6}, {"first_name": "Ruud", "last_name": "Muste", "gender": "m", "place": "Vlissingen", "full_name": "R. Muste", "position": 7}, {"first_name": "Wim", "last_name": "Dieleman", "gender": "m", "place": "Krabbendijke", "full_name": "W.J.C. Dieleman", "position": 8}, {"first_name": "Mascha", "last_name": "Boone-Tuijnman", "gender": "v", "place": "Oostdijk", "full_name": "M.A. Boone-Tuijnman", "position": 9}, {"first_name": "Ester", "last_name": "van de Wouw", "gender": "v", "place": "Waterlandkerkje", "full_name": "E.J. van de Wouw", "position": 10}, {"first_name": "Nico", "last_name": "van der Hoest", "gender": "m", "place": "Yerseke", "full_name": "N. van der Hoest", "position": 11}, {"first_name": "Cees", "last_name": "Koopman", "gender": "m", "place": "Sint-Annaland", "full_name": "C.J. Koopman", "position": 12}, {"first_name": "Rien", "last_name": "van Hekken", "gender": "m", "place": "Oudelande", "full_name": "M.C. van Hekken", "position": 13}, {"first_name": "Joey", "last_name": "Smet", "gender": "m", "place": "Hansweert", "full_name": "J. Smet", "position": 14}, {"first_name": "Marjan", "last_name": "van der Hoest-Drenth", "gender": "v", "place": "Yerseke", "full_name": "M.C. van der Hoest-Drenth", "position": 15}, {"first_name": "Luci\u00ebn", "last_name": "van den Broecke", "gender": "m", "place": "Breskens", "full_name": "L.H. van den Broecke", "position": 16}, {"first_name": "Nico", "last_name": "Werri", "gender": "m", "place": "'s-Heerenhoek", "full_name": "N.C.J. Werri", "position": 17}, {"first_name": "Bianca", "last_name": "Frankem\u00f6lle-Reugebrink", "gender": "v", "place": "Rilland", "full_name": "B.M. Frankem\u00f6lle-Reugebrink", "position": 18}, {"first_name": "Ted", "last_name": "Krijger", "gender": "m", "place": "Kruiningen", "full_name": "T.P. Krijger", "position": 19}, {"first_name": "Christiaan", "last_name": "Frankem\u00f6lle", "gender": "m", "place": "Rilland", "full_name": "C. Frankem\u00f6lle", "position": 20}, {"first_name": "Cor", "last_name": "Meijer", "gender": "m", "place": "Yerseke", "full_name": "C.H. Meijer", "position": 21}, {"first_name": "Sylvia", "last_name": "Gijzel-Brauns", "gender": "v", "place": "Hansweert", "full_name": "S. Gijzel-Brauns", "position": 22}, {"first_name": "Paul", "last_name": "Bruijns", "gender": "m", "place": "Heinkenszand", "full_name": "P.J.A.M. Bruijns", "position": 23}, {"first_name": "Berry", "last_name": "Kooiker", "gender": "m", "place": "Kwadendamme", "full_name": "B. Kooiker", "position": 24}, {"first_name": "Guus", "last_name": "Langeraert", "gender": "m", "place": "Oostburg", "full_name": "A.P. Langeraert", "position": 25}, {"first_name": "Marc", "last_name": "Rijk", "gender": "m", "place": "Schoondijke", "full_name": "M.M. Rijk", "position": 26}], "title": "Lijst_5_Partij_voor_Zeeland"}
+{
+  "title": "Lijst 5 Partij voor Zeeland",
+  "description": "",
+  "candidates": [
+    {
+      "position": 1,
+      "full_name": "G.C.J. Minderhoud",
+      "place": "Oudelande",
+      "gender": "m",
+      "last_name": "Minderhoud",
+      "first_name": "Gert-Jan"
+    },
+    {
+      "position": 2,
+      "full_name": "C.H.J. Hanse",
+      "place": "Zierikzee",
+      "gender": "m",
+      "last_name": "Hanse",
+      "first_name": "Kees"
+    },
+    {
+      "position": 3,
+      "full_name": "M. Weststrate",
+      "place": "Krabbendijke",
+      "gender": "m",
+      "last_name": "Weststrate",
+      "first_name": "Marien"
+    },
+    {
+      "position": 4,
+      "full_name": "F. Babijn",
+      "place": "Oostburg",
+      "gender": "m",
+      "last_name": "Babijn",
+      "first_name": "François"
+    },
+    {
+      "position": 5,
+      "full_name": "L.E. Flikweert",
+      "place": "Sluis",
+      "gender": "v",
+      "last_name": "Flikweert",
+      "first_name": "Lia"
+    },
+    {
+      "position": 6,
+      "full_name": "J.J. van ť Hof",
+      "place": "Sint-Annaland",
+      "gender": "m",
+      "last_name": "van ť Hof",
+      "first_name": "Han"
+    },
+    {
+      "position": 7,
+      "full_name": "R. Muste",
+      "place": "Vlissingen",
+      "gender": "m",
+      "last_name": "Muste",
+      "first_name": "Ruud"
+    },
+    {
+      "position": 8,
+      "full_name": "W.J.C. Dieleman",
+      "place": "Krabbendijke",
+      "gender": "m",
+      "last_name": "Dieleman",
+      "first_name": "Wim"
+    },
+    {
+      "position": 9,
+      "full_name": "M.A. Boone-Tuijnman",
+      "place": "Oostdijk",
+      "gender": "v",
+      "last_name": "Boone-Tuijnman",
+      "first_name": "Mascha"
+    },
+    {
+      "position": 10,
+      "full_name": "E.J. van de Wouw",
+      "place": "Waterlandkerkje",
+      "gender": "v",
+      "last_name": "van de Wouw",
+      "first_name": "Ester"
+    },
+    {
+      "position": 11,
+      "full_name": "N. van der Hoest",
+      "place": "Yerseke",
+      "gender": "m",
+      "last_name": "van der Hoest",
+      "first_name": "Nico"
+    },
+    {
+      "position": 12,
+      "full_name": "C.J. Koopman",
+      "place": "Sint-Annaland",
+      "gender": "m",
+      "last_name": "Koopman",
+      "first_name": "Cees"
+    },
+    {
+      "position": 13,
+      "full_name": "M.C. van Hekken",
+      "place": "Oudelande",
+      "gender": "m",
+      "last_name": "van Hekken",
+      "first_name": "Rien"
+    },
+    {
+      "position": 14,
+      "full_name": "J. Smet",
+      "place": "Hansweert",
+      "gender": "m",
+      "last_name": "Smet",
+      "first_name": "Joey"
+    },
+    {
+      "position": 15,
+      "full_name": "M.C. van der Hoest-Drenth",
+      "place": "Yerseke",
+      "gender": "v",
+      "last_name": "van der Hoest-Drenth",
+      "first_name": "Marjan"
+    },
+    {
+      "position": 16,
+      "full_name": "L.H. van den Broecke",
+      "place": "Breskens",
+      "gender": "m",
+      "last_name": "van den Broecke",
+      "first_name": "Luciën"
+    },
+    {
+      "position": 17,
+      "full_name": "N.C.J. Werri",
+      "place": "'s-Heerenhoek",
+      "gender": "m",
+      "last_name": "Werri",
+      "first_name": "Nico"
+    },
+    {
+      "position": 18,
+      "full_name": "B.M. Frankemölle-Reugebrink",
+      "place": "Rilland",
+      "gender": "v",
+      "last_name": "Frankemölle-Reugebrink",
+      "first_name": "Bianca"
+    },
+    {
+      "position": 19,
+      "full_name": "T.P. Krijger",
+      "place": "Kruiningen",
+      "gender": "m",
+      "last_name": "Krijger",
+      "first_name": "Ted"
+    },
+    {
+      "position": 20,
+      "full_name": "C. Frankemölle",
+      "place": "Rilland",
+      "gender": "m",
+      "last_name": "Frankemölle",
+      "first_name": "Christiaan"
+    },
+    {
+      "position": 21,
+      "full_name": "C.H. Meijer",
+      "place": "Yerseke",
+      "gender": "m",
+      "last_name": "Meijer",
+      "first_name": "Cor"
+    },
+    {
+      "position": 22,
+      "full_name": "S. Gijzel-Brauns",
+      "place": "Hansweert",
+      "gender": "v",
+      "last_name": "Gijzel-Brauns",
+      "first_name": "Sylvia"
+    },
+    {
+      "position": 23,
+      "full_name": "P.J.A.M. Bruijns",
+      "place": "Heinkenszand",
+      "gender": "m",
+      "last_name": "Bruijns",
+      "first_name": "Paul"
+    },
+    {
+      "position": 24,
+      "full_name": "B. Kooiker",
+      "place": "Kwadendamme",
+      "gender": "m",
+      "last_name": "Kooiker",
+      "first_name": "Berry"
+    },
+    {
+      "position": 25,
+      "full_name": "A.P. Langeraert",
+      "place": "Oostburg",
+      "gender": "m",
+      "last_name": "Langeraert",
+      "first_name": "Guus"
+    },
+    {
+      "position": 26,
+      "full_name": "M.M. Rijk",
+      "place": "Schoondijke",
+      "gender": "m",
+      "last_name": "Rijk",
+      "first_name": "Marc"
+    }
+  ]
+}

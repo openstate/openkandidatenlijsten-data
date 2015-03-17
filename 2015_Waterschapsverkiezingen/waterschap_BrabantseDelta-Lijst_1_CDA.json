@@ -1,1 +1,110 @@
-{"description": "", "members": [{"first_name": "Hans Peter", "last_name": "Verroen", "gender": "m", "place": "Lepelstraat", "full_name": "H.P. Verroen", "position": 1}, {"first_name": "Jacques", "last_name": "van der Aa", "gender": "m", "place": "Dongen", "full_name": "J.J.M. van der Aa", "position": 2}, {"first_name": "Jack", "last_name": "Verhulst", "gender": "m", "place": "Etten-Leur", "full_name": "J.A.P.G. Verhulst", "position": 3}, {"first_name": "Machiel", "last_name": "Resink", "gender": "m", "place": "Breda", "full_name": "M. Resink", "position": 4}, {"first_name": "Lian", "last_name": "Korst-Dingemans", "gender": "v", "place": "Steenbergen", "full_name": "C.A.M. Korst-Dingemans", "position": 5}, {"first_name": "Rin\u00e9", "last_name": "van Dongen", "gender": "m", "place": "Waalwijk", "full_name": "M. van Dongen", "position": 6}, {"first_name": "Harry", "last_name": "Langermans", "gender": "m", "place": "Roosendaal", "full_name": "H.G.L. Langermans", "position": 7}, {"first_name": "Jan", "last_name": "van Leeuwen", "gender": "m", "place": "Oudenbosch", "full_name": "J.W.J. van Leeuwen", "position": 8}, {"first_name": "Ad", "last_name": "van Tetering", "gender": "m", "place": "Hoeven", "full_name": "A.J.C. van Tetering", "position": 9}, {"first_name": "Rien", "last_name": "Hendrickx", "gender": "m", "place": "Breda", "full_name": "M.F.M. Hendrickx", "position": 10}, {"first_name": "Leo", "last_name": "Arnold", "gender": "m", "place": "Oosterhout", "full_name": "L.P. Arnold", "position": 11}, {"first_name": "Stephan", "last_name": "van der Veeken", "gender": "m", "place": "Breda", "full_name": "S.V.S. van der Veeken", "position": 12}, {"first_name": "Andr\u00e9", "last_name": "van der Kloot", "gender": "m", "place": "Achtmaal", "full_name": "A.M.M. van der Kloot", "position": 13}], "title": "Lijst_1_CDA"}
+{
+  "title": "Lijst 1 CDA",
+  "description": "",
+  "candidates": [
+    {
+      "position": 1,
+      "full_name": "H.P. Verroen",
+      "place": "Lepelstraat",
+      "gender": "m",
+      "last_name": "Verroen",
+      "first_name": "Hans Peter"
+    },
+    {
+      "position": 2,
+      "full_name": "J.J.M. van der Aa",
+      "place": "Dongen",
+      "gender": "m",
+      "last_name": "van der Aa",
+      "first_name": "Jacques"
+    },
+    {
+      "position": 3,
+      "full_name": "J.A.P.G. Verhulst",
+      "place": "Etten-Leur",
+      "gender": "m",
+      "last_name": "Verhulst",
+      "first_name": "Jack"
+    },
+    {
+      "position": 4,
+      "full_name": "M. Resink",
+      "place": "Breda",
+      "gender": "m",
+      "last_name": "Resink",
+      "first_name": "Machiel"
+    },
+    {
+      "position": 5,
+      "full_name": "C.A.M. Korst-Dingemans",
+      "place": "Steenbergen",
+      "gender": "v",
+      "last_name": "Korst-Dingemans",
+      "first_name": "Lian"
+    },
+    {
+      "position": 6,
+      "full_name": "M. van Dongen",
+      "place": "Waalwijk",
+      "gender": "m",
+      "last_name": "van Dongen",
+      "first_name": "Riné"
+    },
+    {
+      "position": 7,
+      "full_name": "H.G.L. Langermans",
+      "place": "Roosendaal",
+      "gender": "m",
+      "last_name": "Langermans",
+      "first_name": "Harry"
+    },
+    {
+      "position": 8,
+      "full_name": "J.W.J. van Leeuwen",
+      "place": "Oudenbosch",
+      "gender": "m",
+      "last_name": "van Leeuwen",
+      "first_name": "Jan"
+    },
+    {
+      "position": 9,
+      "full_name": "A.J.C. van Tetering",
+      "place": "Hoeven",
+      "gender": "m",
+      "last_name": "van Tetering",
+      "first_name": "Ad"
+    },
+    {
+      "position": 10,
+      "full_name": "M.F.M. Hendrickx",
+      "place": "Breda",
+      "gender": "m",
+      "last_name": "Hendrickx",
+      "first_name": "Rien"
+    },
+    {
+      "position": 11,
+      "full_name": "L.P. Arnold",
+      "place": "Oosterhout",
+      "gender": "m",
+      "last_name": "Arnold",
+      "first_name": "Leo"
+    },
+    {
+      "position": 12,
+      "full_name": "S.V.S. van der Veeken",
+      "place": "Breda",
+      "gender": "m",
+      "last_name": "van der Veeken",
+      "first_name": "Stephan"
+    },
+    {
+      "position": 13,
+      "full_name": "A.M.M. van der Kloot",
+      "place": "Achtmaal",
+      "gender": "m",
+      "last_name": "van der Kloot",
+      "first_name": "André"
+    }
+  ]
+}

@@ -1,1 +1,70 @@
-{"description": "Gecombineerd met Partij van de Arbeid (P.v.d.A.)", "members": [{"first_name": "Obe", "last_name": "Brandsma", "gender": "m", "place": "Wanneperveen", "full_name": "O.H. Brandsma", "position": 1}, {"first_name": "Paul", "last_name": "van Eijk", "gender": "m", "place": "Ruinen", "full_name": "P.J. van Eijk", "position": 2}, {"first_name": "Geertje", "last_name": "Veenstra", "gender": "v", "place": "Kalenberg", "full_name": "G. Veenstra", "position": 3}, {"first_name": "Albert", "last_name": "Kerssies", "gender": "m", "place": "Beilen", "full_name": "A. Kerssies", "position": 4}, {"first_name": "Henk Wiebe", "last_name": "van der Meulen", "gender": "m", "place": "Ruinen", "full_name": "H.W. van der Meulen", "position": 5}, {"first_name": "Cees", "last_name": "Slottje", "gender": "m", "place": "Hoogeveen", "full_name": "C. Slottje", "position": 6}, {"first_name": "Andr\u00e9", "last_name": "Westerdijk", "gender": "m", "place": "Beilen", "full_name": "J.A. Westerdijk", "position": 7}, {"first_name": "Wouter", "last_name": "de Ruijter", "gender": "m", "place": "de Wijk", "full_name": "W. de Ruijter", "position": 8}], "title": "Lijst_2_Water_Natuurlijk"}
+{
+  "title": "Lijst 2 Water Natuurlijk",
+  "description": "Gecombineerd met Partij van de Arbeid (P.v.d.A.)",
+  "candidates": [
+    {
+      "position": 1,
+      "full_name": "O.H. Brandsma",
+      "place": "Wanneperveen",
+      "gender": "m",
+      "last_name": "Brandsma",
+      "first_name": "Obe"
+    },
+    {
+      "position": 2,
+      "full_name": "P.J. van Eijk",
+      "place": "Ruinen",
+      "gender": "m",
+      "last_name": "van Eijk",
+      "first_name": "Paul"
+    },
+    {
+      "position": 3,
+      "full_name": "G. Veenstra",
+      "place": "Kalenberg",
+      "gender": "v",
+      "last_name": "Veenstra",
+      "first_name": "Geertje"
+    },
+    {
+      "position": 4,
+      "full_name": "A. Kerssies",
+      "place": "Beilen",
+      "gender": "m",
+      "last_name": "Kerssies",
+      "first_name": "Albert"
+    },
+    {
+      "position": 5,
+      "full_name": "H.W. van der Meulen",
+      "place": "Ruinen",
+      "gender": "m",
+      "last_name": "van der Meulen",
+      "first_name": "Henk Wiebe"
+    },
+    {
+      "position": 6,
+      "full_name": "C. Slottje",
+      "place": "Hoogeveen",
+      "gender": "m",
+      "last_name": "Slottje",
+      "first_name": "Cees"
+    },
+    {
+      "position": 7,
+      "full_name": "J.A. Westerdijk",
+      "place": "Beilen",
+      "gender": "m",
+      "last_name": "Westerdijk",
+      "first_name": "André"
+    },
+    {
+      "position": 8,
+      "full_name": "W. de Ruijter",
+      "place": "de Wijk",
+      "gender": "m",
+      "last_name": "de Ruijter",
+      "first_name": "Wouter"
+    }
+  ]
+}

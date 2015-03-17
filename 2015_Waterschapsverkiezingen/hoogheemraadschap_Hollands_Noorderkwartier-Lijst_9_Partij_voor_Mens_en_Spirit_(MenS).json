@@ -1,0 +1,126 @@
+{
+  "title": "Lijst 9 Partij voor Mens en Spirit (MenS)",
+  "description": "",
+  "candidates": [
+    {
+      "position": 1,
+      "full_name": "F.Z. Basoglu",
+      "place": "Koedijk",
+      "gender": "v",
+      "last_name": "Basoglu",
+      "first_name": "Zeliha"
+    },
+    {
+      "position": 2,
+      "full_name": "R.V. Wisse",
+      "place": "Egmond aan den Hoef",
+      "gender": "v",
+      "last_name": "Wisse",
+      "first_name": "Rascha"
+    },
+    {
+      "position": 3,
+      "full_name": "H. Mauritz",
+      "place": "Haarlem",
+      "gender": "v",
+      "last_name": "Mauritz",
+      "first_name": "Erika"
+    },
+    {
+      "position": 4,
+      "full_name": "J. Westerhof",
+      "place": "Alkmaar",
+      "gender": "v",
+      "last_name": "Westerhof",
+      "first_name": "Janet"
+    },
+    {
+      "position": 5,
+      "full_name": "M.C. Dijkstra",
+      "place": "Alkmaar",
+      "gender": "v",
+      "last_name": "Dijkstra",
+      "first_name": "Marike"
+    },
+    {
+      "position": 6,
+      "full_name": "B.M. Möllers",
+      "place": "Egmond-Binnen",
+      "gender": "v",
+      "last_name": "Möllers",
+      "first_name": "Bea"
+    },
+    {
+      "position": 7,
+      "full_name": "A. Meij",
+      "place": "Zaandam",
+      "gender": "v",
+      "last_name": "Meij",
+      "first_name": "Astrid"
+    },
+    {
+      "position": 8,
+      "full_name": "M.B. Bouwmeester",
+      "place": "Alkmaar",
+      "gender": "v",
+      "last_name": "Bouwmeester",
+      "first_name": "Mirjam"
+    },
+    {
+      "position": 9,
+      "full_name": "D. Veenstra",
+      "place": "Noord-Scharwoude",
+      "gender": "v",
+      "last_name": "Veenstra",
+      "first_name": "Dita"
+    },
+    {
+      "position": 10,
+      "full_name": "D. Westra",
+      "place": "Alkmaar",
+      "gender": "m",
+      "last_name": "Westra",
+      "first_name": "Dick"
+    },
+    {
+      "position": 11,
+      "full_name": "M.C.J. Loot",
+      "place": "Alkmaar",
+      "gender": "m",
+      "last_name": "Loot",
+      "first_name": "Martjan"
+    },
+    {
+      "position": 12,
+      "full_name": "J.A.J. Vloet",
+      "place": "Egmond aan den Hoef",
+      "gender": "m",
+      "last_name": "Vloet",
+      "first_name": "Jelle"
+    },
+    {
+      "position": 13,
+      "full_name": "C.M.M. Warmer",
+      "place": "Alkmaar",
+      "gender": "m",
+      "last_name": "Warmer",
+      "first_name": "Cees"
+    },
+    {
+      "position": 14,
+      "full_name": "T.R.M. Kuiper",
+      "place": "Egmond aan den Hoef",
+      "gender": "m",
+      "last_name": "Kuiper",
+      "first_name": "Micha"
+    },
+    {
+      "position": 15,
+      "full_name": "P.J.M. Sträter",
+      "place": "Amsterdam",
+      "gender": "m",
+      "last_name": "Sträter",
+      "first_name": "Paul"
+    }
+  ]
+}

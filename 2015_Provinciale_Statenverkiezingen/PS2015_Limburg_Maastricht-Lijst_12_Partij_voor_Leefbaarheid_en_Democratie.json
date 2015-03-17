@@ -1,0 +1,62 @@
+{
+  "title": "Lijst_12 Partij voor Leefbaarheid en Democratie",
+  "description": "",
+  "candidates": [
+    {
+      "position": 1,
+      "full_name": "C.G.L. Bosman",
+      "place": "Roermond",
+      "gender": "m",
+      "last_name": "Bosman",
+      "first_name": "Cor"
+    },
+    {
+      "position": 2,
+      "full_name": "M.G.E. Jacobs",
+      "place": "Roermond",
+      "gender": "v",
+      "last_name": "Jacobs",
+      "first_name": "Carina"
+    },
+    {
+      "position": 3,
+      "full_name": "J.C.M. Tobben",
+      "place": "Swalmen",
+      "gender": "m",
+      "last_name": "Tobben",
+      "first_name": "Jos"
+    },
+    {
+      "position": 4,
+      "full_name": "J.F. Cusell",
+      "place": "Roermond",
+      "gender": "m",
+      "last_name": "Cusell",
+      "first_name": "Jaap"
+    },
+    {
+      "position": 5,
+      "full_name": "D.P. Krul",
+      "place": "Roermond",
+      "gender": "m",
+      "last_name": "Krul",
+      "first_name": "Dick"
+    },
+    {
+      "position": 6,
+      "full_name": "L.S. Koelen",
+      "place": "Roermond",
+      "gender": "m",
+      "last_name": "Koelen",
+      "first_name": "Leo"
+    },
+    {
+      "position": 7,
+      "full_name": "R. Hompe",
+      "place": "Venlo",
+      "gender": "m",
+      "last_name": "Hompe",
+      "first_name": "Rob"
+    }
+  ]
+}

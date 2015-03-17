@@ -1,0 +1,78 @@
+{
+  "title": "Lijst 11 Partij voor de Dieren",
+  "description": "Gecombineerd met 50PLUS",
+  "candidates": [
+    {
+      "position": 1,
+      "full_name": "L. Vestering",
+      "place": "Almere",
+      "gender": "v",
+      "last_name": "Vestering",
+      "first_name": "Leonie"
+    },
+    {
+      "position": 2,
+      "full_name": "M.C. Bax",
+      "place": "Almere",
+      "gender": "v",
+      "last_name": "Bax",
+      "first_name": "Melissa"
+    },
+    {
+      "position": 3,
+      "full_name": "A.W.H.J. van der Avoird",
+      "place": "Zeewolde",
+      "gender": "m",
+      "last_name": "van der Avoird",
+      "first_name": "Adri"
+    },
+    {
+      "position": 4,
+      "full_name": "R. van der Sloot",
+      "place": "Lelystad",
+      "gender": "m",
+      "last_name": "van der Sloot",
+      "first_name": "Rob"
+    },
+    {
+      "position": 5,
+      "full_name": "F. van Staa",
+      "place": "Lelystad",
+      "gender": "m",
+      "last_name": "van Staa",
+      "first_name": "Francis"
+    },
+    {
+      "position": 6,
+      "full_name": "C.J.M. Dekker",
+      "place": "Almere",
+      "gender": "v",
+      "last_name": "Dekker",
+      "first_name": "Jenny"
+    },
+    {
+      "position": 7,
+      "full_name": "C. Vlak",
+      "place": "Almere",
+      "gender": "m",
+      "last_name": "Vlak",
+      "first_name": "Kees"
+    },
+    {
+      "position": 8,
+      "full_name": "J.S. Jansen",
+      "place": "Dronten",
+      "gender": "v",
+      "last_name": "Jansen",
+      "first_name": "Jessica"
+    },
+    {
+      "position": 9,
+      "full_name": "G.A. Oostindie",
+      "place": "Lelystad",
+      "gender": "v",
+      "last_name": "Oostindie",
+      "first_name": "Gelfske"
+    }
+  ]
+}

@@ -1,0 +1,406 @@
+{
+  "title": "Lijst 2 CDA",
+  "description": "",
+  "candidates": [
+    {
+      "position": 1,
+      "full_name": "S. de Rouwe",
+      "place": "Bolsward",
+      "gender": "m",
+      "last_name": "de Rouwe",
+      "first_name": "Sander"
+    },
+    {
+      "position": 2,
+      "full_name": "S.A.E. Poepjes",
+      "place": "Makkum",
+      "gender": "v",
+      "last_name": "Poepjes",
+      "first_name": "Sietske"
+    },
+    {
+      "position": 3,
+      "full_name": "J.A. Tjalsma",
+      "place": "Leeuwarden",
+      "gender": "m",
+      "last_name": "Tjalsma",
+      "first_name": "Johan"
+    },
+    {
+      "position": 4,
+      "full_name": "F.B. Teernstra",
+      "place": "Bolsward",
+      "gender": "v",
+      "last_name": "Teernstra",
+      "first_name": "Fernande"
+    },
+    {
+      "position": 5,
+      "full_name": "J.A.C.M. Vroonland-Brandsen",
+      "place": "Franeker",
+      "gender": "v",
+      "last_name": "Vroonland-Brandsen",
+      "first_name": "José"
+    },
+    {
+      "position": 6,
+      "full_name": "W. Eilering",
+      "place": "Drachten",
+      "gender": "m",
+      "last_name": "Eilering",
+      "first_name": "Wim"
+    },
+    {
+      "position": 7,
+      "full_name": "T.A. Dorrepaal",
+      "place": "Makkinga",
+      "gender": "m",
+      "last_name": "Dorrepaal",
+      "first_name": "Teus"
+    },
+    {
+      "position": 8,
+      "full_name": "J. Visser",
+      "place": "Oldeholtpade",
+      "gender": "m",
+      "last_name": "Visser",
+      "first_name": "Hans"
+    },
+    {
+      "position": 9,
+      "full_name": "W.M.A.A. Zuidema-Haans",
+      "place": "Minnertsga",
+      "gender": "v",
+      "last_name": "Zuidema-Haans",
+      "first_name": "Wendy"
+    },
+    {
+      "position": 10,
+      "full_name": "M. Prins-Meindertsma",
+      "place": "Oentsjerk",
+      "gender": "v",
+      "last_name": "Prins-Meindertsma",
+      "first_name": "Maaike"
+    },
+    {
+      "position": 11,
+      "full_name": "F.H. Reitsma-Hazelhoff",
+      "place": "Hegebeintum",
+      "gender": "v",
+      "last_name": "Reitsma-Hazelhoff",
+      "first_name": "Fenny"
+    },
+    {
+      "position": 12,
+      "full_name": "A. Schelhaas",
+      "place": "Blesdijke",
+      "gender": "m",
+      "last_name": "Schelhaas",
+      "first_name": "Anne"
+    },
+    {
+      "position": 13,
+      "full_name": "R.H. Algra",
+      "place": "Jubbega",
+      "gender": "m",
+      "last_name": "Algra",
+      "first_name": "Rendert"
+    },
+    {
+      "position": 14,
+      "full_name": "J. van Tuinen",
+      "place": "Berltsum",
+      "gender": "m",
+      "last_name": "van Tuinen",
+      "first_name": "Johan"
+    },
+    {
+      "position": 15,
+      "full_name": "M. Beute",
+      "place": "Sneek",
+      "gender": "m",
+      "last_name": "Beute",
+      "first_name": "Matthijs"
+    },
+    {
+      "position": 16,
+      "full_name": "A. Wachter-van Veen",
+      "place": "Stiens",
+      "gender": "v",
+      "last_name": "Wachter-van Veen",
+      "first_name": "Agda"
+    },
+    {
+      "position": 17,
+      "full_name": "J. Wesselius",
+      "place": "Bantega",
+      "gender": "m",
+      "last_name": "Wesselius",
+      "first_name": "Jelle"
+    },
+    {
+      "position": 18,
+      "full_name": "T. Dijk",
+      "place": "Burgum",
+      "gender": "m",
+      "last_name": "Dijk",
+      "first_name": "Teije"
+    },
+    {
+      "position": 19,
+      "full_name": "Z. Zweers",
+      "place": "Drachten",
+      "gender": "m",
+      "last_name": "Zweers",
+      "first_name": "Ties"
+    },
+    {
+      "position": 20,
+      "full_name": "P. Strikwerda",
+      "place": "Feanwâlden",
+      "gender": "m",
+      "last_name": "Strikwerda",
+      "first_name": "Paulus"
+    },
+    {
+      "position": 21,
+      "full_name": "S. Mulder",
+      "place": "Allingawier",
+      "gender": "m",
+      "last_name": "Mulder",
+      "first_name": "Sijbren"
+    },
+    {
+      "position": 22,
+      "full_name": "M. Claus",
+      "place": "Harkema",
+      "gender": "m",
+      "last_name": "Claus",
+      "first_name": "Marten"
+    },
+    {
+      "position": 23,
+      "full_name": "S.O. Miedema",
+      "place": "Twijzel",
+      "gender": "m",
+      "last_name": "Miedema",
+      "first_name": "Sietse"
+    },
+    {
+      "position": 24,
+      "full_name": "J.A. Elzinga",
+      "place": "Burgum",
+      "gender": "v",
+      "last_name": "Elzinga",
+      "first_name": "Jeltje"
+    },
+    {
+      "position": 25,
+      "full_name": "D. de Vries",
+      "place": "Noardburgum",
+      "gender": "v",
+      "last_name": "de Vries",
+      "first_name": "Dieuwke"
+    },
+    {
+      "position": 26,
+      "full_name": "J. Appelhof",
+      "place": "Dokkum",
+      "gender": "m",
+      "last_name": "Appelhof",
+      "first_name": "Jacob"
+    },
+    {
+      "position": 27,
+      "full_name": "D. Groen-Tamminga",
+      "place": "Drachten",
+      "gender": "v",
+      "last_name": "Groen-Tamminga",
+      "first_name": "Durkje"
+    },
+    {
+      "position": 28,
+      "full_name": "J. Lolkema",
+      "place": "Bitgum",
+      "gender": "v",
+      "last_name": "Lolkema",
+      "first_name": "Jantje"
+    },
+    {
+      "position": 29,
+      "full_name": "J.D. Tiemersma",
+      "place": "Franeker",
+      "gender": "m",
+      "last_name": "Tiemersma",
+      "first_name": "Jan Douwe"
+    },
+    {
+      "position": 30,
+      "full_name": "H. Visser",
+      "place": "Damwâld",
+      "gender": "m",
+      "last_name": "Visser",
+      "first_name": "Hilbrand"
+    },
+    {
+      "position": 31,
+      "full_name": "H.B. Nota",
+      "place": "Sint Nicolaasga",
+      "gender": "m",
+      "last_name": "Nota",
+      "first_name": "Harry"
+    },
+    {
+      "position": 32,
+      "full_name": "F.M. van der Meulen-Diever",
+      "place": "Grou",
+      "gender": "v",
+      "last_name": "van der Meulen-Diever",
+      "first_name": "Fokelien"
+    },
+    {
+      "position": 33,
+      "full_name": "H.H. Terpstra",
+      "place": "Sexbierum",
+      "gender": "m",
+      "last_name": "Terpstra",
+      "first_name": "Hessel"
+    },
+    {
+      "position": 34,
+      "full_name": "A. van der Ploeg",
+      "place": "Readtsjerk",
+      "gender": "m",
+      "last_name": "van der Ploeg",
+      "first_name": "Albert"
+    },
+    {
+      "position": 35,
+      "full_name": "E.Q.M. Veltmans",
+      "place": "Leeuwarden",
+      "gender": "v",
+      "last_name": "Veltmans",
+      "first_name": "Liesbeth"
+    },
+    {
+      "position": 36,
+      "full_name": "U. Attema-de Groot",
+      "place": "Ferwoude",
+      "gender": "v",
+      "last_name": "Attema-de Groot",
+      "first_name": "Uilkje"
+    },
+    {
+      "position": 37,
+      "full_name": "H.S. Halbersma",
+      "place": "Dokkum",
+      "gender": "m",
+      "last_name": "Halbersma",
+      "first_name": "Hayo"
+    },
+    {
+      "position": 38,
+      "full_name": "J. van der Mark-Wolters",
+      "place": "Ureterp",
+      "gender": "v",
+      "last_name": "van der Mark-Wolters",
+      "first_name": "Janny"
+    },
+    {
+      "position": 39,
+      "full_name": "G.R. Akkerman-Wielinga",
+      "place": "Sneek",
+      "gender": "v",
+      "last_name": "Akkerman-Wielinga",
+      "first_name": "Gea"
+    },
+    {
+      "position": 40,
+      "full_name": "D.S. de Vries",
+      "place": "Leeuwarden",
+      "gender": "m",
+      "last_name": "de Vries",
+      "first_name": "Dirk Sierd"
+    },
+    {
+      "position": 41,
+      "full_name": "M. Steegenga",
+      "place": "Balk",
+      "gender": "m",
+      "last_name": "Steegenga",
+      "first_name": "Marten"
+    },
+    {
+      "position": 42,
+      "full_name": "S.M.A. Twickler",
+      "place": "Ameland",
+      "gender": "v",
+      "last_name": "Twickler",
+      "first_name": "Suzanna"
+    },
+    {
+      "position": 43,
+      "full_name": "L. Boelsma-Hoekstra",
+      "place": "Idskenhuizen",
+      "gender": "v",
+      "last_name": "Boelsma-Hoekstra",
+      "first_name": "Lucienne"
+    },
+    {
+      "position": 44,
+      "full_name": "W. Schukken",
+      "place": "Dronryp",
+      "gender": "m",
+      "last_name": "Schukken",
+      "first_name": "Wiepke"
+    },
+    {
+      "position": 45,
+      "full_name": "H.K. van der Wielen",
+      "place": "Baaiduinen",
+      "gender": "m",
+      "last_name": "van der Wielen",
+      "first_name": "Hendrik"
+    },
+    {
+      "position": 46,
+      "full_name": "A. van der Wal",
+      "place": "Wijnjewoude",
+      "gender": "v",
+      "last_name": "van der Wal",
+      "first_name": "Alies"
+    },
+    {
+      "position": 47,
+      "full_name": "S.A. Veenstra",
+      "place": "Franeker",
+      "gender": "v",
+      "last_name": "Veenstra",
+      "first_name": "Sibrecht"
+    },
+    {
+      "position": 48,
+      "full_name": "P.S. Fortuin",
+      "place": "Drachten",
+      "gender": "m",
+      "last_name": "Fortuin",
+      "first_name": "Piet"
+    },
+    {
+      "position": 49,
+      "full_name": "D.T.G. Zwaga",
+      "place": "Joure",
+      "gender": "m",
+      "last_name": "Zwaga",
+      "first_name": "Douwe"
+    },
+    {
+      "position": 50,
+      "full_name": "J.J. Atsma",
+      "place": "Surhuisterveen",
+      "gender": "m",
+      "last_name": "Atsma",
+      "first_name": "Joop"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "title": "Lijst 10 50PLUS",
+  "description": "",
+  "candidates": [
+    {
+      "position": 1,
+      "full_name": "W.M.M. Hoek",
+      "place": "Vreeland",
+      "gender": "v",
+      "last_name": "Hoek",
+      "first_name": "Mieke"
+    },
+    {
+      "position": 2,
+      "full_name": "M. Spaargaren-Nieuwerf",
+      "place": "Doorn",
+      "gender": "v",
+      "last_name": "Spaargaren-Nieuwerf",
+      "first_name": "Marianne"
+    },
+    {
+      "position": 3,
+      "full_name": "P.J.B. Koning",
+      "place": "Amersfoort",
+      "gender": "m",
+      "last_name": "Koning",
+      "first_name": "Peter"
+    },
+    {
+      "position": 4,
+      "full_name": "W.W.M. Bouwman",
+      "place": "Achterveld",
+      "gender": "m",
+      "last_name": "Bouwman",
+      "first_name": "Wil"
+    },
+    {
+      "position": 5,
+      "full_name": "J.G. van Koert",
+      "place": "Doorn",
+      "gender": "m",
+      "last_name": "van Koert",
+      "first_name": "Jan"
+    },
+    {
+      "position": 6,
+      "full_name": "N. de Ru",
+      "place": "Utrecht",
+      "gender": "v",
+      "last_name": "de Ru",
+      "first_name": "Naama"
+    },
+    {
+      "position": 7,
+      "full_name": "A.P.J. Richter",
+      "place": "Vinkeveen",
+      "gender": "m",
+      "last_name": "Richter",
+      "first_name": "Ton"
+    },
+    {
+      "position": 8,
+      "full_name": "F.C. Portengen",
+      "place": "Loenen aan de Vecht",
+      "gender": "m",
+      "last_name": "Portengen",
+      "first_name": "Chris"
+    },
+    {
+      "position": 9,
+      "full_name": "J.M. Gadellaa",
+      "place": "Utrecht",
+      "gender": "m",
+      "last_name": "Gadellaa",
+      "first_name": "Jack"
+    },
+    {
+      "position": 10,
+      "full_name": "H.J. Troost",
+      "place": "Nieuwegein",
+      "gender": "m",
+      "last_name": "Troost",
+      "first_name": "Herman"
+    },
+    {
+      "position": 11,
+      "full_name": "M. Koopman",
+      "place": "Amersfoort",
+      "gender": "m",
+      "last_name": "Koopman",
+      "first_name": "Maurice"
+    }
+  ]
+}

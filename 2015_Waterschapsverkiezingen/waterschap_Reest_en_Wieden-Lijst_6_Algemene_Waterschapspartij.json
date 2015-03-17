@@ -1,1 +1,78 @@
-{"description": "", "members": [{"first_name": "Arja", "last_name": "Doornbos", "gender": "v", "place": "Meppel", "full_name": "A.J. Doornbos", "position": 1}, {"first_name": "Jan", "last_name": "van Oorschot", "gender": "m", "place": "Hoogeveen", "full_name": "J. van Oorschot", "position": 2}, {"first_name": "Georgine", "last_name": "Somer", "gender": "v", "place": "Giethoorn", "full_name": "G.M. Somer", "position": 3}, {"first_name": "Peter", "last_name": "de Vries", "gender": "m", "place": "Meppel", "full_name": "P. de Vries", "position": 4}, {"first_name": "Douwe", "last_name": "Oosterveen", "gender": "m", "place": "Zuidwolde", "full_name": "D. Oosterveen", "position": 5}, {"first_name": "Jan", "last_name": "Stoefzand", "gender": "m", "place": "Hoogeveen", "full_name": "J. Stoefzand", "position": 6}, {"first_name": "Geke", "last_name": "Kiers", "gender": "v", "place": "Uffelte", "full_name": "G. Kiers", "position": 7}, {"first_name": "Frans", "last_name": "van Dongen", "gender": "m", "place": "Diever", "full_name": "F.A. van Dongen", "position": 8}, {"first_name": "Rosalien", "last_name": "Zandwijk", "gender": "v", "place": "Nijeveen", "full_name": "R. Zandwijk", "position": 9}], "title": "Lijst_6_Algemene_Waterschapspartij"}
+{
+  "title": "Lijst 6 Algemene Waterschapspartij",
+  "description": "",
+  "candidates": [
+    {
+      "position": 1,
+      "full_name": "A.J. Doornbos",
+      "place": "Meppel",
+      "gender": "v",
+      "last_name": "Doornbos",
+      "first_name": "Arja"
+    },
+    {
+      "position": 2,
+      "full_name": "J. van Oorschot",
+      "place": "Hoogeveen",
+      "gender": "m",
+      "last_name": "van Oorschot",
+      "first_name": "Jan"
+    },
+    {
+      "position": 3,
+      "full_name": "G.M. Somer",
+      "place": "Giethoorn",
+      "gender": "v",
+      "last_name": "Somer",
+      "first_name": "Georgine"
+    },
+    {
+      "position": 4,
+      "full_name": "P. de Vries",
+      "place": "Meppel",
+      "gender": "m",
+      "last_name": "de Vries",
+      "first_name": "Peter"
+    },
+    {
+      "position": 5,
+      "full_name": "D. Oosterveen",
+      "place": "Zuidwolde",
+      "gender": "m",
+      "last_name": "Oosterveen",
+      "first_name": "Douwe"
+    },
+    {
+      "position": 6,
+      "full_name": "J. Stoefzand",
+      "place": "Hoogeveen",
+      "gender": "m",
+      "last_name": "Stoefzand",
+      "first_name": "Jan"
+    },
+    {
+      "position": 7,
+      "full_name": "G. Kiers",
+      "place": "Uffelte",
+      "gender": "v",
+      "last_name": "Kiers",
+      "first_name": "Geke"
+    },
+    {
+      "position": 8,
+      "full_name": "F.A. van Dongen",
+      "place": "Diever",
+      "gender": "m",
+      "last_name": "van Dongen",
+      "first_name": "Frans"
+    },
+    {
+      "position": 9,
+      "full_name": "R. Zandwijk",
+      "place": "Nijeveen",
+      "gender": "v",
+      "last_name": "Zandwijk",
+      "first_name": "Rosalien"
+    }
+  ]
+}

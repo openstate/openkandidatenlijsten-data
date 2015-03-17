@@ -1,1 +1,126 @@
-{"description": "Gecombineerd met Waterbelang Westelijke Mijnstreek en Waterbelang Heuvelland en Waterbelang", "members": [{"first_name": "Remy", "last_name": "Sleijpen", "gender": "m", "place": "Hulsberg", "full_name": "R.L.M. Sleijpen", "position": 1}, {"first_name": "Gerard", "last_name": "Vanhommerig", "gender": "m", "place": "Simpelveld", "full_name": "G.J.O.W. Vanhommerig", "position": 2}, {"first_name": "Huub", "last_name": "Quaedvlieg", "gender": "m", "place": "Heerlen", "full_name": "H.G.H.M. Quaedvlieg", "position": 3}, {"first_name": "Sjef", "last_name": "Jonker", "gender": "m", "place": "Landgraaf", "full_name": "J.C. Jonker", "position": 4}, {"first_name": "Jan", "last_name": "Middelveld", "gender": "m", "place": "Brunssum", "full_name": "J.M.H. Middelveld", "position": 5}, {"first_name": "Yannick", "last_name": "Lataster", "gender": "m", "place": "Kerkrade", "full_name": "Y.J.F. Lataster", "position": 6}, {"first_name": "Maria", "last_name": "Paulissen", "gender": "v", "place": "Voerendaal", "full_name": "M.H.A.T. Paulissen", "position": 7}, {"first_name": "Huub", "last_name": "Beckers", "gender": "m", "place": "Jabeek", "full_name": "H.J. Beckers", "position": 8}, {"first_name": "Hans", "last_name": "Peters", "gender": "m", "place": "Heerlen", "full_name": "J.M.G. Peters", "position": 9}, {"first_name": "Bert", "last_name": "Lanckohr", "gender": "m", "place": "Kerkrade", "full_name": "H.A.P.P. Lanckohr", "position": 10}, {"first_name": "Wim", "last_name": "A'Campo", "gender": "m", "place": "Brunssum", "full_name": "W.A.L.M. A'Campo", "position": 11}, {"first_name": "Jorn", "last_name": "Ballas", "gender": "m", "place": "Kerkrade", "full_name": "J. Ballas", "position": 12}, {"first_name": "Hannie", "last_name": "Heine-van Dartel", "gender": "v", "place": "Heerlen", "full_name": "J.A. Heine-van Dartel", "position": 13}, {"first_name": "Charles", "last_name": "Claessens", "gender": "m", "place": "Heerlen", "full_name": "C.M.J.P. Claessens", "position": 14}, {"first_name": "Ellie", "last_name": "Franssen-Muijtjens", "gender": "v", "place": "Voerendaal", "full_name": "E.L.M. Franssen-Muijtjens", "position": 15}], "title": "Lijst_1_Waterbelang_Parkstad"}
+{
+  "title": "Lijst 1 Waterbelang Parkstad",
+  "description": "Gecombineerd met Waterbelang Westelijke Mijnstreek en Waterbelang Heuvelland en Waterbelang",
+  "candidates": [
+    {
+      "position": 1,
+      "full_name": "R.L.M. Sleijpen",
+      "place": "Hulsberg",
+      "gender": "m",
+      "last_name": "Sleijpen",
+      "first_name": "Remy"
+    },
+    {
+      "position": 2,
+      "full_name": "G.J.O.W. Vanhommerig",
+      "place": "Simpelveld",
+      "gender": "m",
+      "last_name": "Vanhommerig",
+      "first_name": "Gerard"
+    },
+    {
+      "position": 3,
+      "full_name": "H.G.H.M. Quaedvlieg",
+      "place": "Heerlen",
+      "gender": "m",
+      "last_name": "Quaedvlieg",
+      "first_name": "Huub"
+    },
+    {
+      "position": 4,
+      "full_name": "J.C. Jonker",
+      "place": "Landgraaf",
+      "gender": "m",
+      "last_name": "Jonker",
+      "first_name": "Sjef"
+    },
+    {
+      "position": 5,
+      "full_name": "J.M.H. Middelveld",
+      "place": "Brunssum",
+      "gender": "m",
+      "last_name": "Middelveld",
+      "first_name": "Jan"
+    },
+    {
+      "position": 6,
+      "full_name": "Y.J.F. Lataster",
+      "place": "Kerkrade",
+      "gender": "m",
+      "last_name": "Lataster",
+      "first_name": "Yannick"
+    },
+    {
+      "position": 7,
+      "full_name": "M.H.A.T. Paulissen",
+      "place": "Voerendaal",
+      "gender": "v",
+      "last_name": "Paulissen",
+      "first_name": "Maria"
+    },
+    {
+      "position": 8,
+      "full_name": "H.J. Beckers",
+      "place": "Jabeek",
+      "gender": "m",
+      "last_name": "Beckers",
+      "first_name": "Huub"
+    },
+    {
+      "position": 9,
+      "full_name": "J.M.G. Peters",
+      "place": "Heerlen",
+      "gender": "m",
+      "last_name": "Peters",
+      "first_name": "Hans"
+    },
+    {
+      "position": 10,
+      "full_name": "H.A.P.P. Lanckohr",
+      "place": "Kerkrade",
+      "gender": "m",
+      "last_name": "Lanckohr",
+      "first_name": "Bert"
+    },
+    {
+      "position": 11,
+      "full_name": "W.A.L.M. A'Campo",
+      "place": "Brunssum",
+      "gender": "m",
+      "last_name": "A'Campo",
+      "first_name": "Wim"
+    },
+    {
+      "position": 12,
+      "full_name": "J. Ballas",
+      "place": "Kerkrade",
+      "gender": "m",
+      "last_name": "Ballas",
+      "first_name": "Jorn"
+    },
+    {
+      "position": 13,
+      "full_name": "J.A. Heine-van Dartel",
+      "place": "Heerlen",
+      "gender": "v",
+      "last_name": "Heine-van Dartel",
+      "first_name": "Hannie"
+    },
+    {
+      "position": 14,
+      "full_name": "C.M.J.P. Claessens",
+      "place": "Heerlen",
+      "gender": "m",
+      "last_name": "Claessens",
+      "first_name": "Charles"
+    },
+    {
+      "position": 15,
+      "full_name": "E.L.M. Franssen-Muijtjens",
+      "place": "Voerendaal",
+      "gender": "v",
+      "last_name": "Franssen-Muijtjens",
+      "first_name": "Ellie"
+    }
+  ]
+}

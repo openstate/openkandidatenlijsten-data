@@ -1,1 +1,118 @@
-{"description": "", "members": [{"first_name": "Martin", "last_name": "Fransen", "gender": "m", "place": "Apeldoorn", "full_name": "M. Fransen", "position": 1}, {"first_name": "Roel", "last_name": "Kremers", "gender": "m", "place": "Ede", "full_name": "R. Kremers", "position": 2}, {"first_name": "Richard", "last_name": "Vedder", "gender": "m", "place": "Bunschoten", "full_name": "H.L. Vedder", "position": 3}, {"first_name": "Francisca", "last_name": "van den Broeke", "gender": "v", "place": "Bennekom", "full_name": "F. van den Broeke", "position": 4}, {"first_name": "Kees", "last_name": "Tolboom", "gender": "m", "place": "Leusden", "full_name": "C.G.J. Tolboom", "position": 5}, {"first_name": "Rob", "last_name": "Doorn", "gender": "m", "place": "Terschuur", "full_name": "D.R. Doorn", "position": 6}, {"first_name": "Alfred", "last_name": "Jansen", "gender": "m", "place": "Welsum", "full_name": "A.G.J. Jansen", "position": 7}, {"first_name": "Kees", "last_name": "van 't Klooster", "gender": "m", "place": "Nijkerk", "full_name": "C.J.M. van 't Klooster", "position": 8}, {"first_name": "Koos", "last_name": "Egtberts", "gender": "m", "place": "Leusden", "full_name": "N.J.G. Egtberts", "position": 9}, {"first_name": "Bert", "last_name": "van de Zedde", "gender": "m", "place": "Twello", "full_name": "E. van de Zedde", "position": 10}, {"first_name": "Bert", "last_name": "Veldhuizen", "gender": "m", "place": "Putten", "full_name": "B. Veldhuizen", "position": 11}, {"first_name": "Gerrit", "last_name": "te Bokkel", "gender": "m", "place": "Eerbeek", "full_name": "G.S.W. te Bokkel", "position": 12}, {"first_name": "Bert", "last_name": "Hokken", "gender": "m", "place": "Wilp", "full_name": "G.C. Hokken", "position": 13}, {"first_name": "Ieteke", "last_name": "Wegman", "gender": "v", "place": "Apeldoorn", "full_name": "I.L. Wegman", "position": 14}], "title": "Lijst_6_CDA"}
+{
+  "title": "Lijst 6 CDA",
+  "description": "",
+  "candidates": [
+    {
+      "position": 1,
+      "full_name": "M. Fransen",
+      "place": "Apeldoorn",
+      "gender": "m",
+      "last_name": "Fransen",
+      "first_name": "Martin"
+    },
+    {
+      "position": 2,
+      "full_name": "R. Kremers",
+      "place": "Ede",
+      "gender": "m",
+      "last_name": "Kremers",
+      "first_name": "Roel"
+    },
+    {
+      "position": 3,
+      "full_name": "H.L. Vedder",
+      "place": "Bunschoten",
+      "gender": "m",
+      "last_name": "Vedder",
+      "first_name": "Richard"
+    },
+    {
+      "position": 4,
+      "full_name": "F. van den Broeke",
+      "place": "Bennekom",
+      "gender": "v",
+      "last_name": "van den Broeke",
+      "first_name": "Francisca"
+    },
+    {
+      "position": 5,
+      "full_name": "C.G.J. Tolboom",
+      "place": "Leusden",
+      "gender": "m",
+      "last_name": "Tolboom",
+      "first_name": "Kees"
+    },
+    {
+      "position": 6,
+      "full_name": "D.R. Doorn",
+      "place": "Terschuur",
+      "gender": "m",
+      "last_name": "Doorn",
+      "first_name": "Rob"
+    },
+    {
+      "position": 7,
+      "full_name": "A.G.J. Jansen",
+      "place": "Welsum",
+      "gender": "m",
+      "last_name": "Jansen",
+      "first_name": "Alfred"
+    },
+    {
+      "position": 8,
+      "full_name": "C.J.M. van 't Klooster",
+      "place": "Nijkerk",
+      "gender": "m",
+      "last_name": "van 't Klooster",
+      "first_name": "Kees"
+    },
+    {
+      "position": 9,
+      "full_name": "N.J.G. Egtberts",
+      "place": "Leusden",
+      "gender": "m",
+      "last_name": "Egtberts",
+      "first_name": "Koos"
+    },
+    {
+      "position": 10,
+      "full_name": "E. van de Zedde",
+      "place": "Twello",
+      "gender": "m",
+      "last_name": "van de Zedde",
+      "first_name": "Bert"
+    },
+    {
+      "position": 11,
+      "full_name": "B. Veldhuizen",
+      "place": "Putten",
+      "gender": "m",
+      "last_name": "Veldhuizen",
+      "first_name": "Bert"
+    },
+    {
+      "position": 12,
+      "full_name": "G.S.W. te Bokkel",
+      "place": "Eerbeek",
+      "gender": "m",
+      "last_name": "te Bokkel",
+      "first_name": "Gerrit"
+    },
+    {
+      "position": 13,
+      "full_name": "G.C. Hokken",
+      "place": "Wilp",
+      "gender": "m",
+      "last_name": "Hokken",
+      "first_name": "Bert"
+    },
+    {
+      "position": 14,
+      "full_name": "I.L. Wegman",
+      "place": "Apeldoorn",
+      "gender": "v",
+      "last_name": "Wegman",
+      "first_name": "Ieteke"
+    }
+  ]
+}

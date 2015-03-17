@@ -1,1 +1,150 @@
-{"description": "", "members": [{"first_name": "Bernard", "last_name": "de Jong", "gender": "m", "place": "Woerden", "full_name": "B. de Jong", "position": 1}, {"first_name": "Kaj", "last_name": "Valk", "gender": "m", "place": "Bilthoven", "full_name": "K.P.T. Valk", "position": 2}, {"first_name": "Ko", "last_name": "Droogers", "gender": "m", "place": "Kamerik", "full_name": "J.A.G.W. Droogers", "position": 3}, {"first_name": "Theo", "last_name": "de Roos", "gender": "m", "place": "Lopik", "full_name": "T.L. de Roos", "position": 4}, {"first_name": "Koos", "last_name": "Keestra", "gender": "m", "place": "Zeist", "full_name": "J.M. Keestra", "position": 5}, {"first_name": "Andr\u00e9", "last_name": "Tiggeloven", "gender": "m", "place": "Montfoort", "full_name": "A.B.M. Tiggeloven", "position": 6}, {"first_name": "Mart", "last_name": "Hack", "gender": "m", "place": "Nieuwegein", "full_name": "M.W. Hack", "position": 7}, {"first_name": "JanWouter", "last_name": "van Wijngaarden", "gender": "m", "place": "Hekendorp", "full_name": "J.W. van Wijngaarden", "position": 8}, {"first_name": "Jeroen", "last_name": "van Oostrom", "gender": "m", "place": "'t Goy", "full_name": "J.G.M. van Oostrom", "position": 9}, {"first_name": "Eiko", "last_name": "Smid", "gender": "m", "place": "Utrecht", "full_name": "E. Smid", "position": 10}, {"first_name": "Idelette", "last_name": "Schuurman", "gender": "v", "place": "Bilthoven", "full_name": "I.M. Schuurman", "position": 11}, {"first_name": "Joop", "last_name": "Dorresteijn", "gender": "m", "place": "Werkhoven", "full_name": "J.A.M. Dorresteijn", "position": 12}, {"first_name": "Teus", "last_name": "Spelt", "gender": "m", "place": "Groenekan", "full_name": "T. Spelt", "position": 13}, {"first_name": "Jan", "last_name": "Baars", "gender": "m", "place": "Papekop", "full_name": "J.G. Baars", "position": 14}, {"first_name": "Cor", "last_name": "van Wiggen", "gender": "m", "place": "Bunnik", "full_name": "C.I.M. van Wiggen", "position": 15}, {"first_name": "Johan", "last_name": "de Jong", "gender": "m", "place": "Montfoort", "full_name": "J.C. de Jong", "position": 16}, {"first_name": "Koos", "last_name": "Segers", "gender": "m", "place": "Kockengen", "full_name": "J.A. Segers", "position": 17}, {"first_name": "Marloes", "last_name": "de Bont- de Krom", "gender": "v", "place": "Nieuwegein", "full_name": "M.L.A.A. de Bont- de Krom", "position": 18}], "title": "Lijst_2_CDA"}
+{
+  "title": "Lijst 2 CDA",
+  "description": "",
+  "candidates": [
+    {
+      "position": 1,
+      "full_name": "B. de Jong",
+      "place": "Woerden",
+      "gender": "m",
+      "last_name": "de Jong",
+      "first_name": "Bernard"
+    },
+    {
+      "position": 2,
+      "full_name": "K.P.T. Valk",
+      "place": "Bilthoven",
+      "gender": "m",
+      "last_name": "Valk",
+      "first_name": "Kaj"
+    },
+    {
+      "position": 3,
+      "full_name": "J.A.G.W. Droogers",
+      "place": "Kamerik",
+      "gender": "m",
+      "last_name": "Droogers",
+      "first_name": "Ko"
+    },
+    {
+      "position": 4,
+      "full_name": "T.L. de Roos",
+      "place": "Lopik",
+      "gender": "m",
+      "last_name": "de Roos",
+      "first_name": "Theo"
+    },
+    {
+      "position": 5,
+      "full_name": "J.M. Keestra",
+      "place": "Zeist",
+      "gender": "m",
+      "last_name": "Keestra",
+      "first_name": "Koos"
+    },
+    {
+      "position": 6,
+      "full_name": "A.B.M. Tiggeloven",
+      "place": "Montfoort",
+      "gender": "m",
+      "last_name": "Tiggeloven",
+      "first_name": "André"
+    },
+    {
+      "position": 7,
+      "full_name": "M.W. Hack",
+      "place": "Nieuwegein",
+      "gender": "m",
+      "last_name": "Hack",
+      "first_name": "Mart"
+    },
+    {
+      "position": 8,
+      "full_name": "J.W. van Wijngaarden",
+      "place": "Hekendorp",
+      "gender": "m",
+      "last_name": "van Wijngaarden",
+      "first_name": "JanWouter"
+    },
+    {
+      "position": 9,
+      "full_name": "J.G.M. van Oostrom",
+      "place": "'t Goy",
+      "gender": "m",
+      "last_name": "van Oostrom",
+      "first_name": "Jeroen"
+    },
+    {
+      "position": 10,
+      "full_name": "E. Smid",
+      "place": "Utrecht",
+      "gender": "m",
+      "last_name": "Smid",
+      "first_name": "Eiko"
+    },
+    {
+      "position": 11,
+      "full_name": "I.M. Schuurman",
+      "place": "Bilthoven",
+      "gender": "v",
+      "last_name": "Schuurman",
+      "first_name": "Idelette"
+    },
+    {
+      "position": 12,
+      "full_name": "J.A.M. Dorresteijn",
+      "place": "Werkhoven",
+      "gender": "m",
+      "last_name": "Dorresteijn",
+      "first_name": "Joop"
+    },
+    {
+      "position": 13,
+      "full_name": "T. Spelt",
+      "place": "Groenekan",
+      "gender": "m",
+      "last_name": "Spelt",
+      "first_name": "Teus"
+    },
+    {
+      "position": 14,
+      "full_name": "J.G. Baars",
+      "place": "Papekop",
+      "gender": "m",
+      "last_name": "Baars",
+      "first_name": "Jan"
+    },
+    {
+      "position": 15,
+      "full_name": "C.I.M. van Wiggen",
+      "place": "Bunnik",
+      "gender": "m",
+      "last_name": "van Wiggen",
+      "first_name": "Cor"
+    },
+    {
+      "position": 16,
+      "full_name": "J.C. de Jong",
+      "place": "Montfoort",
+      "gender": "m",
+      "last_name": "de Jong",
+      "first_name": "Johan"
+    },
+    {
+      "position": 17,
+      "full_name": "J.A. Segers",
+      "place": "Kockengen",
+      "gender": "m",
+      "last_name": "Segers",
+      "first_name": "Koos"
+    },
+    {
+      "position": 18,
+      "full_name": "M.L.A.A. de Bont- de Krom",
+      "place": "Nieuwegein",
+      "gender": "v",
+      "last_name": "de Bont- de Krom",
+      "first_name": "Marloes"
+    }
+  ]
+}

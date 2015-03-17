@@ -1,1 +1,126 @@
-{"description": "", "members": [{"first_name": "Henk", "last_name": "Siroen", "gender": "m", "place": "Cuijk", "full_name": "H.P.J.M. Siroen", "position": 1}, {"first_name": "Adri", "last_name": "van den Hoven", "gender": "m", "place": "Drunen", "full_name": "A.P.M. van den Hoven", "position": 2}, {"first_name": "Michael", "last_name": "Rieter", "gender": "m", "place": "Helmond", "full_name": "M.P.J. Rieter", "position": 3}, {"first_name": "Anita", "last_name": "Slaats-Damen", "gender": "v", "place": "Lieshout", "full_name": "A.E.M. Slaats-Damen", "position": 4}, {"first_name": "Mari", "last_name": "van Roosmalen", "gender": "m", "place": "Lith", "full_name": "M.J.P.A. van Roosmalen", "position": 5}, {"first_name": "Perry", "last_name": "Peeters", "gender": "m", "place": "Haps", "full_name": "P.J. Peeters", "position": 6}, {"first_name": "Albert", "last_name": "van de Koolwijk", "gender": "m", "place": "Uden", "full_name": "A.P.J. van de Koolwijk", "position": 7}, {"first_name": "Arjan", "last_name": "de Kuiper", "gender": "m", "place": "Cuijk", "full_name": "A.C.S. de Kuiper", "position": 8}, {"first_name": "Jolanda", "last_name": "Lensen-van den Wildenberg", "gender": "v", "place": "'s-Hertogenbosch", "full_name": "J.J.M. Lensen-van den Wildenberg", "position": 9}, {"first_name": "Jankees", "last_name": "Blok", "gender": "m", "place": "Rosmalen", "full_name": "J.K. Blok", "position": 10}, {"first_name": "Gerald Jan", "last_name": "Ellen", "gender": "m", "place": "'s-Hertogenbosch", "full_name": "G.J. Ellen", "position": 11}, {"first_name": "Ben", "last_name": "van Herpen", "gender": "m", "place": "Rosmalen", "full_name": "L.G. van Herpen", "position": 12}, {"first_name": "Joseph", "last_name": "Kuijpers", "gender": "m", "place": "Oss", "full_name": "J.J.M. Kuijpers", "position": 13}, {"first_name": "Pierre", "last_name": "Spierings", "gender": "m", "place": "Oss", "full_name": "P.C.M. Spierings", "position": 14}, {"first_name": "Harry", "last_name": "Kuypers", "gender": "m", "place": "Helmond", "full_name": "H.A.J.M. Kuypers", "position": 15}], "title": "Lijst_4_Algemene_Waterschapspartij"}
+{
+  "title": "Lijst 4 Algemene Waterschapspartij",
+  "description": "",
+  "candidates": [
+    {
+      "position": 1,
+      "full_name": "H.P.J.M. Siroen",
+      "place": "Cuijk",
+      "gender": "m",
+      "last_name": "Siroen",
+      "first_name": "Henk"
+    },
+    {
+      "position": 2,
+      "full_name": "A.P.M. van den Hoven",
+      "place": "Drunen",
+      "gender": "m",
+      "last_name": "van den Hoven",
+      "first_name": "Adri"
+    },
+    {
+      "position": 3,
+      "full_name": "M.P.J. Rieter",
+      "place": "Helmond",
+      "gender": "m",
+      "last_name": "Rieter",
+      "first_name": "Michael"
+    },
+    {
+      "position": 4,
+      "full_name": "A.E.M. Slaats-Damen",
+      "place": "Lieshout",
+      "gender": "v",
+      "last_name": "Slaats-Damen",
+      "first_name": "Anita"
+    },
+    {
+      "position": 5,
+      "full_name": "M.J.P.A. van Roosmalen",
+      "place": "Lith",
+      "gender": "m",
+      "last_name": "van Roosmalen",
+      "first_name": "Mari"
+    },
+    {
+      "position": 6,
+      "full_name": "P.J. Peeters",
+      "place": "Haps",
+      "gender": "m",
+      "last_name": "Peeters",
+      "first_name": "Perry"
+    },
+    {
+      "position": 7,
+      "full_name": "A.P.J. van de Koolwijk",
+      "place": "Uden",
+      "gender": "m",
+      "last_name": "van de Koolwijk",
+      "first_name": "Albert"
+    },
+    {
+      "position": 8,
+      "full_name": "A.C.S. de Kuiper",
+      "place": "Cuijk",
+      "gender": "m",
+      "last_name": "de Kuiper",
+      "first_name": "Arjan"
+    },
+    {
+      "position": 9,
+      "full_name": "J.J.M. Lensen-van den Wildenberg",
+      "place": "'s-Hertogenbosch",
+      "gender": "v",
+      "last_name": "Lensen-van den Wildenberg",
+      "first_name": "Jolanda"
+    },
+    {
+      "position": 10,
+      "full_name": "J.K. Blok",
+      "place": "Rosmalen",
+      "gender": "m",
+      "last_name": "Blok",
+      "first_name": "Jankees"
+    },
+    {
+      "position": 11,
+      "full_name": "G.J. Ellen",
+      "place": "'s-Hertogenbosch",
+      "gender": "m",
+      "last_name": "Ellen",
+      "first_name": "Gerald Jan"
+    },
+    {
+      "position": 12,
+      "full_name": "L.G. van Herpen",
+      "place": "Rosmalen",
+      "gender": "m",
+      "last_name": "van Herpen",
+      "first_name": "Ben"
+    },
+    {
+      "position": 13,
+      "full_name": "J.J.M. Kuijpers",
+      "place": "Oss",
+      "gender": "m",
+      "last_name": "Kuijpers",
+      "first_name": "Joseph"
+    },
+    {
+      "position": 14,
+      "full_name": "P.C.M. Spierings",
+      "place": "Oss",
+      "gender": "m",
+      "last_name": "Spierings",
+      "first_name": "Pierre"
+    },
+    {
+      "position": 15,
+      "full_name": "H.A.J.M. Kuypers",
+      "place": "Helmond",
+      "gender": "m",
+      "last_name": "Kuypers",
+      "first_name": "Harry"
+    }
+  ]
+}

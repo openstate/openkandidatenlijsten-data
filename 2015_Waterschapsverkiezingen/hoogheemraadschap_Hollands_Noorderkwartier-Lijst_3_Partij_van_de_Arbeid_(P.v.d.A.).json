@@ -1,1 +1,166 @@
-{"description": "", "members": [{"first_name": "Marjan", "last_name": "Leijen", "gender": "v", "place": "Warmenhuizen", "full_name": "M.A. Leijen", "position": 1}, {"first_name": "Kees", "last_name": "Stam", "gender": "m", "place": "Heemskerk", "full_name": "C.J.M. Stam", "position": 2}, {"first_name": "Fijko", "last_name": "van der Laan", "gender": "m", "place": "Anna Paulowna", "full_name": "F.T.S. van der Laan", "position": 3}, {"first_name": "Piet", "last_name": "Oudega", "gender": "m", "place": "Zaandam", "full_name": "P. Oudega", "position": 4}, {"first_name": "Kees", "last_name": "Borst", "gender": "m", "place": "Hoorn", "full_name": "C.J.A. Borst", "position": 5}, {"first_name": "Elbert", "last_name": "Volkers", "gender": "m", "place": "Hippolytushoef", "full_name": "E.C. Volkers", "position": 6}, {"first_name": "Jan", "last_name": "Stam", "gender": "m", "place": "Egmond aan Zee", "full_name": "J.A. Stam", "position": 7}, {"first_name": "Willem", "last_name": "van der Paard", "gender": "m", "place": "Huisduinen", "full_name": "W.F.H. van der Paard", "position": 8}, {"first_name": "Richard", "last_name": "de Graaf", "gender": "m", "place": "Julianadorp", "full_name": "R.J. de Graaf", "position": 9}, {"first_name": "Hans", "last_name": "Heddes", "gender": "m", "place": "Schagen", "full_name": "J.J. Heddes", "position": 10}, {"first_name": "Rolf", "last_name": "Klant", "gender": "m", "place": "Petten", "full_name": "R.J. Klant", "position": 11}, {"first_name": "Berent", "last_name": "Daan", "gender": "m", "place": "Purmerend", "full_name": "B. Daan", "position": 12}, {"first_name": "Jan Steven", "last_name": "van Dijk", "gender": "m", "place": "Kolhorn", "full_name": "J.S.C. van Dijk", "position": 13}, {"first_name": "Lida", "last_name": "Westdorp-van Dok", "gender": "v", "place": "De Koog", "full_name": "L. Westdorp-van Dok", "position": 14}, {"first_name": "Jos", "last_name": "Dings", "gender": "m", "place": "Middenbeemster", "full_name": "J.R.P.L. Dings", "position": 15}, {"first_name": "Dirk", "last_name": "Kuipers", "gender": "m", "place": "Medemblik", "full_name": "T.G.M. Kuipers", "position": 16}, {"first_name": "Marijke", "last_name": "van Schendelen", "gender": "v", "place": "Amsterdam", "full_name": "M.C. van Schendelen", "position": 17}, {"first_name": "Astrid", "last_name": "Streumer", "gender": "v", "place": "Andijk", "full_name": "A.F.T. Streumer", "position": 18}, {"first_name": "Gerrit", "last_name": "Westerink", "gender": "m", "place": "Schagen", "full_name": "G. Westerink", "position": 19}, {"first_name": "Friso", "last_name": "de Zeeuw", "gender": "m", "place": "Monnickendam", "full_name": "W.C.T.F. de Zeeuw", "position": 20}], "title": "Lijst_3_Partij_van_de_Arbeid_(P.v.d.A.)"}
+{
+  "title": "Lijst 3 Partij van de Arbeid (P.v.d.A.)",
+  "description": "",
+  "candidates": [
+    {
+      "position": 1,
+      "full_name": "M.A. Leijen",
+      "place": "Warmenhuizen",
+      "gender": "v",
+      "last_name": "Leijen",
+      "first_name": "Marjan"
+    },
+    {
+      "position": 2,
+      "full_name": "C.J.M. Stam",
+      "place": "Heemskerk",
+      "gender": "m",
+      "last_name": "Stam",
+      "first_name": "Kees"
+    },
+    {
+      "position": 3,
+      "full_name": "F.T.S. van der Laan",
+      "place": "Anna Paulowna",
+      "gender": "m",
+      "last_name": "van der Laan",
+      "first_name": "Fijko"
+    },
+    {
+      "position": 4,
+      "full_name": "P. Oudega",
+      "place": "Zaandam",
+      "gender": "m",
+      "last_name": "Oudega",
+      "first_name": "Piet"
+    },
+    {
+      "position": 5,
+      "full_name": "C.J.A. Borst",
+      "place": "Hoorn",
+      "gender": "m",
+      "last_name": "Borst",
+      "first_name": "Kees"
+    },
+    {
+      "position": 6,
+      "full_name": "E.C. Volkers",
+      "place": "Hippolytushoef",
+      "gender": "m",
+      "last_name": "Volkers",
+      "first_name": "Elbert"
+    },
+    {
+      "position": 7,
+      "full_name": "J.A. Stam",
+      "place": "Egmond aan Zee",
+      "gender": "m",
+      "last_name": "Stam",
+      "first_name": "Jan"
+    },
+    {
+      "position": 8,
+      "full_name": "W.F.H. van der Paard",
+      "place": "Huisduinen",
+      "gender": "m",
+      "last_name": "van der Paard",
+      "first_name": "Willem"
+    },
+    {
+      "position": 9,
+      "full_name": "R.J. de Graaf",
+      "place": "Julianadorp",
+      "gender": "m",
+      "last_name": "de Graaf",
+      "first_name": "Richard"
+    },
+    {
+      "position": 10,
+      "full_name": "J.J. Heddes",
+      "place": "Schagen",
+      "gender": "m",
+      "last_name": "Heddes",
+      "first_name": "Hans"
+    },
+    {
+      "position": 11,
+      "full_name": "R.J. Klant",
+      "place": "Petten",
+      "gender": "m",
+      "last_name": "Klant",
+      "first_name": "Rolf"
+    },
+    {
+      "position": 12,
+      "full_name": "B. Daan",
+      "place": "Purmerend",
+      "gender": "m",
+      "last_name": "Daan",
+      "first_name": "Berent"
+    },
+    {
+      "position": 13,
+      "full_name": "J.S.C. van Dijk",
+      "place": "Kolhorn",
+      "gender": "m",
+      "last_name": "van Dijk",
+      "first_name": "Jan Steven"
+    },
+    {
+      "position": 14,
+      "full_name": "L. Westdorp-van Dok",
+      "place": "De Koog",
+      "gender": "v",
+      "last_name": "Westdorp-van Dok",
+      "first_name": "Lida"
+    },
+    {
+      "position": 15,
+      "full_name": "J.R.P.L. Dings",
+      "place": "Middenbeemster",
+      "gender": "m",
+      "last_name": "Dings",
+      "first_name": "Jos"
+    },
+    {
+      "position": 16,
+      "full_name": "T.G.M. Kuipers",
+      "place": "Medemblik",
+      "gender": "m",
+      "last_name": "Kuipers",
+      "first_name": "Dirk"
+    },
+    {
+      "position": 17,
+      "full_name": "M.C. van Schendelen",
+      "place": "Amsterdam",
+      "gender": "v",
+      "last_name": "van Schendelen",
+      "first_name": "Marijke"
+    },
+    {
+      "position": 18,
+      "full_name": "A.F.T. Streumer",
+      "place": "Andijk",
+      "gender": "v",
+      "last_name": "Streumer",
+      "first_name": "Astrid"
+    },
+    {
+      "position": 19,
+      "full_name": "G. Westerink",
+      "place": "Schagen",
+      "gender": "m",
+      "last_name": "Westerink",
+      "first_name": "Gerrit"
+    },
+    {
+      "position": 20,
+      "full_name": "W.C.T.F. de Zeeuw",
+      "place": "Monnickendam",
+      "gender": "m",
+      "last_name": "de Zeeuw",
+      "first_name": "Friso"
+    }
+  ]
+}

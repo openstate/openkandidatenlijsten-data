@@ -1,0 +1,86 @@
+{
+  "title": "Lijst 14 Grunnegers veur Stad en Ommelaand",
+  "description": "",
+  "candidates": [
+    {
+      "position": 1,
+      "full_name": "J.P. Langen",
+      "place": "Wildervank",
+      "gender": "m",
+      "last_name": "Langen",
+      "first_name": "Pé"
+    },
+    {
+      "position": 2,
+      "full_name": "J.L. Swierenga",
+      "place": "Zuidbroek",
+      "gender": "m",
+      "last_name": "Swierenga",
+      "first_name": "Jacco"
+    },
+    {
+      "position": 3,
+      "full_name": "F.E. Meuter",
+      "place": "Groningen",
+      "gender": "m",
+      "last_name": "Meuter",
+      "first_name": "Frank"
+    },
+    {
+      "position": 4,
+      "full_name": "J. Kruize",
+      "place": "Garrelsweer",
+      "gender": "m",
+      "last_name": "Kruize",
+      "first_name": "Sjaak"
+    },
+    {
+      "position": 5,
+      "full_name": "A. Drenth-Rosies",
+      "place": "Veendam",
+      "gender": "v",
+      "last_name": "Drenth-Rosies",
+      "first_name": "Anneke"
+    },
+    {
+      "position": 6,
+      "full_name": "E.H.D.H. Swierenga-van der Veen",
+      "place": "Zuidbroek",
+      "gender": "v",
+      "last_name": "Swierenga-van der Veen",
+      "first_name": "Margrietha"
+    },
+    {
+      "position": 7,
+      "full_name": "A.A. Swierenga",
+      "place": "Muntendam",
+      "gender": "v",
+      "last_name": "Swierenga",
+      "first_name": "Anita"
+    },
+    {
+      "position": 8,
+      "full_name": "W.C.J. Mennega",
+      "place": "Zuidbroek",
+      "gender": "v",
+      "last_name": "Mennega",
+      "first_name": "Christine"
+    },
+    {
+      "position": 9,
+      "full_name": "H. Drenth",
+      "place": "Veendam",
+      "gender": "m",
+      "last_name": "Drenth",
+      "first_name": "Herman"
+    },
+    {
+      "position": 10,
+      "full_name": "E.J.M. Zondag",
+      "place": "Veendam",
+      "gender": "v",
+      "last_name": "Zondag",
+      "first_name": "Lies"
+    }
+  ]
+}

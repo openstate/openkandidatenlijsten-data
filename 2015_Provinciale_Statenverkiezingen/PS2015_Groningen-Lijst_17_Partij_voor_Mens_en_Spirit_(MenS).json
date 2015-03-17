@@ -1,0 +1,86 @@
+{
+  "title": "Lijst 17 Partij voor Mens en Spirit (MenS)",
+  "description": "",
+  "candidates": [
+    {
+      "position": 1,
+      "full_name": "L.F. Bervoets",
+      "place": "Groningen",
+      "gender": "m",
+      "last_name": "Bervoets",
+      "first_name": "Louis"
+    },
+    {
+      "position": 2,
+      "full_name": "M.J.M. Cornielje",
+      "place": "Nijmegen",
+      "gender": "v",
+      "last_name": "Cornielje",
+      "first_name": "Mariëlle"
+    },
+    {
+      "position": 3,
+      "full_name": "L.S. Tuinstra",
+      "place": "Drachten",
+      "gender": "v",
+      "last_name": "Tuinstra",
+      "first_name": "Lukretia"
+    },
+    {
+      "position": 4,
+      "full_name": "B. Vasiljević",
+      "place": "Groningen",
+      "gender": "m",
+      "last_name": "Vasiljević",
+      "first_name": "Buda"
+    },
+    {
+      "position": 5,
+      "full_name": "J. van Dijken",
+      "place": "Groningen",
+      "gender": "m",
+      "last_name": "van Dijken",
+      "first_name": "Jaap"
+    },
+    {
+      "position": 6,
+      "full_name": "T.A. Kruger",
+      "place": "Dieren",
+      "gender": "v",
+      "last_name": "Kruger",
+      "first_name": "Trix"
+    },
+    {
+      "position": 7,
+      "full_name": "B.F. Gude",
+      "place": "Groningen",
+      "gender": "m",
+      "last_name": "Gude",
+      "first_name": "Brian"
+    },
+    {
+      "position": 8,
+      "full_name": "T.R.M. Kuiper",
+      "place": "Egmond aan den Hoef",
+      "gender": "m",
+      "last_name": "Kuiper",
+      "first_name": "Micha"
+    },
+    {
+      "position": 9,
+      "full_name": "M.P.G. Reijnders",
+      "place": "Groningen",
+      "gender": "v",
+      "last_name": "Reijnders",
+      "first_name": "Martha"
+    },
+    {
+      "position": 10,
+      "full_name": "W. Gersteling",
+      "place": "Eelderwolde",
+      "gender": "m",
+      "last_name": "Gersteling",
+      "first_name": "Wim"
+    }
+  ]
+}

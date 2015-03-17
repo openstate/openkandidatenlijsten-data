@@ -1,1 +1,70 @@
-{"description": "Gecombineerd met Partij van de Arbeid (P.v.d.A.)", "members": [{"first_name": "Willem", "last_name": "van der Steeg", "gender": "m", "place": "De Meern", "full_name": "W. van der Steeg", "position": 1}, {"first_name": "Anjo", "last_name": "Travaille", "gender": "m", "place": "Utrecht", "full_name": "A. Travaille", "position": 2}, {"first_name": "Ren\u00e9", "last_name": "van der Kruk", "gender": "m", "place": "Utrecht", "full_name": "R. van der Kruk", "position": 3}, {"first_name": "Barbara", "last_name": "van Genne", "gender": "v", "place": "Utrecht", "full_name": "B. van Genne", "position": 4}, {"first_name": "Esther", "last_name": "Korteweg", "gender": "v", "place": "Utrecht", "full_name": "E.I. Korteweg", "position": 5}, {"first_name": "Claudia", "last_name": "Verkleij", "gender": "v", "place": "Everdingen", "full_name": "C. Verkleij", "position": 6}, {"first_name": "Saskia", "last_name": "Oskam", "gender": "v", "place": "Utrecht", "full_name": "S.W. Oskam", "position": 7}, {"first_name": "Wanda", "last_name": "Bodewitz", "gender": "v", "place": "Vleuten", "full_name": "W.A. Bodewitz", "position": 8}], "title": "Lijst_9_Partij_voor_de_Dieren"}
+{
+  "title": "Lijst 9 Partij voor de Dieren",
+  "description": "Gecombineerd met Partij van de Arbeid (P.v.d.A.)",
+  "candidates": [
+    {
+      "position": 1,
+      "full_name": "W. van der Steeg",
+      "place": "De Meern",
+      "gender": "m",
+      "last_name": "van der Steeg",
+      "first_name": "Willem"
+    },
+    {
+      "position": 2,
+      "full_name": "A. Travaille",
+      "place": "Utrecht",
+      "gender": "m",
+      "last_name": "Travaille",
+      "first_name": "Anjo"
+    },
+    {
+      "position": 3,
+      "full_name": "R. van der Kruk",
+      "place": "Utrecht",
+      "gender": "m",
+      "last_name": "van der Kruk",
+      "first_name": "René"
+    },
+    {
+      "position": 4,
+      "full_name": "B. van Genne",
+      "place": "Utrecht",
+      "gender": "v",
+      "last_name": "van Genne",
+      "first_name": "Barbara"
+    },
+    {
+      "position": 5,
+      "full_name": "E.I. Korteweg",
+      "place": "Utrecht",
+      "gender": "v",
+      "last_name": "Korteweg",
+      "first_name": "Esther"
+    },
+    {
+      "position": 6,
+      "full_name": "C. Verkleij",
+      "place": "Everdingen",
+      "gender": "v",
+      "last_name": "Verkleij",
+      "first_name": "Claudia"
+    },
+    {
+      "position": 7,
+      "full_name": "S.W. Oskam",
+      "place": "Utrecht",
+      "gender": "v",
+      "last_name": "Oskam",
+      "first_name": "Saskia"
+    },
+    {
+      "position": 8,
+      "full_name": "W.A. Bodewitz",
+      "place": "Vleuten",
+      "gender": "v",
+      "last_name": "Bodewitz",
+      "first_name": "Wanda"
+    }
+  ]
+}

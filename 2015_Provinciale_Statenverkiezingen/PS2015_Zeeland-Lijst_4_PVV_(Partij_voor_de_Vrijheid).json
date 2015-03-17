@@ -1,0 +1,126 @@
+{
+  "title": "Lijst 4 PVV (Partij voor de Vrijheid)",
+  "description": "",
+  "candidates": [
+    {
+      "position": 1,
+      "full_name": "P. van Dijk",
+      "place": "Kattendijke",
+      "gender": "m",
+      "last_name": "van Dijk",
+      "first_name": "Peter"
+    },
+    {
+      "position": 2,
+      "full_name": "R.M. Haaze",
+      "place": "Arnemuiden",
+      "gender": "m",
+      "last_name": "Haaze",
+      "first_name": "Ruud"
+    },
+    {
+      "position": 3,
+      "full_name": "C.V.A. Kooman",
+      "place": "Sluiskil",
+      "gender": "v",
+      "last_name": "Kooman",
+      "first_name": "Caroline"
+    },
+    {
+      "position": 4,
+      "full_name": "R.L.J.M. de Wit",
+      "place": "Veere",
+      "gender": "m",
+      "last_name": "de Wit",
+      "first_name": "Roland"
+    },
+    {
+      "position": 5,
+      "full_name": "M.D. Eckhardt",
+      "place": "Vogelwaarde",
+      "gender": "v",
+      "last_name": "Eckhardt",
+      "first_name": "Marina"
+    },
+    {
+      "position": 6,
+      "full_name": "V.L. Bosch",
+      "place": "Poortvliet",
+      "gender": "m",
+      "last_name": "Bosch",
+      "first_name": "Vincent"
+    },
+    {
+      "position": 7,
+      "full_name": "V. Mareels",
+      "place": "Goes",
+      "gender": "m",
+      "last_name": "Mareels",
+      "first_name": "Vincent"
+    },
+    {
+      "position": 8,
+      "full_name": "M. Schenk",
+      "place": "Rilland",
+      "gender": "m",
+      "last_name": "Schenk",
+      "first_name": "Martin"
+    },
+    {
+      "position": 9,
+      "full_name": "F.H. Quaak",
+      "place": "Middelburg",
+      "gender": "m",
+      "last_name": "Quaak",
+      "first_name": "Fred"
+    },
+    {
+      "position": 10,
+      "full_name": "P.A.F. Luijten",
+      "place": "Sluiskil",
+      "gender": "m",
+      "last_name": "Luijten",
+      "first_name": "Peter"
+    },
+    {
+      "position": 11,
+      "full_name": "J.S. Ramgatie",
+      "place": "Middelburg",
+      "gender": "v",
+      "last_name": "Ramgatie",
+      "first_name": "Joyce"
+    },
+    {
+      "position": 12,
+      "full_name": "S. Mareels",
+      "place": "Goes",
+      "gender": "m",
+      "last_name": "Mareels",
+      "first_name": "Steven"
+    },
+    {
+      "position": 13,
+      "full_name": "L.G.J.H. Roth-Heijman",
+      "place": "Middelburg",
+      "gender": "v",
+      "last_name": "Roth-Heijman",
+      "first_name": "Loes"
+    },
+    {
+      "position": 14,
+      "full_name": "D.H.B. Quist",
+      "place": "Heinkenszand",
+      "gender": "m",
+      "last_name": "Quist",
+      "first_name": "Dirk"
+    },
+    {
+      "position": 15,
+      "full_name": "A.A. Bouwens",
+      "place": "Aagtekerke",
+      "gender": "m",
+      "last_name": "Bouwens",
+      "first_name": "Ad"
+    }
+  ]
+}

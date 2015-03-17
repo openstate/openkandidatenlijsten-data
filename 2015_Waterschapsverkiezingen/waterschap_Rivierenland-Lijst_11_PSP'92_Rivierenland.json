@@ -1,1 +1,126 @@
-{"description": "", "members": [{"first_name": "Ramon", "last_name": "Barends", "gender": "m", "place": "Nijmegen", "full_name": "R. Barends", "position": 1}, {"first_name": "Sent", "last_name": "Wierda", "gender": "m", "place": "Lent", "full_name": "S.G. Wierda", "position": 2}, {"first_name": "Richard", "last_name": "Sleegers", "gender": "m", "place": "Tiel", "full_name": "R.H.J.J. Sleegers", "position": 3}, {"first_name": "Annemarie", "last_name": "van Harten", "gender": "v", "place": "Arnhem", "full_name": "A.M. van Harten", "position": 4}, {"first_name": "Mohamed", "last_name": "Achouitar", "gender": "m", "place": "Nijmegen", "full_name": "M. Achouitar", "position": 5}, {"first_name": "Johannes", "last_name": "Kon", "gender": "m", "place": "Arnhem", "full_name": "A.J. Kon", "position": 6}, {"first_name": "Cevdet", "last_name": "Akta\u015f", "gender": "m", "place": "Nijmegen", "full_name": "C. Akta\u015f", "position": 7}, {"first_name": "Bilal", "last_name": "Yachou", "gender": "m", "place": "Arnhem", "full_name": "B. Yachou", "position": 8}, {"first_name": "Hicham", "last_name": "Chaoui", "gender": "m", "place": "Nijmegen", "full_name": "H. Chaoui", "position": 9}, {"first_name": "Nelly", "last_name": "Sendar", "gender": "v", "place": "'s-Heerenberg", "full_name": "N. Sendar", "position": 10}, {"first_name": "Marcel", "last_name": "Brouwer", "gender": "m", "place": "Dieren", "full_name": "M.R. Brouwer", "position": 11}, {"first_name": "Aziz", "last_name": "Yousufzai", "gender": "m", "place": "Venray", "full_name": "A. Yousufzai", "position": 12}, {"first_name": "Magda", "last_name": "Rook", "gender": "v", "place": "Dieren", "full_name": "M.M.H. Rook", "position": 13}, {"first_name": "Cor", "last_name": "Edelenbosch", "gender": "m", "place": "Enkhuizen", "full_name": "C. Edelenbosch", "position": 14}, {"first_name": "Hans", "last_name": "Peters", "gender": "m", "place": "Groesbeek", "full_name": "J.H. Peters", "position": 15}], "title": "Lijst_11_PSP'92_Rivierenland"}
+{
+  "title": "Lijst 11 PSP'92 Rivierenland",
+  "description": "",
+  "candidates": [
+    {
+      "position": 1,
+      "full_name": "R. Barends",
+      "place": "Nijmegen",
+      "gender": "m",
+      "last_name": "Barends",
+      "first_name": "Ramon"
+    },
+    {
+      "position": 2,
+      "full_name": "S.G. Wierda",
+      "place": "Lent",
+      "gender": "m",
+      "last_name": "Wierda",
+      "first_name": "Sent"
+    },
+    {
+      "position": 3,
+      "full_name": "R.H.J.J. Sleegers",
+      "place": "Tiel",
+      "gender": "m",
+      "last_name": "Sleegers",
+      "first_name": "Richard"
+    },
+    {
+      "position": 4,
+      "full_name": "A.M. van Harten",
+      "place": "Arnhem",
+      "gender": "v",
+      "last_name": "van Harten",
+      "first_name": "Annemarie"
+    },
+    {
+      "position": 5,
+      "full_name": "M. Achouitar",
+      "place": "Nijmegen",
+      "gender": "m",
+      "last_name": "Achouitar",
+      "first_name": "Mohamed"
+    },
+    {
+      "position": 6,
+      "full_name": "A.J. Kon",
+      "place": "Arnhem",
+      "gender": "m",
+      "last_name": "Kon",
+      "first_name": "Johannes"
+    },
+    {
+      "position": 7,
+      "full_name": "C. Aktaş",
+      "place": "Nijmegen",
+      "gender": "m",
+      "last_name": "Aktaş",
+      "first_name": "Cevdet"
+    },
+    {
+      "position": 8,
+      "full_name": "B. Yachou",
+      "place": "Arnhem",
+      "gender": "m",
+      "last_name": "Yachou",
+      "first_name": "Bilal"
+    },
+    {
+      "position": 9,
+      "full_name": "H. Chaoui",
+      "place": "Nijmegen",
+      "gender": "m",
+      "last_name": "Chaoui",
+      "first_name": "Hicham"
+    },
+    {
+      "position": 10,
+      "full_name": "N. Sendar",
+      "place": "'s-Heerenberg",
+      "gender": "v",
+      "last_name": "Sendar",
+      "first_name": "Nelly"
+    },
+    {
+      "position": 11,
+      "full_name": "M.R. Brouwer",
+      "place": "Dieren",
+      "gender": "m",
+      "last_name": "Brouwer",
+      "first_name": "Marcel"
+    },
+    {
+      "position": 12,
+      "full_name": "A. Yousufzai",
+      "place": "Venray",
+      "gender": "m",
+      "last_name": "Yousufzai",
+      "first_name": "Aziz"
+    },
+    {
+      "position": 13,
+      "full_name": "M.M.H. Rook",
+      "place": "Dieren",
+      "gender": "v",
+      "last_name": "Rook",
+      "first_name": "Magda"
+    },
+    {
+      "position": 14,
+      "full_name": "C. Edelenbosch",
+      "place": "Enkhuizen",
+      "gender": "m",
+      "last_name": "Edelenbosch",
+      "first_name": "Cor"
+    },
+    {
+      "position": 15,
+      "full_name": "J.H. Peters",
+      "place": "Groesbeek",
+      "gender": "m",
+      "last_name": "Peters",
+      "first_name": "Hans"
+    }
+  ]
+}

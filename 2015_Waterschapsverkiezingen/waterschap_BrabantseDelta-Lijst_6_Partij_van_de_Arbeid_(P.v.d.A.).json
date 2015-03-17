@@ -1,1 +1,126 @@
-{"description": "Gecombineerd met Water Natuurlijk", "members": [{"first_name": "Henk", "last_name": "Schouwenaars", "gender": "m", "place": "Zevenbergen", "full_name": "H.C.A.M. Schouwenaars", "position": 1}, {"first_name": "Wendy", "last_name": "de Koning-Bogers", "gender": "v", "place": "Ossendrecht", "full_name": "W.W.J.F. de Koning-Bogers", "position": 2}, {"first_name": "Willem", "last_name": "van den Berge", "gender": "m", "place": "Dinteloord", "full_name": "W.J. van den Berge", "position": 3}, {"first_name": "Pieter", "last_name": "de Leijer", "gender": "m", "place": "Breda", "full_name": "P.A.L.J. de Leijer", "position": 4}, {"first_name": "Lau", "last_name": "Lavooij", "gender": "m", "place": "Gilze", "full_name": "L.C. Lavooij", "position": 5}, {"first_name": "Henk", "last_name": "Haarhuis", "gender": "m", "place": "Breda", "full_name": "H.J.M. Haarhuis", "position": 6}, {"first_name": "Kees", "last_name": "Braat", "gender": "m", "place": "Breda", "full_name": "C.J.A. Braat", "position": 7}, {"first_name": "Margo", "last_name": "Geisler-van Loon", "gender": "v", "place": "Bavel", "full_name": "M.W.P. Geisler-van Loon", "position": 8}, {"first_name": "Ad", "last_name": "Hessels", "gender": "m", "place": "Oosterhout", "full_name": "A.C.G. Hessels", "position": 9}, {"first_name": "Hans", "last_name": "van Brummen", "gender": "m", "place": "Breda", "full_name": "J. van Brummen", "position": 10}, {"first_name": "Bram", "last_name": "Bouman", "gender": "m", "place": "Hoogerheide", "full_name": "B.W. Bouman", "position": 11}, {"first_name": "Arthur", "last_name": "van Iersel", "gender": "m", "place": "Roosendaal", "full_name": "A.A.J. van Iersel", "position": 12}, {"first_name": "Han", "last_name": "Verbeem", "gender": "m", "place": "Bergen op Zoom", "full_name": "J.A.S.H. Verbeem", "position": 13}, {"first_name": "Ad", "last_name": "van der Wegen", "gender": "m", "place": "Halsteren", "full_name": "A.J. van der Wegen", "position": 14}, {"first_name": "Flip", "last_name": "Aertssen", "gender": "m", "place": "Bergen op Zoom", "full_name": "P.A. Aertssen", "position": 15}], "title": "Lijst_6_Partij_van_de_Arbeid_(P.v.d.A.)"}
+{
+  "title": "Lijst 6 Partij van de Arbeid (P.v.d.A.)",
+  "description": "Gecombineerd met Water Natuurlijk",
+  "candidates": [
+    {
+      "position": 1,
+      "full_name": "H.C.A.M. Schouwenaars",
+      "place": "Zevenbergen",
+      "gender": "m",
+      "last_name": "Schouwenaars",
+      "first_name": "Henk"
+    },
+    {
+      "position": 2,
+      "full_name": "W.W.J.F. de Koning-Bogers",
+      "place": "Ossendrecht",
+      "gender": "v",
+      "last_name": "de Koning-Bogers",
+      "first_name": "Wendy"
+    },
+    {
+      "position": 3,
+      "full_name": "W.J. van den Berge",
+      "place": "Dinteloord",
+      "gender": "m",
+      "last_name": "van den Berge",
+      "first_name": "Willem"
+    },
+    {
+      "position": 4,
+      "full_name": "P.A.L.J. de Leijer",
+      "place": "Breda",
+      "gender": "m",
+      "last_name": "de Leijer",
+      "first_name": "Pieter"
+    },
+    {
+      "position": 5,
+      "full_name": "L.C. Lavooij",
+      "place": "Gilze",
+      "gender": "m",
+      "last_name": "Lavooij",
+      "first_name": "Lau"
+    },
+    {
+      "position": 6,
+      "full_name": "H.J.M. Haarhuis",
+      "place": "Breda",
+      "gender": "m",
+      "last_name": "Haarhuis",
+      "first_name": "Henk"
+    },
+    {
+      "position": 7,
+      "full_name": "C.J.A. Braat",
+      "place": "Breda",
+      "gender": "m",
+      "last_name": "Braat",
+      "first_name": "Kees"
+    },
+    {
+      "position": 8,
+      "full_name": "M.W.P. Geisler-van Loon",
+      "place": "Bavel",
+      "gender": "v",
+      "last_name": "Geisler-van Loon",
+      "first_name": "Margo"
+    },
+    {
+      "position": 9,
+      "full_name": "A.C.G. Hessels",
+      "place": "Oosterhout",
+      "gender": "m",
+      "last_name": "Hessels",
+      "first_name": "Ad"
+    },
+    {
+      "position": 10,
+      "full_name": "J. van Brummen",
+      "place": "Breda",
+      "gender": "m",
+      "last_name": "van Brummen",
+      "first_name": "Hans"
+    },
+    {
+      "position": 11,
+      "full_name": "B.W. Bouman",
+      "place": "Hoogerheide",
+      "gender": "m",
+      "last_name": "Bouman",
+      "first_name": "Bram"
+    },
+    {
+      "position": 12,
+      "full_name": "A.A.J. van Iersel",
+      "place": "Roosendaal",
+      "gender": "m",
+      "last_name": "van Iersel",
+      "first_name": "Arthur"
+    },
+    {
+      "position": 13,
+      "full_name": "J.A.S.H. Verbeem",
+      "place": "Bergen op Zoom",
+      "gender": "m",
+      "last_name": "Verbeem",
+      "first_name": "Han"
+    },
+    {
+      "position": 14,
+      "full_name": "A.J. van der Wegen",
+      "place": "Halsteren",
+      "gender": "m",
+      "last_name": "van der Wegen",
+      "first_name": "Ad"
+    },
+    {
+      "position": 15,
+      "full_name": "P.A. Aertssen",
+      "place": "Bergen op Zoom",
+      "gender": "m",
+      "last_name": "Aertssen",
+      "first_name": "Flip"
+    }
+  ]
+}

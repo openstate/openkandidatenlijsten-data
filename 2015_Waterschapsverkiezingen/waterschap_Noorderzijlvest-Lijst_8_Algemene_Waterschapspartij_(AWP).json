@@ -1,1 +1,62 @@
-{"description": "", "members": [{"first_name": "Ren\u00e9", "last_name": "Staijen", "gender": "m", "place": "Woltersum", "full_name": "R.F. Staijen", "position": 1}, {"first_name": "JaapJan", "last_name": "Doornbosch", "gender": "m", "place": "Ten Boer", "full_name": "J.J.E. Doornbosch", "position": 2}, {"first_name": "Wolter", "last_name": "Strampel", "gender": "m", "place": "Haren Gn", "full_name": "W. Strampel", "position": 3}, {"first_name": "Jos", "last_name": "Walstra", "gender": "m", "place": "Groningen", "full_name": "J.G. Walstra", "position": 4}, {"first_name": "Tineke", "last_name": "Huizinga", "gender": "v", "place": "Ten Post", "full_name": "T.A. Huizinga", "position": 5}, {"first_name": "Freddy", "last_name": "Bosman", "gender": "m", "place": "Overschild", "full_name": "F.J.S. Bosman", "position": 6}, {"first_name": "Robert", "last_name": "Vonk", "gender": "m", "place": "Zuidhorn", "full_name": "R. Vonk", "position": 7}], "title": "Lijst_8_Algemene_Waterschapspartij_(AWP)"}
+{
+  "title": "Lijst 8 Algemene Waterschapspartij (AWP)",
+  "description": "",
+  "candidates": [
+    {
+      "position": 1,
+      "full_name": "R.F. Staijen",
+      "place": "Woltersum",
+      "gender": "m",
+      "last_name": "Staijen",
+      "first_name": "René"
+    },
+    {
+      "position": 2,
+      "full_name": "J.J.E. Doornbosch",
+      "place": "Ten Boer",
+      "gender": "m",
+      "last_name": "Doornbosch",
+      "first_name": "JaapJan"
+    },
+    {
+      "position": 3,
+      "full_name": "W. Strampel",
+      "place": "Haren Gn",
+      "gender": "m",
+      "last_name": "Strampel",
+      "first_name": "Wolter"
+    },
+    {
+      "position": 4,
+      "full_name": "J.G. Walstra",
+      "place": "Groningen",
+      "gender": "m",
+      "last_name": "Walstra",
+      "first_name": "Jos"
+    },
+    {
+      "position": 5,
+      "full_name": "T.A. Huizinga",
+      "place": "Ten Post",
+      "gender": "v",
+      "last_name": "Huizinga",
+      "first_name": "Tineke"
+    },
+    {
+      "position": 6,
+      "full_name": "F.J.S. Bosman",
+      "place": "Overschild",
+      "gender": "m",
+      "last_name": "Bosman",
+      "first_name": "Freddy"
+    },
+    {
+      "position": 7,
+      "full_name": "R. Vonk",
+      "place": "Zuidhorn",
+      "gender": "m",
+      "last_name": "Vonk",
+      "first_name": "Robert"
+    }
+  ]
+}

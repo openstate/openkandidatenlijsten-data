@@ -1,0 +1,326 @@
+{
+  "title": "Lijst_7 Democraten 66 (D66)",
+  "description": "",
+  "candidates": [
+    {
+      "position": 1,
+      "full_name": "L.A.P. Vaessen",
+      "place": "Sittard-Geleen",
+      "gender": "m",
+      "last_name": "Vaessen",
+      "first_name": "Leon"
+    },
+    {
+      "position": 2,
+      "full_name": "J. van Wageningen",
+      "place": "Maastricht",
+      "gender": "m",
+      "last_name": "van Wageningen",
+      "first_name": "Hans"
+    },
+    {
+      "position": 3,
+      "full_name": "J. van de Ven",
+      "place": "Venray",
+      "gender": "m",
+      "last_name": "van de Ven",
+      "first_name": "Jan"
+    },
+    {
+      "position": 4,
+      "full_name": "W.A. van Dommelen",
+      "place": "Horn",
+      "gender": "v",
+      "last_name": "van Dommelen",
+      "first_name": "Wilma"
+    },
+    {
+      "position": 5,
+      "full_name": "S. Suurland",
+      "place": "Maastricht",
+      "gender": "m",
+      "last_name": "Suurland",
+      "first_name": "Stefan"
+    },
+    {
+      "position": 6,
+      "full_name": "E.J.J.P. Engels",
+      "place": "Kerkrade",
+      "gender": "v",
+      "last_name": "Engels",
+      "first_name": "Eveline"
+    },
+    {
+      "position": 7,
+      "full_name": "C.J.H.C. Demas",
+      "place": "Maastricht",
+      "gender": "v",
+      "last_name": "Demas",
+      "first_name": "Claudia"
+    },
+    {
+      "position": 8,
+      "full_name": "V. Compen",
+      "place": "Molenhoek",
+      "gender": "v",
+      "last_name": "Compen",
+      "first_name": "Veertje"
+    },
+    {
+      "position": 9,
+      "full_name": "J.H.A. Soentjens",
+      "place": "Venlo",
+      "gender": "m",
+      "last_name": "Soentjens",
+      "first_name": "Hans"
+    },
+    {
+      "position": 10,
+      "full_name": "G.L.R. Goertz",
+      "place": "Roermond",
+      "gender": "m",
+      "last_name": "Goertz",
+      "first_name": "Gijs"
+    },
+    {
+      "position": 11,
+      "full_name": "H.A.L. Berkers",
+      "place": "Landgraaf",
+      "gender": "m",
+      "last_name": "Berkers",
+      "first_name": "Hein"
+    },
+    {
+      "position": 12,
+      "full_name": "M.R.A.H. Muurmans",
+      "place": "Maastricht",
+      "gender": "m",
+      "last_name": "Muurmans",
+      "first_name": "Marnix"
+    },
+    {
+      "position": 13,
+      "full_name": "S.J.L.M. Kleijnen",
+      "place": "Kerkrade",
+      "gender": "m",
+      "last_name": "Kleijnen",
+      "first_name": "Bas"
+    },
+    {
+      "position": 14,
+      "full_name": "W.W.A. Jansen",
+      "place": "Heerlen",
+      "gender": "m",
+      "last_name": "Jansen",
+      "first_name": "Wilco"
+    },
+    {
+      "position": 15,
+      "full_name": "A.H. van Wijk",
+      "place": "Weert",
+      "gender": "m",
+      "last_name": "van Wijk",
+      "first_name": "Bert"
+    },
+    {
+      "position": 16,
+      "full_name": "J.W. Westra",
+      "place": "Sittard-Geleen",
+      "gender": "m",
+      "last_name": "Westra",
+      "first_name": "Jan-Willem"
+    },
+    {
+      "position": 17,
+      "full_name": "J.H.M. Maas",
+      "place": "Venlo",
+      "gender": "m",
+      "last_name": "Maas",
+      "first_name": "Sef"
+    },
+    {
+      "position": 18,
+      "full_name": "G.M.J. Bos",
+      "place": "Maastricht",
+      "gender": "m",
+      "last_name": "Bos",
+      "first_name": "Gerard"
+    },
+    {
+      "position": 19,
+      "full_name": "P.H.B. Wessels",
+      "place": "Gennep",
+      "gender": "m",
+      "last_name": "Wessels",
+      "first_name": "Paul"
+    },
+    {
+      "position": 20,
+      "full_name": "E.M.J. Drijkoningen",
+      "place": "Heerlen",
+      "gender": "m",
+      "last_name": "Drijkoningen",
+      "first_name": "Ernest"
+    },
+    {
+      "position": 21,
+      "full_name": "G.J.A.P.M. Oudhuis",
+      "place": "Maastricht",
+      "gender": "m",
+      "last_name": "Oudhuis",
+      "first_name": "Guy"
+    },
+    {
+      "position": 22,
+      "full_name": "F.H.T.M. Aerts",
+      "place": "Venlo",
+      "gender": "m",
+      "last_name": "Aerts",
+      "first_name": "Frans"
+    },
+    {
+      "position": 23,
+      "full_name": "H.J.A. Barendse",
+      "place": "Maastricht",
+      "gender": "m",
+      "last_name": "Barendse",
+      "first_name": "Harald"
+    },
+    {
+      "position": 24,
+      "full_name": "F.J.J. Drummen",
+      "place": "Sittard-Geleen",
+      "gender": "m",
+      "last_name": "Drummen",
+      "first_name": "Frans"
+    },
+    {
+      "position": 25,
+      "full_name": "S.M. Hessing",
+      "place": "Weert",
+      "gender": "m",
+      "last_name": "Hessing",
+      "first_name": "Bas"
+    },
+    {
+      "position": 26,
+      "full_name": "R. Raemakers",
+      "place": "Neer",
+      "gender": "m",
+      "last_name": "Raemakers",
+      "first_name": "Rens"
+    },
+    {
+      "position": 27,
+      "full_name": "A.J. Thommassen",
+      "place": "Tegelen",
+      "gender": "v",
+      "last_name": "Thommassen",
+      "first_name": "Kim"
+    },
+    {
+      "position": 28,
+      "full_name": "E.J.G.M. Beerkens",
+      "place": "Venray",
+      "gender": "m",
+      "last_name": "Beerkens",
+      "first_name": "Emiel"
+    },
+    {
+      "position": 29,
+      "full_name": "R.J.A.G. Vernhout",
+      "place": "Sittard-Geleen",
+      "gender": "m",
+      "last_name": "Vernhout",
+      "first_name": "Rob"
+    },
+    {
+      "position": 30,
+      "full_name": "J.M. van Beek",
+      "place": "Heythuysen",
+      "gender": "m",
+      "last_name": "van Beek",
+      "first_name": "Joost"
+    },
+    {
+      "position": 31,
+      "full_name": "M.F.M. Geeratz",
+      "place": "Venlo",
+      "gender": "m",
+      "last_name": "Geeratz",
+      "first_name": "Misha"
+    },
+    {
+      "position": 32,
+      "full_name": "R.L.G. Op den Camp",
+      "place": "Voerendaal",
+      "gender": "m",
+      "last_name": "Op den Camp",
+      "first_name": "Rudy"
+    },
+    {
+      "position": 33,
+      "full_name": "J.G. Kusters",
+      "place": "Tegelen",
+      "gender": "m",
+      "last_name": "Kusters",
+      "first_name": "Jeroen"
+    },
+    {
+      "position": 34,
+      "full_name": "E.W.J.H. Brands",
+      "place": "Maastricht",
+      "gender": "v",
+      "last_name": "Brands",
+      "first_name": "Lisanne"
+    },
+    {
+      "position": 35,
+      "full_name": "F.E. Boon",
+      "place": "Noorbeek",
+      "gender": "m",
+      "last_name": "Boon",
+      "first_name": "Franklin"
+    },
+    {
+      "position": 36,
+      "full_name": "M.M.C.F. Stokbroeks",
+      "place": "Weert",
+      "gender": "v",
+      "last_name": "Stokbroeks",
+      "first_name": "Marie-Michèle"
+    },
+    {
+      "position": 37,
+      "full_name": "A.J.M. Kamphuis",
+      "place": "Sittard-Geleen",
+      "gender": "m",
+      "last_name": "Kamphuis",
+      "first_name": "Bert"
+    },
+    {
+      "position": 38,
+      "full_name": "A.M.J. Cremers",
+      "place": "Maastricht",
+      "gender": "m",
+      "last_name": "Cremers",
+      "first_name": "Armand"
+    },
+    {
+      "position": 39,
+      "full_name": "F.J. Pleyte",
+      "place": "Roermond",
+      "gender": "m",
+      "last_name": "Pleyte",
+      "first_name": "Ferdinand"
+    },
+    {
+      "position": 40,
+      "full_name": "J.W. Bertens",
+      "place": "Maastricht",
+      "gender": "m",
+      "last_name": "Bertens",
+      "first_name": "Jan Willem"
+    }
+  ]
+}

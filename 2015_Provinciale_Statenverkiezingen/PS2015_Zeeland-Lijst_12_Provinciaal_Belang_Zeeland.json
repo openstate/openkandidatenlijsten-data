@@ -1,0 +1,174 @@
+{
+  "title": "Lijst 12 Provinciaal Belang Zeeland",
+  "description": "",
+  "candidates": [
+    {
+      "position": 1,
+      "full_name": "J.C. Robesin",
+      "place": "Hoek",
+      "gender": "m",
+      "last_name": "Robesin",
+      "first_name": "Johan"
+    },
+    {
+      "position": 2,
+      "full_name": "N.C. Vromans-van Es",
+      "place": "Koudekerke",
+      "gender": "v",
+      "last_name": "Vromans-van Es",
+      "first_name": "Netty"
+    },
+    {
+      "position": 3,
+      "full_name": "E.D. de Neef",
+      "place": "Terneuzen",
+      "gender": "v",
+      "last_name": "de Neef",
+      "first_name": "Ellen"
+    },
+    {
+      "position": 4,
+      "full_name": "W. Vastrick",
+      "place": "Vlissingen",
+      "gender": "m",
+      "last_name": "Vastrick",
+      "first_name": "Wouter"
+    },
+    {
+      "position": 5,
+      "full_name": "H.M. van Rees",
+      "place": "Kloetinge",
+      "gender": "v",
+      "last_name": "van Rees",
+      "first_name": "Hester"
+    },
+    {
+      "position": 6,
+      "full_name": "M. Bart",
+      "place": "Middelburg",
+      "gender": "m",
+      "last_name": "Bart",
+      "first_name": "Mario"
+    },
+    {
+      "position": 7,
+      "full_name": "M.L. Windrich",
+      "place": "Philippine",
+      "gender": "v",
+      "last_name": "Windrich",
+      "first_name": "Marjolein"
+    },
+    {
+      "position": 8,
+      "full_name": "J.J. Matthijsse",
+      "place": "Goes",
+      "gender": "m",
+      "last_name": "Matthijsse",
+      "first_name": "Sjako"
+    },
+    {
+      "position": 9,
+      "full_name": "G. Ruedisueli",
+      "place": "Vlissingen",
+      "gender": "m",
+      "last_name": "Ruedisueli",
+      "first_name": "Gerard"
+    },
+    {
+      "position": 10,
+      "full_name": "G.B. van de Langkruis",
+      "place": "Terneuzen",
+      "gender": "m",
+      "last_name": "van de Langkruis",
+      "first_name": "Gerard"
+    },
+    {
+      "position": 11,
+      "full_name": "B.M.M. De Waele",
+      "place": "Hulst",
+      "gender": "m",
+      "last_name": "De Waele",
+      "first_name": "Bram"
+    },
+    {
+      "position": 12,
+      "full_name": "J.C. Poppe",
+      "place": "Vlissingen",
+      "gender": "m",
+      "last_name": "Poppe",
+      "first_name": "Jan"
+    },
+    {
+      "position": 13,
+      "full_name": "J.E. Vlottes",
+      "place": "Terneuzen",
+      "gender": "m",
+      "last_name": "Vlottes",
+      "first_name": "Hans"
+    },
+    {
+      "position": 14,
+      "full_name": "J.F.P. Ivens",
+      "place": "Sas van Gent",
+      "gender": "m",
+      "last_name": "Ivens",
+      "first_name": "Joop"
+    },
+    {
+      "position": 15,
+      "full_name": "J.M.G. Veraart",
+      "place": "Terneuzen",
+      "gender": "m",
+      "last_name": "Veraart",
+      "first_name": "Jos"
+    },
+    {
+      "position": 16,
+      "full_name": "O.V. Lutsenko",
+      "place": "Vlissingen",
+      "gender": "v",
+      "last_name": "Lutsenko",
+      "first_name": "Olesya"
+    },
+    {
+      "position": 17,
+      "full_name": "L.G. Kay",
+      "place": "Terneuzen",
+      "gender": "m",
+      "last_name": "Kay",
+      "first_name": "Lionel"
+    },
+    {
+      "position": 18,
+      "full_name": "S.M. Bart",
+      "place": "Middelburg",
+      "gender": "m",
+      "last_name": "Bart",
+      "first_name": "Silvano"
+    },
+    {
+      "position": 19,
+      "full_name": "A.J.D. Kamp",
+      "place": "Philippine",
+      "gender": "m",
+      "last_name": "Kamp",
+      "first_name": "Ad"
+    },
+    {
+      "position": 20,
+      "full_name": "R.G.P. de Mul",
+      "place": "Axel",
+      "gender": "m",
+      "last_name": "de Mul",
+      "first_name": "Rudy"
+    },
+    {
+      "position": 21,
+      "full_name": "N.M.J. Laffeber",
+      "place": "Terneuzen",
+      "gender": "v",
+      "last_name": "Laffeber",
+      "first_name": "Neeltje"
+    }
+  ]
+}

@@ -1,1 +1,86 @@
-{"description": "Gecombineerd met ChristenUnie", "members": [{"first_name": "Jacob", "last_name": "de Borst", "gender": "m", "place": "Urk", "full_name": "J. de Borst", "position": 1}, {"first_name": "Erick", "last_name": "Knoot", "gender": "m", "place": "Lelystad", "full_name": "H. Knoot", "position": 2}, {"first_name": "Jelle", "last_name": "van Veen", "gender": "m", "place": "Urk", "full_name": "J. van Veen", "position": 3}, {"first_name": "Jacob", "last_name": "Simonse", "gender": "m", "place": "Emmeloord", "full_name": "J. Simonse", "position": 4}, {"first_name": "Aart", "last_name": "de Kuiper", "gender": "m", "place": "Lelystad", "full_name": "A. de Kuiper", "position": 5}, {"first_name": "Willem", "last_name": "Bolhuis", "gender": "m", "place": "Lelystad", "full_name": "W.A. Bolhuis", "position": 6}, {"first_name": "Tiemen", "last_name": "Roos", "gender": "m", "place": "Urk", "full_name": "T. Roos", "position": 7}, {"first_name": "Jan Willem", "last_name": "Bakker", "gender": "m", "place": "Urk", "full_name": "J.W. Bakker", "position": 8}, {"first_name": "Piet", "last_name": "Moens", "gender": "m", "place": "Luttelgeest", "full_name": "P.A. Moens", "position": 9}, {"first_name": "Co", "last_name": "van den Heuvel-Hoekstra", "gender": "v", "place": "Urk", "full_name": "J. van den Heuvel-Hoekstra", "position": 10}], "title": "Lijst_7_Staatkundig_Gereformeerde_Partij_(SGP)"}
+{
+  "title": "Lijst 7 Staatkundig Gereformeerde Partij (SGP)",
+  "description": "Gecombineerd met ChristenUnie",
+  "candidates": [
+    {
+      "position": 1,
+      "full_name": "J. de Borst",
+      "place": "Urk",
+      "gender": "m",
+      "last_name": "de Borst",
+      "first_name": "Jacob"
+    },
+    {
+      "position": 2,
+      "full_name": "H. Knoot",
+      "place": "Lelystad",
+      "gender": "m",
+      "last_name": "Knoot",
+      "first_name": "Erick"
+    },
+    {
+      "position": 3,
+      "full_name": "J. van Veen",
+      "place": "Urk",
+      "gender": "m",
+      "last_name": "van Veen",
+      "first_name": "Jelle"
+    },
+    {
+      "position": 4,
+      "full_name": "J. Simonse",
+      "place": "Emmeloord",
+      "gender": "m",
+      "last_name": "Simonse",
+      "first_name": "Jacob"
+    },
+    {
+      "position": 5,
+      "full_name": "A. de Kuiper",
+      "place": "Lelystad",
+      "gender": "m",
+      "last_name": "de Kuiper",
+      "first_name": "Aart"
+    },
+    {
+      "position": 6,
+      "full_name": "W.A. Bolhuis",
+      "place": "Lelystad",
+      "gender": "m",
+      "last_name": "Bolhuis",
+      "first_name": "Willem"
+    },
+    {
+      "position": 7,
+      "full_name": "T. Roos",
+      "place": "Urk",
+      "gender": "m",
+      "last_name": "Roos",
+      "first_name": "Tiemen"
+    },
+    {
+      "position": 8,
+      "full_name": "J.W. Bakker",
+      "place": "Urk",
+      "gender": "m",
+      "last_name": "Bakker",
+      "first_name": "Jan Willem"
+    },
+    {
+      "position": 9,
+      "full_name": "P.A. Moens",
+      "place": "Luttelgeest",
+      "gender": "m",
+      "last_name": "Moens",
+      "first_name": "Piet"
+    },
+    {
+      "position": 10,
+      "full_name": "J. van den Heuvel-Hoekstra",
+      "place": "Urk",
+      "gender": "v",
+      "last_name": "van den Heuvel-Hoekstra",
+      "first_name": "Co"
+    }
+  ]
+}

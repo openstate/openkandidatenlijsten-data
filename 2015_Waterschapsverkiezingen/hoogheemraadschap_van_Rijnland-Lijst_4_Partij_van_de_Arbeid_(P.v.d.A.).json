@@ -1,1 +1,94 @@
-{"description": "Gecombineerd met Water Natuurlijk", "members": [{"first_name": "Jeroen", "last_name": "Haan", "gender": "m", "place": "Zoeterwoude", "full_name": "J.C.H. Haan", "position": 1}, {"first_name": "Thea", "last_name": "Fierens", "gender": "v", "place": "Noordwijk", "full_name": "T.O. Fierens", "position": 2}, {"first_name": "Arie", "last_name": "de Jong", "gender": "m", "place": "Leiden", "full_name": "A. de Jong", "position": 3}, {"first_name": "Jan", "last_name": "Spendel", "gender": "m", "place": "Voorschoten", "full_name": "J.M. Spendel", "position": 4}, {"first_name": "Els", "last_name": "Veenhoven", "gender": "v", "place": "Haarlem", "full_name": "E.P. Veenhoven", "position": 5}, {"first_name": "Arjen", "last_name": "Frentz", "gender": "m", "place": "Leiden", "full_name": "A. Frentz", "position": 6}, {"first_name": "Hugo", "last_name": "Priemus", "gender": "m", "place": "Leiden", "full_name": "H. Priemus", "position": 7}, {"first_name": "Evert", "last_name": "Henrotte", "gender": "m", "place": "Rijnsaterwoude", "full_name": "E.H. Henrotte", "position": 8}, {"first_name": "Nils", "last_name": "van Teijlingen", "gender": "m", "place": "Gouda", "full_name": "N.A. van Teijlingen", "position": 9}, {"first_name": "Tom", "last_name": "Schaafsma", "gender": "m", "place": "Zwammerdam", "full_name": "T.A. Schaafsma", "position": 10}, {"first_name": "Jan", "last_name": "Bouwens", "gender": "m", "place": "Bodegraven", "full_name": "J.J. Bouwens", "position": 11}], "title": "Lijst_4_Partij_van_de_Arbeid_(P.v.d.A.)"}
+{
+  "title": "Lijst 4 Partij van de Arbeid (P.v.d.A.)",
+  "description": "Gecombineerd met Water Natuurlijk",
+  "candidates": [
+    {
+      "position": 1,
+      "full_name": "J.C.H. Haan",
+      "place": "Zoeterwoude",
+      "gender": "m",
+      "last_name": "Haan",
+      "first_name": "Jeroen"
+    },
+    {
+      "position": 2,
+      "full_name": "T.O. Fierens",
+      "place": "Noordwijk",
+      "gender": "v",
+      "last_name": "Fierens",
+      "first_name": "Thea"
+    },
+    {
+      "position": 3,
+      "full_name": "A. de Jong",
+      "place": "Leiden",
+      "gender": "m",
+      "last_name": "de Jong",
+      "first_name": "Arie"
+    },
+    {
+      "position": 4,
+      "full_name": "J.M. Spendel",
+      "place": "Voorschoten",
+      "gender": "m",
+      "last_name": "Spendel",
+      "first_name": "Jan"
+    },
+    {
+      "position": 5,
+      "full_name": "E.P. Veenhoven",
+      "place": "Haarlem",
+      "gender": "v",
+      "last_name": "Veenhoven",
+      "first_name": "Els"
+    },
+    {
+      "position": 6,
+      "full_name": "A. Frentz",
+      "place": "Leiden",
+      "gender": "m",
+      "last_name": "Frentz",
+      "first_name": "Arjen"
+    },
+    {
+      "position": 7,
+      "full_name": "H. Priemus",
+      "place": "Leiden",
+      "gender": "m",
+      "last_name": "Priemus",
+      "first_name": "Hugo"
+    },
+    {
+      "position": 8,
+      "full_name": "E.H. Henrotte",
+      "place": "Rijnsaterwoude",
+      "gender": "m",
+      "last_name": "Henrotte",
+      "first_name": "Evert"
+    },
+    {
+      "position": 9,
+      "full_name": "N.A. van Teijlingen",
+      "place": "Gouda",
+      "gender": "m",
+      "last_name": "van Teijlingen",
+      "first_name": "Nils"
+    },
+    {
+      "position": 10,
+      "full_name": "T.A. Schaafsma",
+      "place": "Zwammerdam",
+      "gender": "m",
+      "last_name": "Schaafsma",
+      "first_name": "Tom"
+    },
+    {
+      "position": 11,
+      "full_name": "J.J. Bouwens",
+      "place": "Bodegraven",
+      "gender": "m",
+      "last_name": "Bouwens",
+      "first_name": "Jan"
+    }
+  ]
+}

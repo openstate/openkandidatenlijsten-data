@@ -1,1 +1,182 @@
-{"description": "", "members": [{"first_name": "Piet", "last_name": "Blom", "gender": "m", "place": "Mijnsheerenland", "full_name": "P.H.M. Blom", "position": 1}, {"first_name": "Lionel", "last_name": "Martijn", "gender": "m", "place": "Rotterdam", "full_name": "L.B. Martijn", "position": 2}, {"first_name": "Fred", "last_name": "Prins", "gender": "m", "place": "Middelharnis", "full_name": "F.J. Prins", "position": 3}, {"first_name": "Gerda", "last_name": "Vroegop - Kranenburg", "gender": "v", "place": "Maasdam", "full_name": "G. Vroegop - Kranenburg", "position": 4}, {"first_name": "Johan", "last_name": "van Dalen", "gender": "m", "place": "Steenbergen", "full_name": "J.M. van Dalen", "position": 5}, {"first_name": "Leonie", "last_name": "de Mulder", "gender": "v", "place": "Ridderkerk", "full_name": "L. de Mulder", "position": 6}, {"first_name": "Bram", "last_name": "van der Veer", "gender": "m", "place": "Maasdam", "full_name": "A.J. van der Veer", "position": 7}, {"first_name": "Jos", "last_name": "Gianotten", "gender": "m", "place": "Ridderkerk", "full_name": "J.J.T. Gianotten", "position": 8}, {"first_name": "Said", "last_name": "El Bouazzaoui", "gender": "m", "place": "Rotterdam", "full_name": "S. El Bouazzaoui", "position": 9}, {"first_name": "Peter", "last_name": "Langendijk", "gender": "m", "place": "Barendrecht", "full_name": "P.H.M.J. Langendijk", "position": 10}, {"first_name": "Jan", "last_name": "den Haan", "gender": "m", "place": "Spijkenisse", "full_name": "J.H.K. den Haan", "position": 11}, {"first_name": "Jack", "last_name": "Nieman", "gender": "m", "place": "Zwijndrecht", "full_name": "J.T. Nieman", "position": 12}, {"first_name": "Luc", "last_name": "Vreugdenhil", "gender": "m", "place": "Numansdorp", "full_name": "L.A. Vreugdenhil", "position": 13}, {"first_name": "Jan", "last_name": "Visser", "gender": "m", "place": "Mijnsheerenland", "full_name": "J.A. Visser", "position": 14}, {"first_name": "Herman", "last_name": "Roekx", "gender": "m", "place": "Barendrecht", "full_name": "H.H. Roekx", "position": 15}, {"first_name": "Cees", "last_name": "Broere", "gender": "m", "place": "Numansdorp", "full_name": "C. Broere", "position": 16}, {"first_name": "Boudewijn", "last_name": "Bernsen", "gender": "m", "place": "Mijnsheerenland", "full_name": "B. Bernsen", "position": 17}, {"first_name": "John", "last_name": "Zeilstra", "gender": "m", "place": "Numansdorp", "full_name": "J. Zeilstra", "position": 18}, {"first_name": "Jaap", "last_name": "de Jongh", "gender": "m", "place": "Mijnsheerenland", "full_name": "J. de Jongh", "position": 19}, {"first_name": "Jan Wouter", "last_name": "van Reeuwijk", "gender": "m", "place": "Mijnsheerenland", "full_name": "J.W. van Reeuwijk", "position": 20}, {"first_name": "Eduard", "last_name": "Harinck", "gender": "m", "place": "Mijnsheerenland", "full_name": "E. Harinck", "position": 21}, {"first_name": "Gerard", "last_name": "Cox", "gender": "m", "place": "Mijnsheerenland", "full_name": "G.A. Cox", "position": 22}], "title": "Lijst_11_Inwonersbelang_-_AWP"}
+{
+  "title": "Lijst 11 Inwonersbelang - AWP",
+  "description": "",
+  "candidates": [
+    {
+      "position": 1,
+      "full_name": "P.H.M. Blom",
+      "place": "Mijnsheerenland",
+      "gender": "m",
+      "last_name": "Blom",
+      "first_name": "Piet"
+    },
+    {
+      "position": 2,
+      "full_name": "L.B. Martijn",
+      "place": "Rotterdam",
+      "gender": "m",
+      "last_name": "Martijn",
+      "first_name": "Lionel"
+    },
+    {
+      "position": 3,
+      "full_name": "F.J. Prins",
+      "place": "Middelharnis",
+      "gender": "m",
+      "last_name": "Prins",
+      "first_name": "Fred"
+    },
+    {
+      "position": 4,
+      "full_name": "G. Vroegop - Kranenburg",
+      "place": "Maasdam",
+      "gender": "v",
+      "last_name": "Vroegop - Kranenburg",
+      "first_name": "Gerda"
+    },
+    {
+      "position": 5,
+      "full_name": "J.M. van Dalen",
+      "place": "Steenbergen",
+      "gender": "m",
+      "last_name": "van Dalen",
+      "first_name": "Johan"
+    },
+    {
+      "position": 6,
+      "full_name": "L. de Mulder",
+      "place": "Ridderkerk",
+      "gender": "v",
+      "last_name": "de Mulder",
+      "first_name": "Leonie"
+    },
+    {
+      "position": 7,
+      "full_name": "A.J. van der Veer",
+      "place": "Maasdam",
+      "gender": "m",
+      "last_name": "van der Veer",
+      "first_name": "Bram"
+    },
+    {
+      "position": 8,
+      "full_name": "J.J.T. Gianotten",
+      "place": "Ridderkerk",
+      "gender": "m",
+      "last_name": "Gianotten",
+      "first_name": "Jos"
+    },
+    {
+      "position": 9,
+      "full_name": "S. El Bouazzaoui",
+      "place": "Rotterdam",
+      "gender": "m",
+      "last_name": "El Bouazzaoui",
+      "first_name": "Said"
+    },
+    {
+      "position": 10,
+      "full_name": "P.H.M.J. Langendijk",
+      "place": "Barendrecht",
+      "gender": "m",
+      "last_name": "Langendijk",
+      "first_name": "Peter"
+    },
+    {
+      "position": 11,
+      "full_name": "J.H.K. den Haan",
+      "place": "Spijkenisse",
+      "gender": "m",
+      "last_name": "den Haan",
+      "first_name": "Jan"
+    },
+    {
+      "position": 12,
+      "full_name": "J.T. Nieman",
+      "place": "Zwijndrecht",
+      "gender": "m",
+      "last_name": "Nieman",
+      "first_name": "Jack"
+    },
+    {
+      "position": 13,
+      "full_name": "L.A. Vreugdenhil",
+      "place": "Numansdorp",
+      "gender": "m",
+      "last_name": "Vreugdenhil",
+      "first_name": "Luc"
+    },
+    {
+      "position": 14,
+      "full_name": "J.A. Visser",
+      "place": "Mijnsheerenland",
+      "gender": "m",
+      "last_name": "Visser",
+      "first_name": "Jan"
+    },
+    {
+      "position": 15,
+      "full_name": "H.H. Roekx",
+      "place": "Barendrecht",
+      "gender": "m",
+      "last_name": "Roekx",
+      "first_name": "Herman"
+    },
+    {
+      "position": 16,
+      "full_name": "C. Broere",
+      "place": "Numansdorp",
+      "gender": "m",
+      "last_name": "Broere",
+      "first_name": "Cees"
+    },
+    {
+      "position": 17,
+      "full_name": "B. Bernsen",
+      "place": "Mijnsheerenland",
+      "gender": "m",
+      "last_name": "Bernsen",
+      "first_name": "Boudewijn"
+    },
+    {
+      "position": 18,
+      "full_name": "J. Zeilstra",
+      "place": "Numansdorp",
+      "gender": "m",
+      "last_name": "Zeilstra",
+      "first_name": "John"
+    },
+    {
+      "position": 19,
+      "full_name": "J. de Jongh",
+      "place": "Mijnsheerenland",
+      "gender": "m",
+      "last_name": "de Jongh",
+      "first_name": "Jaap"
+    },
+    {
+      "position": 20,
+      "full_name": "J.W. van Reeuwijk",
+      "place": "Mijnsheerenland",
+      "gender": "m",
+      "last_name": "van Reeuwijk",
+      "first_name": "Jan Wouter"
+    },
+    {
+      "position": 21,
+      "full_name": "E. Harinck",
+      "place": "Mijnsheerenland",
+      "gender": "m",
+      "last_name": "Harinck",
+      "first_name": "Eduard"
+    },
+    {
+      "position": 22,
+      "full_name": "G.A. Cox",
+      "place": "Mijnsheerenland",
+      "gender": "m",
+      "last_name": "Cox",
+      "first_name": "Gerard"
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "title": "Lijst_4 PVV (Partij voor de Vrijheid)",
+  "description": "",
+  "candidates": [
+    {
+      "position": 1,
+      "full_name": "M.H.M. van de Klashorst - Faber",
+      "place": "Hoevelaken",
+      "gender": "v",
+      "last_name": "van de Klashorst - Faber",
+      "first_name": "Marjolein"
+    },
+    {
+      "position": 2,
+      "full_name": "A. Kops",
+      "place": "Apeldoorn",
+      "gender": "m",
+      "last_name": "Kops",
+      "first_name": "Alexander"
+    },
+    {
+      "position": 3,
+      "full_name": "E.N. Venema",
+      "place": "Dieren",
+      "gender": "m",
+      "last_name": "Venema",
+      "first_name": "Eric"
+    },
+    {
+      "position": 4,
+      "full_name": "J.W. Scheers",
+      "place": "Azewijn",
+      "gender": "m",
+      "last_name": "Scheers",
+      "first_name": "Johann"
+    },
+    {
+      "position": 5,
+      "full_name": "E. Vlottes",
+      "place": "Apeldoorn",
+      "gender": "m",
+      "last_name": "Vlottes",
+      "first_name": "Elmar"
+    },
+    {
+      "position": 6,
+      "full_name": "C.A. Bulder - Poortinga",
+      "place": "Nijmegen",
+      "gender": "v",
+      "last_name": "Bulder - Poortinga",
+      "first_name": "Tineke"
+    },
+    {
+      "position": 7,
+      "full_name": "K.J. Bossmann",
+      "place": "Wageningen",
+      "gender": "m",
+      "last_name": "Bossmann",
+      "first_name": "Kurt"
+    },
+    {
+      "position": 8,
+      "full_name": "P. Bakker",
+      "place": "Zaltbommel",
+      "gender": "m",
+      "last_name": "Bakker",
+      "first_name": "Pieter"
+    },
+    {
+      "position": 9,
+      "full_name": "C.J.T. Straver",
+      "place": "Maurik",
+      "gender": "m",
+      "last_name": "Straver",
+      "first_name": "Cees-Jan"
+    },
+    {
+      "position": 10,
+      "full_name": "R.H.A. Sanders",
+      "place": "Arnhem",
+      "gender": "m",
+      "last_name": "Sanders",
+      "first_name": "Robert"
+    },
+    {
+      "position": 11,
+      "full_name": "A.V. Beverloo",
+      "place": "Waardenburg",
+      "gender": "m",
+      "last_name": "Beverloo",
+      "first_name": "Andreas"
+    },
+    {
+      "position": 12,
+      "full_name": "A.P. de Vos",
+      "place": "Apeldoorn",
+      "gender": "v",
+      "last_name": "de Vos",
+      "first_name": "Astrid"
+    },
+    {
+      "position": 13,
+      "full_name": "M.T. van Tessel",
+      "place": "Ede",
+      "gender": "v",
+      "last_name": "van Tessel",
+      "first_name": "Marjolein"
+    },
+    {
+      "position": 14,
+      "full_name": "C.A. Krelekamp",
+      "place": "Eerbeek",
+      "gender": "m",
+      "last_name": "Krelekamp",
+      "first_name": "Kees"
+    },
+    {
+      "position": 15,
+      "full_name": "G.B. van der Kemp",
+      "place": "Arnhem",
+      "gender": "m",
+      "last_name": "van der Kemp",
+      "first_name": "Geert"
+    },
+    {
+      "position": 16,
+      "full_name": "C.J. Drost",
+      "place": "Zutphen",
+      "gender": "m",
+      "last_name": "Drost",
+      "first_name": "Cantor"
+    },
+    {
+      "position": 17,
+      "full_name": "R.J. Klever",
+      "place": "Ermelo",
+      "gender": "v",
+      "last_name": "Klever",
+      "first_name": "Reinette"
+    }
+  ]
+}

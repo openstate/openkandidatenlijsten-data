@@ -1,1 +1,78 @@
-{"description": "", "members": [{"first_name": "Henk", "last_name": "Oegema", "gender": "m", "place": "Dalfsen", "full_name": "H. Oegema", "position": 1}, {"first_name": "Tjeerd", "last_name": "Kingma", "gender": "m", "place": "Zwolle", "full_name": "T.J. Kingma", "position": 2}, {"first_name": "Henk", "last_name": "Holtmaat", "gender": "m", "place": "Mari\u00ebnheem", "full_name": "H.G.A. Holtmaat", "position": 3}, {"first_name": "Bas", "last_name": "Wonink", "gender": "m", "place": "Kampen", "full_name": "A.B. Wonink", "position": 4}, {"first_name": "Cor", "last_name": "van den Berg", "gender": "m", "place": "Wijhe", "full_name": "C.M.A. van den Berg", "position": 5}, {"first_name": "Jan", "last_name": "Smit", "gender": "m", "place": "IJsselmuiden", "full_name": "J. Smit", "position": 6}, {"first_name": "Ronald", "last_name": "Kalter", "gender": "m", "place": "IJsselmuiden", "full_name": "A.C.G. Kalter", "position": 7}, {"first_name": "Ok", "last_name": "Bolsenbroek", "gender": "m", "place": "Deventer", "full_name": "R.V.H. Bolsenbroek", "position": 8}, {"first_name": "Alet", "last_name": "Boukes-Okkels", "gender": "v", "place": "Zwolle", "full_name": "A.A.J. Boukes-Okkels", "position": 9}], "title": "Lijst_2_CDA"}
+{
+  "title": "Lijst 2 CDA",
+  "description": "",
+  "candidates": [
+    {
+      "position": 1,
+      "full_name": "H. Oegema",
+      "place": "Dalfsen",
+      "gender": "m",
+      "last_name": "Oegema",
+      "first_name": "Henk"
+    },
+    {
+      "position": 2,
+      "full_name": "T.J. Kingma",
+      "place": "Zwolle",
+      "gender": "m",
+      "last_name": "Kingma",
+      "first_name": "Tjeerd"
+    },
+    {
+      "position": 3,
+      "full_name": "H.G.A. Holtmaat",
+      "place": "Mariënheem",
+      "gender": "m",
+      "last_name": "Holtmaat",
+      "first_name": "Henk"
+    },
+    {
+      "position": 4,
+      "full_name": "A.B. Wonink",
+      "place": "Kampen",
+      "gender": "m",
+      "last_name": "Wonink",
+      "first_name": "Bas"
+    },
+    {
+      "position": 5,
+      "full_name": "C.M.A. van den Berg",
+      "place": "Wijhe",
+      "gender": "m",
+      "last_name": "van den Berg",
+      "first_name": "Cor"
+    },
+    {
+      "position": 6,
+      "full_name": "J. Smit",
+      "place": "IJsselmuiden",
+      "gender": "m",
+      "last_name": "Smit",
+      "first_name": "Jan"
+    },
+    {
+      "position": 7,
+      "full_name": "A.C.G. Kalter",
+      "place": "IJsselmuiden",
+      "gender": "m",
+      "last_name": "Kalter",
+      "first_name": "Ronald"
+    },
+    {
+      "position": 8,
+      "full_name": "R.V.H. Bolsenbroek",
+      "place": "Deventer",
+      "gender": "m",
+      "last_name": "Bolsenbroek",
+      "first_name": "Ok"
+    },
+    {
+      "position": 9,
+      "full_name": "A.A.J. Boukes-Okkels",
+      "place": "Zwolle",
+      "gender": "v",
+      "last_name": "Boukes-Okkels",
+      "first_name": "Alet"
+    }
+  ]
+}

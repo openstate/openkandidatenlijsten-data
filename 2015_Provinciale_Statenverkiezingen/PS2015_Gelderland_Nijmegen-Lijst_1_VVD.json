@@ -1,0 +1,318 @@
+{
+  "title": "Lijst_1 VVD",
+  "description": "",
+  "candidates": [
+    {
+      "position": 1,
+      "full_name": "J. Markink",
+      "place": "Borculo",
+      "gender": "m",
+      "last_name": "Markink",
+      "first_name": "Jan"
+    },
+    {
+      "position": 2,
+      "full_name": "C.G. Bieze - van Eck",
+      "place": "Twello",
+      "gender": "v",
+      "last_name": "Bieze - van Eck",
+      "first_name": "Conny"
+    },
+    {
+      "position": 3,
+      "full_name": "M.J.P.H. Waltmans",
+      "place": "Rozendaal",
+      "gender": "m",
+      "last_name": "Waltmans",
+      "first_name": "Mike"
+    },
+    {
+      "position": 4,
+      "full_name": "R.L.N. Westra",
+      "place": "Arnhem",
+      "gender": "m",
+      "last_name": "Westra",
+      "first_name": "René"
+    },
+    {
+      "position": 5,
+      "full_name": "J.M. Huisman",
+      "place": "Oosterhout",
+      "gender": "v",
+      "last_name": "Huisman",
+      "first_name": "Ans"
+    },
+    {
+      "position": 6,
+      "full_name": "J.A. de Haan",
+      "place": "Ermelo",
+      "gender": "m",
+      "last_name": "de Haan",
+      "first_name": "Hans"
+    },
+    {
+      "position": 7,
+      "full_name": "A.J. Prins",
+      "place": "Apeldoorn",
+      "gender": "v",
+      "last_name": "Prins",
+      "first_name": "Anja"
+    },
+    {
+      "position": 8,
+      "full_name": "B.G. Meerburg",
+      "place": "Randwijk",
+      "gender": "m",
+      "last_name": "Meerburg",
+      "first_name": "Bastiaan"
+    },
+    {
+      "position": 9,
+      "full_name": "F.A.J. Peters",
+      "place": "Nijmegen",
+      "gender": "m",
+      "last_name": "Peters",
+      "first_name": "Frederik"
+    },
+    {
+      "position": 10,
+      "full_name": "J.A.C.M. Elbers",
+      "place": "Leuvenheim",
+      "gender": "m",
+      "last_name": "Elbers",
+      "first_name": "Bart"
+    },
+    {
+      "position": 11,
+      "full_name": "M.E. Schriks",
+      "place": "Zutphen",
+      "gender": "v",
+      "last_name": "Schriks",
+      "first_name": "Marieke"
+    },
+    {
+      "position": 12,
+      "full_name": "C.C. van der Woude",
+      "place": "Ede",
+      "gender": "v",
+      "last_name": "van der Woude",
+      "first_name": "Corrie-Christine"
+    },
+    {
+      "position": 13,
+      "full_name": "J.M.C. Kroon - Stassen",
+      "place": "Westervoort",
+      "gender": "v",
+      "last_name": "Kroon - Stassen",
+      "first_name": "Janiek"
+    },
+    {
+      "position": 14,
+      "full_name": "B.J. van Bijsteren",
+      "place": "Harderwijk",
+      "gender": "m",
+      "last_name": "van Bijsteren",
+      "first_name": "Bert"
+    },
+    {
+      "position": 15,
+      "full_name": "M.J.H.M. van Vught",
+      "place": "Maasbommel",
+      "gender": "v",
+      "last_name": "van Vught",
+      "first_name": "Mireille"
+    },
+    {
+      "position": 16,
+      "full_name": "C. van den Bos",
+      "place": "Winterswijk",
+      "gender": "m",
+      "last_name": "van den Bos",
+      "first_name": "Chris"
+    },
+    {
+      "position": 17,
+      "full_name": "C.M.W. Reesing - Som",
+      "place": "Didam",
+      "gender": "v",
+      "last_name": "Reesing - Som",
+      "first_name": "Karin"
+    },
+    {
+      "position": 18,
+      "full_name": "J. van Engelen",
+      "place": "Zaltbommel",
+      "gender": "m",
+      "last_name": "van Engelen",
+      "first_name": "Jan"
+    },
+    {
+      "position": 19,
+      "full_name": "B.W. Groot",
+      "place": "Arnhem",
+      "gender": "v",
+      "last_name": "Groot",
+      "first_name": "Wieneke"
+    },
+    {
+      "position": 20,
+      "full_name": "M.J. Hartman - Oosterink",
+      "place": "Toldijk",
+      "gender": "v",
+      "last_name": "Hartman - Oosterink",
+      "first_name": "Marja"
+    },
+    {
+      "position": 21,
+      "full_name": "R.J. de Waal",
+      "place": "Zutphen",
+      "gender": "m",
+      "last_name": "de Waal",
+      "first_name": "Jeroen"
+    },
+    {
+      "position": 22,
+      "full_name": "P.A. Thijsse",
+      "place": "Kootwijkerbroek",
+      "gender": "m",
+      "last_name": "Thijsse",
+      "first_name": "Piet"
+    },
+    {
+      "position": 23,
+      "full_name": "T.K. van der Elst",
+      "place": "Arnhem",
+      "gender": "v",
+      "last_name": "van der Elst",
+      "first_name": "Tineke"
+    },
+    {
+      "position": 24,
+      "full_name": "R.R. van der Vlies",
+      "place": "Epe",
+      "gender": "m",
+      "last_name": "van der Vlies",
+      "first_name": "Rien"
+    },
+    {
+      "position": 25,
+      "full_name": "H.G.H. Wilkens",
+      "place": "Bemmel",
+      "gender": "m",
+      "last_name": "Wilkens",
+      "first_name": "Berry"
+    },
+    {
+      "position": 26,
+      "full_name": "P.J. Gaynor",
+      "place": "Doornspijk",
+      "gender": "m",
+      "last_name": "Gaynor",
+      "first_name": "Patrick"
+    },
+    {
+      "position": 27,
+      "full_name": "B.B. Hasselo",
+      "place": "Eibergen",
+      "gender": "m",
+      "last_name": "Hasselo",
+      "first_name": "Ben"
+    },
+    {
+      "position": 28,
+      "full_name": "C.F.L. van Sluis",
+      "place": "Epe",
+      "gender": "v",
+      "last_name": "van Sluis",
+      "first_name": "Charlotte"
+    },
+    {
+      "position": 29,
+      "full_name": "J.M.J. Uijthof",
+      "place": "Velp",
+      "gender": "m",
+      "last_name": "Uijthof",
+      "first_name": "Jaap"
+    },
+    {
+      "position": 30,
+      "full_name": "J.A. Voorhorst",
+      "place": "Altforst",
+      "gender": "m",
+      "last_name": "Voorhorst",
+      "first_name": "Arjen"
+    },
+    {
+      "position": 31,
+      "full_name": "B.C. van Erven",
+      "place": "Apeldoorn",
+      "gender": "m",
+      "last_name": "van Erven",
+      "first_name": "Bart"
+    },
+    {
+      "position": 32,
+      "full_name": "S.G.M. Lukkassen",
+      "place": "Duiven",
+      "gender": "m",
+      "last_name": "Lukkassen",
+      "first_name": "Sid"
+    },
+    {
+      "position": 33,
+      "full_name": "K.J. van Guilik",
+      "place": "Heveadorp",
+      "gender": "m",
+      "last_name": "van Guilik",
+      "first_name": "Kevin"
+    },
+    {
+      "position": 34,
+      "full_name": "F. Ockers",
+      "place": "Arnhem",
+      "gender": "v",
+      "last_name": "Ockers",
+      "first_name": "Floor"
+    },
+    {
+      "position": 35,
+      "full_name": "J.E. Hulsbergen",
+      "place": "Ochten",
+      "gender": "v",
+      "last_name": "Hulsbergen",
+      "first_name": "Anja"
+    },
+    {
+      "position": 36,
+      "full_name": "H.P.M. Swinkels",
+      "place": "Dinxperlo",
+      "gender": "m",
+      "last_name": "Swinkels",
+      "first_name": "Albert"
+    },
+    {
+      "position": 37,
+      "full_name": "H.C. Smits",
+      "place": "Dinxperlo",
+      "gender": "m",
+      "last_name": "Smits",
+      "first_name": "Henk"
+    },
+    {
+      "position": 38,
+      "full_name": "J.H. van Hensbergen",
+      "place": "Arnhem",
+      "gender": "m",
+      "last_name": "van Hensbergen",
+      "first_name": "Jaap"
+    },
+    {
+      "position": 39,
+      "full_name": "A.T. Geurts",
+      "place": "Putten",
+      "gender": "m",
+      "last_name": "Geurts",
+      "first_name": "Aalt"
+    }
+  ]
+}

@@ -1,1 +1,94 @@
-{"description": "Gecombineerd met Water Natuurlijk", "members": [{"first_name": "Leon", "last_name": "Hombergen", "gender": "m", "place": "Delft", "full_name": "L.P.I.M. Hombergen", "position": 1}, {"first_name": "Elsbeth", "last_name": "van Hijlckama Vlieg", "gender": "v", "place": "'s-Gravenhage", "full_name": "E.E. van Hijlckama Vlieg", "position": 2}, {"first_name": "Alphons", "last_name": "Ranner", "gender": "m", "place": "'s-Gravenhage", "full_name": "A.P. Ranner", "position": 3}, {"first_name": "Pieter", "last_name": "Boot", "gender": "m", "place": "'s-Gravenhage", "full_name": "P.A. Boot", "position": 4}, {"first_name": "Gisela", "last_name": "D\u00f6ll", "gender": "v", "place": "'s-Gravenhage", "full_name": "G. D\u00f6ll", "position": 5}, {"first_name": "Naushad", "last_name": "Boedhoe", "gender": "m", "place": "Berkel en Rodenrijs", "full_name": "N.A. Boedhoe", "position": 6}, {"first_name": "Liesbeth", "last_name": "Alferink", "gender": "v", "place": "'s-Gravenhage", "full_name": "E.V.B.M. Alferink", "position": 7}, {"first_name": "Nelly", "last_name": "de Ridder", "gender": "v", "place": "Delft", "full_name": "P.E.M. de Ridder", "position": 8}, {"first_name": "Galiek", "last_name": "Habieb", "gender": "m", "place": "Rijswijk", "full_name": "M.G. Habieb", "position": 9}, {"first_name": "Tineke", "last_name": "van Nimwegen-van Wieringen", "gender": "v", "place": "Maasland", "full_name": "C.J.M. van Nimwegen-van Wieringen", "position": 10}, {"first_name": "Aad", "last_name": "Wiegman", "gender": "m", "place": "Schiedam", "full_name": "A.G. Wiegman", "position": 11}], "title": "Lijst_2_Partij_van_de_Arbeid_(P.v.d.A.)"}
+{
+  "title": "Lijst 2 Partij van de Arbeid (P.v.d.A.)",
+  "description": "Gecombineerd met Water Natuurlijk",
+  "candidates": [
+    {
+      "position": 1,
+      "full_name": "L.P.I.M. Hombergen",
+      "place": "Delft",
+      "gender": "m",
+      "last_name": "Hombergen",
+      "first_name": "Leon"
+    },
+    {
+      "position": 2,
+      "full_name": "E.E. van Hijlckama Vlieg",
+      "place": "'s-Gravenhage",
+      "gender": "v",
+      "last_name": "van Hijlckama Vlieg",
+      "first_name": "Elsbeth"
+    },
+    {
+      "position": 3,
+      "full_name": "A.P. Ranner",
+      "place": "'s-Gravenhage",
+      "gender": "m",
+      "last_name": "Ranner",
+      "first_name": "Alphons"
+    },
+    {
+      "position": 4,
+      "full_name": "P.A. Boot",
+      "place": "'s-Gravenhage",
+      "gender": "m",
+      "last_name": "Boot",
+      "first_name": "Pieter"
+    },
+    {
+      "position": 5,
+      "full_name": "G. Döll",
+      "place": "'s-Gravenhage",
+      "gender": "v",
+      "last_name": "Döll",
+      "first_name": "Gisela"
+    },
+    {
+      "position": 6,
+      "full_name": "N.A. Boedhoe",
+      "place": "Berkel en Rodenrijs",
+      "gender": "m",
+      "last_name": "Boedhoe",
+      "first_name": "Naushad"
+    },
+    {
+      "position": 7,
+      "full_name": "E.V.B.M. Alferink",
+      "place": "'s-Gravenhage",
+      "gender": "v",
+      "last_name": "Alferink",
+      "first_name": "Liesbeth"
+    },
+    {
+      "position": 8,
+      "full_name": "P.E.M. de Ridder",
+      "place": "Delft",
+      "gender": "v",
+      "last_name": "de Ridder",
+      "first_name": "Nelly"
+    },
+    {
+      "position": 9,
+      "full_name": "M.G. Habieb",
+      "place": "Rijswijk",
+      "gender": "m",
+      "last_name": "Habieb",
+      "first_name": "Galiek"
+    },
+    {
+      "position": 10,
+      "full_name": "C.J.M. van Nimwegen-van Wieringen",
+      "place": "Maasland",
+      "gender": "v",
+      "last_name": "van Nimwegen-van Wieringen",
+      "first_name": "Tineke"
+    },
+    {
+      "position": 11,
+      "full_name": "A.G. Wiegman",
+      "place": "Schiedam",
+      "gender": "m",
+      "last_name": "Wiegman",
+      "first_name": "Aad"
+    }
+  ]
+}

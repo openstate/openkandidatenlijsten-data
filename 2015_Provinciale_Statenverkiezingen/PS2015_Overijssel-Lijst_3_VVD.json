@@ -1,0 +1,198 @@
+{
+  "title": "Lijst 3 VVD",
+  "description": "",
+  "candidates": [
+    {
+      "position": 1,
+      "full_name": "M.T. van Haaf",
+      "place": "Deventer",
+      "gender": "v",
+      "last_name": "van Haaf",
+      "first_name": "Monique"
+    },
+    {
+      "position": 2,
+      "full_name": "G.J. Kok",
+      "place": "Enschede",
+      "gender": "m",
+      "last_name": "Kok",
+      "first_name": "Gerrit Jan"
+    },
+    {
+      "position": 3,
+      "full_name": "J.H. Veltkamp",
+      "place": "Markelo",
+      "gender": "m",
+      "last_name": "Veltkamp",
+      "first_name": "Henk"
+    },
+    {
+      "position": 4,
+      "full_name": "J.H.M. Rikkink – Knippers",
+      "place": "Denekamp",
+      "gender": "v",
+      "last_name": "Rikkink – Knippers",
+      "first_name": "Jeannette"
+    },
+    {
+      "position": 5,
+      "full_name": "R.H. Courtz",
+      "place": "Zwolle",
+      "gender": "v",
+      "last_name": "Courtz",
+      "first_name": "Regien"
+    },
+    {
+      "position": 6,
+      "full_name": "J.G.J. Joosten",
+      "place": "Hardenberg",
+      "gender": "m",
+      "last_name": "Joosten",
+      "first_name": "John"
+    },
+    {
+      "position": 7,
+      "full_name": "R.J. Fens",
+      "place": "Hengelo (O)",
+      "gender": "m",
+      "last_name": "Fens",
+      "first_name": "Roeland"
+    },
+    {
+      "position": 8,
+      "full_name": "Y.M. Koolhaas – Giesberts",
+      "place": "Almelo",
+      "gender": "v",
+      "last_name": "Koolhaas – Giesberts",
+      "first_name": "Yvonne"
+    },
+    {
+      "position": 9,
+      "full_name": "G.J. Brommer",
+      "place": "Tuk",
+      "gender": "m",
+      "last_name": "Brommer",
+      "first_name": "Gert"
+    },
+    {
+      "position": 10,
+      "full_name": "A.H. Enklaar",
+      "place": "Enschede",
+      "gender": "m",
+      "last_name": "Enklaar",
+      "first_name": "Arnold"
+    },
+    {
+      "position": 11,
+      "full_name": "B.J.M. Nijboer",
+      "place": "Heino",
+      "gender": "m",
+      "last_name": "Nijboer",
+      "first_name": "Ben"
+    },
+    {
+      "position": 12,
+      "full_name": "D.J. Leferink",
+      "place": "Goor",
+      "gender": "m",
+      "last_name": "Leferink",
+      "first_name": "Dinand"
+    },
+    {
+      "position": 13,
+      "full_name": "M. van der Pol",
+      "place": "Enschede",
+      "gender": "v",
+      "last_name": "van der Pol",
+      "first_name": "Marit"
+    },
+    {
+      "position": 14,
+      "full_name": "H.J.M. Pieper",
+      "place": "Oldenzaal",
+      "gender": "m",
+      "last_name": "Pieper",
+      "first_name": "Herman"
+    },
+    {
+      "position": 15,
+      "full_name": "W.M.B. Schoneveld – Woestenenk",
+      "place": "Markelo",
+      "gender": "v",
+      "last_name": "Schoneveld – Woestenenk",
+      "first_name": "Willemien"
+    },
+    {
+      "position": 16,
+      "full_name": "G. Bruins – Veltkamp",
+      "place": "Markelo",
+      "gender": "v",
+      "last_name": "Bruins – Veltkamp",
+      "first_name": "Gerda"
+    },
+    {
+      "position": 17,
+      "full_name": "S.S.E. Osinga",
+      "place": "Onna",
+      "gender": "m",
+      "last_name": "Osinga",
+      "first_name": "Sjoerd"
+    },
+    {
+      "position": 18,
+      "full_name": "A. Heite",
+      "place": "Almelo",
+      "gender": "m",
+      "last_name": "Heite",
+      "first_name": "Bert"
+    },
+    {
+      "position": 19,
+      "full_name": "P.G.J. Wiefferink",
+      "place": "de Lutte",
+      "gender": "m",
+      "last_name": "Wiefferink",
+      "first_name": "Paul"
+    },
+    {
+      "position": 20,
+      "full_name": "A.H. Kreule",
+      "place": "Raalte",
+      "gender": "m",
+      "last_name": "Kreule",
+      "first_name": "Alexander"
+    },
+    {
+      "position": 21,
+      "full_name": "C. van Dijk",
+      "place": "Zwolle",
+      "gender": "m",
+      "last_name": "van Dijk",
+      "first_name": "Chiel"
+    },
+    {
+      "position": 22,
+      "full_name": "H.J. Gorter",
+      "place": "Oldemarkt",
+      "gender": "m",
+      "last_name": "Gorter",
+      "first_name": "Hendrik Jan"
+    },
+    {
+      "position": 23,
+      "full_name": "M. Haakmeester",
+      "place": "Almelo",
+      "gender": "m",
+      "last_name": "Haakmeester",
+      "first_name": "Marco"
+    },
+    {
+      "position": 24,
+      "full_name": "I.A. Bakker",
+      "place": "Blokzijl",
+      "gender": "v",
+      "last_name": "Bakker",
+      "first_name": "Ineke"
+    }
+  ]
+}

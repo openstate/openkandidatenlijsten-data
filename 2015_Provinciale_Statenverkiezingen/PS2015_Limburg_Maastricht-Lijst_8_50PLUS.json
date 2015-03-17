@@ -1,0 +1,142 @@
+{
+  "title": "Lijst_8 50PLUS",
+  "description": "",
+  "candidates": [
+    {
+      "position": 1,
+      "full_name": "H.M.V. van der Linden",
+      "place": "Sint Odiliënberg",
+      "gender": "m",
+      "last_name": "van der Linden",
+      "first_name": "Henk"
+    },
+    {
+      "position": 2,
+      "full_name": "H. Meijer",
+      "place": "Heerlen",
+      "gender": "m",
+      "last_name": "Meijer",
+      "first_name": "Hein"
+    },
+    {
+      "position": 3,
+      "full_name": "G.M.J. Cornelissen",
+      "place": "Heythuysen",
+      "gender": "v",
+      "last_name": "Cornelissen",
+      "first_name": "Truus"
+    },
+    {
+      "position": 4,
+      "full_name": "P.J.M. Michalides",
+      "place": "Bunde",
+      "gender": "m",
+      "last_name": "Michalides",
+      "first_name": "Peter"
+    },
+    {
+      "position": 5,
+      "full_name": "A.M.J.N. Fischer-Otten",
+      "place": "Kerkrade",
+      "gender": "v",
+      "last_name": "Fischer-Otten",
+      "first_name": "Anne-Marie"
+    },
+    {
+      "position": 6,
+      "full_name": "H.A. Wissingh",
+      "place": "Venlo",
+      "gender": "m",
+      "last_name": "Wissingh",
+      "first_name": "Ab"
+    },
+    {
+      "position": 7,
+      "full_name": "M.A.M. Bruijns",
+      "place": "Weert",
+      "gender": "m",
+      "last_name": "Bruijns",
+      "first_name": "Martin"
+    },
+    {
+      "position": 8,
+      "full_name": "J.J.A.M. van den Borne",
+      "place": "Griendtsveen",
+      "gender": "m",
+      "last_name": "van den Borne",
+      "first_name": "Jos"
+    },
+    {
+      "position": 9,
+      "full_name": "H.L.J. Kamps",
+      "place": "Sittard",
+      "gender": "m",
+      "last_name": "Kamps",
+      "first_name": "Hugo"
+    },
+    {
+      "position": 10,
+      "full_name": "G.R.J. Kers",
+      "place": "Weert",
+      "gender": "m",
+      "last_name": "Kers",
+      "first_name": "Geert"
+    },
+    {
+      "position": 11,
+      "full_name": "A.L.E.W. Bovée",
+      "place": "Swalmen",
+      "gender": "m",
+      "last_name": "Bovée",
+      "first_name": "Fons"
+    },
+    {
+      "position": 12,
+      "full_name": "J. Langenberg",
+      "place": "Heythuysen",
+      "gender": "m",
+      "last_name": "Langenberg",
+      "first_name": "Johan"
+    },
+    {
+      "position": 13,
+      "full_name": "N.L.D. Kroonstuiver",
+      "place": "Venlo",
+      "gender": "v",
+      "last_name": "Kroonstuiver",
+      "first_name": "Natascha"
+    },
+    {
+      "position": 14,
+      "full_name": "C.R.J. Martens",
+      "place": "Merkelbeek",
+      "gender": "m",
+      "last_name": "Martens",
+      "first_name": "Charl"
+    },
+    {
+      "position": 15,
+      "full_name": "A. de Bood",
+      "place": "Hulsberg",
+      "gender": "m",
+      "last_name": "de Bood",
+      "first_name": "Arie"
+    },
+    {
+      "position": 16,
+      "full_name": "M.L.J.T. Stijnen",
+      "place": "Maastricht",
+      "gender": "v",
+      "last_name": "Stijnen",
+      "first_name": "Miewies"
+    },
+    {
+      "position": 17,
+      "full_name": "R.A.P. van Dijk",
+      "place": "Heerlen",
+      "gender": "m",
+      "last_name": "van Dijk",
+      "first_name": "Rolf"
+    }
+  ]
+}

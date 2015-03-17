@@ -1,0 +1,262 @@
+{
+  "title": "Lijst 8 ChristenUnie",
+  "description": "Gecombineerd met Staatkundig Gereformeerde Partij (SGP)",
+  "candidates": [
+    {
+      "position": 1,
+      "full_name": "A.J. Schaddelee",
+      "place": "Houten",
+      "gender": "m",
+      "last_name": "Schaddelee",
+      "first_name": "Arne"
+    },
+    {
+      "position": 2,
+      "full_name": "N. de Haan",
+      "place": "Amersfoort",
+      "gender": "v",
+      "last_name": "de Haan",
+      "first_name": "Nelly"
+    },
+    {
+      "position": 3,
+      "full_name": "C.J. van Kranenburg",
+      "place": "Driebergen-Rijsenburg",
+      "gender": "m",
+      "last_name": "van Kranenburg",
+      "first_name": "Kees"
+    },
+    {
+      "position": 4,
+      "full_name": "A. Nicolai",
+      "place": "Bunschoten-Spakenburg",
+      "gender": "m",
+      "last_name": "Nicolai",
+      "first_name": "Andries"
+    },
+    {
+      "position": 5,
+      "full_name": "L.M. Zuidervaart",
+      "place": "Utrecht",
+      "gender": "v",
+      "last_name": "Zuidervaart",
+      "first_name": "Loes"
+    },
+    {
+      "position": 6,
+      "full_name": "C. de Heer",
+      "place": "Amersfoort",
+      "gender": "m",
+      "last_name": "de Heer",
+      "first_name": "Kees"
+    },
+    {
+      "position": 7,
+      "full_name": "P.J. Bouwman-Feith",
+      "place": "Veenendaal",
+      "gender": "v",
+      "last_name": "Bouwman-Feith",
+      "first_name": "Nelleke"
+    },
+    {
+      "position": 8,
+      "full_name": "J. Wijmenga",
+      "place": "Utrecht",
+      "gender": "m",
+      "last_name": "Wijmenga",
+      "first_name": "Jan"
+    },
+    {
+      "position": 9,
+      "full_name": "J.A.D. Dijkstra-Bulk",
+      "place": "Zegveld",
+      "gender": "v",
+      "last_name": "Dijkstra-Bulk",
+      "first_name": "Anne-Marij"
+    },
+    {
+      "position": 10,
+      "full_name": "S. van 't Foort",
+      "place": "Renswoude",
+      "gender": "m",
+      "last_name": "van 't Foort",
+      "first_name": "Sander"
+    },
+    {
+      "position": 11,
+      "full_name": "T. Haasdijk",
+      "place": "Amersfoort",
+      "gender": "m",
+      "last_name": "Haasdijk",
+      "first_name": "Theo"
+    },
+    {
+      "position": 12,
+      "full_name": "J.C. van Vuuren",
+      "place": "Soest",
+      "gender": "m",
+      "last_name": "van Vuuren",
+      "first_name": "Chris"
+    },
+    {
+      "position": 13,
+      "full_name": "C.A. Pape-van Genderen",
+      "place": "IJsselstein",
+      "gender": "v",
+      "last_name": "Pape-van Genderen",
+      "first_name": "Carolien"
+    },
+    {
+      "position": 14,
+      "full_name": "A.H. Kok-van de Geest",
+      "place": "Bunschoten-Spakenburg",
+      "gender": "v",
+      "last_name": "Kok-van de Geest",
+      "first_name": "Alice"
+    },
+    {
+      "position": 15,
+      "full_name": "W. van Grootheest",
+      "place": "Woudenberg",
+      "gender": "m",
+      "last_name": "van Grootheest",
+      "first_name": "Willem"
+    },
+    {
+      "position": 16,
+      "full_name": "D.E. Griffioen-Marissen",
+      "place": "Loenen aan de Vecht",
+      "gender": "v",
+      "last_name": "Griffioen-Marissen",
+      "first_name": "Dorine"
+    },
+    {
+      "position": 17,
+      "full_name": "B.C. Lont",
+      "place": "Utrecht",
+      "gender": "m",
+      "last_name": "Lont",
+      "first_name": "Bas"
+    },
+    {
+      "position": 18,
+      "full_name": "K.E. Pouwels-Koopman",
+      "place": "Leusden",
+      "gender": "v",
+      "last_name": "Pouwels-Koopman",
+      "first_name": "Karolien"
+    },
+    {
+      "position": 19,
+      "full_name": "C.F. Schouten",
+      "place": "Mijdrecht",
+      "gender": "m",
+      "last_name": "Schouten",
+      "first_name": "Kees"
+    },
+    {
+      "position": 20,
+      "full_name": "M.A. Vonk",
+      "place": "Vianen",
+      "gender": "v",
+      "last_name": "Vonk",
+      "first_name": "Martine"
+    },
+    {
+      "position": 21,
+      "full_name": "C.Z. Voorberg",
+      "place": "Houten",
+      "gender": "m",
+      "last_name": "Voorberg",
+      "first_name": "Caspar"
+    },
+    {
+      "position": 22,
+      "full_name": "M. Rus",
+      "place": "Zeist",
+      "gender": "m",
+      "last_name": "Rus",
+      "first_name": "Martin"
+    },
+    {
+      "position": 23,
+      "full_name": "C.H. Dieterman-Brouwer",
+      "place": "Elst Ut",
+      "gender": "v",
+      "last_name": "Dieterman-Brouwer",
+      "first_name": "Karin"
+    },
+    {
+      "position": 24,
+      "full_name": "H.J. van Wijnen",
+      "place": "Nieuwegein",
+      "gender": "m",
+      "last_name": "van Wijnen",
+      "first_name": "Harmen"
+    },
+    {
+      "position": 25,
+      "full_name": "M. Haak-Griffioen",
+      "place": "Woerden",
+      "gender": "v",
+      "last_name": "Haak-Griffioen",
+      "first_name": "Marjan"
+    },
+    {
+      "position": 26,
+      "full_name": "K.A.C. de Korte-de With",
+      "place": "Benschop",
+      "gender": "v",
+      "last_name": "de Korte-de With",
+      "first_name": "Ina"
+    },
+    {
+      "position": 27,
+      "full_name": "M.J. Monrooij",
+      "place": "Nieuwegein",
+      "gender": "m",
+      "last_name": "Monrooij",
+      "first_name": "Martin"
+    },
+    {
+      "position": 28,
+      "full_name": "E. Schuurman",
+      "place": "Breukelen",
+      "gender": "m",
+      "last_name": "Schuurman",
+      "first_name": "Egbert"
+    },
+    {
+      "position": 29,
+      "full_name": "R.K. Dik-Faber",
+      "place": "Veenendaal",
+      "gender": "v",
+      "last_name": "Dik-Faber",
+      "first_name": "Carla"
+    },
+    {
+      "position": 30,
+      "full_name": "P. Ester",
+      "place": "Baarn",
+      "gender": "m",
+      "last_name": "Ester",
+      "first_name": "Peter"
+    },
+    {
+      "position": 31,
+      "full_name": "G.J. Segers",
+      "place": "Hoogland",
+      "gender": "m",
+      "last_name": "Segers",
+      "first_name": "Gert-Jan"
+    },
+    {
+      "position": 32,
+      "full_name": "A. Rouvoet",
+      "place": "Woerden",
+      "gender": "m",
+      "last_name": "Rouvoet",
+      "first_name": "André"
+    }
+  ]
+}

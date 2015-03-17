@@ -1,1 +1,214 @@
-{"description": "", "members": [{"first_name": "Denis", "last_name": "Steijaert", "gender": "m", "place": "Nieuw Namen", "full_name": "D.K.E. Steijaert", "position": 1}, {"first_name": "Carla", "last_name": "Michielsen", "gender": "v", "place": "Goes", "full_name": "C.J.C. Michielsen", "position": 2}, {"first_name": "Rein", "last_name": "van der Kluit", "gender": "m", "place": "Middelburg", "full_name": "R.J. van der Kluit", "position": 3}, {"first_name": "Johan", "last_name": "Kloet", "gender": "m", "place": "Zierikzee", "full_name": "J. Kloet", "position": 4}, {"first_name": "Marijn", "last_name": "Uitdewilligen", "gender": "m", "place": "Sint Kruis", "full_name": "M.J.C. Uitdewilligen", "position": 5}, {"first_name": "Anton", "last_name": "Geluk", "gender": "m", "place": "Sint-Annaland", "full_name": "A.J. Geluk", "position": 6}, {"first_name": "Ko", "last_name": "Poelman", "gender": "m", "place": "Vlissingen", "full_name": "J.A. Poelman", "position": 7}, {"first_name": "Ad", "last_name": "Wouters", "gender": "m", "place": "Grijpskerke", "full_name": "A. Wouters", "position": 8}, {"first_name": "Nico", "last_name": "de Danschutter", "gender": "m", "place": "Bruinisse", "full_name": "N.P. de Danschutter", "position": 9}, {"first_name": "Giel-Jan", "last_name": "Burger", "gender": "m", "place": "Wemeldinge", "full_name": "G.J.J. Burger", "position": 10}, {"first_name": "Jan", "last_name": "Lampert", "gender": "m", "place": "Biggekerke", "full_name": "J. Lampert", "position": 11}, {"first_name": "Gerard", "last_name": "de Rijke", "gender": "m", "place": "Vlissingen", "full_name": "G.J.C. de Rijke", "position": 12}, {"first_name": "Eug\u00e8ne", "last_name": "Hoeven", "gender": "m", "place": "Middelburg", "full_name": "E.J. Hoeven", "position": 13}, {"first_name": "Ben", "last_name": "Ysebaert", "gender": "m", "place": "Axel", "full_name": "B.E.A.M. Ysebaert", "position": 14}, {"first_name": "Rinus", "last_name": "van 't Westeinde", "gender": "m", "place": "Nisse", "full_name": "M.A. van 't Westeinde", "position": 15}, {"first_name": "Sjaak", "last_name": "Quaak", "gender": "m", "place": "Sluis", "full_name": "J.A. Quaak", "position": 16}, {"first_name": "Kees", "last_name": "van der Weele", "gender": "m", "place": "Colijnsplaat", "full_name": "C.M. van der Weele", "position": 17}, {"first_name": "Peter", "last_name": "de Visser", "gender": "m", "place": "Zoutelande", "full_name": "P. de Visser", "position": 18}, {"first_name": "Wim", "last_name": "van Nieuwenhuijzen", "gender": "m", "place": "Sint Philipsland", "full_name": "W.C. van Nieuwenhuijzen", "position": 19}, {"first_name": "Hilde", "last_name": "Onderdijk-Varkevisser", "gender": "v", "place": "Middelburg", "full_name": "H.A.K. Onderdijk-Varkevisser", "position": 20}, {"first_name": "Toon", "last_name": "Steijaert", "gender": "m", "place": "Nieuw Namen", "full_name": "T.E.P. Steijaert", "position": 21}, {"first_name": "Jaap", "last_name": "de Jager", "gender": "m", "place": "Tholen", "full_name": "J. de Jager", "position": 22}, {"first_name": "Jo", "last_name": "Kodde", "gender": "m", "place": "Arnemuiden", "full_name": "J. Kodde", "position": 23}, {"first_name": "Rien", "last_name": "Huige", "gender": "m", "place": "Hoedekenskerke", "full_name": "M.P.C. Huige", "position": 24}, {"first_name": "Johan", "last_name": "Sanderse", "gender": "m", "place": "Serooskerke", "full_name": "J.W. Sanderse", "position": 25}, {"first_name": "Dirk Jan", "last_name": "van der Zaag", "gender": "m", "place": "Goes", "full_name": "D.J. van der Zaag", "position": 26}], "title": "Lijst_3_CDA"}
+{
+  "title": "Lijst 3 CDA",
+  "description": "",
+  "candidates": [
+    {
+      "position": 1,
+      "full_name": "D.K.E. Steijaert",
+      "place": "Nieuw Namen",
+      "gender": "m",
+      "last_name": "Steijaert",
+      "first_name": "Denis"
+    },
+    {
+      "position": 2,
+      "full_name": "C.J.C. Michielsen",
+      "place": "Goes",
+      "gender": "v",
+      "last_name": "Michielsen",
+      "first_name": "Carla"
+    },
+    {
+      "position": 3,
+      "full_name": "R.J. van der Kluit",
+      "place": "Middelburg",
+      "gender": "m",
+      "last_name": "van der Kluit",
+      "first_name": "Rein"
+    },
+    {
+      "position": 4,
+      "full_name": "J. Kloet",
+      "place": "Zierikzee",
+      "gender": "m",
+      "last_name": "Kloet",
+      "first_name": "Johan"
+    },
+    {
+      "position": 5,
+      "full_name": "M.J.C. Uitdewilligen",
+      "place": "Sint Kruis",
+      "gender": "m",
+      "last_name": "Uitdewilligen",
+      "first_name": "Marijn"
+    },
+    {
+      "position": 6,
+      "full_name": "A.J. Geluk",
+      "place": "Sint-Annaland",
+      "gender": "m",
+      "last_name": "Geluk",
+      "first_name": "Anton"
+    },
+    {
+      "position": 7,
+      "full_name": "J.A. Poelman",
+      "place": "Vlissingen",
+      "gender": "m",
+      "last_name": "Poelman",
+      "first_name": "Ko"
+    },
+    {
+      "position": 8,
+      "full_name": "A. Wouters",
+      "place": "Grijpskerke",
+      "gender": "m",
+      "last_name": "Wouters",
+      "first_name": "Ad"
+    },
+    {
+      "position": 9,
+      "full_name": "N.P. de Danschutter",
+      "place": "Bruinisse",
+      "gender": "m",
+      "last_name": "de Danschutter",
+      "first_name": "Nico"
+    },
+    {
+      "position": 10,
+      "full_name": "G.J.J. Burger",
+      "place": "Wemeldinge",
+      "gender": "m",
+      "last_name": "Burger",
+      "first_name": "Giel-Jan"
+    },
+    {
+      "position": 11,
+      "full_name": "J. Lampert",
+      "place": "Biggekerke",
+      "gender": "m",
+      "last_name": "Lampert",
+      "first_name": "Jan"
+    },
+    {
+      "position": 12,
+      "full_name": "G.J.C. de Rijke",
+      "place": "Vlissingen",
+      "gender": "m",
+      "last_name": "de Rijke",
+      "first_name": "Gerard"
+    },
+    {
+      "position": 13,
+      "full_name": "E.J. Hoeven",
+      "place": "Middelburg",
+      "gender": "m",
+      "last_name": "Hoeven",
+      "first_name": "Eugène"
+    },
+    {
+      "position": 14,
+      "full_name": "B.E.A.M. Ysebaert",
+      "place": "Axel",
+      "gender": "m",
+      "last_name": "Ysebaert",
+      "first_name": "Ben"
+    },
+    {
+      "position": 15,
+      "full_name": "M.A. van 't Westeinde",
+      "place": "Nisse",
+      "gender": "m",
+      "last_name": "van 't Westeinde",
+      "first_name": "Rinus"
+    },
+    {
+      "position": 16,
+      "full_name": "J.A. Quaak",
+      "place": "Sluis",
+      "gender": "m",
+      "last_name": "Quaak",
+      "first_name": "Sjaak"
+    },
+    {
+      "position": 17,
+      "full_name": "C.M. van der Weele",
+      "place": "Colijnsplaat",
+      "gender": "m",
+      "last_name": "van der Weele",
+      "first_name": "Kees"
+    },
+    {
+      "position": 18,
+      "full_name": "P. de Visser",
+      "place": "Zoutelande",
+      "gender": "m",
+      "last_name": "de Visser",
+      "first_name": "Peter"
+    },
+    {
+      "position": 19,
+      "full_name": "W.C. van Nieuwenhuijzen",
+      "place": "Sint Philipsland",
+      "gender": "m",
+      "last_name": "van Nieuwenhuijzen",
+      "first_name": "Wim"
+    },
+    {
+      "position": 20,
+      "full_name": "H.A.K. Onderdijk-Varkevisser",
+      "place": "Middelburg",
+      "gender": "v",
+      "last_name": "Onderdijk-Varkevisser",
+      "first_name": "Hilde"
+    },
+    {
+      "position": 21,
+      "full_name": "T.E.P. Steijaert",
+      "place": "Nieuw Namen",
+      "gender": "m",
+      "last_name": "Steijaert",
+      "first_name": "Toon"
+    },
+    {
+      "position": 22,
+      "full_name": "J. de Jager",
+      "place": "Tholen",
+      "gender": "m",
+      "last_name": "de Jager",
+      "first_name": "Jaap"
+    },
+    {
+      "position": 23,
+      "full_name": "J. Kodde",
+      "place": "Arnemuiden",
+      "gender": "m",
+      "last_name": "Kodde",
+      "first_name": "Jo"
+    },
+    {
+      "position": 24,
+      "full_name": "M.P.C. Huige",
+      "place": "Hoedekenskerke",
+      "gender": "m",
+      "last_name": "Huige",
+      "first_name": "Rien"
+    },
+    {
+      "position": 25,
+      "full_name": "J.W. Sanderse",
+      "place": "Serooskerke",
+      "gender": "m",
+      "last_name": "Sanderse",
+      "first_name": "Johan"
+    },
+    {
+      "position": 26,
+      "full_name": "D.J. van der Zaag",
+      "place": "Goes",
+      "gender": "m",
+      "last_name": "van der Zaag",
+      "first_name": "Dirk Jan"
+    }
+  ]
+}

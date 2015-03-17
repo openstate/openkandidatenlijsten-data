@@ -1,0 +1,86 @@
+{
+  "title": "Lijst_13 Libertarische Partij (LP)",
+  "description": "",
+  "candidates": [
+    {
+      "position": 1,
+      "full_name": "K.P.G.H. Winkelaar",
+      "place": "Aarlanderveen",
+      "gender": "",
+      "last_name": "Winkelaar",
+      "first_name": "Kim"
+    },
+    {
+      "position": 2,
+      "full_name": "L.W. de Rijke",
+      "place": "Rotterdam",
+      "gender": "",
+      "last_name": "de Rijke",
+      "first_name": "Leendert"
+    },
+    {
+      "position": 3,
+      "full_name": "J.G.M. van Ginkel",
+      "place": "Waddinxveen",
+      "gender": "",
+      "last_name": "van Ginkel",
+      "first_name": "Juan"
+    },
+    {
+      "position": 4,
+      "full_name": "A.C. Verbrugh",
+      "place": "Rotterdam",
+      "gender": "",
+      "last_name": "Verbrugh",
+      "first_name": "Arne"
+    },
+    {
+      "position": 5,
+      "full_name": "W.Q. Backhuijs",
+      "place": "Leiden",
+      "gender": "",
+      "last_name": "Backhuijs",
+      "first_name": "Quintus"
+    },
+    {
+      "position": 6,
+      "full_name": "L.C. Teijema",
+      "place": "Oegstgeest",
+      "gender": "",
+      "last_name": "Teijema",
+      "first_name": "Lukas"
+    },
+    {
+      "position": 7,
+      "full_name": "S.F.P. Koopmans",
+      "place": "Rotterdam",
+      "gender": "",
+      "last_name": "Koopmans",
+      "first_name": "Pallieter"
+    },
+    {
+      "position": 8,
+      "full_name": "H.R. Sturman",
+      "place": "'s-Gravenhage",
+      "gender": "",
+      "last_name": "Sturman",
+      "first_name": "Henry"
+    },
+    {
+      "position": 9,
+      "full_name": "F. Ootjers",
+      "place": "Rotterdam",
+      "gender": "",
+      "last_name": "Ootjers",
+      "first_name": "Frans"
+    },
+    {
+      "position": 10,
+      "full_name": "T.T.A.J. Manders",
+      "place": "Limassol (CY)",
+      "gender": "",
+      "last_name": "Manders",
+      "first_name": "Toine"
+    }
+  ]
+}

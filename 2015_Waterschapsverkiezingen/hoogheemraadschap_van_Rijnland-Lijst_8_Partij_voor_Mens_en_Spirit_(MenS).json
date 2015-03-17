@@ -1,1 +1,54 @@
-{"description": "", "members": [{"first_name": "Ramona", "last_name": "Kwestro", "gender": "v", "place": "Zoetermeer", "full_name": "R. Kwestro", "position": 1}, {"first_name": "Laura", "last_name": "Greijn", "gender": "v", "place": "Haarlem", "full_name": "L. Greijn", "position": 2}, {"first_name": "Erika", "last_name": "Mauritz", "gender": "v", "place": "Haarlem", "full_name": "H. Mauritz", "position": 3}, {"first_name": "Marike", "last_name": "Dijkstra", "gender": "v", "place": "Alkmaar", "full_name": "M.C. Dijkstra", "position": 4}, {"first_name": "Joke", "last_name": "de Witt", "gender": "v", "place": "Noordwijk", "full_name": "J.G. de Witt", "position": 5}, {"first_name": "Bea", "last_name": "M\u00f6llers", "gender": "v", "place": "Egmond-Binnen", "full_name": "B.M. M\u00f6llers", "position": 6}], "title": "Lijst_8_Partij_voor_Mens_en_Spirit_(MenS)"}
+{
+  "title": "Lijst 8 Partij voor Mens en Spirit (MenS)",
+  "description": "",
+  "candidates": [
+    {
+      "position": 1,
+      "full_name": "R. Kwestro",
+      "place": "Zoetermeer",
+      "gender": "v",
+      "last_name": "Kwestro",
+      "first_name": "Ramona"
+    },
+    {
+      "position": 2,
+      "full_name": "L. Greijn",
+      "place": "Haarlem",
+      "gender": "v",
+      "last_name": "Greijn",
+      "first_name": "Laura"
+    },
+    {
+      "position": 3,
+      "full_name": "H. Mauritz",
+      "place": "Haarlem",
+      "gender": "v",
+      "last_name": "Mauritz",
+      "first_name": "Erika"
+    },
+    {
+      "position": 4,
+      "full_name": "M.C. Dijkstra",
+      "place": "Alkmaar",
+      "gender": "v",
+      "last_name": "Dijkstra",
+      "first_name": "Marike"
+    },
+    {
+      "position": 5,
+      "full_name": "J.G. de Witt",
+      "place": "Noordwijk",
+      "gender": "v",
+      "last_name": "de Witt",
+      "first_name": "Joke"
+    },
+    {
+      "position": 6,
+      "full_name": "B.M. Möllers",
+      "place": "Egmond-Binnen",
+      "gender": "v",
+      "last_name": "Möllers",
+      "first_name": "Bea"
+    }
+  ]
+}

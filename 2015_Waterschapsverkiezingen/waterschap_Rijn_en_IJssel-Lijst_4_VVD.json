@@ -1,1 +1,86 @@
-{"description": "", "members": [{"first_name": "Berend Jan", "last_name": "Bussink", "gender": "m", "place": "Markelo", "full_name": "B.J. Bussink", "position": 1}, {"first_name": "Bennie", "last_name": "van Til", "gender": "m", "place": "Hummelo", "full_name": "B.H. van Til", "position": 2}, {"first_name": "Floortje", "last_name": "Wissing", "gender": "v", "place": "Terborg", "full_name": "F. Wissing", "position": 3}, {"first_name": "Rob", "last_name": "Koekkoek", "gender": "m", "place": "De Steeg", "full_name": "R. Koekkoek", "position": 4}, {"first_name": "Ben", "last_name": "Hasselo", "gender": "m", "place": "Eibergen", "full_name": "B.B. Hasselo", "position": 5}, {"first_name": "Annemieke", "last_name": "Meiborg", "gender": "v", "place": "Didam", "full_name": "A.M.A. Meiborg", "position": 6}, {"first_name": "Alfred", "last_name": "Wopereis", "gender": "m", "place": "Mari\u00ebnvelde", "full_name": "A.A.W. Wopereis", "position": 7}, {"first_name": "Marieke", "last_name": "Schriks", "gender": "v", "place": "Zutphen", "full_name": "M.E. Schriks", "position": 8}, {"first_name": "Marchien", "last_name": "Oosterhuis", "gender": "v", "place": "Hengelo (Gld)", "full_name": "M.L. Oosterhuis", "position": 9}, {"first_name": "Margreet", "last_name": "van Gastel", "gender": "v", "place": "Arnhem", "full_name": "M.J. van Gastel", "position": 10}], "title": "Lijst_4_VVD"}
+{
+  "title": "Lijst 4 VVD",
+  "description": "",
+  "candidates": [
+    {
+      "position": 1,
+      "full_name": "B.J. Bussink",
+      "place": "Markelo",
+      "gender": "m",
+      "last_name": "Bussink",
+      "first_name": "Berend Jan"
+    },
+    {
+      "position": 2,
+      "full_name": "B.H. van Til",
+      "place": "Hummelo",
+      "gender": "m",
+      "last_name": "van Til",
+      "first_name": "Bennie"
+    },
+    {
+      "position": 3,
+      "full_name": "F. Wissing",
+      "place": "Terborg",
+      "gender": "v",
+      "last_name": "Wissing",
+      "first_name": "Floortje"
+    },
+    {
+      "position": 4,
+      "full_name": "R. Koekkoek",
+      "place": "De Steeg",
+      "gender": "m",
+      "last_name": "Koekkoek",
+      "first_name": "Rob"
+    },
+    {
+      "position": 5,
+      "full_name": "B.B. Hasselo",
+      "place": "Eibergen",
+      "gender": "m",
+      "last_name": "Hasselo",
+      "first_name": "Ben"
+    },
+    {
+      "position": 6,
+      "full_name": "A.M.A. Meiborg",
+      "place": "Didam",
+      "gender": "v",
+      "last_name": "Meiborg",
+      "first_name": "Annemieke"
+    },
+    {
+      "position": 7,
+      "full_name": "A.A.W. Wopereis",
+      "place": "Mariënvelde",
+      "gender": "m",
+      "last_name": "Wopereis",
+      "first_name": "Alfred"
+    },
+    {
+      "position": 8,
+      "full_name": "M.E. Schriks",
+      "place": "Zutphen",
+      "gender": "v",
+      "last_name": "Schriks",
+      "first_name": "Marieke"
+    },
+    {
+      "position": 9,
+      "full_name": "M.L. Oosterhuis",
+      "place": "Hengelo (Gld)",
+      "gender": "v",
+      "last_name": "Oosterhuis",
+      "first_name": "Marchien"
+    },
+    {
+      "position": 10,
+      "full_name": "M.J. van Gastel",
+      "place": "Arnhem",
+      "gender": "v",
+      "last_name": "van Gastel",
+      "first_name": "Margreet"
+    }
+  ]
+}

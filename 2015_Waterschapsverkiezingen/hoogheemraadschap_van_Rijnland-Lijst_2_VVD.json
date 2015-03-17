@@ -1,1 +1,166 @@
-{"description": "", "members": [{"first_name": "Hans", "last_name": "Pluckel", "gender": "m", "place": "Haarlemmermeer", "full_name": "H. Pluckel", "position": 1}, {"first_name": "Patrick", "last_name": "van Domburg", "gender": "m", "place": "Zoetermeer", "full_name": "P.J.M. van Domburg", "position": 2}, {"first_name": "Ineke", "last_name": "van Steensel-van Hage", "gender": "v", "place": "Teylingen", "full_name": "C.H.C. van Steensel-van Hage", "position": 3}, {"first_name": "Jacob Jan", "last_name": "Bakker", "gender": "m", "place": "Wassenaar", "full_name": "J.J. Bakker", "position": 4}, {"first_name": "Jean", "last_name": "Hermans", "gender": "m", "place": "Leiden", "full_name": "J.M. Hermans", "position": 5}, {"first_name": "Bert", "last_name": "van der Wees", "gender": "m", "place": "Zoetermeer", "full_name": "B. van der Wees", "position": 6}, {"first_name": "Ben", "last_name": "Min", "gender": "m", "place": "Oegstgeest", "full_name": "B.I. Min", "position": 7}, {"first_name": "Rolf", "last_name": "Harder", "gender": "m", "place": "Bloemendaal", "full_name": "R.R. Harder", "position": 8}, {"first_name": "Samuel", "last_name": "Griessen", "gender": "m", "place": "Wassenaar", "full_name": "S.F. Griessen", "position": 9}, {"first_name": "Cees", "last_name": "Otto", "gender": "m", "place": "Aalsmeer", "full_name": "C.K. Otto", "position": 10}, {"first_name": "Ton", "last_name": "van Velzen", "gender": "m", "place": "Kaag en Braassem", "full_name": "A.J.M. van Velzen", "position": 11}, {"first_name": "Ingeborg", "last_name": "de Bruin", "gender": "v", "place": "Zoetermeer", "full_name": "I.K.J. de Bruin", "position": 12}, {"first_name": "Gert", "last_name": "Dazler", "gender": "m", "place": "Boskoop", "full_name": "G.J. Dazler", "position": 13}, {"first_name": "Cees", "last_name": "Knegjens", "gender": "m", "place": "Alphen aan den Rijn", "full_name": "C. Knegjens", "position": 14}, {"first_name": "Henk", "last_name": "Peelen", "gender": "m", "place": "Gouda", "full_name": "H.T.J. Peelen", "position": 15}, {"first_name": "Alexandra", "last_name": "Beerens-Feith", "gender": "v", "place": "Aerdenhout", "full_name": "A.T. Beerens-Feith", "position": 16}, {"first_name": "Alex", "last_name": "Enthoven", "gender": "m", "place": "Velsen", "full_name": "A.P. Enthoven", "position": 17}, {"first_name": "Wim", "last_name": "Bruins", "gender": "m", "place": "Bodegraven", "full_name": "S.W. Bruins", "position": 18}, {"first_name": "Alexander", "last_name": "Geertsema", "gender": "m", "place": "Leiden", "full_name": "A.C. Geertsema", "position": 19}, {"first_name": "Nico", "last_name": "Kempenaar", "gender": "m", "place": "Aarlanderveen", "full_name": "N. Kempenaar", "position": 20}], "title": "Lijst_2_VVD"}
+{
+  "title": "Lijst 2 VVD",
+  "description": "",
+  "candidates": [
+    {
+      "position": 1,
+      "full_name": "H. Pluckel",
+      "place": "Haarlemmermeer",
+      "gender": "m",
+      "last_name": "Pluckel",
+      "first_name": "Hans"
+    },
+    {
+      "position": 2,
+      "full_name": "P.J.M. van Domburg",
+      "place": "Zoetermeer",
+      "gender": "m",
+      "last_name": "van Domburg",
+      "first_name": "Patrick"
+    },
+    {
+      "position": 3,
+      "full_name": "C.H.C. van Steensel-van Hage",
+      "place": "Teylingen",
+      "gender": "v",
+      "last_name": "van Steensel-van Hage",
+      "first_name": "Ineke"
+    },
+    {
+      "position": 4,
+      "full_name": "J.J. Bakker",
+      "place": "Wassenaar",
+      "gender": "m",
+      "last_name": "Bakker",
+      "first_name": "Jacob Jan"
+    },
+    {
+      "position": 5,
+      "full_name": "J.M. Hermans",
+      "place": "Leiden",
+      "gender": "m",
+      "last_name": "Hermans",
+      "first_name": "Jean"
+    },
+    {
+      "position": 6,
+      "full_name": "B. van der Wees",
+      "place": "Zoetermeer",
+      "gender": "m",
+      "last_name": "van der Wees",
+      "first_name": "Bert"
+    },
+    {
+      "position": 7,
+      "full_name": "B.I. Min",
+      "place": "Oegstgeest",
+      "gender": "m",
+      "last_name": "Min",
+      "first_name": "Ben"
+    },
+    {
+      "position": 8,
+      "full_name": "R.R. Harder",
+      "place": "Bloemendaal",
+      "gender": "m",
+      "last_name": "Harder",
+      "first_name": "Rolf"
+    },
+    {
+      "position": 9,
+      "full_name": "S.F. Griessen",
+      "place": "Wassenaar",
+      "gender": "m",
+      "last_name": "Griessen",
+      "first_name": "Samuel"
+    },
+    {
+      "position": 10,
+      "full_name": "C.K. Otto",
+      "place": "Aalsmeer",
+      "gender": "m",
+      "last_name": "Otto",
+      "first_name": "Cees"
+    },
+    {
+      "position": 11,
+      "full_name": "A.J.M. van Velzen",
+      "place": "Kaag en Braassem",
+      "gender": "m",
+      "last_name": "van Velzen",
+      "first_name": "Ton"
+    },
+    {
+      "position": 12,
+      "full_name": "I.K.J. de Bruin",
+      "place": "Zoetermeer",
+      "gender": "v",
+      "last_name": "de Bruin",
+      "first_name": "Ingeborg"
+    },
+    {
+      "position": 13,
+      "full_name": "G.J. Dazler",
+      "place": "Boskoop",
+      "gender": "m",
+      "last_name": "Dazler",
+      "first_name": "Gert"
+    },
+    {
+      "position": 14,
+      "full_name": "C. Knegjens",
+      "place": "Alphen aan den Rijn",
+      "gender": "m",
+      "last_name": "Knegjens",
+      "first_name": "Cees"
+    },
+    {
+      "position": 15,
+      "full_name": "H.T.J. Peelen",
+      "place": "Gouda",
+      "gender": "m",
+      "last_name": "Peelen",
+      "first_name": "Henk"
+    },
+    {
+      "position": 16,
+      "full_name": "A.T. Beerens-Feith",
+      "place": "Aerdenhout",
+      "gender": "v",
+      "last_name": "Beerens-Feith",
+      "first_name": "Alexandra"
+    },
+    {
+      "position": 17,
+      "full_name": "A.P. Enthoven",
+      "place": "Velsen",
+      "gender": "m",
+      "last_name": "Enthoven",
+      "first_name": "Alex"
+    },
+    {
+      "position": 18,
+      "full_name": "S.W. Bruins",
+      "place": "Bodegraven",
+      "gender": "m",
+      "last_name": "Bruins",
+      "first_name": "Wim"
+    },
+    {
+      "position": 19,
+      "full_name": "A.C. Geertsema",
+      "place": "Leiden",
+      "gender": "m",
+      "last_name": "Geertsema",
+      "first_name": "Alexander"
+    },
+    {
+      "position": 20,
+      "full_name": "N. Kempenaar",
+      "place": "Aarlanderveen",
+      "gender": "m",
+      "last_name": "Kempenaar",
+      "first_name": "Nico"
+    }
+  ]
+}

@@ -1,1 +1,190 @@
-{"description": "", "members": [{"first_name": "Aaltje", "last_name": "Schouten-Saarloos", "gender": "v", "place": "Nuenen", "full_name": "A. Schouten-Saarloos", "position": 1}, {"first_name": "Ab", "last_name": "Oosting", "gender": "m", "place": "Eindhoven", "full_name": "A.J. Oosting", "position": 2}, {"first_name": "Fabian", "last_name": "Tijhof", "gender": "m", "place": "Tilburg", "full_name": "F.L.M. Tijhof", "position": 3}, {"first_name": "Jan Pieter", "last_name": "Vorsteveld", "gender": "m", "place": "Tilburg", "full_name": "J.P. Vorsteveld", "position": 4}, {"first_name": "Gerloes", "last_name": "van Nunen", "gender": "v", "place": "Geldrop", "full_name": "G.L.J.T.M. van Nunen", "position": 5}, {"first_name": "Fons", "last_name": "van Leersum", "gender": "m", "place": "Tilburg", "full_name": "A.G.D. van Leersum", "position": 6}, {"first_name": "Marie", "last_name": "Beenackers-van Poppel", "gender": "v", "place": "Maarheeze", "full_name": "M.C.G. Beenackers-van Poppel", "position": 7}, {"first_name": "Jack", "last_name": "de Vlieger", "gender": "m", "place": "Sint-Michielsgestel", "full_name": "I.A. de Vlieger", "position": 8}, {"first_name": "Arnold", "last_name": "de Vries", "gender": "m", "place": "Oost West en Middelbeers", "full_name": "A.R.L. de Vries", "position": 9}, {"first_name": "Johan", "last_name": "Bijlsma", "gender": "m", "place": "Son en Breugel", "full_name": "J.C. Bijlsma", "position": 10}, {"first_name": "Frank", "last_name": "Cools", "gender": "m", "place": "Knegsel", "full_name": "F. Cools", "position": 11}, {"first_name": "Jos", "last_name": "van Ooijen", "gender": "m", "place": "Boxtel", "full_name": "J.J.M.M. van Ooijen", "position": 12}, {"first_name": "Gerard", "last_name": "van Veen", "gender": "m", "place": "Waalre", "full_name": "G.N.A. van Veen", "position": 13}, {"first_name": "Henk", "last_name": "Breukel", "gender": "m", "place": "Best", "full_name": "H.D. Breukel", "position": 14}, {"first_name": "Martha", "last_name": "School", "gender": "v", "place": "Sint-Oedenrode", "full_name": "M.C.M. School", "position": 15}, {"first_name": "Ton", "last_name": "van Rooij", "gender": "m", "place": "Bladel", "full_name": "A.G.C. van Rooij", "position": 16}, {"first_name": "Magda", "last_name": "Peeters", "gender": "v", "place": "Oisterwijk", "full_name": "M.M.W. Peeters", "position": 17}, {"first_name": "Ton", "last_name": "van Kampen", "gender": "m", "place": "Heeze", "full_name": "A.J.C. van Kampen", "position": 18}, {"first_name": "Peggy", "last_name": "Bannier", "gender": "v", "place": "Vught", "full_name": "P. Bannier", "position": 19}, {"first_name": "Kees", "last_name": "van Mol", "gender": "m", "place": "Hilvarenbeek", "full_name": "C.W.F.M. van Mol", "position": 20}, {"first_name": "Wil", "last_name": "Rombouts", "gender": "m", "place": "Bergeijk", "full_name": "W.S.H.M. Rombouts", "position": 21}, {"first_name": "Fiona", "last_name": "Bijl", "gender": "v", "place": "Reusel", "full_name": "F.S.D. Bijl", "position": 22}, {"first_name": "Frans", "last_name": "Hofmeester", "gender": "m", "place": "Veldhoven", "full_name": "W.F. Hofmeester", "position": 23}], "title": "Lijst_3_Partij_van_de_Arbeid_(P.v.d.A.)"}
+{
+  "title": "Lijst 3 Partij van de Arbeid (P.v.d.A.)",
+  "description": "",
+  "candidates": [
+    {
+      "position": 1,
+      "full_name": "A. Schouten-Saarloos",
+      "place": "Nuenen",
+      "gender": "v",
+      "last_name": "Schouten-Saarloos",
+      "first_name": "Aaltje"
+    },
+    {
+      "position": 2,
+      "full_name": "A.J. Oosting",
+      "place": "Eindhoven",
+      "gender": "m",
+      "last_name": "Oosting",
+      "first_name": "Ab"
+    },
+    {
+      "position": 3,
+      "full_name": "F.L.M. Tijhof",
+      "place": "Tilburg",
+      "gender": "m",
+      "last_name": "Tijhof",
+      "first_name": "Fabian"
+    },
+    {
+      "position": 4,
+      "full_name": "J.P. Vorsteveld",
+      "place": "Tilburg",
+      "gender": "m",
+      "last_name": "Vorsteveld",
+      "first_name": "Jan Pieter"
+    },
+    {
+      "position": 5,
+      "full_name": "G.L.J.T.M. van Nunen",
+      "place": "Geldrop",
+      "gender": "v",
+      "last_name": "van Nunen",
+      "first_name": "Gerloes"
+    },
+    {
+      "position": 6,
+      "full_name": "A.G.D. van Leersum",
+      "place": "Tilburg",
+      "gender": "m",
+      "last_name": "van Leersum",
+      "first_name": "Fons"
+    },
+    {
+      "position": 7,
+      "full_name": "M.C.G. Beenackers-van Poppel",
+      "place": "Maarheeze",
+      "gender": "v",
+      "last_name": "Beenackers-van Poppel",
+      "first_name": "Marie"
+    },
+    {
+      "position": 8,
+      "full_name": "I.A. de Vlieger",
+      "place": "Sint-Michielsgestel",
+      "gender": "m",
+      "last_name": "de Vlieger",
+      "first_name": "Jack"
+    },
+    {
+      "position": 9,
+      "full_name": "A.R.L. de Vries",
+      "place": "Oost West en Middelbeers",
+      "gender": "m",
+      "last_name": "de Vries",
+      "first_name": "Arnold"
+    },
+    {
+      "position": 10,
+      "full_name": "J.C. Bijlsma",
+      "place": "Son en Breugel",
+      "gender": "m",
+      "last_name": "Bijlsma",
+      "first_name": "Johan"
+    },
+    {
+      "position": 11,
+      "full_name": "F. Cools",
+      "place": "Knegsel",
+      "gender": "m",
+      "last_name": "Cools",
+      "first_name": "Frank"
+    },
+    {
+      "position": 12,
+      "full_name": "J.J.M.M. van Ooijen",
+      "place": "Boxtel",
+      "gender": "m",
+      "last_name": "van Ooijen",
+      "first_name": "Jos"
+    },
+    {
+      "position": 13,
+      "full_name": "G.N.A. van Veen",
+      "place": "Waalre",
+      "gender": "m",
+      "last_name": "van Veen",
+      "first_name": "Gerard"
+    },
+    {
+      "position": 14,
+      "full_name": "H.D. Breukel",
+      "place": "Best",
+      "gender": "m",
+      "last_name": "Breukel",
+      "first_name": "Henk"
+    },
+    {
+      "position": 15,
+      "full_name": "M.C.M. School",
+      "place": "Sint-Oedenrode",
+      "gender": "v",
+      "last_name": "School",
+      "first_name": "Martha"
+    },
+    {
+      "position": 16,
+      "full_name": "A.G.C. van Rooij",
+      "place": "Bladel",
+      "gender": "m",
+      "last_name": "van Rooij",
+      "first_name": "Ton"
+    },
+    {
+      "position": 17,
+      "full_name": "M.M.W. Peeters",
+      "place": "Oisterwijk",
+      "gender": "v",
+      "last_name": "Peeters",
+      "first_name": "Magda"
+    },
+    {
+      "position": 18,
+      "full_name": "A.J.C. van Kampen",
+      "place": "Heeze",
+      "gender": "m",
+      "last_name": "van Kampen",
+      "first_name": "Ton"
+    },
+    {
+      "position": 19,
+      "full_name": "P. Bannier",
+      "place": "Vught",
+      "gender": "v",
+      "last_name": "Bannier",
+      "first_name": "Peggy"
+    },
+    {
+      "position": 20,
+      "full_name": "C.W.F.M. van Mol",
+      "place": "Hilvarenbeek",
+      "gender": "m",
+      "last_name": "van Mol",
+      "first_name": "Kees"
+    },
+    {
+      "position": 21,
+      "full_name": "W.S.H.M. Rombouts",
+      "place": "Bergeijk",
+      "gender": "m",
+      "last_name": "Rombouts",
+      "first_name": "Wil"
+    },
+    {
+      "position": 22,
+      "full_name": "F.S.D. Bijl",
+      "place": "Reusel",
+      "gender": "v",
+      "last_name": "Bijl",
+      "first_name": "Fiona"
+    },
+    {
+      "position": 23,
+      "full_name": "W.F. Hofmeester",
+      "place": "Veldhoven",
+      "gender": "m",
+      "last_name": "Hofmeester",
+      "first_name": "Frans"
+    }
+  ]
+}

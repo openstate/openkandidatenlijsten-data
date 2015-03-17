@@ -1,1 +1,110 @@
-{"description": "", "members": [{"first_name": "Ton", "last_name": "Vendrig", "gender": "m", "place": "Nederhorst den Berg", "full_name": "A.A.A. Vendrig", "position": 1}, {"first_name": "Jaap", "last_name": "van Waveren", "gender": "m", "place": "Loosdrecht", "full_name": "J.C. van Waveren", "position": 2}, {"first_name": "David", "last_name": "Pos", "gender": "m", "place": "Ankeveen", "full_name": "D. Pos", "position": 3}, {"first_name": "Ab", "last_name": "Krook", "gender": "m", "place": "Loosdrecht", "full_name": "A. Krook", "position": 4}, {"first_name": "Karen", "last_name": "Heerschop", "gender": "v", "place": "Hilversum", "full_name": "H.C. Heerschop", "position": 5}, {"first_name": "Friso", "last_name": "van Voorthuizen", "gender": "m", "place": "Ankeveen", "full_name": "W.F. van Voorthuizen", "position": 6}, {"first_name": "Jos", "last_name": "van Wijk", "gender": "m", "place": "Vinkeveen", "full_name": "J.W.M. van Wijk", "position": 7}, {"first_name": "Annetta", "last_name": "Klaassen", "gender": "v", "place": "Weesp", "full_name": "A.C. Klaassen", "position": 8}, {"first_name": "Wim", "last_name": "Broer", "gender": "m", "place": "Hilversum", "full_name": "W. Broer", "position": 9}, {"first_name": "Koen", "last_name": "Bolt", "gender": "m", "place": "Vinkeveen", "full_name": "K. Bolt", "position": 10}, {"first_name": "Freek", "last_name": "Goos", "gender": "m", "place": "Nederhorst den Berg", "full_name": "F. Goos", "position": 11}, {"first_name": "Rob", "last_name": "van Zanten", "gender": "m", "place": "Amsterdam", "full_name": "R.P.T. van Zanten", "position": 12}, {"first_name": "Doede", "last_name": "Keuning", "gender": "m", "place": "Weesp", "full_name": "D. Keuning", "position": 13}], "title": "Lijst_9_Recreatie_Wonen_en_Water"}
+{
+  "title": "Lijst 9 Recreatie Wonen en Water",
+  "description": "",
+  "candidates": [
+    {
+      "position": 1,
+      "full_name": "A.A.A. Vendrig",
+      "place": "Nederhorst den Berg",
+      "gender": "m",
+      "last_name": "Vendrig",
+      "first_name": "Ton"
+    },
+    {
+      "position": 2,
+      "full_name": "J.C. van Waveren",
+      "place": "Loosdrecht",
+      "gender": "m",
+      "last_name": "van Waveren",
+      "first_name": "Jaap"
+    },
+    {
+      "position": 3,
+      "full_name": "D. Pos",
+      "place": "Ankeveen",
+      "gender": "m",
+      "last_name": "Pos",
+      "first_name": "David"
+    },
+    {
+      "position": 4,
+      "full_name": "A. Krook",
+      "place": "Loosdrecht",
+      "gender": "m",
+      "last_name": "Krook",
+      "first_name": "Ab"
+    },
+    {
+      "position": 5,
+      "full_name": "H.C. Heerschop",
+      "place": "Hilversum",
+      "gender": "v",
+      "last_name": "Heerschop",
+      "first_name": "Karen"
+    },
+    {
+      "position": 6,
+      "full_name": "W.F. van Voorthuizen",
+      "place": "Ankeveen",
+      "gender": "m",
+      "last_name": "van Voorthuizen",
+      "first_name": "Friso"
+    },
+    {
+      "position": 7,
+      "full_name": "J.W.M. van Wijk",
+      "place": "Vinkeveen",
+      "gender": "m",
+      "last_name": "van Wijk",
+      "first_name": "Jos"
+    },
+    {
+      "position": 8,
+      "full_name": "A.C. Klaassen",
+      "place": "Weesp",
+      "gender": "v",
+      "last_name": "Klaassen",
+      "first_name": "Annetta"
+    },
+    {
+      "position": 9,
+      "full_name": "W. Broer",
+      "place": "Hilversum",
+      "gender": "m",
+      "last_name": "Broer",
+      "first_name": "Wim"
+    },
+    {
+      "position": 10,
+      "full_name": "K. Bolt",
+      "place": "Vinkeveen",
+      "gender": "m",
+      "last_name": "Bolt",
+      "first_name": "Koen"
+    },
+    {
+      "position": 11,
+      "full_name": "F. Goos",
+      "place": "Nederhorst den Berg",
+      "gender": "m",
+      "last_name": "Goos",
+      "first_name": "Freek"
+    },
+    {
+      "position": 12,
+      "full_name": "R.P.T. van Zanten",
+      "place": "Amsterdam",
+      "gender": "m",
+      "last_name": "van Zanten",
+      "first_name": "Rob"
+    },
+    {
+      "position": 13,
+      "full_name": "D. Keuning",
+      "place": "Weesp",
+      "gender": "m",
+      "last_name": "Keuning",
+      "first_name": "Doede"
+    }
+  ]
+}

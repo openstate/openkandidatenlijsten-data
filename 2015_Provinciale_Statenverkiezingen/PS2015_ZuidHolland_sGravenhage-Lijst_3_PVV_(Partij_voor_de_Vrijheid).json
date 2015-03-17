@@ -1,0 +1,206 @@
+{
+  "title": "Lijst_3 PVV (Partij voor de Vrijheid)",
+  "description": "",
+  "candidates": [
+    {
+      "position": 1,
+      "full_name": "J.H. de Vree",
+      "place": "Hardinxveld-Giessendam",
+      "gender": "m",
+      "last_name": "de Vree",
+      "first_name": "Henk"
+    },
+    {
+      "position": 2,
+      "full_name": "B. Privé",
+      "place": "'s-Gravenhage",
+      "gender": "m",
+      "last_name": "Privé",
+      "first_name": "Bart"
+    },
+    {
+      "position": 3,
+      "full_name": "E.G.T. Braam",
+      "place": "Rijswijk",
+      "gender": "m",
+      "last_name": "Braam",
+      "first_name": "Ed"
+    },
+    {
+      "position": 4,
+      "full_name": "T.F. Dulfer",
+      "place": "Dordrecht",
+      "gender": "v",
+      "last_name": "Dulfer",
+      "first_name": "Tessa"
+    },
+    {
+      "position": 5,
+      "full_name": "T.P. Kok",
+      "place": "Leiden",
+      "gender": "m",
+      "last_name": "Kok",
+      "first_name": "Tomas"
+    },
+    {
+      "position": 6,
+      "full_name": "G.J. Zwerus",
+      "place": "Oude-Tonge",
+      "gender": "m",
+      "last_name": "Zwerus",
+      "first_name": "Jan"
+    },
+    {
+      "position": 7,
+      "full_name": "H.W.H. Groenendijk",
+      "place": "Hendrik-Ido-Ambacht",
+      "gender": "m",
+      "last_name": "Groenendijk",
+      "first_name": "Harm"
+    },
+    {
+      "position": 8,
+      "full_name": "J.J. Rijken",
+      "place": "Rotterdam",
+      "gender": "m",
+      "last_name": "Rijken",
+      "first_name": "Jeffrey"
+    },
+    {
+      "position": 9,
+      "full_name": "J. Mooiman",
+      "place": "Zoetermeer",
+      "gender": "m",
+      "last_name": "Mooiman",
+      "first_name": "Jeremy"
+    },
+    {
+      "position": 10,
+      "full_name": "H. Apon",
+      "place": "Ridderkerk",
+      "gender": "m",
+      "last_name": "Apon",
+      "first_name": "Iwahn"
+    },
+    {
+      "position": 11,
+      "full_name": "P.L. de Graaff",
+      "place": "Papendrecht",
+      "gender": "v",
+      "last_name": "de Graaff",
+      "first_name": "Paola"
+    },
+    {
+      "position": 12,
+      "full_name": "M. de Roode",
+      "place": "Rotterdam",
+      "gender": "m",
+      "last_name": "de Roode",
+      "first_name": "Michael"
+    },
+    {
+      "position": 13,
+      "full_name": "W. Friedhoff",
+      "place": "Leiden",
+      "gender": "m",
+      "last_name": "Friedhoff",
+      "first_name": "Wesley"
+    },
+    {
+      "position": 14,
+      "full_name": "M.J.H. Jongeneel",
+      "place": "Sliedrecht",
+      "gender": "m",
+      "last_name": "Jongeneel",
+      "first_name": "Mark"
+    },
+    {
+      "position": 15,
+      "full_name": "P.L.J. Deen",
+      "place": "Rhoon",
+      "gender": "m",
+      "last_name": "Deen",
+      "first_name": "Peter"
+    },
+    {
+      "position": 16,
+      "full_name": "J.C.M. Soijer",
+      "place": "Rotterdam",
+      "gender": "m",
+      "last_name": "Soijer",
+      "first_name": "Johan"
+    },
+    {
+      "position": 17,
+      "full_name": "D. Pons",
+      "place": "Dordrecht",
+      "gender": "m",
+      "last_name": "Pons",
+      "first_name": "Delroy"
+    },
+    {
+      "position": 18,
+      "full_name": "B.N. Moody",
+      "place": "'s-Gravenhage",
+      "gender": "m",
+      "last_name": "Moody",
+      "first_name": "Bas"
+    },
+    {
+      "position": 19,
+      "full_name": "R.J. van der Stappen",
+      "place": "Spijkenisse",
+      "gender": "m",
+      "last_name": "van der Stappen",
+      "first_name": "Robert Jan"
+    },
+    {
+      "position": 20,
+      "full_name": "G.P. Jongeneel",
+      "place": "Sliedrecht",
+      "gender": "m",
+      "last_name": "Jongeneel",
+      "first_name": "Gert"
+    },
+    {
+      "position": 21,
+      "full_name": "G.A. Burger",
+      "place": "Krimpen aan den IJssel",
+      "gender": "m",
+      "last_name": "Burger",
+      "first_name": "Gerard"
+    },
+    {
+      "position": 22,
+      "full_name": "A. Elissen",
+      "place": "'s-Gravenhage",
+      "gender": "m",
+      "last_name": "Elissen",
+      "first_name": "Andre"
+    },
+    {
+      "position": 23,
+      "full_name": "V. Maeijer",
+      "place": "Krimpen aan den IJssel",
+      "gender": "v",
+      "last_name": "Maeijer",
+      "first_name": "Vicky"
+    },
+    {
+      "position": 24,
+      "full_name": "N. Solms",
+      "place": "'s-Gravenhage",
+      "gender": "m",
+      "last_name": "Solms",
+      "first_name": "Norbert"
+    },
+    {
+      "position": 25,
+      "full_name": "S.R. Fritsma",
+      "place": "'s-Gravenhage",
+      "gender": "m",
+      "last_name": "Fritsma",
+      "first_name": "Sietse"
+    }
+  ]
+}

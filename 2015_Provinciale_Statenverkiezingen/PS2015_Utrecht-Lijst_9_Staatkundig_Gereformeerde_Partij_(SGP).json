@@ -1,0 +1,246 @@
+{
+  "title": "Lijst 9 Staatkundig Gereformeerde Partij (SGP)",
+  "description": "Gecombineerd met ChristenUnie",
+  "candidates": [
+    {
+      "position": 1,
+      "full_name": "G. van Leeuwen",
+      "place": "Houten",
+      "gender": "",
+      "last_name": "van Leeuwen",
+      "first_name": "Gijs"
+    },
+    {
+      "position": 2,
+      "full_name": "P.A. van Leeuwen",
+      "place": "Rhenen",
+      "gender": "",
+      "last_name": "van Leeuwen",
+      "first_name": "Piet"
+    },
+    {
+      "position": 3,
+      "full_name": "P.E.B. van Ojen",
+      "place": "Zeist",
+      "gender": "",
+      "last_name": "van Ojen",
+      "first_name": "Pieter"
+    },
+    {
+      "position": 4,
+      "full_name": "L.C. van den Dikkenberg",
+      "place": "Elst Ut",
+      "gender": "",
+      "last_name": "van den Dikkenberg",
+      "first_name": "Bertrick"
+    },
+    {
+      "position": 5,
+      "full_name": "H.J. van der Wind",
+      "place": "Maarsbergen",
+      "gender": "",
+      "last_name": "van der Wind",
+      "first_name": "Henk"
+    },
+    {
+      "position": 6,
+      "full_name": "A.J.W. van der Vlies",
+      "place": "Maartensdijk",
+      "gender": "",
+      "last_name": "van der Vlies",
+      "first_name": "Arie"
+    },
+    {
+      "position": 7,
+      "full_name": "D.D. Both",
+      "place": "Veenendaal",
+      "gender": "",
+      "last_name": "Both",
+      "first_name": "Dick"
+    },
+    {
+      "position": 8,
+      "full_name": "J.A. Mulder",
+      "place": "Woudenberg",
+      "gender": "",
+      "last_name": "Mulder",
+      "first_name": "Jan"
+    },
+    {
+      "position": 9,
+      "full_name": "J.M. van Eckeveld",
+      "place": "Rhenen",
+      "gender": "",
+      "last_name": "van Eckeveld",
+      "first_name": "Marco"
+    },
+    {
+      "position": 10,
+      "full_name": "H. van Barneveld",
+      "place": "Bunschoten",
+      "gender": "",
+      "last_name": "van Barneveld",
+      "first_name": "Huig"
+    },
+    {
+      "position": 11,
+      "full_name": "C.J. van Tuijl",
+      "place": "Woerden",
+      "gender": "",
+      "last_name": "van Tuijl",
+      "first_name": "Cor"
+    },
+    {
+      "position": 12,
+      "full_name": "D. Vlastuin",
+      "place": "Renswoude",
+      "gender": "",
+      "last_name": "Vlastuin",
+      "first_name": "Dick"
+    },
+    {
+      "position": 13,
+      "full_name": "J. van de Lagemaat",
+      "place": "Woudenberg",
+      "gender": "",
+      "last_name": "van de Lagemaat",
+      "first_name": "Jan"
+    },
+    {
+      "position": 14,
+      "full_name": "H.W. Palm",
+      "place": "Wilnis",
+      "gender": "",
+      "last_name": "Palm",
+      "first_name": "Hendrik"
+    },
+    {
+      "position": 15,
+      "full_name": "L.A. Wijnmaalen",
+      "place": "Vianen",
+      "gender": "",
+      "last_name": "Wijnmaalen",
+      "first_name": "Leendert"
+    },
+    {
+      "position": 16,
+      "full_name": "G. Boonzaaijer",
+      "place": "Doorn",
+      "gender": "",
+      "last_name": "Boonzaaijer",
+      "first_name": "Gerrit"
+    },
+    {
+      "position": 17,
+      "full_name": "C.M. Verloop",
+      "place": "Veenendaal",
+      "gender": "",
+      "last_name": "Verloop",
+      "first_name": "Marco"
+    },
+    {
+      "position": 18,
+      "full_name": "R. Bor",
+      "place": "Rhenen",
+      "gender": "",
+      "last_name": "Bor",
+      "first_name": "Rudy"
+    },
+    {
+      "position": 19,
+      "full_name": "W.G. Hulsman",
+      "place": "Rhenen",
+      "gender": "",
+      "last_name": "Hulsman",
+      "first_name": "Wim"
+    },
+    {
+      "position": 20,
+      "full_name": "A.B. Schep",
+      "place": "Benschop",
+      "gender": "",
+      "last_name": "Schep",
+      "first_name": "Arie"
+    },
+    {
+      "position": 21,
+      "full_name": "J.F. Slootweg",
+      "place": "Maartensdijk",
+      "gender": "",
+      "last_name": "Slootweg",
+      "first_name": "Johan"
+    },
+    {
+      "position": 22,
+      "full_name": "J. Schouten",
+      "place": "Leusden",
+      "gender": "",
+      "last_name": "Schouten",
+      "first_name": "Jan"
+    },
+    {
+      "position": 23,
+      "full_name": "J.W. Benschop",
+      "place": "Lopik",
+      "gender": "",
+      "last_name": "Benschop",
+      "first_name": "Jan Willem"
+    },
+    {
+      "position": 24,
+      "full_name": "F.M. de Ronde",
+      "place": "Maarssen",
+      "gender": "",
+      "last_name": "de Ronde",
+      "first_name": "Frans"
+    },
+    {
+      "position": 25,
+      "full_name": "P.M.H. Meeuse",
+      "place": "Amersfoort",
+      "gender": "",
+      "last_name": "Meeuse",
+      "first_name": "Martijn"
+    },
+    {
+      "position": 26,
+      "full_name": "P. de Jong",
+      "place": "Montfoort",
+      "gender": "",
+      "last_name": "de Jong",
+      "first_name": "Peter"
+    },
+    {
+      "position": 27,
+      "full_name": "M. de Heer",
+      "place": "Polsbroek",
+      "gender": "",
+      "last_name": "de Heer",
+      "first_name": "Maarten"
+    },
+    {
+      "position": 28,
+      "full_name": "P. Schalk",
+      "place": "Veenendaal",
+      "gender": "",
+      "last_name": "Schalk",
+      "first_name": "Peter"
+    },
+    {
+      "position": 29,
+      "full_name": "W. van Wikselaar",
+      "place": "Driebergen-Rijsenburg",
+      "gender": "",
+      "last_name": "van Wikselaar",
+      "first_name": "Wim"
+    },
+    {
+      "position": 30,
+      "full_name": "R. Bisschop",
+      "place": "Veenendaal",
+      "gender": "",
+      "last_name": "Bisschop",
+      "first_name": "Roelof"
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "title": "Lijst_10 Volkspartij Limburg",
+  "description": "",
+  "candidates": [
+    {
+      "position": 1,
+      "full_name": "V.G.J. Zwijnenberg",
+      "place": "Roermond",
+      "gender": "m",
+      "last_name": "Zwijnenberg",
+      "first_name": "Vincent"
+    },
+    {
+      "position": 2,
+      "full_name": "J.W.G.M Timmermans",
+      "place": "Venlo",
+      "gender": "m",
+      "last_name": "Timmermans",
+      "first_name": "Jo"
+    },
+    {
+      "position": 3,
+      "full_name": "Y.E.H.M Moonen",
+      "place": "Heerlen",
+      "gender": "v",
+      "last_name": "Moonen",
+      "first_name": "Yvonne"
+    },
+    {
+      "position": 4,
+      "full_name": "A.C.P. Peters",
+      "place": "Roermond",
+      "gender": "m",
+      "last_name": "Peters",
+      "first_name": "Dré"
+    },
+    {
+      "position": 5,
+      "full_name": "L.C.G Volders",
+      "place": "Meerssen",
+      "gender": "m",
+      "last_name": "Volders",
+      "first_name": "Luc"
+    },
+    {
+      "position": 6,
+      "full_name": "K Soğukçeşme",
+      "place": "Roermond",
+      "gender": "m",
+      "last_name": "Soğukçeşme",
+      "first_name": "Kadri"
+    },
+    {
+      "position": 7,
+      "full_name": "R.F.R Wijmenga",
+      "place": "Eygelshoven",
+      "gender": "m",
+      "last_name": "Wijmenga",
+      "first_name": "René"
+    },
+    {
+      "position": 8,
+      "full_name": "A.A.M.M Verhees",
+      "place": "Stevensweert",
+      "gender": "m",
+      "last_name": "Verhees",
+      "first_name": "Allon"
+    },
+    {
+      "position": 9,
+      "full_name": "C.D Petermann",
+      "place": "Heerlen",
+      "gender": "m",
+      "last_name": "Petermann",
+      "first_name": "Christian"
+    },
+    {
+      "position": 10,
+      "full_name": "Y Nbigui",
+      "place": "Roermond",
+      "gender": "m",
+      "last_name": "Nbigui",
+      "first_name": "Yihad"
+    },
+    {
+      "position": 11,
+      "full_name": "A Loganathan",
+      "place": "Roermond",
+      "gender": "m",
+      "last_name": "Loganathan",
+      "first_name": "Aijiththan"
+    },
+    {
+      "position": 12,
+      "full_name": "N.J.F Schreurs",
+      "place": "Venlo",
+      "gender": "m",
+      "last_name": "Schreurs",
+      "first_name": "Nico"
+    },
+    {
+      "position": 13,
+      "full_name": "H van Hal",
+      "place": "Roermond",
+      "gender": "m",
+      "last_name": "van Hal",
+      "first_name": "Huub"
+    },
+    {
+      "position": 14,
+      "full_name": "A.C.M Raven",
+      "place": "Geleen",
+      "gender": "m",
+      "last_name": "Raven",
+      "first_name": "Ton"
+    },
+    {
+      "position": 15,
+      "full_name": "M.S. Berdsfah",
+      "place": "Roermond",
+      "gender": "m",
+      "last_name": "Berdsfah",
+      "first_name": "Mohamed"
+    },
+    {
+      "position": 16,
+      "full_name": "J.F.B van Rey",
+      "place": "Roermond",
+      "gender": "m",
+      "last_name": "van Rey",
+      "first_name": "Jos"
+    }
+  ]
+}

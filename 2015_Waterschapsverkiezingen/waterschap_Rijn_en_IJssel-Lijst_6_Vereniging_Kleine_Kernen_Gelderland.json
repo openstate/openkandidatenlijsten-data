@@ -1,1 +1,54 @@
-{"description": "", "members": [{"first_name": "Tinie", "last_name": "te Dorsthorst", "gender": "v", "place": "Didam", "full_name": "C.W.J. te Dorsthorst", "position": 1}, {"first_name": "Jos", "last_name": "Baak", "gender": "m", "place": "Beltrum", "full_name": "J.M.M. Baak", "position": 2}, {"first_name": "Wim", "last_name": "Dijkstra", "gender": "m", "place": "Wichmond", "full_name": "W.T. Dijkstra", "position": 3}, {"first_name": "Peter", "last_name": "van Heek", "gender": "m", "place": "Eibergen", "full_name": "P.T. van Heek", "position": 4}, {"first_name": "Erik", "last_name": "Grijsen", "gender": "m", "place": "Bredevoort", "full_name": "E.J. Grijsen", "position": 5}, {"first_name": "Gemma", "last_name": "Tiedink-Koning", "gender": "v", "place": "Groessen", "full_name": "G.M. Tiedink-Koning", "position": 6}], "title": "Lijst_6_Vereniging_Kleine_Kernen_Gelderland"}
+{
+  "title": "Lijst 6 Vereniging Kleine Kernen Gelderland",
+  "description": "",
+  "candidates": [
+    {
+      "position": 1,
+      "full_name": "C.W.J. te Dorsthorst",
+      "place": "Didam",
+      "gender": "v",
+      "last_name": "te Dorsthorst",
+      "first_name": "Tinie"
+    },
+    {
+      "position": 2,
+      "full_name": "J.M.M. Baak",
+      "place": "Beltrum",
+      "gender": "m",
+      "last_name": "Baak",
+      "first_name": "Jos"
+    },
+    {
+      "position": 3,
+      "full_name": "W.T. Dijkstra",
+      "place": "Wichmond",
+      "gender": "m",
+      "last_name": "Dijkstra",
+      "first_name": "Wim"
+    },
+    {
+      "position": 4,
+      "full_name": "P.T. van Heek",
+      "place": "Eibergen",
+      "gender": "m",
+      "last_name": "van Heek",
+      "first_name": "Peter"
+    },
+    {
+      "position": 5,
+      "full_name": "E.J. Grijsen",
+      "place": "Bredevoort",
+      "gender": "m",
+      "last_name": "Grijsen",
+      "first_name": "Erik"
+    },
+    {
+      "position": 6,
+      "full_name": "G.M. Tiedink-Koning",
+      "place": "Groessen",
+      "gender": "v",
+      "last_name": "Tiedink-Koning",
+      "first_name": "Gemma"
+    }
+  ]
+}

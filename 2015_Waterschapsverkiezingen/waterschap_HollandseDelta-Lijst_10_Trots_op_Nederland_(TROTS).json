@@ -1,1 +1,14 @@
-{"description": "", "members": [{"first_name": "Marcel", "last_name": "Vink", "gender": "m", "place": "Ridderkerk", "full_name": "M. Vink", "position": 1}], "title": "Lijst_10_Trots_op_Nederland_(TROTS)"}
+{
+  "title": "Lijst 10 Trots op Nederland (TROTS)",
+  "description": "",
+  "candidates": [
+    {
+      "position": 1,
+      "full_name": "M. Vink",
+      "place": "Ridderkerk",
+      "gender": "m",
+      "last_name": "Vink",
+      "first_name": "Marcel"
+    }
+  ]
+}

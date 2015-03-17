@@ -1,0 +1,166 @@
+{
+  "title": "Lijst 8 ChristenUnie",
+  "description": "Gecombineerd met Staatkundig Gereformeerde Partij (SGP)",
+  "candidates": [
+    {
+      "position": 1,
+      "full_name": "J.H. Verburg",
+      "place": "Goes",
+      "gender": "m",
+      "last_name": "Verburg",
+      "first_name": "Jan Henk"
+    },
+    {
+      "position": 2,
+      "full_name": "M.A. Otte",
+      "place": "Kruiningen",
+      "gender": "m",
+      "last_name": "Otte",
+      "first_name": "Martin"
+    },
+    {
+      "position": 3,
+      "full_name": "M. Rijksen-Blok",
+      "place": "Kapelle",
+      "gender": "v",
+      "last_name": "Rijksen-Blok",
+      "first_name": "Ria"
+    },
+    {
+      "position": 4,
+      "full_name": "W.A. Treurniet-Klapwijk",
+      "place": "Middelburg",
+      "gender": "v",
+      "last_name": "Treurniet-Klapwijk",
+      "first_name": "Willemien"
+    },
+    {
+      "position": 5,
+      "full_name": "L.C. van Dijke",
+      "place": "Middelburg",
+      "gender": "m",
+      "last_name": "van Dijke",
+      "first_name": "Leen"
+    },
+    {
+      "position": 6,
+      "full_name": "J.L. Hage",
+      "place": "Tholen",
+      "gender": "m",
+      "last_name": "Hage",
+      "first_name": "Jaap"
+    },
+    {
+      "position": 7,
+      "full_name": "W.M. Dorst",
+      "place": "Nieuwerkerk",
+      "gender": "m",
+      "last_name": "Dorst",
+      "first_name": "Wim"
+    },
+    {
+      "position": 8,
+      "full_name": "L. Openneer",
+      "place": "Goes",
+      "gender": "m",
+      "last_name": "Openneer",
+      "first_name": "Lennard"
+    },
+    {
+      "position": 9,
+      "full_name": "J.A.B. van Damme",
+      "place": "Yerseke",
+      "gender": "m",
+      "last_name": "van Damme",
+      "first_name": "Sjaco"
+    },
+    {
+      "position": 10,
+      "full_name": "J.J. van Ginkel",
+      "place": "'s-Gravenpolder",
+      "gender": "m",
+      "last_name": "van Ginkel",
+      "first_name": "Jaap"
+    },
+    {
+      "position": 11,
+      "full_name": "C. van Dalen",
+      "place": "Vlissingen",
+      "gender": "m",
+      "last_name": "van Dalen",
+      "first_name": "Coen"
+    },
+    {
+      "position": 12,
+      "full_name": "A. Kodde",
+      "place": "Oostkapelle",
+      "gender": "m",
+      "last_name": "Kodde",
+      "first_name": "Adrie"
+    },
+    {
+      "position": 13,
+      "full_name": "C.J. Leunis",
+      "place": "Terneuzen",
+      "gender": "m",
+      "last_name": "Leunis",
+      "first_name": "Cor"
+    },
+    {
+      "position": 14,
+      "full_name": "J.A. Verduijn",
+      "place": "Breskens",
+      "gender": "m",
+      "last_name": "Verduijn",
+      "first_name": "Han"
+    },
+    {
+      "position": 15,
+      "full_name": "C.W.G.J. van Leeuwen",
+      "place": "Sint-Annaland",
+      "gender": "m",
+      "last_name": "van Leeuwen",
+      "first_name": "Corniel"
+    },
+    {
+      "position": 16,
+      "full_name": "C.F.J. den Doelder",
+      "place": "Terneuzen",
+      "gender": "m",
+      "last_name": "den Doelder",
+      "first_name": "Jaap"
+    },
+    {
+      "position": 17,
+      "full_name": "H.T. Mennes",
+      "place": "Goes",
+      "gender": "m",
+      "last_name": "Mennes",
+      "first_name": "Thijs"
+    },
+    {
+      "position": 18,
+      "full_name": "E. van de Vreede-Hensen",
+      "place": "Waarde",
+      "gender": "v",
+      "last_name": "van de Vreede-Hensen",
+      "first_name": "Esther"
+    },
+    {
+      "position": 19,
+      "full_name": "F. Visscher",
+      "place": "Goes",
+      "gender": "m",
+      "last_name": "Visscher",
+      "first_name": "Frank"
+    },
+    {
+      "position": 20,
+      "full_name": "A.P. Beekman",
+      "place": "Krabbendijke",
+      "gender": "m",
+      "last_name": "Beekman",
+      "first_name": "Arjan"
+    }
+  ]
+}

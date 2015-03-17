@@ -1,1 +1,30 @@
-{"description": "Gecombineerd met Algemene Waterschapspartij", "members": [{"first_name": "Joep", "last_name": "Taks", "gender": "m", "place": "Breda", "full_name": "J.P.W.A.A.M. Taks", "position": 1}, {"first_name": "Wim", "last_name": "van Overveld", "gender": "m", "place": "Oudenbosch", "full_name": "W.A.A.M. van Overveld", "position": 2}, {"first_name": "John", "last_name": "Voets", "gender": "m", "place": "Bergen op Zoom", "full_name": "J.J.M. Voets", "position": 3}], "title": "Lijst_8_50PLUS"}
+{
+  "title": "Lijst 8 50PLUS",
+  "description": "Gecombineerd met Algemene Waterschapspartij",
+  "candidates": [
+    {
+      "position": 1,
+      "full_name": "J.P.W.A.A.M. Taks",
+      "place": "Breda",
+      "gender": "m",
+      "last_name": "Taks",
+      "first_name": "Joep"
+    },
+    {
+      "position": 2,
+      "full_name": "W.A.A.M. van Overveld",
+      "place": "Oudenbosch",
+      "gender": "m",
+      "last_name": "van Overveld",
+      "first_name": "Wim"
+    },
+    {
+      "position": 3,
+      "full_name": "J.J.M. Voets",
+      "place": "Bergen op Zoom",
+      "gender": "m",
+      "last_name": "Voets",
+      "first_name": "John"
+    }
+  ]
+}

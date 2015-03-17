@@ -1,0 +1,190 @@
+{
+  "title": "Lijst 8 Gewest NH/U KNSB",
+  "description": "Gecombineerd met Algemene Waterschapspartij",
+  "candidates": [
+    {
+      "position": 1,
+      "full_name": "A.T. Steltenpool",
+      "place": "Zwaag",
+      "gender": "m",
+      "last_name": "Steltenpool",
+      "first_name": "Toon"
+    },
+    {
+      "position": 2,
+      "full_name": "H. Brandt",
+      "place": "Uitdam",
+      "gender": "m",
+      "last_name": "Brandt",
+      "first_name": "Hans"
+    },
+    {
+      "position": 3,
+      "full_name": "E.H.M. Bakker",
+      "place": "Venhuizen",
+      "gender": "m",
+      "last_name": "Bakker",
+      "first_name": "Eddie"
+    },
+    {
+      "position": 4,
+      "full_name": "J.N. Bakker",
+      "place": "Wervershoof",
+      "gender": "m",
+      "last_name": "Bakker",
+      "first_name": "Sjaak"
+    },
+    {
+      "position": 5,
+      "full_name": "T.H. de Boer",
+      "place": "Volendam",
+      "gender": "m",
+      "last_name": "de Boer",
+      "first_name": "Dirk"
+    },
+    {
+      "position": 6,
+      "full_name": "N.J. Buijze",
+      "place": "Monnickendam",
+      "gender": "m",
+      "last_name": "Buijze",
+      "first_name": "Nico"
+    },
+    {
+      "position": 7,
+      "full_name": "J.T. Kaarsemaker",
+      "place": "Hoogkarspel",
+      "gender": "m",
+      "last_name": "Kaarsemaker",
+      "first_name": "Jos"
+    },
+    {
+      "position": 8,
+      "full_name": "T.T. Klaij",
+      "place": "Berkhout",
+      "gender": "m",
+      "last_name": "Klaij",
+      "first_name": "Teewis"
+    },
+    {
+      "position": 9,
+      "full_name": "J.C. Kooij",
+      "place": "Nieuwe Niedorp",
+      "gender": "m",
+      "last_name": "Kooij",
+      "first_name": "Jaap"
+    },
+    {
+      "position": 10,
+      "full_name": "J. Niesten",
+      "place": "Heemskerk",
+      "gender": "m",
+      "last_name": "Niesten",
+      "first_name": "Jos"
+    },
+    {
+      "position": 11,
+      "full_name": "J. van Nieuwenhuizen",
+      "place": "Krommenie",
+      "gender": "m",
+      "last_name": "van Nieuwenhuizen",
+      "first_name": "Jaap"
+    },
+    {
+      "position": 12,
+      "full_name": "A. Nijboer",
+      "place": "Medemblik",
+      "gender": "m",
+      "last_name": "Nijboer",
+      "first_name": "Onne"
+    },
+    {
+      "position": 13,
+      "full_name": "P. Plugboer",
+      "place": "Stompetoren",
+      "gender": "m",
+      "last_name": "Plugboer",
+      "first_name": "Peter"
+    },
+    {
+      "position": 14,
+      "full_name": "A. Reinders",
+      "place": "Krommenie",
+      "gender": "m",
+      "last_name": "Reinders",
+      "first_name": "Albert"
+    },
+    {
+      "position": 15,
+      "full_name": "W. Rol",
+      "place": "Markenbinnen",
+      "gender": "m",
+      "last_name": "Rol",
+      "first_name": "Willem"
+    },
+    {
+      "position": 16,
+      "full_name": "J.A. Schilder",
+      "place": "Enkhuizen",
+      "gender": "m",
+      "last_name": "Schilder",
+      "first_name": "Jan"
+    },
+    {
+      "position": 17,
+      "full_name": "H.X. Segers",
+      "place": "Den Ilp",
+      "gender": "m",
+      "last_name": "Segers",
+      "first_name": "Rene"
+    },
+    {
+      "position": 18,
+      "full_name": "N.J. Sombroek",
+      "place": "Ursem",
+      "gender": "m",
+      "last_name": "Sombroek",
+      "first_name": "Nico"
+    },
+    {
+      "position": 19,
+      "full_name": "M.B. Steltenpool",
+      "place": "Langedijk",
+      "gender": "v",
+      "last_name": "Steltenpool",
+      "first_name": "Marijke"
+    },
+    {
+      "position": 20,
+      "full_name": "J. Veenis",
+      "place": "Heerhugowaard",
+      "gender": "m",
+      "last_name": "Veenis",
+      "first_name": "Jan"
+    },
+    {
+      "position": 21,
+      "full_name": "R.G. Verloop",
+      "place": "Oosthuizen",
+      "gender": "m",
+      "last_name": "Verloop",
+      "first_name": "Rennie"
+    },
+    {
+      "position": 22,
+      "full_name": "J. van Vuure",
+      "place": "Purmerend",
+      "gender": "m",
+      "last_name": "van Vuure",
+      "first_name": "Jaap"
+    },
+    {
+      "position": 23,
+      "full_name": "D.J. Zwier",
+      "place": "Opperdoes",
+      "gender": "m",
+      "last_name": "Zwier",
+      "first_name": "Dirk Jaap"
+    }
+  ]
+}

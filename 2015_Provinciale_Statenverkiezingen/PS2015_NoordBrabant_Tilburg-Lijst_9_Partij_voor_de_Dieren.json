@@ -1,0 +1,158 @@
+{
+  "title": "Lijst_9 Partij voor de Dieren",
+  "description": "",
+  "candidates": [
+    {
+      "position": 1,
+      "full_name": "M.C. van der Wel",
+      "place": "Rijsbergen",
+      "gender": "m",
+      "last_name": "van der Wel",
+      "first_name": "Marco"
+    },
+    {
+      "position": 2,
+      "full_name": "M.J.G.P. Surminski",
+      "place": "Hoogerheide",
+      "gender": "v",
+      "last_name": "Surminski",
+      "first_name": "Paranka"
+    },
+    {
+      "position": 3,
+      "full_name": "A.J.M.M. Oomen",
+      "place": "Oss",
+      "gender": "m",
+      "last_name": "Oomen",
+      "first_name": "Ton"
+    },
+    {
+      "position": 4,
+      "full_name": "S. Hurkens",
+      "place": "'s-Hertogenbosch",
+      "gender": "v",
+      "last_name": "Hurkens",
+      "first_name": "Sara"
+    },
+    {
+      "position": 5,
+      "full_name": "W.M. van der Grinten",
+      "place": "Veldhoven",
+      "gender": "v",
+      "last_name": "van der Grinten",
+      "first_name": "Wendy"
+    },
+    {
+      "position": 6,
+      "full_name": "G. Steendijk",
+      "place": "Tilburg",
+      "gender": "v",
+      "last_name": "Steendijk",
+      "first_name": "Margreet"
+    },
+    {
+      "position": 7,
+      "full_name": "M.J.M. Morel",
+      "place": "Tilburg",
+      "gender": "m",
+      "last_name": "Morel",
+      "first_name": "Marcel"
+    },
+    {
+      "position": 8,
+      "full_name": "M.A. Stolp",
+      "place": "Loon op Zand",
+      "gender": "v",
+      "last_name": "Stolp",
+      "first_name": "Marianne"
+    },
+    {
+      "position": 9,
+      "full_name": "T.J.E. de Veer",
+      "place": "Zeeland",
+      "gender": "m",
+      "last_name": "de Veer",
+      "first_name": "Theo"
+    },
+    {
+      "position": 10,
+      "full_name": "R. Lukken",
+      "place": "Deurne",
+      "gender": "v",
+      "last_name": "Lukken",
+      "first_name": "Renée"
+    },
+    {
+      "position": 11,
+      "full_name": "C.P.A.M. de Wild",
+      "place": "Uden",
+      "gender": "v",
+      "last_name": "de Wild",
+      "first_name": "Ineke"
+    },
+    {
+      "position": 12,
+      "full_name": "M.A.J. Klarenbeek",
+      "place": "Raamsdonksveer",
+      "gender": "v",
+      "last_name": "Klarenbeek",
+      "first_name": "Britte"
+    },
+    {
+      "position": 13,
+      "full_name": "A.N. Scheeres",
+      "place": "Roosendaal",
+      "gender": "m",
+      "last_name": "Scheeres",
+      "first_name": "André"
+    },
+    {
+      "position": 14,
+      "full_name": "R.R. van Duuren",
+      "place": "Eindhoven",
+      "gender": "m",
+      "last_name": "van Duuren",
+      "first_name": "René"
+    },
+    {
+      "position": 15,
+      "full_name": "O.J. De Vries",
+      "place": "Breda",
+      "gender": "m",
+      "last_name": "De Vries",
+      "first_name": "Owen"
+    },
+    {
+      "position": 16,
+      "full_name": "J. Ramaan",
+      "place": "Tilburg",
+      "gender": "v",
+      "last_name": "Ramaan",
+      "first_name": "Ingrid"
+    },
+    {
+      "position": 17,
+      "full_name": "A.M. Nuijten",
+      "place": "Geertruidenberg",
+      "gender": "m",
+      "last_name": "Nuijten",
+      "first_name": "André"
+    },
+    {
+      "position": 18,
+      "full_name": "A. van Dort",
+      "place": "Riethoven",
+      "gender": "m",
+      "last_name": "van Dort",
+      "first_name": "Alexander"
+    },
+    {
+      "position": 19,
+      "full_name": "F.G.M. de Jong",
+      "place": "Sprundel",
+      "gender": "m",
+      "last_name": "de Jong",
+      "first_name": "Mans"
+    }
+  ]
+}

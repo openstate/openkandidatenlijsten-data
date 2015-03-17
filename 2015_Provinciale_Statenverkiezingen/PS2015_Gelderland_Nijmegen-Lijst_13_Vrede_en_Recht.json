@@ -1,0 +1,30 @@
+{
+  "title": "Lijst_13 Vrede en Recht",
+  "description": "",
+  "candidates": [
+    {
+      "position": 1,
+      "full_name": "P.E. Vlug",
+      "place": "Apeldoorn",
+      "gender": "m",
+      "last_name": "Vlug",
+      "first_name": "Peter"
+    },
+    {
+      "position": 2,
+      "full_name": "L.E. de Jong",
+      "place": "Apeldoorn",
+      "gender": "v",
+      "last_name": "de Jong",
+      "first_name": "Leonie"
+    },
+    {
+      "position": 3,
+      "full_name": "J.J. Agema",
+      "place": "Epe",
+      "gender": "m",
+      "last_name": "Agema",
+      "first_name": "Jerry"
+    }
+  ]
+}

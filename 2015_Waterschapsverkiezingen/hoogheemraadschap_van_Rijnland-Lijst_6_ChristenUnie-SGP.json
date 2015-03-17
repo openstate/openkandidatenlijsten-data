@@ -1,1 +1,262 @@
-{"description": "Gecombineerd met CDA", "members": [{"first_name": "Remmert", "last_name": "Kerst", "gender": "m", "place": "Reeuwijk", "full_name": "R.H. Kerst", "position": 1}, {"first_name": "Niek", "last_name": "van der Plas", "gender": "m", "place": "Katwijk", "full_name": "N. van der Plas", "position": 2}, {"first_name": "Djoeki", "last_name": "van Woerden-Kerssen", "gender": "v", "place": "Gouda", "full_name": "D.L. van Woerden-Kerssen", "position": 3}, {"first_name": "Henk", "last_name": "van der Smit", "gender": "m", "place": "Reeuwijk", "full_name": "H. van der Smit", "position": 4}, {"first_name": "Jan Harm", "last_name": "Boiten", "gender": "m", "place": "Oegstgeest", "full_name": "J.H. Boiten", "position": 5}, {"first_name": "Paul", "last_name": "Bremmer", "gender": "m", "place": "Gouda", "full_name": "P. Bremmer", "position": 6}, {"first_name": "Frank", "last_name": "Visser", "gender": "m", "place": "Haarlem", "full_name": "F.C. Visser", "position": 7}, {"first_name": "Arjo", "last_name": "van Bezooijen", "gender": "m", "place": "Hoofddorp", "full_name": "A.J. van Bezooijen", "position": 8}, {"first_name": "Harro", "last_name": "Janssen", "gender": "m", "place": "Gouda", "full_name": "H.R. Janssen", "position": 9}, {"first_name": "Huib", "last_name": "van der Kolk", "gender": "m", "place": "Lisse", "full_name": "H.L. van der Kolk", "position": 10}, {"first_name": "Gerard", "last_name": "Mostert", "gender": "m", "place": "Rijnsburg", "full_name": "I.G. Mostert", "position": 11}, {"first_name": "Geert", "last_name": "Schipaanboord", "gender": "m", "place": "Leiderdorp", "full_name": "G.P. Schipaanboord", "position": 12}, {"first_name": "Hans", "last_name": "Hekstra", "gender": "m", "place": "Nieuw-Vennep", "full_name": "J.A. Hekstra", "position": 13}, {"first_name": "Annet", "last_name": "Bregman-Franssen", "gender": "v", "place": "Benthuizen", "full_name": "A.M. Bregman-Franssen", "position": 14}, {"first_name": "Chris", "last_name": "Sol", "gender": "m", "place": "Leiden", "full_name": "C.C. Sol", "position": 15}, {"first_name": "Klaas", "last_name": "Schra", "gender": "m", "place": "Zoetermeer", "full_name": "K. Schra", "position": 16}, {"first_name": "Michel", "last_name": "du Chatinier", "gender": "m", "place": "Alphen aan den Rijn", "full_name": "M.H. du Chatinier", "position": 17}, {"first_name": "Ary", "last_name": "Lock", "gender": "m", "place": "Reeuwijk", "full_name": "A. Lock", "position": 18}, {"first_name": "Frans", "last_name": "Nederstigt", "gender": "m", "place": "Voorhout", "full_name": "F.A.J. Nederstigt", "position": 19}, {"first_name": "Wim", "last_name": "van Duijn", "gender": "m", "place": "Katwijk", "full_name": "W.J. van Duijn", "position": 20}, {"first_name": "Reijer", "last_name": "Kooij", "gender": "m", "place": "Santpoort-Noord", "full_name": "R.J. Kooij", "position": 21}, {"first_name": "Wim", "last_name": "van der Hoeven", "gender": "m", "place": "Gouda", "full_name": "W. van der Hoeven", "position": 22}, {"first_name": "Arie", "last_name": "de Groot", "gender": "m", "place": "Bodegraven", "full_name": "A. de Groot", "position": 23}, {"first_name": "Klaas-Jan", "last_name": "Knol", "gender": "m", "place": "Hoofddorp", "full_name": "K.J. Knol", "position": 24}, {"first_name": "Jaqueline", "last_name": "Koops-Scheele", "gender": "v", "place": "Amstelveen", "full_name": "J.A. Koops-Scheele", "position": 25}, {"first_name": "Bert", "last_name": "van Santen", "gender": "m", "place": "Lisse", "full_name": "B.A. van Santen", "position": 26}, {"first_name": "Jaap", "last_name": "van Duin", "gender": "m", "place": "Noordwijk", "full_name": "J.A. van Duin", "position": 27}, {"first_name": "Esther", "last_name": "Paul-Jonker", "gender": "v", "place": "Leiden", "full_name": "E. Paul-Jonker", "position": 28}, {"first_name": "Anneke", "last_name": "Morijn-Kralendonk", "gender": "v", "place": "Heemstede", "full_name": "A.A. Morijn-Kralendonk", "position": 29}, {"first_name": "Jaco", "last_name": "Matze", "gender": "m", "place": "Hazerswoude-Dorp", "full_name": "J. Matze", "position": 30}, {"first_name": "Mark", "last_name": "Koudijzer", "gender": "m", "place": "Reeuwijk", "full_name": "M. Koudijzer", "position": 31}, {"first_name": "Albert", "last_name": "Kerssies", "gender": "m", "place": "Waddinxveen", "full_name": "A. Kerssies", "position": 32}], "title": "Lijst_6_ChristenUnie-SGP"}
+{
+  "title": "Lijst 6 ChristenUnie-SGP",
+  "description": "Gecombineerd met CDA",
+  "candidates": [
+    {
+      "position": 1,
+      "full_name": "R.H. Kerst",
+      "place": "Reeuwijk",
+      "gender": "m",
+      "last_name": "Kerst",
+      "first_name": "Remmert"
+    },
+    {
+      "position": 2,
+      "full_name": "N. van der Plas",
+      "place": "Katwijk",
+      "gender": "m",
+      "last_name": "van der Plas",
+      "first_name": "Niek"
+    },
+    {
+      "position": 3,
+      "full_name": "D.L. van Woerden-Kerssen",
+      "place": "Gouda",
+      "gender": "v",
+      "last_name": "van Woerden-Kerssen",
+      "first_name": "Djoeki"
+    },
+    {
+      "position": 4,
+      "full_name": "H. van der Smit",
+      "place": "Reeuwijk",
+      "gender": "m",
+      "last_name": "van der Smit",
+      "first_name": "Henk"
+    },
+    {
+      "position": 5,
+      "full_name": "J.H. Boiten",
+      "place": "Oegstgeest",
+      "gender": "m",
+      "last_name": "Boiten",
+      "first_name": "Jan Harm"
+    },
+    {
+      "position": 6,
+      "full_name": "P. Bremmer",
+      "place": "Gouda",
+      "gender": "m",
+      "last_name": "Bremmer",
+      "first_name": "Paul"
+    },
+    {
+      "position": 7,
+      "full_name": "F.C. Visser",
+      "place": "Haarlem",
+      "gender": "m",
+      "last_name": "Visser",
+      "first_name": "Frank"
+    },
+    {
+      "position": 8,
+      "full_name": "A.J. van Bezooijen",
+      "place": "Hoofddorp",
+      "gender": "m",
+      "last_name": "van Bezooijen",
+      "first_name": "Arjo"
+    },
+    {
+      "position": 9,
+      "full_name": "H.R. Janssen",
+      "place": "Gouda",
+      "gender": "m",
+      "last_name": "Janssen",
+      "first_name": "Harro"
+    },
+    {
+      "position": 10,
+      "full_name": "H.L. van der Kolk",
+      "place": "Lisse",
+      "gender": "m",
+      "last_name": "van der Kolk",
+      "first_name": "Huib"
+    },
+    {
+      "position": 11,
+      "full_name": "I.G. Mostert",
+      "place": "Rijnsburg",
+      "gender": "m",
+      "last_name": "Mostert",
+      "first_name": "Gerard"
+    },
+    {
+      "position": 12,
+      "full_name": "G.P. Schipaanboord",
+      "place": "Leiderdorp",
+      "gender": "m",
+      "last_name": "Schipaanboord",
+      "first_name": "Geert"
+    },
+    {
+      "position": 13,
+      "full_name": "J.A. Hekstra",
+      "place": "Nieuw-Vennep",
+      "gender": "m",
+      "last_name": "Hekstra",
+      "first_name": "Hans"
+    },
+    {
+      "position": 14,
+      "full_name": "A.M. Bregman-Franssen",
+      "place": "Benthuizen",
+      "gender": "v",
+      "last_name": "Bregman-Franssen",
+      "first_name": "Annet"
+    },
+    {
+      "position": 15,
+      "full_name": "C.C. Sol",
+      "place": "Leiden",
+      "gender": "m",
+      "last_name": "Sol",
+      "first_name": "Chris"
+    },
+    {
+      "position": 16,
+      "full_name": "K. Schra",
+      "place": "Zoetermeer",
+      "gender": "m",
+      "last_name": "Schra",
+      "first_name": "Klaas"
+    },
+    {
+      "position": 17,
+      "full_name": "M.H. du Chatinier",
+      "place": "Alphen aan den Rijn",
+      "gender": "m",
+      "last_name": "du Chatinier",
+      "first_name": "Michel"
+    },
+    {
+      "position": 18,
+      "full_name": "A. Lock",
+      "place": "Reeuwijk",
+      "gender": "m",
+      "last_name": "Lock",
+      "first_name": "Ary"
+    },
+    {
+      "position": 19,
+      "full_name": "F.A.J. Nederstigt",
+      "place": "Voorhout",
+      "gender": "m",
+      "last_name": "Nederstigt",
+      "first_name": "Frans"
+    },
+    {
+      "position": 20,
+      "full_name": "W.J. van Duijn",
+      "place": "Katwijk",
+      "gender": "m",
+      "last_name": "van Duijn",
+      "first_name": "Wim"
+    },
+    {
+      "position": 21,
+      "full_name": "R.J. Kooij",
+      "place": "Santpoort-Noord",
+      "gender": "m",
+      "last_name": "Kooij",
+      "first_name": "Reijer"
+    },
+    {
+      "position": 22,
+      "full_name": "W. van der Hoeven",
+      "place": "Gouda",
+      "gender": "m",
+      "last_name": "van der Hoeven",
+      "first_name": "Wim"
+    },
+    {
+      "position": 23,
+      "full_name": "A. de Groot",
+      "place": "Bodegraven",
+      "gender": "m",
+      "last_name": "de Groot",
+      "first_name": "Arie"
+    },
+    {
+      "position": 24,
+      "full_name": "K.J. Knol",
+      "place": "Hoofddorp",
+      "gender": "m",
+      "last_name": "Knol",
+      "first_name": "Klaas-Jan"
+    },
+    {
+      "position": 25,
+      "full_name": "J.A. Koops-Scheele",
+      "place": "Amstelveen",
+      "gender": "v",
+      "last_name": "Koops-Scheele",
+      "first_name": "Jaqueline"
+    },
+    {
+      "position": 26,
+      "full_name": "B.A. van Santen",
+      "place": "Lisse",
+      "gender": "m",
+      "last_name": "van Santen",
+      "first_name": "Bert"
+    },
+    {
+      "position": 27,
+      "full_name": "J.A. van Duin",
+      "place": "Noordwijk",
+      "gender": "m",
+      "last_name": "van Duin",
+      "first_name": "Jaap"
+    },
+    {
+      "position": 28,
+      "full_name": "E. Paul-Jonker",
+      "place": "Leiden",
+      "gender": "v",
+      "last_name": "Paul-Jonker",
+      "first_name": "Esther"
+    },
+    {
+      "position": 29,
+      "full_name": "A.A. Morijn-Kralendonk",
+      "place": "Heemstede",
+      "gender": "v",
+      "last_name": "Morijn-Kralendonk",
+      "first_name": "Anneke"
+    },
+    {
+      "position": 30,
+      "full_name": "J. Matze",
+      "place": "Hazerswoude-Dorp",
+      "gender": "m",
+      "last_name": "Matze",
+      "first_name": "Jaco"
+    },
+    {
+      "position": 31,
+      "full_name": "M. Koudijzer",
+      "place": "Reeuwijk",
+      "gender": "m",
+      "last_name": "Koudijzer",
+      "first_name": "Mark"
+    },
+    {
+      "position": 32,
+      "full_name": "A. Kerssies",
+      "place": "Waddinxveen",
+      "gender": "m",
+      "last_name": "Kerssies",
+      "first_name": "Albert"
+    }
+  ]
+}

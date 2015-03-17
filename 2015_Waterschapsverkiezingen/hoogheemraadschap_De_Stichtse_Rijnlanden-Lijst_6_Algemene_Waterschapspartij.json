@@ -1,1 +1,110 @@
-{"description": "", "members": [{"first_name": "Albert", "last_name": "Jansen", "gender": "m", "place": "Utrecht", "full_name": "A.E. Jansen", "position": 1}, {"first_name": "Esselien", "last_name": "de Leeuw", "gender": "v", "place": "De Meern", "full_name": "E. de Leeuw", "position": 2}, {"first_name": "Henk", "last_name": "Nap", "gender": "m", "place": "Driebergen-Rijsenburg", "full_name": "H. Nap", "position": 3}, {"first_name": "Lizanne", "last_name": "Takke", "gender": "v", "place": "Utrecht", "full_name": "L.I. Takke", "position": 4}, {"first_name": "Carel", "last_name": "Dieperink", "gender": "m", "place": "Utrecht", "full_name": "C. Dieperink", "position": 5}, {"first_name": "Andries", "last_name": "Heidema", "gender": "m", "place": "Houten", "full_name": "A. Heidema", "position": 6}, {"first_name": "Ineke", "last_name": "Vrij-Standhardt", "gender": "v", "place": "Leersum", "full_name": "W.G. Vrij-Standhardt", "position": 7}, {"first_name": "Andre", "last_name": "van Zutphen", "gender": "m", "place": "Kockengen", "full_name": "A.J. van Zutphen", "position": 8}, {"first_name": "Thomas", "last_name": "Trouwborst", "gender": "m", "place": "Zeist", "full_name": "T. Trouwborst", "position": 9}, {"first_name": "Dirk", "last_name": "Verbaan", "gender": "m", "place": "Nieuwegein", "full_name": "D. Verbaan", "position": 10}, {"first_name": "Wim", "last_name": "van der Zaag", "gender": "m", "place": "Woerden", "full_name": "W. van der Zaag", "position": 11}, {"first_name": "Aly", "last_name": "Hiemstra", "gender": "v", "place": "Utrecht", "full_name": "A. Hiemstra", "position": 12}, {"first_name": "Kaj", "last_name": "Hendriks", "gender": "m", "place": "De Bilt", "full_name": "K. Hendriks", "position": 13}], "title": "Lijst_6_Algemene_Waterschapspartij"}
+{
+  "title": "Lijst 6 Algemene Waterschapspartij",
+  "description": "",
+  "candidates": [
+    {
+      "position": 1,
+      "full_name": "A.E. Jansen",
+      "place": "Utrecht",
+      "gender": "m",
+      "last_name": "Jansen",
+      "first_name": "Albert"
+    },
+    {
+      "position": 2,
+      "full_name": "E. de Leeuw",
+      "place": "De Meern",
+      "gender": "v",
+      "last_name": "de Leeuw",
+      "first_name": "Esselien"
+    },
+    {
+      "position": 3,
+      "full_name": "H. Nap",
+      "place": "Driebergen-Rijsenburg",
+      "gender": "m",
+      "last_name": "Nap",
+      "first_name": "Henk"
+    },
+    {
+      "position": 4,
+      "full_name": "L.I. Takke",
+      "place": "Utrecht",
+      "gender": "v",
+      "last_name": "Takke",
+      "first_name": "Lizanne"
+    },
+    {
+      "position": 5,
+      "full_name": "C. Dieperink",
+      "place": "Utrecht",
+      "gender": "m",
+      "last_name": "Dieperink",
+      "first_name": "Carel"
+    },
+    {
+      "position": 6,
+      "full_name": "A. Heidema",
+      "place": "Houten",
+      "gender": "m",
+      "last_name": "Heidema",
+      "first_name": "Andries"
+    },
+    {
+      "position": 7,
+      "full_name": "W.G. Vrij-Standhardt",
+      "place": "Leersum",
+      "gender": "v",
+      "last_name": "Vrij-Standhardt",
+      "first_name": "Ineke"
+    },
+    {
+      "position": 8,
+      "full_name": "A.J. van Zutphen",
+      "place": "Kockengen",
+      "gender": "m",
+      "last_name": "van Zutphen",
+      "first_name": "Andre"
+    },
+    {
+      "position": 9,
+      "full_name": "T. Trouwborst",
+      "place": "Zeist",
+      "gender": "m",
+      "last_name": "Trouwborst",
+      "first_name": "Thomas"
+    },
+    {
+      "position": 10,
+      "full_name": "D. Verbaan",
+      "place": "Nieuwegein",
+      "gender": "m",
+      "last_name": "Verbaan",
+      "first_name": "Dirk"
+    },
+    {
+      "position": 11,
+      "full_name": "W. van der Zaag",
+      "place": "Woerden",
+      "gender": "m",
+      "last_name": "van der Zaag",
+      "first_name": "Wim"
+    },
+    {
+      "position": 12,
+      "full_name": "A. Hiemstra",
+      "place": "Utrecht",
+      "gender": "v",
+      "last_name": "Hiemstra",
+      "first_name": "Aly"
+    },
+    {
+      "position": 13,
+      "full_name": "K. Hendriks",
+      "place": "De Bilt",
+      "gender": "m",
+      "last_name": "Hendriks",
+      "first_name": "Kaj"
+    }
+  ]
+}

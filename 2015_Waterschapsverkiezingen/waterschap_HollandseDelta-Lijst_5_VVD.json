@@ -1,1 +1,102 @@
-{"description": "", "members": [{"first_name": "Frank", "last_name": "van Oorschot", "gender": "m", "place": "Achthuizen", "full_name": "J.J.M. van Oorschot", "position": 1}, {"first_name": "Theo", "last_name": "Peeterman", "gender": "m", "place": "Rotterdam", "full_name": "T.A.G. Peeterman", "position": 2}, {"first_name": "Martin", "last_name": "van Dijk", "gender": "m", "place": "Hendrik-Ido-Ambacht", "full_name": "M. van Dijk", "position": 3}, {"first_name": "Peter", "last_name": "van Arkel", "gender": "m", "place": "Rotterdam", "full_name": "P. van Arkel", "position": 4}, {"first_name": "Adri", "last_name": "van de Merwe", "gender": "v", "place": "Rotterdam", "full_name": "A.J. van de Merwe", "position": 5}, {"first_name": "Aat", "last_name": "Ouwerkerk", "gender": "m", "place": "Hendrik-Ido-Ambacht", "full_name": "A. Ouwerkerk", "position": 6}, {"first_name": "Pieter", "last_name": "de Visser", "gender": "m", "place": "Barendrecht", "full_name": "P.A.H. de Visser", "position": 7}, {"first_name": "Joop", "last_name": "Rakhorst", "gender": "m", "place": "Dordrecht", "full_name": "J.C. Rakhorst", "position": 8}, {"first_name": "Dick", "last_name": "Heuvelman", "gender": "m", "place": "Numansdorp", "full_name": "D. Heuvelman", "position": 9}, {"first_name": "Arie", "last_name": "Mol", "gender": "m", "place": "Hendrik-Ido-Ambacht", "full_name": "A. Mol", "position": 10}, {"first_name": "Conny", "last_name": "Verbaas", "gender": "v", "place": "Oud-Beijerland", "full_name": "C. Verbaas", "position": 11}, {"first_name": "Jaap", "last_name": "Heijndijk", "gender": "m", "place": "Oostvoorne", "full_name": "J. Heijndijk", "position": 12}], "title": "Lijst_5_VVD"}
+{
+  "title": "Lijst 5 VVD",
+  "description": "",
+  "candidates": [
+    {
+      "position": 1,
+      "full_name": "J.J.M. van Oorschot",
+      "place": "Achthuizen",
+      "gender": "m",
+      "last_name": "van Oorschot",
+      "first_name": "Frank"
+    },
+    {
+      "position": 2,
+      "full_name": "T.A.G. Peeterman",
+      "place": "Rotterdam",
+      "gender": "m",
+      "last_name": "Peeterman",
+      "first_name": "Theo"
+    },
+    {
+      "position": 3,
+      "full_name": "M. van Dijk",
+      "place": "Hendrik-Ido-Ambacht",
+      "gender": "m",
+      "last_name": "van Dijk",
+      "first_name": "Martin"
+    },
+    {
+      "position": 4,
+      "full_name": "P. van Arkel",
+      "place": "Rotterdam",
+      "gender": "m",
+      "last_name": "van Arkel",
+      "first_name": "Peter"
+    },
+    {
+      "position": 5,
+      "full_name": "A.J. van de Merwe",
+      "place": "Rotterdam",
+      "gender": "v",
+      "last_name": "van de Merwe",
+      "first_name": "Adri"
+    },
+    {
+      "position": 6,
+      "full_name": "A. Ouwerkerk",
+      "place": "Hendrik-Ido-Ambacht",
+      "gender": "m",
+      "last_name": "Ouwerkerk",
+      "first_name": "Aat"
+    },
+    {
+      "position": 7,
+      "full_name": "P.A.H. de Visser",
+      "place": "Barendrecht",
+      "gender": "m",
+      "last_name": "de Visser",
+      "first_name": "Pieter"
+    },
+    {
+      "position": 8,
+      "full_name": "J.C. Rakhorst",
+      "place": "Dordrecht",
+      "gender": "m",
+      "last_name": "Rakhorst",
+      "first_name": "Joop"
+    },
+    {
+      "position": 9,
+      "full_name": "D. Heuvelman",
+      "place": "Numansdorp",
+      "gender": "m",
+      "last_name": "Heuvelman",
+      "first_name": "Dick"
+    },
+    {
+      "position": 10,
+      "full_name": "A. Mol",
+      "place": "Hendrik-Ido-Ambacht",
+      "gender": "m",
+      "last_name": "Mol",
+      "first_name": "Arie"
+    },
+    {
+      "position": 11,
+      "full_name": "C. Verbaas",
+      "place": "Oud-Beijerland",
+      "gender": "v",
+      "last_name": "Verbaas",
+      "first_name": "Conny"
+    },
+    {
+      "position": 12,
+      "full_name": "J. Heijndijk",
+      "place": "Oostvoorne",
+      "gender": "m",
+      "last_name": "Heijndijk",
+      "first_name": "Jaap"
+    }
+  ]
+}

@@ -1,1 +1,78 @@
-{"description": "Gecombineerd met Waterschapspartij Zeeuws-Vlaanderen", "members": [{"first_name": "Lou", "last_name": "Waterman", "gender": "m", "place": "Oost-Souburg", "full_name": "L.F. Waterman", "position": 1}, {"first_name": "Wim", "last_name": "van de Heijning", "gender": "m", "place": "Hulst", "full_name": "J.W.M. van de Heijning", "position": 2}, {"first_name": "Cathrien", "last_name": "Kole", "gender": "v", "place": "Wemeldinge", "full_name": "C.W.A. Kole", "position": 3}, {"first_name": "Leo", "last_name": "Boom", "gender": "m", "place": "Burgh-Haamstede", "full_name": "L.D. Boom", "position": 4}, {"first_name": "Jos", "last_name": "Hoeijmakers", "gender": "m", "place": "Zonnemaire", "full_name": "J.T.H. Hoeijmakers", "position": 5}, {"first_name": "Ria", "last_name": "Wilbrink - Leijen Heeneman", "gender": "v", "place": "Westkapelle", "full_name": "M.I.J.G. Wilbrink - Leijen Heeneman", "position": 6}, {"first_name": "Co", "last_name": "Eger", "gender": "m", "place": "Zierikzee", "full_name": "J. Eger", "position": 7}, {"first_name": "Leen", "last_name": "van Doorn", "gender": "m", "place": "Sint-Maartensdijk", "full_name": "L.J. van Doorn", "position": 8}, {"first_name": "Wim", "last_name": "Hirdes", "gender": "m", "place": "Vlissingen", "full_name": "P.W. Hirdes", "position": 9}], "title": "Lijst_9_Algemene_Waterschapspartij_Zeeland"}
+{
+  "title": "Lijst 9 Algemene Waterschapspartij Zeeland",
+  "description": "Gecombineerd met Waterschapspartij Zeeuws-Vlaanderen",
+  "candidates": [
+    {
+      "position": 1,
+      "full_name": "L.F. Waterman",
+      "place": "Oost-Souburg",
+      "gender": "m",
+      "last_name": "Waterman",
+      "first_name": "Lou"
+    },
+    {
+      "position": 2,
+      "full_name": "J.W.M. van de Heijning",
+      "place": "Hulst",
+      "gender": "m",
+      "last_name": "van de Heijning",
+      "first_name": "Wim"
+    },
+    {
+      "position": 3,
+      "full_name": "C.W.A. Kole",
+      "place": "Wemeldinge",
+      "gender": "v",
+      "last_name": "Kole",
+      "first_name": "Cathrien"
+    },
+    {
+      "position": 4,
+      "full_name": "L.D. Boom",
+      "place": "Burgh-Haamstede",
+      "gender": "m",
+      "last_name": "Boom",
+      "first_name": "Leo"
+    },
+    {
+      "position": 5,
+      "full_name": "J.T.H. Hoeijmakers",
+      "place": "Zonnemaire",
+      "gender": "m",
+      "last_name": "Hoeijmakers",
+      "first_name": "Jos"
+    },
+    {
+      "position": 6,
+      "full_name": "M.I.J.G. Wilbrink - Leijen Heeneman",
+      "place": "Westkapelle",
+      "gender": "v",
+      "last_name": "Wilbrink - Leijen Heeneman",
+      "first_name": "Ria"
+    },
+    {
+      "position": 7,
+      "full_name": "J. Eger",
+      "place": "Zierikzee",
+      "gender": "m",
+      "last_name": "Eger",
+      "first_name": "Co"
+    },
+    {
+      "position": 8,
+      "full_name": "L.J. van Doorn",
+      "place": "Sint-Maartensdijk",
+      "gender": "m",
+      "last_name": "van Doorn",
+      "first_name": "Leen"
+    },
+    {
+      "position": 9,
+      "full_name": "P.W. Hirdes",
+      "place": "Vlissingen",
+      "gender": "m",
+      "last_name": "Hirdes",
+      "first_name": "Wim"
+    }
+  ]
+}

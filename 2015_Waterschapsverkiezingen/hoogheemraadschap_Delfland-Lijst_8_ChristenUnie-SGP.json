@@ -1,1 +1,134 @@
-{"description": "Gecombineerd met CDA", "members": [{"first_name": "Willy", "last_name": "de Zoete-van der Hout", "gender": "v", "place": "'s-Gravenhage", "full_name": "W.H. de Zoete-van der Hout", "position": 1}, {"first_name": "Harm", "last_name": "Roeten", "gender": "m", "place": "Pijnacker", "full_name": "H. Roeten", "position": 2}, {"first_name": "Pieter-Jan", "last_name": "Hofman", "gender": "m", "place": "'s-Gravenzande", "full_name": "P.J. Hofman", "position": 3}, {"first_name": "Eetze", "last_name": "de Boer", "gender": "m", "place": "Schiedam", "full_name": "E. de Boer", "position": 4}, {"first_name": "Koos", "last_name": "Verkade", "gender": "m", "place": "Vlaardingen", "full_name": "J.P. Verkade", "position": 5}, {"first_name": "Hans", "last_name": "Poot", "gender": "m", "place": "Vlaardingen", "full_name": "D.J. Poot", "position": 6}, {"first_name": "Franklin", "last_name": "Lamers", "gender": "m", "place": "Monster", "full_name": "F. Lamers", "position": 7}, {"first_name": "Arend", "last_name": "Visser", "gender": "m", "place": "Maasland", "full_name": "A.C. Visser", "position": 8}, {"first_name": "Ruud", "last_name": "van Harten", "gender": "m", "place": "Vlaardingen", "full_name": "R. van Harten", "position": 9}, {"first_name": "Jan Willem", "last_name": "Rouwendal", "gender": "m", "place": "Voorburg", "full_name": "J.W. Rouwendal", "position": 10}, {"first_name": "Cor", "last_name": "de Jonge", "gender": "m", "place": "Vlaardingen", "full_name": "C.A.E. de Jonge", "position": 11}, {"first_name": "Leen", "last_name": "Snijders", "gender": "m", "place": "Monster", "full_name": "L.K. Snijders", "position": 12}, {"first_name": "Rob", "last_name": "van der Welle", "gender": "m", "place": "Pijnacker", "full_name": "R. van der Welle", "position": 13}, {"first_name": "Frank", "last_name": "Lekkerkerk", "gender": "m", "place": "Delfgauw", "full_name": "F.J. Lekkerkerk", "position": 14}, {"first_name": "Wim", "last_name": "Pijl", "gender": "m", "place": "'s-Gravenhage", "full_name": "W.J. Pijl", "position": 15}, {"first_name": "William", "last_name": "Anker", "gender": "m", "place": "Vlaardingen", "full_name": "W. Anker", "position": 16}], "title": "Lijst_8_ChristenUnie-SGP"}
+{
+  "title": "Lijst 8 ChristenUnie-SGP",
+  "description": "Gecombineerd met CDA",
+  "candidates": [
+    {
+      "position": 1,
+      "full_name": "W.H. de Zoete-van der Hout",
+      "place": "'s-Gravenhage",
+      "gender": "v",
+      "last_name": "de Zoete-van der Hout",
+      "first_name": "Willy"
+    },
+    {
+      "position": 2,
+      "full_name": "H. Roeten",
+      "place": "Pijnacker",
+      "gender": "m",
+      "last_name": "Roeten",
+      "first_name": "Harm"
+    },
+    {
+      "position": 3,
+      "full_name": "P.J. Hofman",
+      "place": "'s-Gravenzande",
+      "gender": "m",
+      "last_name": "Hofman",
+      "first_name": "Pieter-Jan"
+    },
+    {
+      "position": 4,
+      "full_name": "E. de Boer",
+      "place": "Schiedam",
+      "gender": "m",
+      "last_name": "de Boer",
+      "first_name": "Eetze"
+    },
+    {
+      "position": 5,
+      "full_name": "J.P. Verkade",
+      "place": "Vlaardingen",
+      "gender": "m",
+      "last_name": "Verkade",
+      "first_name": "Koos"
+    },
+    {
+      "position": 6,
+      "full_name": "D.J. Poot",
+      "place": "Vlaardingen",
+      "gender": "m",
+      "last_name": "Poot",
+      "first_name": "Hans"
+    },
+    {
+      "position": 7,
+      "full_name": "F. Lamers",
+      "place": "Monster",
+      "gender": "m",
+      "last_name": "Lamers",
+      "first_name": "Franklin"
+    },
+    {
+      "position": 8,
+      "full_name": "A.C. Visser",
+      "place": "Maasland",
+      "gender": "m",
+      "last_name": "Visser",
+      "first_name": "Arend"
+    },
+    {
+      "position": 9,
+      "full_name": "R. van Harten",
+      "place": "Vlaardingen",
+      "gender": "m",
+      "last_name": "van Harten",
+      "first_name": "Ruud"
+    },
+    {
+      "position": 10,
+      "full_name": "J.W. Rouwendal",
+      "place": "Voorburg",
+      "gender": "m",
+      "last_name": "Rouwendal",
+      "first_name": "Jan Willem"
+    },
+    {
+      "position": 11,
+      "full_name": "C.A.E. de Jonge",
+      "place": "Vlaardingen",
+      "gender": "m",
+      "last_name": "de Jonge",
+      "first_name": "Cor"
+    },
+    {
+      "position": 12,
+      "full_name": "L.K. Snijders",
+      "place": "Monster",
+      "gender": "m",
+      "last_name": "Snijders",
+      "first_name": "Leen"
+    },
+    {
+      "position": 13,
+      "full_name": "R. van der Welle",
+      "place": "Pijnacker",
+      "gender": "m",
+      "last_name": "van der Welle",
+      "first_name": "Rob"
+    },
+    {
+      "position": 14,
+      "full_name": "F.J. Lekkerkerk",
+      "place": "Delfgauw",
+      "gender": "m",
+      "last_name": "Lekkerkerk",
+      "first_name": "Frank"
+    },
+    {
+      "position": 15,
+      "full_name": "W.J. Pijl",
+      "place": "'s-Gravenhage",
+      "gender": "m",
+      "last_name": "Pijl",
+      "first_name": "Wim"
+    },
+    {
+      "position": 16,
+      "full_name": "W. Anker",
+      "place": "Vlaardingen",
+      "gender": "m",
+      "last_name": "Anker",
+      "first_name": "William"
+    }
+  ]
+}

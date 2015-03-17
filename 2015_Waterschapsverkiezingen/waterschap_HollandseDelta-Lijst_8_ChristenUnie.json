@@ -1,1 +1,230 @@
-{"description": "Gecombineerd met CDA en Staatkundig Gereformeerde Partij (SGP)", "members": [{"first_name": "Piet", "last_name": "Robijn", "gender": "", "place": "Sommelsdijk", "full_name": "P. Robijn", "position": 1}, {"first_name": "Jantien", "last_name": "Fr\u00f6ling - Kok", "gender": "", "place": "Hellevoetsluis", "full_name": "J.A. Fr\u00f6ling - Kok", "position": 2}, {"first_name": "Piet", "last_name": "van Hengel", "gender": "", "place": "Rotterdam", "full_name": "P. van Hengel", "position": 3}, {"first_name": "Martijn", "last_name": "van Noort", "gender": "", "place": "Barendrecht", "full_name": "M. van Noort", "position": 4}, {"first_name": "Frans", "last_name": "van Zaalen", "gender": "", "place": "Rhoon", "full_name": "F.P. van Zaalen", "position": 5}, {"first_name": "Gerto", "last_name": "Hoek", "gender": "", "place": "Oud-Beijerland", "full_name": "G.M. Hoek", "position": 6}, {"first_name": "Janny", "last_name": "Russcher - Wolfert", "gender": "", "place": "Oud-Beijerland", "full_name": "J. Russcher - Wolfert", "position": 7}, {"first_name": "Maas", "last_name": "Koese", "gender": "", "place": "Ouddorp", "full_name": "M. Koese", "position": 8}, {"first_name": "Huibert", "last_name": "Steen", "gender": "", "place": "Heinenoord", "full_name": "H.E. Steen", "position": 9}, {"first_name": "Anja", "last_name": "Elzinga - Wimmenhove", "gender": "", "place": "Rotterdam", "full_name": "F.J. Elzinga - Wimmenhove", "position": 10}, {"first_name": "Marius", "last_name": "Schenkel", "gender": "", "place": "Zwijndrecht", "full_name": "M.M. Schenkel", "position": 11}, {"first_name": "Inge", "last_name": "den Hollander", "gender": "", "place": "Dordrecht", "full_name": "I.M. den Hollander", "position": 12}, {"first_name": "Bert", "last_name": "Tuk", "gender": "", "place": "Ouddorp", "full_name": "E. Tuk", "position": 13}, {"first_name": "Erica", "last_name": "Houtman", "gender": "", "place": "Ridderkerk", "full_name": "E.E. Houtman", "position": 14}, {"first_name": "Wim", "last_name": "Albus", "gender": "", "place": "Heenvliet", "full_name": "W.A. Albus", "position": 15}, {"first_name": "Joop", "last_name": "Kievit", "gender": "", "place": "Dirksland", "full_name": "J.W. Kievit", "position": 16}, {"first_name": "Cor", "last_name": "van Dam", "gender": "", "place": "Dordrecht", "full_name": "C.L. van Dam", "position": 17}, {"first_name": "Jan", "last_name": "van Westen", "gender": "", "place": "Strijen", "full_name": "J. van Westen", "position": 18}, {"first_name": "Rein", "last_name": "de Vries", "gender": "", "place": "Ridderkerk", "full_name": "R. de Vries", "position": 19}, {"first_name": "Ruud", "last_name": "van Asperen", "gender": "", "place": "Oude-Tonge", "full_name": "R.J. van Asperen", "position": 20}, {"first_name": "Anthony", "last_name": "de Cuba", "gender": "", "place": "Dordrecht", "full_name": "A.C. de Cuba", "position": 21}, {"first_name": "Rini", "last_name": "de Moed", "gender": "", "place": "Puttershoek", "full_name": "M.J. de Moed", "position": 22}, {"first_name": "Willem", "last_name": "Schneider", "gender": "", "place": "Hendrik-Ido-Ambacht", "full_name": "W. Schneider", "position": 23}, {"first_name": "Herman", "last_name": "Spanjersberg", "gender": "", "place": "Rotterdam", "full_name": "H.A. Spanjersberg", "position": 24}, {"first_name": "Barend", "last_name": "Bakelaar", "gender": "", "place": "Ooltgensplaat", "full_name": "B. Bakelaar", "position": 25}, {"first_name": "Quintijn", "last_name": "Schenkel", "gender": "", "place": "Dordrecht", "full_name": "A.Q. Schenkel", "position": 26}, {"first_name": "Ron", "last_name": "de Rover", "gender": "", "place": "Middelharnis", "full_name": "R.A. de Rover", "position": 27}, {"first_name": "Cees", "last_name": "Versendaal", "gender": "", "place": "Barendrecht", "full_name": "C. Versendaal", "position": 28}], "title": "Lijst_8_ChristenUnie"}
+{
+  "title": "Lijst 8 ChristenUnie",
+  "description": "Gecombineerd met CDA en Staatkundig Gereformeerde Partij (SGP)",
+  "candidates": [
+    {
+      "position": 1,
+      "full_name": "P. Robijn",
+      "place": "Sommelsdijk",
+      "gender": "",
+      "last_name": "Robijn",
+      "first_name": "Piet"
+    },
+    {
+      "position": 2,
+      "full_name": "J.A. Fröling - Kok",
+      "place": "Hellevoetsluis",
+      "gender": "",
+      "last_name": "Fröling - Kok",
+      "first_name": "Jantien"
+    },
+    {
+      "position": 3,
+      "full_name": "P. van Hengel",
+      "place": "Rotterdam",
+      "gender": "",
+      "last_name": "van Hengel",
+      "first_name": "Piet"
+    },
+    {
+      "position": 4,
+      "full_name": "M. van Noort",
+      "place": "Barendrecht",
+      "gender": "",
+      "last_name": "van Noort",
+      "first_name": "Martijn"
+    },
+    {
+      "position": 5,
+      "full_name": "F.P. van Zaalen",
+      "place": "Rhoon",
+      "gender": "",
+      "last_name": "van Zaalen",
+      "first_name": "Frans"
+    },
+    {
+      "position": 6,
+      "full_name": "G.M. Hoek",
+      "place": "Oud-Beijerland",
+      "gender": "",
+      "last_name": "Hoek",
+      "first_name": "Gerto"
+    },
+    {
+      "position": 7,
+      "full_name": "J. Russcher - Wolfert",
+      "place": "Oud-Beijerland",
+      "gender": "",
+      "last_name": "Russcher - Wolfert",
+      "first_name": "Janny"
+    },
+    {
+      "position": 8,
+      "full_name": "M. Koese",
+      "place": "Ouddorp",
+      "gender": "",
+      "last_name": "Koese",
+      "first_name": "Maas"
+    },
+    {
+      "position": 9,
+      "full_name": "H.E. Steen",
+      "place": "Heinenoord",
+      "gender": "",
+      "last_name": "Steen",
+      "first_name": "Huibert"
+    },
+    {
+      "position": 10,
+      "full_name": "F.J. Elzinga - Wimmenhove",
+      "place": "Rotterdam",
+      "gender": "",
+      "last_name": "Elzinga - Wimmenhove",
+      "first_name": "Anja"
+    },
+    {
+      "position": 11,
+      "full_name": "M.M. Schenkel",
+      "place": "Zwijndrecht",
+      "gender": "",
+      "last_name": "Schenkel",
+      "first_name": "Marius"
+    },
+    {
+      "position": 12,
+      "full_name": "I.M. den Hollander",
+      "place": "Dordrecht",
+      "gender": "",
+      "last_name": "den Hollander",
+      "first_name": "Inge"
+    },
+    {
+      "position": 13,
+      "full_name": "E. Tuk",
+      "place": "Ouddorp",
+      "gender": "",
+      "last_name": "Tuk",
+      "first_name": "Bert"
+    },
+    {
+      "position": 14,
+      "full_name": "E.E. Houtman",
+      "place": "Ridderkerk",
+      "gender": "",
+      "last_name": "Houtman",
+      "first_name": "Erica"
+    },
+    {
+      "position": 15,
+      "full_name": "W.A. Albus",
+      "place": "Heenvliet",
+      "gender": "",
+      "last_name": "Albus",
+      "first_name": "Wim"
+    },
+    {
+      "position": 16,
+      "full_name": "J.W. Kievit",
+      "place": "Dirksland",
+      "gender": "",
+      "last_name": "Kievit",
+      "first_name": "Joop"
+    },
+    {
+      "position": 17,
+      "full_name": "C.L. van Dam",
+      "place": "Dordrecht",
+      "gender": "",
+      "last_name": "van Dam",
+      "first_name": "Cor"
+    },
+    {
+      "position": 18,
+      "full_name": "J. van Westen",
+      "place": "Strijen",
+      "gender": "",
+      "last_name": "van Westen",
+      "first_name": "Jan"
+    },
+    {
+      "position": 19,
+      "full_name": "R. de Vries",
+      "place": "Ridderkerk",
+      "gender": "",
+      "last_name": "de Vries",
+      "first_name": "Rein"
+    },
+    {
+      "position": 20,
+      "full_name": "R.J. van Asperen",
+      "place": "Oude-Tonge",
+      "gender": "",
+      "last_name": "van Asperen",
+      "first_name": "Ruud"
+    },
+    {
+      "position": 21,
+      "full_name": "A.C. de Cuba",
+      "place": "Dordrecht",
+      "gender": "",
+      "last_name": "de Cuba",
+      "first_name": "Anthony"
+    },
+    {
+      "position": 22,
+      "full_name": "M.J. de Moed",
+      "place": "Puttershoek",
+      "gender": "",
+      "last_name": "de Moed",
+      "first_name": "Rini"
+    },
+    {
+      "position": 23,
+      "full_name": "W. Schneider",
+      "place": "Hendrik-Ido-Ambacht",
+      "gender": "",
+      "last_name": "Schneider",
+      "first_name": "Willem"
+    },
+    {
+      "position": 24,
+      "full_name": "H.A. Spanjersberg",
+      "place": "Rotterdam",
+      "gender": "",
+      "last_name": "Spanjersberg",
+      "first_name": "Herman"
+    },
+    {
+      "position": 25,
+      "full_name": "B. Bakelaar",
+      "place": "Ooltgensplaat",
+      "gender": "",
+      "last_name": "Bakelaar",
+      "first_name": "Barend"
+    },
+    {
+      "position": 26,
+      "full_name": "A.Q. Schenkel",
+      "place": "Dordrecht",
+      "gender": "",
+      "last_name": "Schenkel",
+      "first_name": "Quintijn"
+    },
+    {
+      "position": 27,
+      "full_name": "R.A. de Rover",
+      "place": "Middelharnis",
+      "gender": "",
+      "last_name": "de Rover",
+      "first_name": "Ron"
+    },
+    {
+      "position": 28,
+      "full_name": "C. Versendaal",
+      "place": "Barendrecht",
+      "gender": "",
+      "last_name": "Versendaal",
+      "first_name": "Cees"
+    }
+  ]
+}

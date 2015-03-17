@@ -1,1 +1,70 @@
-{"description": "", "members": [{"first_name": "Micha", "last_name": "Kuiper", "gender": "m", "place": "Egmond aan den Hoef", "full_name": "T.R.M. Kuiper", "position": 1}, {"first_name": "Andien", "last_name": "van den Heuvel", "gender": "v", "place": "Amstelveen", "full_name": "A.G.M. van den Heuvel", "position": 2}, {"first_name": "Paul", "last_name": "Str\u00e4ter", "gender": "m", "place": "Amsterdam", "full_name": "P.J.M. Str\u00e4ter", "position": 3}, {"first_name": "Melanie", "last_name": "Riedewald", "gender": "v", "place": "Amsterdam", "full_name": "M.A. Riedewald", "position": 4}, {"first_name": "Rob", "last_name": "Brockhus", "gender": "m", "place": "Huizen", "full_name": "R.M. Brockhus", "position": 5}, {"first_name": "Martjan", "last_name": "Loot", "gender": "m", "place": "Alkmaar", "full_name": "M.C.J.L. Loot", "position": 6}, {"first_name": "Rascha", "last_name": "Wisse", "gender": "v", "place": "Egmond aan den Hoef", "full_name": "R.V. Wisse", "position": 7}, {"first_name": "Zeliha", "last_name": "Basoglu", "gender": "v", "place": "Koedijk", "full_name": "F.Z. Basoglu", "position": 8}], "title": "Lijst_13_Partij_voor_Mens_en_Spirit_(MenS)"}
+{
+  "title": "Lijst 13 Partij voor Mens en Spirit (MenS)",
+  "description": "",
+  "candidates": [
+    {
+      "position": 1,
+      "full_name": "T.R.M. Kuiper",
+      "place": "Egmond aan den Hoef",
+      "gender": "m",
+      "last_name": "Kuiper",
+      "first_name": "Micha"
+    },
+    {
+      "position": 2,
+      "full_name": "A.G.M. van den Heuvel",
+      "place": "Amstelveen",
+      "gender": "v",
+      "last_name": "van den Heuvel",
+      "first_name": "Andien"
+    },
+    {
+      "position": 3,
+      "full_name": "P.J.M. Sträter",
+      "place": "Amsterdam",
+      "gender": "m",
+      "last_name": "Sträter",
+      "first_name": "Paul"
+    },
+    {
+      "position": 4,
+      "full_name": "M.A. Riedewald",
+      "place": "Amsterdam",
+      "gender": "v",
+      "last_name": "Riedewald",
+      "first_name": "Melanie"
+    },
+    {
+      "position": 5,
+      "full_name": "R.M. Brockhus",
+      "place": "Huizen",
+      "gender": "m",
+      "last_name": "Brockhus",
+      "first_name": "Rob"
+    },
+    {
+      "position": 6,
+      "full_name": "M.C.J.L. Loot",
+      "place": "Alkmaar",
+      "gender": "m",
+      "last_name": "Loot",
+      "first_name": "Martjan"
+    },
+    {
+      "position": 7,
+      "full_name": "R.V. Wisse",
+      "place": "Egmond aan den Hoef",
+      "gender": "v",
+      "last_name": "Wisse",
+      "first_name": "Rascha"
+    },
+    {
+      "position": 8,
+      "full_name": "F.Z. Basoglu",
+      "place": "Koedijk",
+      "gender": "v",
+      "last_name": "Basoglu",
+      "first_name": "Zeliha"
+    }
+  ]
+}

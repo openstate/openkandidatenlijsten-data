@@ -1,1 +1,110 @@
-{"description": "Gecombineerd met Waterbelang Parkstad en Waterbelang Westelijke Mijnstreek en Waterbelang", "members": [{"first_name": "Margon", "last_name": "Nusteling", "gender": "v", "place": "Bunde", "full_name": "A.M.C. Nusteling", "position": 1}, {"first_name": "Josette", "last_name": "van Wersch", "gender": "v", "place": "Mechelen", "full_name": "J.S.E. van Wersch", "position": 2}, {"first_name": "Cyriel", "last_name": "Drummen", "gender": "m", "place": "Sint Geertruid", "full_name": "C.F.B. Drummen", "position": 3}, {"first_name": "John", "last_name": "Coenen", "gender": "m", "place": "Vijlen", "full_name": "J.C. Coenen", "position": 4}, {"first_name": "Jacques", "last_name": "Blom", "gender": "m", "place": "Schin op Geul", "full_name": "J.E.J. Blom", "position": 5}, {"first_name": "Joep", "last_name": "van der Linden", "gender": "m", "place": "Eys", "full_name": "J.H.C. van der Linden", "position": 6}, {"first_name": "Nicole", "last_name": "Vroon-Closset", "gender": "v", "place": "Eijsden", "full_name": "N.M.N.P. Vroon-Closset", "position": 7}, {"first_name": "Ton", "last_name": "Minten", "gender": "m", "place": "Moorveld", "full_name": "A.J.T. Minten", "position": 8}, {"first_name": "Giel", "last_name": "Frantzen", "gender": "m", "place": "Margraten", "full_name": "F.W.M. Frantzen", "position": 9}, {"first_name": "Marcel", "last_name": "Smeets", "gender": "m", "place": "Meerssen", "full_name": "M.M.W.H. Smeets", "position": 10}, {"first_name": "Harrie", "last_name": "Drummen", "gender": "m", "place": "Vaals", "full_name": "H.J.P. Drummen", "position": 11}, {"first_name": "Martin", "last_name": "Ronden", "gender": "m", "place": "Valkenburg aan de Geul", "full_name": "M.J.L.J. Ronden", "position": 12}, {"first_name": "Jos", "last_name": "Oostenbach", "gender": "m", "place": "Cadier en Keer", "full_name": "J.P.M. Oostenbach", "position": 13}], "title": "Lijst_4_Waterbelang_Heuvelland"}
+{
+  "title": "Lijst 4 Waterbelang Heuvelland",
+  "description": "Gecombineerd met Waterbelang Parkstad en Waterbelang Westelijke Mijnstreek en Waterbelang",
+  "candidates": [
+    {
+      "position": 1,
+      "full_name": "A.M.C. Nusteling",
+      "place": "Bunde",
+      "gender": "v",
+      "last_name": "Nusteling",
+      "first_name": "Margon"
+    },
+    {
+      "position": 2,
+      "full_name": "J.S.E. van Wersch",
+      "place": "Mechelen",
+      "gender": "v",
+      "last_name": "van Wersch",
+      "first_name": "Josette"
+    },
+    {
+      "position": 3,
+      "full_name": "C.F.B. Drummen",
+      "place": "Sint Geertruid",
+      "gender": "m",
+      "last_name": "Drummen",
+      "first_name": "Cyriel"
+    },
+    {
+      "position": 4,
+      "full_name": "J.C. Coenen",
+      "place": "Vijlen",
+      "gender": "m",
+      "last_name": "Coenen",
+      "first_name": "John"
+    },
+    {
+      "position": 5,
+      "full_name": "J.E.J. Blom",
+      "place": "Schin op Geul",
+      "gender": "m",
+      "last_name": "Blom",
+      "first_name": "Jacques"
+    },
+    {
+      "position": 6,
+      "full_name": "J.H.C. van der Linden",
+      "place": "Eys",
+      "gender": "m",
+      "last_name": "van der Linden",
+      "first_name": "Joep"
+    },
+    {
+      "position": 7,
+      "full_name": "N.M.N.P. Vroon-Closset",
+      "place": "Eijsden",
+      "gender": "v",
+      "last_name": "Vroon-Closset",
+      "first_name": "Nicole"
+    },
+    {
+      "position": 8,
+      "full_name": "A.J.T. Minten",
+      "place": "Moorveld",
+      "gender": "m",
+      "last_name": "Minten",
+      "first_name": "Ton"
+    },
+    {
+      "position": 9,
+      "full_name": "F.W.M. Frantzen",
+      "place": "Margraten",
+      "gender": "m",
+      "last_name": "Frantzen",
+      "first_name": "Giel"
+    },
+    {
+      "position": 10,
+      "full_name": "M.M.W.H. Smeets",
+      "place": "Meerssen",
+      "gender": "m",
+      "last_name": "Smeets",
+      "first_name": "Marcel"
+    },
+    {
+      "position": 11,
+      "full_name": "H.J.P. Drummen",
+      "place": "Vaals",
+      "gender": "m",
+      "last_name": "Drummen",
+      "first_name": "Harrie"
+    },
+    {
+      "position": 12,
+      "full_name": "M.J.L.J. Ronden",
+      "place": "Valkenburg aan de Geul",
+      "gender": "m",
+      "last_name": "Ronden",
+      "first_name": "Martin"
+    },
+    {
+      "position": 13,
+      "full_name": "J.P.M. Oostenbach",
+      "place": "Cadier en Keer",
+      "gender": "m",
+      "last_name": "Oostenbach",
+      "first_name": "Jos"
+    }
+  ]
+}

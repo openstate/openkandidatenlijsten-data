@@ -1,0 +1,126 @@
+{
+  "title": "Lijst_15 Lokaal Belang Gelderland / 1 Achterhoek",
+  "description": "",
+  "candidates": [
+    {
+      "position": 1,
+      "full_name": "H.J. Tiemens",
+      "place": "Renkum",
+      "gender": "m",
+      "last_name": "Tiemens",
+      "first_name": "Henk"
+    },
+    {
+      "position": 2,
+      "full_name": "H. Dorenbos",
+      "place": "Ochten",
+      "gender": "m",
+      "last_name": "Dorenbos",
+      "first_name": "Harm"
+    },
+    {
+      "position": 3,
+      "full_name": "M.A. Verhoeff-Wijering",
+      "place": "Bennekom",
+      "gender": "v",
+      "last_name": "Verhoeff-Wijering",
+      "first_name": "Jet"
+    },
+    {
+      "position": 4,
+      "full_name": "P.J.M. Koot",
+      "place": "Bredevoort",
+      "gender": "m",
+      "last_name": "Koot",
+      "first_name": "Paul"
+    },
+    {
+      "position": 5,
+      "full_name": "P.R. de Vries",
+      "place": "Elst",
+      "gender": "m",
+      "last_name": "de Vries",
+      "first_name": "Paul"
+    },
+    {
+      "position": 6,
+      "full_name": "H.J. van der Leeden",
+      "place": "Wageningen",
+      "gender": "v",
+      "last_name": "van der Leeden",
+      "first_name": "Marike"
+    },
+    {
+      "position": 7,
+      "full_name": "F.M. Schut",
+      "place": "Huissen",
+      "gender": "m",
+      "last_name": "Schut",
+      "first_name": "Frans"
+    },
+    {
+      "position": 8,
+      "full_name": "C.I.B. Sciarone",
+      "place": "Oosterbeek",
+      "gender": "m",
+      "last_name": "Sciarone",
+      "first_name": "Constant"
+    },
+    {
+      "position": 9,
+      "full_name": "E. van Amerongen",
+      "place": "Ochten",
+      "gender": "m",
+      "last_name": "van Amerongen",
+      "first_name": "Evert"
+    },
+    {
+      "position": 10,
+      "full_name": "J.N.F. de Vringer",
+      "place": "Bennekom",
+      "gender": "m",
+      "last_name": "de Vringer",
+      "first_name": "Jack"
+    },
+    {
+      "position": 11,
+      "full_name": "J.G. Lammers",
+      "place": "Ochten",
+      "gender": "m",
+      "last_name": "Lammers",
+      "first_name": "John"
+    },
+    {
+      "position": 12,
+      "full_name": "B.G.H. Wieggers",
+      "place": "Hengelo (Gld)",
+      "gender": "m",
+      "last_name": "Wieggers",
+      "first_name": "Bennie"
+    },
+    {
+      "position": 13,
+      "full_name": "G.J. Koster",
+      "place": "Bennekom",
+      "gender": "m",
+      "last_name": "Koster",
+      "first_name": "Gert Jan"
+    },
+    {
+      "position": 14,
+      "full_name": "H.J. van den Berg-van Zijl",
+      "place": "Renkum",
+      "gender": "v",
+      "last_name": "van den Berg-van Zijl",
+      "first_name": "Hermine"
+    },
+    {
+      "position": 15,
+      "full_name": "H.A.J. van Roekel",
+      "place": "Wageningen",
+      "gender": "m",
+      "last_name": "van Roekel",
+      "first_name": "Harald"
+    }
+  ]
+}

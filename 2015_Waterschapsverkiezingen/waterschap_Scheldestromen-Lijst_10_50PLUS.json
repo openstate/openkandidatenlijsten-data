@@ -1,1 +1,46 @@
-{"description": "", "members": [{"first_name": "Fred", "last_name": "Kalwij", "gender": "m", "place": "Burgh-Haamstede", "full_name": "F.J.M. Kalwij", "position": 1}, {"first_name": "John", "last_name": "Roozen", "gender": "m", "place": "Vlissingen", "full_name": "J.L.A.M. Roozen", "position": 2}, {"first_name": "Willem", "last_name": "Willemse", "gender": "m", "place": "Vlissingen", "full_name": "W. Willemse", "position": 3}, {"first_name": "George", "last_name": "Lernout", "gender": "m", "place": "Sint Jansteen", "full_name": "G.L.C. Lernout", "position": 4}, {"first_name": "Ronald", "last_name": "Teunissen", "gender": "m", "place": "Vlissingen", "full_name": "R.F. Teunissen", "position": 5}], "title": "Lijst_10_50PLUS"}
+{
+  "title": "Lijst 10 50PLUS",
+  "description": "",
+  "candidates": [
+    {
+      "position": 1,
+      "full_name": "F.J.M. Kalwij",
+      "place": "Burgh-Haamstede",
+      "gender": "m",
+      "last_name": "Kalwij",
+      "first_name": "Fred"
+    },
+    {
+      "position": 2,
+      "full_name": "J.L.A.M. Roozen",
+      "place": "Vlissingen",
+      "gender": "m",
+      "last_name": "Roozen",
+      "first_name": "John"
+    },
+    {
+      "position": 3,
+      "full_name": "W. Willemse",
+      "place": "Vlissingen",
+      "gender": "m",
+      "last_name": "Willemse",
+      "first_name": "Willem"
+    },
+    {
+      "position": 4,
+      "full_name": "G.L.C. Lernout",
+      "place": "Sint Jansteen",
+      "gender": "m",
+      "last_name": "Lernout",
+      "first_name": "George"
+    },
+    {
+      "position": 5,
+      "full_name": "R.F. Teunissen",
+      "place": "Vlissingen",
+      "gender": "m",
+      "last_name": "Teunissen",
+      "first_name": "Ronald"
+    }
+  ]
+}

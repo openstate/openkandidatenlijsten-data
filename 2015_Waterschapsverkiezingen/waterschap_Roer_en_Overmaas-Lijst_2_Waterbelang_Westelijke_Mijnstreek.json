@@ -1,1 +1,78 @@
-{"description": "Gecombineerd met Waterbelang Parkstad en Waterbelang Heuvelland en Waterbelang Maastricht en", "members": [{"first_name": "Ursula", "last_name": "Wijnen-Kivit", "gender": "v", "place": "Geleen", "full_name": "F.M.M.U. Wijnen-Kivit", "position": 1}, {"first_name": "Twan", "last_name": "Schevers", "gender": "m", "place": "Doenrade", "full_name": "M.M.J. Schevers", "position": 2}, {"first_name": "John", "last_name": "Hanbeukers", "gender": "m", "place": "Sittard", "full_name": "J.H. Hanbeukers", "position": 3}, {"first_name": "Rob", "last_name": "Schwillens", "gender": "m", "place": "Spaubeek", "full_name": "M.M.R. Schwillens", "position": 4}, {"first_name": "Eric", "last_name": "Bours", "gender": "m", "place": "Stein", "full_name": "E.H.G.M. Bours", "position": 5}, {"first_name": "Jos", "last_name": "Schl\u00f6ssels", "gender": "m", "place": "Einighausen", "full_name": "J.E.E.A. Schl\u00f6ssels", "position": 6}, {"first_name": "Math", "last_name": "Horrichs", "gender": "m", "place": "Stein", "full_name": "M.H.A. Horrichs", "position": 7}, {"first_name": "Maurits", "last_name": "van der Werff", "gender": "m", "place": "Oirsbeek", "full_name": "M.G. van der Werff", "position": 8}, {"first_name": "Ralph", "last_name": "Diederen", "gender": "m", "place": "Beek", "full_name": "R. Diederen", "position": 9}], "title": "Lijst_2_Waterbelang_Westelijke_Mijnstreek"}
+{
+  "title": "Lijst 2 Waterbelang Westelijke Mijnstreek",
+  "description": "Gecombineerd met Waterbelang Parkstad en Waterbelang Heuvelland en Waterbelang Maastricht en",
+  "candidates": [
+    {
+      "position": 1,
+      "full_name": "F.M.M.U. Wijnen-Kivit",
+      "place": "Geleen",
+      "gender": "v",
+      "last_name": "Wijnen-Kivit",
+      "first_name": "Ursula"
+    },
+    {
+      "position": 2,
+      "full_name": "M.M.J. Schevers",
+      "place": "Doenrade",
+      "gender": "m",
+      "last_name": "Schevers",
+      "first_name": "Twan"
+    },
+    {
+      "position": 3,
+      "full_name": "J.H. Hanbeukers",
+      "place": "Sittard",
+      "gender": "m",
+      "last_name": "Hanbeukers",
+      "first_name": "John"
+    },
+    {
+      "position": 4,
+      "full_name": "M.M.R. Schwillens",
+      "place": "Spaubeek",
+      "gender": "m",
+      "last_name": "Schwillens",
+      "first_name": "Rob"
+    },
+    {
+      "position": 5,
+      "full_name": "E.H.G.M. Bours",
+      "place": "Stein",
+      "gender": "m",
+      "last_name": "Bours",
+      "first_name": "Eric"
+    },
+    {
+      "position": 6,
+      "full_name": "J.E.E.A. Schlössels",
+      "place": "Einighausen",
+      "gender": "m",
+      "last_name": "Schlössels",
+      "first_name": "Jos"
+    },
+    {
+      "position": 7,
+      "full_name": "M.H.A. Horrichs",
+      "place": "Stein",
+      "gender": "m",
+      "last_name": "Horrichs",
+      "first_name": "Math"
+    },
+    {
+      "position": 8,
+      "full_name": "M.G. van der Werff",
+      "place": "Oirsbeek",
+      "gender": "m",
+      "last_name": "van der Werff",
+      "first_name": "Maurits"
+    },
+    {
+      "position": 9,
+      "full_name": "R. Diederen",
+      "place": "Beek",
+      "gender": "m",
+      "last_name": "Diederen",
+      "first_name": "Ralph"
+    }
+  ]
+}

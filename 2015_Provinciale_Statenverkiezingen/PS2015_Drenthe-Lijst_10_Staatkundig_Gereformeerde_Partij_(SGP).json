@@ -1,0 +1,54 @@
+{
+  "title": "Lijst 10 Staatkundig Gereformeerde Partij (SGP)",
+  "description": "",
+  "candidates": [
+    {
+      "position": 1,
+      "full_name": "W. van Hartskamp",
+      "place": "Hoogeveen",
+      "gender": "m",
+      "last_name": "van Hartskamp",
+      "first_name": "Willem"
+    },
+    {
+      "position": 2,
+      "full_name": "B. van Rijn",
+      "place": "Elim",
+      "gender": "m",
+      "last_name": "van Rijn",
+      "first_name": "Brand"
+    },
+    {
+      "position": 3,
+      "full_name": "W.C.G. van Reenen",
+      "place": "Hoogeveen",
+      "gender": "m",
+      "last_name": "van Reenen",
+      "first_name": "Wilhelm"
+    },
+    {
+      "position": 4,
+      "full_name": "G. Vincent",
+      "place": "Zwiggelte",
+      "gender": "m",
+      "last_name": "Vincent",
+      "first_name": "Gerard"
+    },
+    {
+      "position": 5,
+      "full_name": "M. den Admirant",
+      "place": "Hoogeveen",
+      "gender": "m",
+      "last_name": "den Admirant",
+      "first_name": "Maarten"
+    },
+    {
+      "position": 6,
+      "full_name": "H.J. van Reenen",
+      "place": "Hoogeveen",
+      "gender": "m",
+      "last_name": "van Reenen",
+      "first_name": "Hilco"
+    }
+  ]
+}

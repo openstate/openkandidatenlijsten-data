@@ -1,1 +1,70 @@
-{"description": "", "members": [{"first_name": "Bart", "last_name": "Canton", "gender": "m", "place": "Rotterdam", "full_name": "B. Canton", "position": 1}, {"first_name": "Bart", "last_name": "Simon", "gender": "m", "place": "Delft", "full_name": "J.B. Simon", "position": 2}, {"first_name": "Hanke", "last_name": "Hoogerwerf", "gender": "v", "place": "'s-Gravenhage", "full_name": "H.M.M. Hoogerwerf", "position": 3}, {"first_name": "Petra", "last_name": "Brocke", "gender": "v", "place": "'s-Gravenhage", "full_name": "P.J. Brocke", "position": 4}, {"first_name": "Robin", "last_name": "Smit", "gender": "m", "place": "Delft", "full_name": "R. Smit", "position": 5}, {"first_name": "Toontje", "last_name": "Jolles", "gender": "v", "place": "'s-Gravenhage", "full_name": "A.M. Jolles", "position": 6}, {"first_name": "Hans", "last_name": "Overmeer", "gender": "m", "place": "'s-Gravenhage", "full_name": "J.T. Overmeer", "position": 7}, {"first_name": "Anita", "last_name": "Seur", "gender": "v", "place": "'s-Gravenhage", "full_name": "A.M.L. Seur", "position": 8}], "title": "Lijst_6_Partij_voor_de_Dieren"}
+{
+  "title": "Lijst 6 Partij voor de Dieren",
+  "description": "",
+  "candidates": [
+    {
+      "position": 1,
+      "full_name": "B. Canton",
+      "place": "Rotterdam",
+      "gender": "m",
+      "last_name": "Canton",
+      "first_name": "Bart"
+    },
+    {
+      "position": 2,
+      "full_name": "J.B. Simon",
+      "place": "Delft",
+      "gender": "m",
+      "last_name": "Simon",
+      "first_name": "Bart"
+    },
+    {
+      "position": 3,
+      "full_name": "H.M.M. Hoogerwerf",
+      "place": "'s-Gravenhage",
+      "gender": "v",
+      "last_name": "Hoogerwerf",
+      "first_name": "Hanke"
+    },
+    {
+      "position": 4,
+      "full_name": "P.J. Brocke",
+      "place": "'s-Gravenhage",
+      "gender": "v",
+      "last_name": "Brocke",
+      "first_name": "Petra"
+    },
+    {
+      "position": 5,
+      "full_name": "R. Smit",
+      "place": "Delft",
+      "gender": "m",
+      "last_name": "Smit",
+      "first_name": "Robin"
+    },
+    {
+      "position": 6,
+      "full_name": "A.M. Jolles",
+      "place": "'s-Gravenhage",
+      "gender": "v",
+      "last_name": "Jolles",
+      "first_name": "Toontje"
+    },
+    {
+      "position": 7,
+      "full_name": "J.T. Overmeer",
+      "place": "'s-Gravenhage",
+      "gender": "m",
+      "last_name": "Overmeer",
+      "first_name": "Hans"
+    },
+    {
+      "position": 8,
+      "full_name": "A.M.L. Seur",
+      "place": "'s-Gravenhage",
+      "gender": "v",
+      "last_name": "Seur",
+      "first_name": "Anita"
+    }
+  ]
+}

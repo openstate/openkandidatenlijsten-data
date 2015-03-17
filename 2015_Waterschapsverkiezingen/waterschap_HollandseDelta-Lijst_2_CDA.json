@@ -1,1 +1,142 @@
-{"description": "Gecombineerd met Staatkundig Gereformeerde Partij (SGP) en ChristenUnie", "members": [{"first_name": "Leo", "last_name": "van Gelder", "gender": "m", "place": "Barendrecht", "full_name": "L.A. van Gelder", "position": 1}, {"first_name": "Hans", "last_name": "Wink", "gender": "m", "place": "Zwijndrecht", "full_name": "J.M.P. Wink", "position": 2}, {"first_name": "Leo", "last_name": "Stehouwer", "gender": "m", "place": "Numansdorp", "full_name": "L.B.C. Stehouwer", "position": 3}, {"first_name": "Arinda", "last_name": "Callewaert - de Groot", "gender": "v", "place": "'s-Gravendeel", "full_name": "A. Callewaert - de Groot", "position": 4}, {"first_name": "Theo", "last_name": "Oostenrijk", "gender": "m", "place": "Dordrecht", "full_name": "T.C. Oostenrijk", "position": 5}, {"first_name": "Gerard", "last_name": "Schuitemaker", "gender": "m", "place": "Rhoon", "full_name": "G. Schuitemaker", "position": 6}, {"first_name": "Liesbeth", "last_name": "Keijzer-Westhoeve", "gender": "v", "place": "Stellendam", "full_name": "E.B. Keijzer-Westhoeve", "position": 7}, {"first_name": "Piet", "last_name": "Boekhoud", "gender": "m", "place": "Barendrecht", "full_name": "P. Boekhoud", "position": 8}, {"first_name": "Dion", "last_name": "van Steensel", "gender": "m", "place": "Dordrecht", "full_name": "D.A. van Steensel", "position": 9}, {"first_name": "Robert", "last_name": "van Papeveld", "gender": "m", "place": "Middelharnis", "full_name": "R. van Papeveld", "position": 10}, {"first_name": "Henny", "last_name": "Korteweg - de Jager", "gender": "v", "place": "Dordrecht", "full_name": "H.K. Korteweg - de Jager", "position": 11}, {"first_name": "Jelle", "last_name": "Rijkeboer", "gender": "m", "place": "Hellevoetsluis", "full_name": "J. Rijkeboer", "position": 12}, {"first_name": "Alaattin", "last_name": "Erdal", "gender": "m", "place": "Rotterdam", "full_name": "A. Erdal", "position": 13}, {"first_name": "Alex", "last_name": "Hallema", "gender": "m", "place": "Hoogvliet Rotterdam", "full_name": "A. Hallema", "position": 14}, {"first_name": "Arnold", "last_name": "van der Heijde", "gender": "m", "place": "Hoogvliet Rotterdam", "full_name": "A.J.C.M. van der Heijde", "position": 15}, {"first_name": "Ina", "last_name": "van der Werf-Weeda", "gender": "v", "place": "Oud-Beijerland", "full_name": "D.M. van der Werf-Weeda", "position": 16}, {"first_name": "Govert", "last_name": "Veldhuijzen", "gender": "m", "place": "Dordrecht", "full_name": "G. Veldhuijzen", "position": 17}], "title": "Lijst_2_CDA"}
+{
+  "title": "Lijst 2 CDA",
+  "description": "Gecombineerd met Staatkundig Gereformeerde Partij (SGP) en ChristenUnie",
+  "candidates": [
+    {
+      "position": 1,
+      "full_name": "L.A. van Gelder",
+      "place": "Barendrecht",
+      "gender": "m",
+      "last_name": "van Gelder",
+      "first_name": "Leo"
+    },
+    {
+      "position": 2,
+      "full_name": "J.M.P. Wink",
+      "place": "Zwijndrecht",
+      "gender": "m",
+      "last_name": "Wink",
+      "first_name": "Hans"
+    },
+    {
+      "position": 3,
+      "full_name": "L.B.C. Stehouwer",
+      "place": "Numansdorp",
+      "gender": "m",
+      "last_name": "Stehouwer",
+      "first_name": "Leo"
+    },
+    {
+      "position": 4,
+      "full_name": "A. Callewaert - de Groot",
+      "place": "'s-Gravendeel",
+      "gender": "v",
+      "last_name": "Callewaert - de Groot",
+      "first_name": "Arinda"
+    },
+    {
+      "position": 5,
+      "full_name": "T.C. Oostenrijk",
+      "place": "Dordrecht",
+      "gender": "m",
+      "last_name": "Oostenrijk",
+      "first_name": "Theo"
+    },
+    {
+      "position": 6,
+      "full_name": "G. Schuitemaker",
+      "place": "Rhoon",
+      "gender": "m",
+      "last_name": "Schuitemaker",
+      "first_name": "Gerard"
+    },
+    {
+      "position": 7,
+      "full_name": "E.B. Keijzer-Westhoeve",
+      "place": "Stellendam",
+      "gender": "v",
+      "last_name": "Keijzer-Westhoeve",
+      "first_name": "Liesbeth"
+    },
+    {
+      "position": 8,
+      "full_name": "P. Boekhoud",
+      "place": "Barendrecht",
+      "gender": "m",
+      "last_name": "Boekhoud",
+      "first_name": "Piet"
+    },
+    {
+      "position": 9,
+      "full_name": "D.A. van Steensel",
+      "place": "Dordrecht",
+      "gender": "m",
+      "last_name": "van Steensel",
+      "first_name": "Dion"
+    },
+    {
+      "position": 10,
+      "full_name": "R. van Papeveld",
+      "place": "Middelharnis",
+      "gender": "m",
+      "last_name": "van Papeveld",
+      "first_name": "Robert"
+    },
+    {
+      "position": 11,
+      "full_name": "H.K. Korteweg - de Jager",
+      "place": "Dordrecht",
+      "gender": "v",
+      "last_name": "Korteweg - de Jager",
+      "first_name": "Henny"
+    },
+    {
+      "position": 12,
+      "full_name": "J. Rijkeboer",
+      "place": "Hellevoetsluis",
+      "gender": "m",
+      "last_name": "Rijkeboer",
+      "first_name": "Jelle"
+    },
+    {
+      "position": 13,
+      "full_name": "A. Erdal",
+      "place": "Rotterdam",
+      "gender": "m",
+      "last_name": "Erdal",
+      "first_name": "Alaattin"
+    },
+    {
+      "position": 14,
+      "full_name": "A. Hallema",
+      "place": "Hoogvliet Rotterdam",
+      "gender": "m",
+      "last_name": "Hallema",
+      "first_name": "Alex"
+    },
+    {
+      "position": 15,
+      "full_name": "A.J.C.M. van der Heijde",
+      "place": "Hoogvliet Rotterdam",
+      "gender": "m",
+      "last_name": "van der Heijde",
+      "first_name": "Arnold"
+    },
+    {
+      "position": 16,
+      "full_name": "D.M. van der Werf-Weeda",
+      "place": "Oud-Beijerland",
+      "gender": "v",
+      "last_name": "van der Werf-Weeda",
+      "first_name": "Ina"
+    },
+    {
+      "position": 17,
+      "full_name": "G. Veldhuijzen",
+      "place": "Dordrecht",
+      "gender": "m",
+      "last_name": "Veldhuijzen",
+      "first_name": "Govert"
+    }
+  ]
+}

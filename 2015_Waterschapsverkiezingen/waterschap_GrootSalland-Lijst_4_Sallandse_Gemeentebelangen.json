@@ -1,1 +1,110 @@
-{"description": "", "members": [{"first_name": "Erik", "last_name": "Smeenk", "gender": "m", "place": "Diepenveen", "full_name": "G.H. Smeenk", "position": 1}, {"first_name": "Ronald", "last_name": "Holtmaat", "gender": "m", "place": "Raalte", "full_name": "R.G.J. Holtmaat", "position": 2}, {"first_name": "Jolande", "last_name": "Onderdijk-Schroten", "gender": "v", "place": "Dalfsen", "full_name": "J. Onderdijk-Schroten", "position": 3}, {"first_name": "Bertus", "last_name": "Kerkmeijer", "gender": "m", "place": "Wesepe", "full_name": "E.J. Kerkmeijer", "position": 4}, {"first_name": "Thea", "last_name": "Huisman", "gender": "v", "place": "Laag Zuthem", "full_name": "T.M.E. Huisman", "position": 5}, {"first_name": "Willem", "last_name": "Janssen", "gender": "m", "place": "Diepenveen", "full_name": "W.J.M. Janssen", "position": 6}, {"first_name": "Jan", "last_name": "Schokker", "gender": "m", "place": "Raalte", "full_name": "J.G. Schokker", "position": 7}, {"first_name": "Thijs", "last_name": "Scholten", "gender": "m", "place": "Dalfsen", "full_name": "T. Scholten", "position": 8}, {"first_name": "Gerrit", "last_name": "van Werven", "gender": "m", "place": "Olst", "full_name": "G. van Werven", "position": 9}, {"first_name": "Harry", "last_name": "ten Have", "gender": "m", "place": "Schalkhaar", "full_name": "H.A.M. ten Have", "position": 10}, {"first_name": "Rinus", "last_name": "Hoogeslag", "gender": "m", "place": "Heeten", "full_name": "M.J. Hoogeslag", "position": 11}, {"first_name": "Herman", "last_name": "Kleine Koerkamp", "gender": "m", "place": "Lemelerveld", "full_name": "H.A.J. Kleine Koerkamp", "position": 12}, {"first_name": "Gerda", "last_name": "Hulleman-Jansen", "gender": "v", "place": "Wesepe", "full_name": "G.M.C. Hulleman-Jansen", "position": 13}], "title": "Lijst_4_Sallandse_Gemeentebelangen"}
+{
+  "title": "Lijst 4 Sallandse Gemeentebelangen",
+  "description": "",
+  "candidates": [
+    {
+      "position": 1,
+      "full_name": "G.H. Smeenk",
+      "place": "Diepenveen",
+      "gender": "m",
+      "last_name": "Smeenk",
+      "first_name": "Erik"
+    },
+    {
+      "position": 2,
+      "full_name": "R.G.J. Holtmaat",
+      "place": "Raalte",
+      "gender": "m",
+      "last_name": "Holtmaat",
+      "first_name": "Ronald"
+    },
+    {
+      "position": 3,
+      "full_name": "J. Onderdijk-Schroten",
+      "place": "Dalfsen",
+      "gender": "v",
+      "last_name": "Onderdijk-Schroten",
+      "first_name": "Jolande"
+    },
+    {
+      "position": 4,
+      "full_name": "E.J. Kerkmeijer",
+      "place": "Wesepe",
+      "gender": "m",
+      "last_name": "Kerkmeijer",
+      "first_name": "Bertus"
+    },
+    {
+      "position": 5,
+      "full_name": "T.M.E. Huisman",
+      "place": "Laag Zuthem",
+      "gender": "v",
+      "last_name": "Huisman",
+      "first_name": "Thea"
+    },
+    {
+      "position": 6,
+      "full_name": "W.J.M. Janssen",
+      "place": "Diepenveen",
+      "gender": "m",
+      "last_name": "Janssen",
+      "first_name": "Willem"
+    },
+    {
+      "position": 7,
+      "full_name": "J.G. Schokker",
+      "place": "Raalte",
+      "gender": "m",
+      "last_name": "Schokker",
+      "first_name": "Jan"
+    },
+    {
+      "position": 8,
+      "full_name": "T. Scholten",
+      "place": "Dalfsen",
+      "gender": "m",
+      "last_name": "Scholten",
+      "first_name": "Thijs"
+    },
+    {
+      "position": 9,
+      "full_name": "G. van Werven",
+      "place": "Olst",
+      "gender": "m",
+      "last_name": "van Werven",
+      "first_name": "Gerrit"
+    },
+    {
+      "position": 10,
+      "full_name": "H.A.M. ten Have",
+      "place": "Schalkhaar",
+      "gender": "m",
+      "last_name": "ten Have",
+      "first_name": "Harry"
+    },
+    {
+      "position": 11,
+      "full_name": "M.J. Hoogeslag",
+      "place": "Heeten",
+      "gender": "m",
+      "last_name": "Hoogeslag",
+      "first_name": "Rinus"
+    },
+    {
+      "position": 12,
+      "full_name": "H.A.J. Kleine Koerkamp",
+      "place": "Lemelerveld",
+      "gender": "m",
+      "last_name": "Kleine Koerkamp",
+      "first_name": "Herman"
+    },
+    {
+      "position": 13,
+      "full_name": "G.M.C. Hulleman-Jansen",
+      "place": "Wesepe",
+      "gender": "v",
+      "last_name": "Hulleman-Jansen",
+      "first_name": "Gerda"
+    }
+  ]
+}

@@ -1,1 +1,62 @@
-{"description": "", "members": [{"first_name": "Reinout", "last_name": "Woittiez", "gender": "m", "place": "Doorn", "full_name": "R.D. Woittiez", "position": 1}, {"first_name": "Sebastiaan", "last_name": "Groenendijk", "gender": "m", "place": "Maarssen", "full_name": "S. Groenendijk", "position": 2}, {"first_name": "Katrien", "last_name": "Varenhorst", "gender": "v", "place": "Odijk", "full_name": "K. Varenhorst", "position": 3}, {"first_name": "Jo\u00ebl", "last_name": "Scherrenberg", "gender": "m", "place": "De Bilt", "full_name": "J.J.M.W. Scherrenberg", "position": 4}, {"first_name": "Kees", "last_name": "Duijvelaar", "gender": "m", "place": "IJsselstein", "full_name": "K.A.M. Duijvelaar", "position": 5}, {"first_name": "Ruud", "last_name": "Mees", "gender": "m", "place": "Kamerik", "full_name": "R.A. Mees", "position": 6}, {"first_name": "Evert", "last_name": "van Linge", "gender": "m", "place": "Nieuwegein", "full_name": "E.D. van Linge", "position": 7}], "title": "Lijst_4_VVD"}
+{
+  "title": "Lijst 4 VVD",
+  "description": "",
+  "candidates": [
+    {
+      "position": 1,
+      "full_name": "R.D. Woittiez",
+      "place": "Doorn",
+      "gender": "m",
+      "last_name": "Woittiez",
+      "first_name": "Reinout"
+    },
+    {
+      "position": 2,
+      "full_name": "S. Groenendijk",
+      "place": "Maarssen",
+      "gender": "m",
+      "last_name": "Groenendijk",
+      "first_name": "Sebastiaan"
+    },
+    {
+      "position": 3,
+      "full_name": "K. Varenhorst",
+      "place": "Odijk",
+      "gender": "v",
+      "last_name": "Varenhorst",
+      "first_name": "Katrien"
+    },
+    {
+      "position": 4,
+      "full_name": "J.J.M.W. Scherrenberg",
+      "place": "De Bilt",
+      "gender": "m",
+      "last_name": "Scherrenberg",
+      "first_name": "Joël"
+    },
+    {
+      "position": 5,
+      "full_name": "K.A.M. Duijvelaar",
+      "place": "IJsselstein",
+      "gender": "m",
+      "last_name": "Duijvelaar",
+      "first_name": "Kees"
+    },
+    {
+      "position": 6,
+      "full_name": "R.A. Mees",
+      "place": "Kamerik",
+      "gender": "m",
+      "last_name": "Mees",
+      "first_name": "Ruud"
+    },
+    {
+      "position": 7,
+      "full_name": "E.D. van Linge",
+      "place": "Nieuwegein",
+      "gender": "m",
+      "last_name": "van Linge",
+      "first_name": "Evert"
+    }
+  ]
+}

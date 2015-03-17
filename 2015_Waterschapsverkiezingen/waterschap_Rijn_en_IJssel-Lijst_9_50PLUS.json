@@ -1,1 +1,30 @@
-{"description": "", "members": [{"first_name": "Ernst", "last_name": "te Velde", "gender": "m", "place": "Arnhem", "full_name": "E.C. te Velde", "position": 1}, {"first_name": "Nelleke", "last_name": "de Jong", "gender": "v", "place": "Eibergen", "full_name": "N.M. de Jong", "position": 2}, {"first_name": "Jan", "last_name": "Spaans", "gender": "m", "place": "Eibergen", "full_name": "J.J. Spaans", "position": 3}], "title": "Lijst_9_50PLUS"}
+{
+  "title": "Lijst 9 50PLUS",
+  "description": "",
+  "candidates": [
+    {
+      "position": 1,
+      "full_name": "E.C. te Velde",
+      "place": "Arnhem",
+      "gender": "m",
+      "last_name": "te Velde",
+      "first_name": "Ernst"
+    },
+    {
+      "position": 2,
+      "full_name": "N.M. de Jong",
+      "place": "Eibergen",
+      "gender": "v",
+      "last_name": "de Jong",
+      "first_name": "Nelleke"
+    },
+    {
+      "position": 3,
+      "full_name": "J.J. Spaans",
+      "place": "Eibergen",
+      "gender": "m",
+      "last_name": "Spaans",
+      "first_name": "Jan"
+    }
+  ]
+}

@@ -1,1 +1,54 @@
-{"description": "", "members": [{"first_name": "Femmy", "last_name": "le Clercq-Westhuis", "gender": "v", "place": "Zwolle", "full_name": "F. le Clercq-Westhuis", "position": 1}, {"first_name": "Wim", "last_name": "Langendijk", "gender": "m", "place": "Deventer", "full_name": "P.W. Langendijk", "position": 2}, {"first_name": "Paul", "last_name": "Renckens", "gender": "m", "place": "Zwolle", "full_name": "P.G.J. Renckens", "position": 3}, {"first_name": "Jan", "last_name": "van Popta", "gender": "m", "place": "Zwolle", "full_name": "J.J. van Popta", "position": 4}, {"first_name": "Chantal", "last_name": "Hulleman", "gender": "v", "place": "Zwolle", "full_name": "C. Hulleman", "position": 5}, {"first_name": "Thea", "last_name": "ten Have", "gender": "v", "place": "Haarle", "full_name": "T.H.M. ten Have", "position": 6}], "title": "Lijst_7_Algemene_Waterschapspartij"}
+{
+  "title": "Lijst 7 Algemene Waterschapspartij",
+  "description": "",
+  "candidates": [
+    {
+      "position": 1,
+      "full_name": "F. le Clercq-Westhuis",
+      "place": "Zwolle",
+      "gender": "v",
+      "last_name": "le Clercq-Westhuis",
+      "first_name": "Femmy"
+    },
+    {
+      "position": 2,
+      "full_name": "P.W. Langendijk",
+      "place": "Deventer",
+      "gender": "m",
+      "last_name": "Langendijk",
+      "first_name": "Wim"
+    },
+    {
+      "position": 3,
+      "full_name": "P.G.J. Renckens",
+      "place": "Zwolle",
+      "gender": "m",
+      "last_name": "Renckens",
+      "first_name": "Paul"
+    },
+    {
+      "position": 4,
+      "full_name": "J.J. van Popta",
+      "place": "Zwolle",
+      "gender": "m",
+      "last_name": "van Popta",
+      "first_name": "Jan"
+    },
+    {
+      "position": 5,
+      "full_name": "C. Hulleman",
+      "place": "Zwolle",
+      "gender": "v",
+      "last_name": "Hulleman",
+      "first_name": "Chantal"
+    },
+    {
+      "position": 6,
+      "full_name": "T.H.M. ten Have",
+      "place": "Haarle",
+      "gender": "v",
+      "last_name": "ten Have",
+      "first_name": "Thea"
+    }
+  ]
+}

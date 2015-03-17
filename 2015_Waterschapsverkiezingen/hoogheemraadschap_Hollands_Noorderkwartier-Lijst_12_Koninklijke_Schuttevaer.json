@@ -1,0 +1,70 @@
+{
+  "title": "Lijst 12 Koninklijke Schuttevaer",
+  "description": "",
+  "candidates": [
+    {
+      "position": 1,
+      "full_name": "R. van Schoorl",
+      "place": "Zuid-Scharwoude",
+      "gender": "m",
+      "last_name": "van Schoorl",
+      "first_name": "Ronald"
+    },
+    {
+      "position": 2,
+      "full_name": "A.P. Wiersma",
+      "place": "Zuid-Scharwoude",
+      "gender": "m",
+      "last_name": "Wiersma",
+      "first_name": "Peter"
+    },
+    {
+      "position": 3,
+      "full_name": "A. de Weerd",
+      "place": "Landsmeer",
+      "gender": "m",
+      "last_name": "de Weerd",
+      "first_name": "Andries"
+    },
+    {
+      "position": 4,
+      "full_name": "W.J. Droog",
+      "place": "Zijdewind",
+      "gender": "m",
+      "last_name": "Droog",
+      "first_name": "Wim"
+    },
+    {
+      "position": 5,
+      "full_name": "M. Mol",
+      "place": "Zaandam",
+      "gender": "m",
+      "last_name": "Mol",
+      "first_name": "Martin"
+    },
+    {
+      "position": 6,
+      "full_name": "G.W.S. Bakker",
+      "place": "Schagen",
+      "gender": "v",
+      "last_name": "Bakker",
+      "first_name": "Truida"
+    },
+    {
+      "position": 7,
+      "full_name": "R.J.J. Groen",
+      "place": "Sint Pancras",
+      "gender": "m",
+      "last_name": "Groen",
+      "first_name": "Rob"
+    },
+    {
+      "position": 8,
+      "full_name": "M. de Boer",
+      "place": "Wormer",
+      "gender": "m",
+      "last_name": "de Boer",
+      "first_name": "Martin"
+    }
+  ]
+}

@@ -1,1 +1,78 @@
-{"description": "Gecombineerd met CDA", "members": [{"first_name": "Jan", "last_name": "Bos", "gender": "m", "place": "Westeremden", "full_name": "J.J. Bos", "position": 1}, {"first_name": "Wim", "last_name": "Huisman", "gender": "m", "place": "Groningen", "full_name": "W.G. Huisman", "position": 2}, {"first_name": "Klaas", "last_name": "Wierenga", "gender": "m", "place": "Zuidhorn", "full_name": "K.L. Wierenga", "position": 3}, {"first_name": "Harry", "last_name": "Woltjer", "gender": "m", "place": "Uithuizermeeden", "full_name": "H. Woltjer", "position": 4}, {"first_name": "Jannie", "last_name": "Vogel", "gender": "v", "place": "Leens", "full_name": "J.H. Vogel", "position": 5}, {"first_name": "Piet", "last_name": "Wiersema", "gender": "m", "place": "Spijk Gn", "full_name": "P.M. Wiersema", "position": 6}, {"first_name": "Gert", "last_name": "Drenth", "gender": "m", "place": "Middelstum", "full_name": "G.R. Drenth", "position": 7}, {"first_name": "B\u00e9", "last_name": "Prins", "gender": "m", "place": "Middelstum", "full_name": "B.H. Prins", "position": 8}, {"first_name": "Bert", "last_name": "Rozema", "gender": "m", "place": "Uithuizen", "full_name": "L. Rozema", "position": 9}], "title": "Lijst_5_ChristenUnie"}
+{
+  "title": "Lijst 5 ChristenUnie",
+  "description": "Gecombineerd met CDA",
+  "candidates": [
+    {
+      "position": 1,
+      "full_name": "J.J. Bos",
+      "place": "Westeremden",
+      "gender": "m",
+      "last_name": "Bos",
+      "first_name": "Jan"
+    },
+    {
+      "position": 2,
+      "full_name": "W.G. Huisman",
+      "place": "Groningen",
+      "gender": "m",
+      "last_name": "Huisman",
+      "first_name": "Wim"
+    },
+    {
+      "position": 3,
+      "full_name": "K.L. Wierenga",
+      "place": "Zuidhorn",
+      "gender": "m",
+      "last_name": "Wierenga",
+      "first_name": "Klaas"
+    },
+    {
+      "position": 4,
+      "full_name": "H. Woltjer",
+      "place": "Uithuizermeeden",
+      "gender": "m",
+      "last_name": "Woltjer",
+      "first_name": "Harry"
+    },
+    {
+      "position": 5,
+      "full_name": "J.H. Vogel",
+      "place": "Leens",
+      "gender": "v",
+      "last_name": "Vogel",
+      "first_name": "Jannie"
+    },
+    {
+      "position": 6,
+      "full_name": "P.M. Wiersema",
+      "place": "Spijk Gn",
+      "gender": "m",
+      "last_name": "Wiersema",
+      "first_name": "Piet"
+    },
+    {
+      "position": 7,
+      "full_name": "G.R. Drenth",
+      "place": "Middelstum",
+      "gender": "m",
+      "last_name": "Drenth",
+      "first_name": "Gert"
+    },
+    {
+      "position": 8,
+      "full_name": "B.H. Prins",
+      "place": "Middelstum",
+      "gender": "m",
+      "last_name": "Prins",
+      "first_name": "Bé"
+    },
+    {
+      "position": 9,
+      "full_name": "L. Rozema",
+      "place": "Uithuizen",
+      "gender": "m",
+      "last_name": "Rozema",
+      "first_name": "Bert"
+    }
+  ]
+}

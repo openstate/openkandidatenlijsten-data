@@ -1,1 +1,102 @@
-{"description": "", "members": [{"first_name": "Lida", "last_name": "Schelwald-van der Kleij", "gender": "v", "place": "Lelystad", "full_name": "A.J.M. Schelwald-van der Kleij", "position": 1}, {"first_name": "Roelof", "last_name": "Oost", "gender": "m", "place": "Urk", "full_name": "R.T. Oost", "position": 2}, {"first_name": "Cees", "last_name": "van der Lans", "gender": "m", "place": "Almere", "full_name": "C.J. van der Lans", "position": 3}, {"first_name": "Annelien", "last_name": "Leenders-de Visser", "gender": "v", "place": "Swifterbant", "full_name": "A. Leenders-de Visser", "position": 4}, {"first_name": "Monique", "last_name": "Toorenburg-Hermsen", "gender": "v", "place": "Almere", "full_name": "M.J. Toorenburg-Hermsen", "position": 5}, {"first_name": "Jan", "last_name": "Klopman", "gender": "m", "place": "Biddinghuizen", "full_name": "J. Klopman", "position": 6}, {"first_name": "Paul", "last_name": "van Gool", "gender": "m", "place": "Almere", "full_name": "P.W.A. van Gool", "position": 7}, {"first_name": "Henk", "last_name": "Heijboer", "gender": "m", "place": "Lelystad", "full_name": "H. Heijboer", "position": 8}, {"first_name": "Thea", "last_name": "Douve", "gender": "v", "place": "Almere", "full_name": "T.H. Douve", "position": 9}, {"first_name": "Willem", "last_name": "Foppen", "gender": "m", "place": "Urk", "full_name": "W. Foppen", "position": 10}, {"first_name": "Hans", "last_name": "Bosvelt", "gender": "m", "place": "Dronten", "full_name": "J.C. Bosvelt", "position": 11}, {"first_name": "Maarten", "last_name": "Hofstra", "gender": "m", "place": "Lelystad", "full_name": "M.A. Hofstra", "position": 12}], "title": "Lijst_3_CDA"}
+{
+  "title": "Lijst 3 CDA",
+  "description": "",
+  "candidates": [
+    {
+      "position": 1,
+      "full_name": "A.J.M. Schelwald-van der Kleij",
+      "place": "Lelystad",
+      "gender": "v",
+      "last_name": "Schelwald-van der Kleij",
+      "first_name": "Lida"
+    },
+    {
+      "position": 2,
+      "full_name": "R.T. Oost",
+      "place": "Urk",
+      "gender": "m",
+      "last_name": "Oost",
+      "first_name": "Roelof"
+    },
+    {
+      "position": 3,
+      "full_name": "C.J. van der Lans",
+      "place": "Almere",
+      "gender": "m",
+      "last_name": "van der Lans",
+      "first_name": "Cees"
+    },
+    {
+      "position": 4,
+      "full_name": "A. Leenders-de Visser",
+      "place": "Swifterbant",
+      "gender": "v",
+      "last_name": "Leenders-de Visser",
+      "first_name": "Annelien"
+    },
+    {
+      "position": 5,
+      "full_name": "M.J. Toorenburg-Hermsen",
+      "place": "Almere",
+      "gender": "v",
+      "last_name": "Toorenburg-Hermsen",
+      "first_name": "Monique"
+    },
+    {
+      "position": 6,
+      "full_name": "J. Klopman",
+      "place": "Biddinghuizen",
+      "gender": "m",
+      "last_name": "Klopman",
+      "first_name": "Jan"
+    },
+    {
+      "position": 7,
+      "full_name": "P.W.A. van Gool",
+      "place": "Almere",
+      "gender": "m",
+      "last_name": "van Gool",
+      "first_name": "Paul"
+    },
+    {
+      "position": 8,
+      "full_name": "H. Heijboer",
+      "place": "Lelystad",
+      "gender": "m",
+      "last_name": "Heijboer",
+      "first_name": "Henk"
+    },
+    {
+      "position": 9,
+      "full_name": "T.H. Douve",
+      "place": "Almere",
+      "gender": "v",
+      "last_name": "Douve",
+      "first_name": "Thea"
+    },
+    {
+      "position": 10,
+      "full_name": "W. Foppen",
+      "place": "Urk",
+      "gender": "m",
+      "last_name": "Foppen",
+      "first_name": "Willem"
+    },
+    {
+      "position": 11,
+      "full_name": "J.C. Bosvelt",
+      "place": "Dronten",
+      "gender": "m",
+      "last_name": "Bosvelt",
+      "first_name": "Hans"
+    },
+    {
+      "position": 12,
+      "full_name": "M.A. Hofstra",
+      "place": "Lelystad",
+      "gender": "m",
+      "last_name": "Hofstra",
+      "first_name": "Maarten"
+    }
+  ]
+}

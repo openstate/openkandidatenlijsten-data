@@ -1,1 +1,78 @@
-{"description": "", "members": [{"first_name": "Ronald", "last_name": "Sch\u00f6nberger", "gender": "m", "place": "Amsterdam", "full_name": "R.A. Sch\u00f6nberger", "position": 1}, {"first_name": "Janneke", "last_name": "Schadee", "gender": "v", "place": "Amsterdam", "full_name": "A.L. Schadee", "position": 2}, {"first_name": "Matthijs", "last_name": "Pontier", "gender": "m", "place": "Amsterdam", "full_name": "M.A. Pontier", "position": 3}, {"first_name": "Rijndert", "last_name": "Doting", "gender": "m", "place": "Amsterdam", "full_name": "R. Doting", "position": 4}, {"first_name": "Tom", "last_name": "Bakkers", "gender": "m", "place": "Amsterdam", "full_name": "T.F.M. Bakkers", "position": 5}, {"first_name": "Max", "last_name": "van den Dool", "gender": "m", "place": "Amsterdam", "full_name": "M.J. van den Dool", "position": 6}, {"first_name": "Kamal", "last_name": "Haddouch", "gender": "m", "place": "Hilversum", "full_name": "K. Haddouch", "position": 7}, {"first_name": "Walter", "last_name": "Visser", "gender": "m", "place": "Amsterdam", "full_name": "R.W. Visser", "position": 8}, {"first_name": "Jelle", "last_name": "de Graaf", "gender": "m", "place": "Amsterdam", "full_name": "J. de Graaf", "position": 9}], "title": "Lijst_12_De_Groenen"}
+{
+  "title": "Lijst 12 De Groenen",
+  "description": "",
+  "candidates": [
+    {
+      "position": 1,
+      "full_name": "R.A. Schönberger",
+      "place": "Amsterdam",
+      "gender": "m",
+      "last_name": "Schönberger",
+      "first_name": "Ronald"
+    },
+    {
+      "position": 2,
+      "full_name": "A.L. Schadee",
+      "place": "Amsterdam",
+      "gender": "v",
+      "last_name": "Schadee",
+      "first_name": "Janneke"
+    },
+    {
+      "position": 3,
+      "full_name": "M.A. Pontier",
+      "place": "Amsterdam",
+      "gender": "m",
+      "last_name": "Pontier",
+      "first_name": "Matthijs"
+    },
+    {
+      "position": 4,
+      "full_name": "R. Doting",
+      "place": "Amsterdam",
+      "gender": "m",
+      "last_name": "Doting",
+      "first_name": "Rijndert"
+    },
+    {
+      "position": 5,
+      "full_name": "T.F.M. Bakkers",
+      "place": "Amsterdam",
+      "gender": "m",
+      "last_name": "Bakkers",
+      "first_name": "Tom"
+    },
+    {
+      "position": 6,
+      "full_name": "M.J. van den Dool",
+      "place": "Amsterdam",
+      "gender": "m",
+      "last_name": "van den Dool",
+      "first_name": "Max"
+    },
+    {
+      "position": 7,
+      "full_name": "K. Haddouch",
+      "place": "Hilversum",
+      "gender": "m",
+      "last_name": "Haddouch",
+      "first_name": "Kamal"
+    },
+    {
+      "position": 8,
+      "full_name": "R.W. Visser",
+      "place": "Amsterdam",
+      "gender": "m",
+      "last_name": "Visser",
+      "first_name": "Walter"
+    },
+    {
+      "position": 9,
+      "full_name": "J. de Graaf",
+      "place": "Amsterdam",
+      "gender": "m",
+      "last_name": "de Graaf",
+      "first_name": "Jelle"
+    }
+  ]
+}

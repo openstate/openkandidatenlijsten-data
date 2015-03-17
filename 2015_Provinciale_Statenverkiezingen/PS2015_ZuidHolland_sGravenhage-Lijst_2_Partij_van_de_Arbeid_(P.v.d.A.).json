@@ -1,0 +1,230 @@
+{
+  "title": "Lijst_2 Partij van de Arbeid (P.v.d.A.)",
+  "description": "",
+  "candidates": [
+    {
+      "position": 1,
+      "full_name": "R. Hillebrand",
+      "place": "Leiden",
+      "gender": "m",
+      "last_name": "Hillebrand",
+      "first_name": "Ron"
+    },
+    {
+      "position": 2,
+      "full_name": "A.L. Koning",
+      "place": "Delft",
+      "gender": "v",
+      "last_name": "Koning",
+      "first_name": "Anne"
+    },
+    {
+      "position": 3,
+      "full_name": "M. Çelik",
+      "place": "Rotterdam",
+      "gender": "m",
+      "last_name": "Çelik",
+      "first_name": "Metin"
+    },
+    {
+      "position": 4,
+      "full_name": "N.K.O. Matil",
+      "place": "Zoetermeer",
+      "gender": "v",
+      "last_name": "Matil",
+      "first_name": "Naomie"
+    },
+    {
+      "position": 5,
+      "full_name": "W.A. Minderhout",
+      "place": "'s-Gravenhage",
+      "gender": "m",
+      "last_name": "Minderhout",
+      "first_name": "Willem"
+    },
+    {
+      "position": 6,
+      "full_name": "L.F. Mudde",
+      "place": "Gouderak",
+      "gender": "m",
+      "last_name": "Mudde",
+      "first_name": "Leo"
+    },
+    {
+      "position": 7,
+      "full_name": "M. Siljee",
+      "place": "Schiedam",
+      "gender": "m",
+      "last_name": "Siljee",
+      "first_name": "Menno"
+    },
+    {
+      "position": 8,
+      "full_name": "A. Pilon",
+      "place": "Voorburg",
+      "gender": "v",
+      "last_name": "Pilon",
+      "first_name": "Annelies"
+    },
+    {
+      "position": 9,
+      "full_name": "D.V. Hindriks",
+      "place": "Hendrik-Ido-Ambacht",
+      "gender": "m",
+      "last_name": "Hindriks",
+      "first_name": "Rik"
+    },
+    {
+      "position": 10,
+      "full_name": "T. de Jong",
+      "place": "Zoetermeer",
+      "gender": "m",
+      "last_name": "de Jong",
+      "first_name": "Tim"
+    },
+    {
+      "position": 11,
+      "full_name": "M.A. Loose",
+      "place": "Voorburg",
+      "gender": "m",
+      "last_name": "Loose",
+      "first_name": "Martin"
+    },
+    {
+      "position": 12,
+      "full_name": "N.A. Oudhof",
+      "place": "Nootdorp",
+      "gender": "m",
+      "last_name": "Oudhof",
+      "first_name": "Nico"
+    },
+    {
+      "position": 13,
+      "full_name": "R. Elouachoun",
+      "place": "Rotterdam",
+      "gender": "m",
+      "last_name": "Elouachoun",
+      "first_name": "Rachid"
+    },
+    {
+      "position": 14,
+      "full_name": "A.A.M. van der Hoeven",
+      "place": "'s-Gravenhage",
+      "gender": "v",
+      "last_name": "van der Hoeven",
+      "first_name": "Paulien"
+    },
+    {
+      "position": 15,
+      "full_name": "A. Hazelebach",
+      "place": "Nieuwerkerk aan den IJssel",
+      "gender": "m",
+      "last_name": "Hazelebach",
+      "first_name": "Arjen"
+    },
+    {
+      "position": 16,
+      "full_name": "A.P. Kooy",
+      "place": "Rijswijk",
+      "gender": "m",
+      "last_name": "Kooy",
+      "first_name": "Andy"
+    },
+    {
+      "position": 17,
+      "full_name": "F.W. de Boer",
+      "place": "'s-Gravenhage",
+      "gender": "m",
+      "last_name": "de Boer",
+      "first_name": "Rik"
+    },
+    {
+      "position": 18,
+      "full_name": "G.H. Bosman",
+      "place": "Ridderkerk",
+      "gender": "m",
+      "last_name": "Bosman",
+      "first_name": "Gerard"
+    },
+    {
+      "position": 19,
+      "full_name": "D.P. Hitzert",
+      "place": "Heinenoord",
+      "gender": "m",
+      "last_name": "Hitzert",
+      "first_name": "Dick"
+    },
+    {
+      "position": 20,
+      "full_name": "G. Slotema",
+      "place": "Zwijndrecht",
+      "gender": "m",
+      "last_name": "Slotema",
+      "first_name": "Gerard"
+    },
+    {
+      "position": 21,
+      "full_name": "A.C.C.M. van Merode",
+      "place": "Rotterdam",
+      "gender": "v",
+      "last_name": "van Merode",
+      "first_name": "Rian"
+    },
+    {
+      "position": 22,
+      "full_name": "R.B.A.M. Krabbe",
+      "place": "Zuid-Beijerland",
+      "gender": "m",
+      "last_name": "Krabbe",
+      "first_name": "René"
+    },
+    {
+      "position": 23,
+      "full_name": "O.M. Guttenberg-Magno Batáglia",
+      "place": "Oud-Beijerland",
+      "gender": "v",
+      "last_name": "Guttenberg-Magno Batáglia",
+      "first_name": "Olga"
+    },
+    {
+      "position": 24,
+      "full_name": "J. Verbeek",
+      "place": "Rotterdam",
+      "gender": "m",
+      "last_name": "Verbeek",
+      "first_name": "Johan"
+    },
+    {
+      "position": 25,
+      "full_name": "D. Dankaart",
+      "place": "Hellevoetsluis",
+      "gender": "m",
+      "last_name": "Dankaart",
+      "first_name": "Daan"
+    },
+    {
+      "position": 26,
+      "full_name": "R. van Baren",
+      "place": "Zoetermeer",
+      "gender": "m",
+      "last_name": "van Baren",
+      "first_name": "René"
+    },
+    {
+      "position": 27,
+      "full_name": "J.J. Veld",
+      "place": "Gouda",
+      "gender": "m",
+      "last_name": "Veld",
+      "first_name": "Johan"
+    },
+    {
+      "position": 28,
+      "full_name": "E.R. Borggreve",
+      "place": "Wateringen",
+      "gender": "m",
+      "last_name": "Borggreve",
+      "first_name": "Eric"
+    }
+  ]
+}

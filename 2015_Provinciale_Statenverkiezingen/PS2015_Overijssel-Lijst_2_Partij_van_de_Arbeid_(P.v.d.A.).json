@@ -1,0 +1,230 @@
+{
+  "title": "Lijst 2 Partij van de Arbeid (P.v.d.A.)",
+  "description": "",
+  "candidates": [
+    {
+      "position": 1,
+      "full_name": "T.A. de Bree",
+      "place": "Laag Zuthem",
+      "gender": "m",
+      "last_name": "de Bree",
+      "first_name": "Tijs"
+    },
+    {
+      "position": 2,
+      "full_name": "J.G. Beukers",
+      "place": "Westerhaar-Vriezenveensewijk",
+      "gender": "v",
+      "last_name": "Beukers",
+      "first_name": "Anneke"
+    },
+    {
+      "position": 3,
+      "full_name": "H. Nooter",
+      "place": "Zwolle",
+      "gender": "m",
+      "last_name": "Nooter",
+      "first_name": "Hans"
+    },
+    {
+      "position": 4,
+      "full_name": "A. Wissink-Berkers",
+      "place": "Ambt Delden",
+      "gender": "v",
+      "last_name": "Wissink-Berkers",
+      "first_name": "Annemieke"
+    },
+    {
+      "position": 5,
+      "full_name": "B.J.M. Kokkeler",
+      "place": "Enschede",
+      "gender": "m",
+      "last_name": "Kokkeler",
+      "first_name": "Ben"
+    },
+    {
+      "position": 6,
+      "full_name": "P.G.B. Hermans",
+      "place": "Deventer",
+      "gender": "m",
+      "last_name": "Hermans",
+      "first_name": "Peter"
+    },
+    {
+      "position": 7,
+      "full_name": "M. van Arendonk",
+      "place": "Deventer",
+      "gender": "v",
+      "last_name": "van Arendonk",
+      "first_name": "Marjanne"
+    },
+    {
+      "position": 8,
+      "full_name": "L. Broere",
+      "place": "Dalfsen",
+      "gender": "m",
+      "last_name": "Broere",
+      "first_name": "Leander"
+    },
+    {
+      "position": 9,
+      "full_name": "M. Paalman",
+      "place": "Nijverdal",
+      "gender": "m",
+      "last_name": "Paalman",
+      "first_name": "Mark"
+    },
+    {
+      "position": 10,
+      "full_name": "Z. Aydoğdu",
+      "place": "Deventer",
+      "gender": "m",
+      "last_name": "Aydoğdu",
+      "first_name": "Zafer"
+    },
+    {
+      "position": 11,
+      "full_name": "J. Otterloo-Ripperda",
+      "place": "Olst",
+      "gender": "v",
+      "last_name": "Otterloo-Ripperda",
+      "first_name": "Ans"
+    },
+    {
+      "position": 12,
+      "full_name": "B. Kuiper",
+      "place": "Almelo",
+      "gender": "m",
+      "last_name": "Kuiper",
+      "first_name": "Bert"
+    },
+    {
+      "position": 13,
+      "full_name": "E. Broekman",
+      "place": "Zwolle",
+      "gender": "m",
+      "last_name": "Broekman",
+      "first_name": "Edwin"
+    },
+    {
+      "position": 14,
+      "full_name": "E.F.M. Pot",
+      "place": "Haaksbergen",
+      "gender": "v",
+      "last_name": "Pot",
+      "first_name": "Ellen"
+    },
+    {
+      "position": 15,
+      "full_name": "G. Iyigünler",
+      "place": "Hengelo (O)",
+      "gender": "m",
+      "last_name": "Iyigünler",
+      "first_name": "Gökhan"
+    },
+    {
+      "position": 16,
+      "full_name": "C.A. Sanders",
+      "place": "Kampen",
+      "gender": "m",
+      "last_name": "Sanders",
+      "first_name": "Cees"
+    },
+    {
+      "position": 17,
+      "full_name": "K.E. Kuipers",
+      "place": "Zwolle",
+      "gender": "v",
+      "last_name": "Kuipers",
+      "first_name": "Karen"
+    },
+    {
+      "position": 18,
+      "full_name": "S. Salikram",
+      "place": "Enschede",
+      "gender": "m",
+      "last_name": "Salikram",
+      "first_name": "Shridath"
+    },
+    {
+      "position": 19,
+      "full_name": "J.F. Velterop",
+      "place": "Rijssen",
+      "gender": "m",
+      "last_name": "Velterop",
+      "first_name": "John"
+    },
+    {
+      "position": 20,
+      "full_name": "A.Y. Ariesen",
+      "place": "Zwartsluis",
+      "gender": "v",
+      "last_name": "Ariesen",
+      "first_name": "Yvonne"
+    },
+    {
+      "position": 21,
+      "full_name": "W.T.A. Konter",
+      "place": "Vollenhove",
+      "gender": "m",
+      "last_name": "Konter",
+      "first_name": "Wim"
+    },
+    {
+      "position": 22,
+      "full_name": "J. Bouma",
+      "place": "Zwolle",
+      "gender": "m",
+      "last_name": "Bouma",
+      "first_name": "Jannes"
+    },
+    {
+      "position": 23,
+      "full_name": "P.J.J.C.C. Arnold",
+      "place": "Genemuiden",
+      "gender": "m",
+      "last_name": "Arnold",
+      "first_name": "Pascal"
+    },
+    {
+      "position": 24,
+      "full_name": "A.K. Boersma",
+      "place": "Enschede",
+      "gender": "m",
+      "last_name": "Boersma",
+      "first_name": "Andre"
+    },
+    {
+      "position": 25,
+      "full_name": "J.J.A. ter Keurst",
+      "place": "Rijssen",
+      "gender": "m",
+      "last_name": "ter Keurst",
+      "first_name": "Hans"
+    },
+    {
+      "position": 26,
+      "full_name": "H. Sieben",
+      "place": "Zwolle",
+      "gender": "m",
+      "last_name": "Sieben",
+      "first_name": "Herman"
+    },
+    {
+      "position": 27,
+      "full_name": "L.F. Greven",
+      "place": "Steenwijk",
+      "gender": "m",
+      "last_name": "Greven",
+      "first_name": "Luc"
+    },
+    {
+      "position": 28,
+      "full_name": "J. ter Schegget",
+      "place": "Zwolle",
+      "gender": "m",
+      "last_name": "ter Schegget",
+      "first_name": "Jan"
+    }
+  ]
+}

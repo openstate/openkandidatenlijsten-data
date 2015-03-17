@@ -1,1 +1,142 @@
-{"description": "Gecombineerd met Water Natuurlijk", "members": [{"first_name": "Henni", "last_name": "van Asten", "gender": "v", "place": "Dokkum", "full_name": "H.C.G. van Asten", "position": 1}, {"first_name": "Remco", "last_name": "Admiraal", "gender": "m", "place": "Dokkum", "full_name": "R.J. Admiraal", "position": 2}, {"first_name": "Annelies", "last_name": "Stolp", "gender": "v", "place": "Oosterwolde", "full_name": "A. Stolp", "position": 3}, {"first_name": "Willem", "last_name": "Haarsma", "gender": "m", "place": "Drachten", "full_name": "W.J.M. Haarsma", "position": 4}, {"first_name": "Dick", "last_name": "Sprong", "gender": "m", "place": "Oudemirdum", "full_name": "D. Sprong", "position": 5}, {"first_name": "Sjef", "last_name": "van der Lubbe", "gender": "m", "place": "Marsum", "full_name": "J.C.L.M. van der Lubbe", "position": 6}, {"first_name": "Thomas", "last_name": "Groeneveld", "gender": "m", "place": "Makkum", "full_name": "T. Groeneveld", "position": 7}, {"first_name": "Mark", "last_name": "de Lange", "gender": "m", "place": "Franeker", "full_name": "M.R.W. de Lange", "position": 8}, {"first_name": "Bart", "last_name": "Bakker", "gender": "m", "place": "Burgum", "full_name": "B.R. Bakker", "position": 9}, {"first_name": "Theun", "last_name": "Nicolai", "gender": "m", "place": "Drogeham", "full_name": "T. Nicolai", "position": 10}, {"first_name": "Jan", "last_name": "de Jong", "gender": "m", "place": "Rottum", "full_name": "J.R. de Jong", "position": 11}, {"first_name": "Rolie", "last_name": "Groninger", "gender": "m", "place": "Wergea", "full_name": "R. Groninger", "position": 12}, {"first_name": "Henk", "last_name": "Korthof", "gender": "m", "place": "Boksum", "full_name": "H. Korthof", "position": 13}, {"first_name": "Eline", "last_name": "de Koning", "gender": "v", "place": "Goutum", "full_name": "E. de Koning", "position": 14}, {"first_name": "Chris", "last_name": "van Beek", "gender": "m", "place": "Easterlittens", "full_name": "C.W.L. van Beek", "position": 15}, {"first_name": "Halbe", "last_name": "Klijnstra", "gender": "m", "place": "Kubaard", "full_name": "H. Klijnstra", "position": 16}, {"first_name": "Sjoukje", "last_name": "Akkerman", "gender": "v", "place": "Drachten", "full_name": "S. Akkerman", "position": 17}], "title": "Lijst_2_Partij_van_de_Arbeid_(P.v.d.A.)"}
+{
+  "title": "Lijst 2 Partij van de Arbeid (P.v.d.A.)",
+  "description": "Gecombineerd met Water Natuurlijk",
+  "candidates": [
+    {
+      "position": 1,
+      "full_name": "H.C.G. van Asten",
+      "place": "Dokkum",
+      "gender": "v",
+      "last_name": "van Asten",
+      "first_name": "Henni"
+    },
+    {
+      "position": 2,
+      "full_name": "R.J. Admiraal",
+      "place": "Dokkum",
+      "gender": "m",
+      "last_name": "Admiraal",
+      "first_name": "Remco"
+    },
+    {
+      "position": 3,
+      "full_name": "A. Stolp",
+      "place": "Oosterwolde",
+      "gender": "v",
+      "last_name": "Stolp",
+      "first_name": "Annelies"
+    },
+    {
+      "position": 4,
+      "full_name": "W.J.M. Haarsma",
+      "place": "Drachten",
+      "gender": "m",
+      "last_name": "Haarsma",
+      "first_name": "Willem"
+    },
+    {
+      "position": 5,
+      "full_name": "D. Sprong",
+      "place": "Oudemirdum",
+      "gender": "m",
+      "last_name": "Sprong",
+      "first_name": "Dick"
+    },
+    {
+      "position": 6,
+      "full_name": "J.C.L.M. van der Lubbe",
+      "place": "Marsum",
+      "gender": "m",
+      "last_name": "van der Lubbe",
+      "first_name": "Sjef"
+    },
+    {
+      "position": 7,
+      "full_name": "T. Groeneveld",
+      "place": "Makkum",
+      "gender": "m",
+      "last_name": "Groeneveld",
+      "first_name": "Thomas"
+    },
+    {
+      "position": 8,
+      "full_name": "M.R.W. de Lange",
+      "place": "Franeker",
+      "gender": "m",
+      "last_name": "de Lange",
+      "first_name": "Mark"
+    },
+    {
+      "position": 9,
+      "full_name": "B.R. Bakker",
+      "place": "Burgum",
+      "gender": "m",
+      "last_name": "Bakker",
+      "first_name": "Bart"
+    },
+    {
+      "position": 10,
+      "full_name": "T. Nicolai",
+      "place": "Drogeham",
+      "gender": "m",
+      "last_name": "Nicolai",
+      "first_name": "Theun"
+    },
+    {
+      "position": 11,
+      "full_name": "J.R. de Jong",
+      "place": "Rottum",
+      "gender": "m",
+      "last_name": "de Jong",
+      "first_name": "Jan"
+    },
+    {
+      "position": 12,
+      "full_name": "R. Groninger",
+      "place": "Wergea",
+      "gender": "m",
+      "last_name": "Groninger",
+      "first_name": "Rolie"
+    },
+    {
+      "position": 13,
+      "full_name": "H. Korthof",
+      "place": "Boksum",
+      "gender": "m",
+      "last_name": "Korthof",
+      "first_name": "Henk"
+    },
+    {
+      "position": 14,
+      "full_name": "E. de Koning",
+      "place": "Goutum",
+      "gender": "v",
+      "last_name": "de Koning",
+      "first_name": "Eline"
+    },
+    {
+      "position": 15,
+      "full_name": "C.W.L. van Beek",
+      "place": "Easterlittens",
+      "gender": "m",
+      "last_name": "van Beek",
+      "first_name": "Chris"
+    },
+    {
+      "position": 16,
+      "full_name": "H. Klijnstra",
+      "place": "Kubaard",
+      "gender": "m",
+      "last_name": "Klijnstra",
+      "first_name": "Halbe"
+    },
+    {
+      "position": 17,
+      "full_name": "S. Akkerman",
+      "place": "Drachten",
+      "gender": "v",
+      "last_name": "Akkerman",
+      "first_name": "Sjoukje"
+    }
+  ]
+}

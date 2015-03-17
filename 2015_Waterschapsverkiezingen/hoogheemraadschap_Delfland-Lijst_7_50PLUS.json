@@ -1,1 +1,30 @@
-{"description": "", "members": [{"first_name": "Sjoerd", "last_name": "Fekkes", "gender": "m", "place": "'s-Gravenhage", "full_name": "S.F. Fekkes", "position": 1}, {"first_name": "Laurens", "last_name": "de Keijzer", "gender": "m", "place": "Rijswijk", "full_name": "L.H.C. de Keijzer", "position": 2}, {"first_name": "Peter", "last_name": "Pont", "gender": "m", "place": "Delft", "full_name": "P. Pont", "position": 3}], "title": "Lijst_7_50PLUS"}
+{
+  "title": "Lijst 7 50PLUS",
+  "description": "",
+  "candidates": [
+    {
+      "position": 1,
+      "full_name": "S.F. Fekkes",
+      "place": "'s-Gravenhage",
+      "gender": "m",
+      "last_name": "Fekkes",
+      "first_name": "Sjoerd"
+    },
+    {
+      "position": 2,
+      "full_name": "L.H.C. de Keijzer",
+      "place": "Rijswijk",
+      "gender": "m",
+      "last_name": "de Keijzer",
+      "first_name": "Laurens"
+    },
+    {
+      "position": 3,
+      "full_name": "P. Pont",
+      "place": "Delft",
+      "gender": "m",
+      "last_name": "Pont",
+      "first_name": "Peter"
+    }
+  ]
+}

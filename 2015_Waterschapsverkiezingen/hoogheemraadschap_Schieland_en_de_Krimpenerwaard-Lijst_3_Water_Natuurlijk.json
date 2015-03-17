@@ -1,1 +1,174 @@
-{"description": "", "members": [{"first_name": "Antoin", "last_name": "Deul", "gender": "m", "place": "Rotterdam", "full_name": "A.S. Deul", "position": 1}, {"first_name": "Agnes", "last_name": "van Zoelen", "gender": "v", "place": "Rotterdam", "full_name": "A.M. van Zoelen", "position": 2}, {"first_name": "Tjitte", "last_name": "Nauta", "gender": "m", "place": "Rotterdam", "full_name": "T.A. Nauta", "position": 3}, {"first_name": "Ron", "last_name": "Gast", "gender": "m", "place": "Moordrecht", "full_name": "J.A. Gast", "position": 4}, {"first_name": "Jan", "last_name": "Leeuwangh", "gender": "m", "place": "Krimpen aan den IJssel", "full_name": "J.J. Leeuwangh", "position": 5}, {"first_name": "Annemarie", "last_name": "van den Broek", "gender": "v", "place": "Rotterdam", "full_name": "A. van den Broek", "position": 6}, {"first_name": "Irja", "last_name": "Verweijen-Steenaart", "gender": "v", "place": "Capelle aan den IJssel", "full_name": "I.B. Verweijen-Steenaart", "position": 7}, {"first_name": "Jan Hendrik", "last_name": "Bos", "gender": "m", "place": "Rotterdam", "full_name": "J.H. Bos", "position": 8}, {"first_name": "Hans", "last_name": "Bongers", "gender": "m", "place": "Zoetermeer", "full_name": "J. Bongers", "position": 9}, {"first_name": "Paul", "last_name": "Steinmann", "gender": "m", "place": "Rotterdam", "full_name": "P.C.J.M. Steinmann", "position": 10}, {"first_name": "Jirja", "last_name": "de Kool", "gender": "v", "place": "Rotterdam", "full_name": "J. de Kool", "position": 11}, {"first_name": "Cees", "last_name": "Ooms", "gender": "m", "place": "Krimpen aan den IJssel", "full_name": "C.A. Ooms", "position": 12}, {"first_name": "Peter", "last_name": "de Weerdt", "gender": "m", "place": "Rotterdam", "full_name": "P.T. de Weerdt", "position": 13}, {"first_name": "Nienke", "last_name": "Bouwhuis", "gender": "v", "place": "Rotterdam", "full_name": "A.H. Bouwhuis", "position": 14}, {"first_name": "Leo", "last_name": "Loch", "gender": "m", "place": "Moordrecht", "full_name": "L.A.G. Loch", "position": 15}, {"first_name": "Arjan", "last_name": "van der Mark", "gender": "m", "place": "Moordrecht", "full_name": "A.J. van der Mark", "position": 16}, {"first_name": "Bart", "last_name": "van der Waal", "gender": "m", "place": "Capelle aan den IJssel", "full_name": "B.P.W. van der Waal", "position": 17}, {"first_name": "Kor", "last_name": "van der Glas", "gender": "m", "place": "Nieuwerkerk aan den IJssel", "full_name": "K. van der Glas", "position": 18}, {"first_name": "Debora", "last_name": "Fernald", "gender": "v", "place": "Rotterdam", "full_name": "D.H.G. Fernald", "position": 19}, {"first_name": "Mea", "last_name": "van Ravesteijn", "gender": "v", "place": "Rotterdam", "full_name": "M.J. van Ravesteijn", "position": 20}, {"first_name": "Anton", "last_name": "de Man", "gender": "m", "place": "Rotterdam", "full_name": "A.F. de Man", "position": 21}], "title": "Lijst_3_Water_Natuurlijk"}
+{
+  "title": "Lijst 3 Water Natuurlijk",
+  "description": "",
+  "candidates": [
+    {
+      "position": 1,
+      "full_name": "A.S. Deul",
+      "place": "Rotterdam",
+      "gender": "m",
+      "last_name": "Deul",
+      "first_name": "Antoin"
+    },
+    {
+      "position": 2,
+      "full_name": "A.M. van Zoelen",
+      "place": "Rotterdam",
+      "gender": "v",
+      "last_name": "van Zoelen",
+      "first_name": "Agnes"
+    },
+    {
+      "position": 3,
+      "full_name": "T.A. Nauta",
+      "place": "Rotterdam",
+      "gender": "m",
+      "last_name": "Nauta",
+      "first_name": "Tjitte"
+    },
+    {
+      "position": 4,
+      "full_name": "J.A. Gast",
+      "place": "Moordrecht",
+      "gender": "m",
+      "last_name": "Gast",
+      "first_name": "Ron"
+    },
+    {
+      "position": 5,
+      "full_name": "J.J. Leeuwangh",
+      "place": "Krimpen aan den IJssel",
+      "gender": "m",
+      "last_name": "Leeuwangh",
+      "first_name": "Jan"
+    },
+    {
+      "position": 6,
+      "full_name": "A. van den Broek",
+      "place": "Rotterdam",
+      "gender": "v",
+      "last_name": "van den Broek",
+      "first_name": "Annemarie"
+    },
+    {
+      "position": 7,
+      "full_name": "I.B. Verweijen-Steenaart",
+      "place": "Capelle aan den IJssel",
+      "gender": "v",
+      "last_name": "Verweijen-Steenaart",
+      "first_name": "Irja"
+    },
+    {
+      "position": 8,
+      "full_name": "J.H. Bos",
+      "place": "Rotterdam",
+      "gender": "m",
+      "last_name": "Bos",
+      "first_name": "Jan Hendrik"
+    },
+    {
+      "position": 9,
+      "full_name": "J. Bongers",
+      "place": "Zoetermeer",
+      "gender": "m",
+      "last_name": "Bongers",
+      "first_name": "Hans"
+    },
+    {
+      "position": 10,
+      "full_name": "P.C.J.M. Steinmann",
+      "place": "Rotterdam",
+      "gender": "m",
+      "last_name": "Steinmann",
+      "first_name": "Paul"
+    },
+    {
+      "position": 11,
+      "full_name": "J. de Kool",
+      "place": "Rotterdam",
+      "gender": "v",
+      "last_name": "de Kool",
+      "first_name": "Jirja"
+    },
+    {
+      "position": 12,
+      "full_name": "C.A. Ooms",
+      "place": "Krimpen aan den IJssel",
+      "gender": "m",
+      "last_name": "Ooms",
+      "first_name": "Cees"
+    },
+    {
+      "position": 13,
+      "full_name": "P.T. de Weerdt",
+      "place": "Rotterdam",
+      "gender": "m",
+      "last_name": "de Weerdt",
+      "first_name": "Peter"
+    },
+    {
+      "position": 14,
+      "full_name": "A.H. Bouwhuis",
+      "place": "Rotterdam",
+      "gender": "v",
+      "last_name": "Bouwhuis",
+      "first_name": "Nienke"
+    },
+    {
+      "position": 15,
+      "full_name": "L.A.G. Loch",
+      "place": "Moordrecht",
+      "gender": "m",
+      "last_name": "Loch",
+      "first_name": "Leo"
+    },
+    {
+      "position": 16,
+      "full_name": "A.J. van der Mark",
+      "place": "Moordrecht",
+      "gender": "m",
+      "last_name": "van der Mark",
+      "first_name": "Arjan"
+    },
+    {
+      "position": 17,
+      "full_name": "B.P.W. van der Waal",
+      "place": "Capelle aan den IJssel",
+      "gender": "m",
+      "last_name": "van der Waal",
+      "first_name": "Bart"
+    },
+    {
+      "position": 18,
+      "full_name": "K. van der Glas",
+      "place": "Nieuwerkerk aan den IJssel",
+      "gender": "m",
+      "last_name": "van der Glas",
+      "first_name": "Kor"
+    },
+    {
+      "position": 19,
+      "full_name": "D.H.G. Fernald",
+      "place": "Rotterdam",
+      "gender": "v",
+      "last_name": "Fernald",
+      "first_name": "Debora"
+    },
+    {
+      "position": 20,
+      "full_name": "M.J. van Ravesteijn",
+      "place": "Rotterdam",
+      "gender": "v",
+      "last_name": "van Ravesteijn",
+      "first_name": "Mea"
+    },
+    {
+      "position": 21,
+      "full_name": "A.F. de Man",
+      "place": "Rotterdam",
+      "gender": "m",
+      "last_name": "de Man",
+      "first_name": "Anton"
+    }
+  ]
+}

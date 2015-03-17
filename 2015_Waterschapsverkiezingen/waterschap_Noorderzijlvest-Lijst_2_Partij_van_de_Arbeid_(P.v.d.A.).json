@@ -1,1 +1,70 @@
-{"description": "", "members": [{"first_name": "Henk", "last_name": "Boldewijn", "gender": "m", "place": "Groningen", "full_name": "H.A. Boldewijn", "position": 1}, {"first_name": "Herman", "last_name": "Beerda", "gender": "m", "place": "Vries", "full_name": "H. Beerda", "position": 2}, {"first_name": "Yvonne", "last_name": "Morselt-de Ruijter", "gender": "v", "place": "Ten Boer", "full_name": "Y.M.M. Morselt-de Ruijter", "position": 3}, {"first_name": "Martin", "last_name": "van Opijnen", "gender": "m", "place": "Winsum", "full_name": "M. van Opijnen", "position": 4}, {"first_name": "Han", "last_name": "Meuleman", "gender": "m", "place": "Saaksum", "full_name": "J.G.E. Meuleman", "position": 5}, {"first_name": "Roelf", "last_name": "Wierenga", "gender": "m", "place": "Uithuizen", "full_name": "R. Wierenga", "position": 6}, {"first_name": "Otto", "last_name": "Bakker", "gender": "m", "place": "Eelde", "full_name": "O. Bakker", "position": 7}, {"first_name": "Francie", "last_name": "Kaaijk-Jacobs", "gender": "v", "place": "Warffum", "full_name": "F.G.J.M. Kaaijk-Jacobs", "position": 8}], "title": "Lijst_2_Partij_van_de_Arbeid_(P.v.d.A.)"}
+{
+  "title": "Lijst 2 Partij van de Arbeid (P.v.d.A.)",
+  "description": "",
+  "candidates": [
+    {
+      "position": 1,
+      "full_name": "H.A. Boldewijn",
+      "place": "Groningen",
+      "gender": "m",
+      "last_name": "Boldewijn",
+      "first_name": "Henk"
+    },
+    {
+      "position": 2,
+      "full_name": "H. Beerda",
+      "place": "Vries",
+      "gender": "m",
+      "last_name": "Beerda",
+      "first_name": "Herman"
+    },
+    {
+      "position": 3,
+      "full_name": "Y.M.M. Morselt-de Ruijter",
+      "place": "Ten Boer",
+      "gender": "v",
+      "last_name": "Morselt-de Ruijter",
+      "first_name": "Yvonne"
+    },
+    {
+      "position": 4,
+      "full_name": "M. van Opijnen",
+      "place": "Winsum",
+      "gender": "m",
+      "last_name": "van Opijnen",
+      "first_name": "Martin"
+    },
+    {
+      "position": 5,
+      "full_name": "J.G.E. Meuleman",
+      "place": "Saaksum",
+      "gender": "m",
+      "last_name": "Meuleman",
+      "first_name": "Han"
+    },
+    {
+      "position": 6,
+      "full_name": "R. Wierenga",
+      "place": "Uithuizen",
+      "gender": "m",
+      "last_name": "Wierenga",
+      "first_name": "Roelf"
+    },
+    {
+      "position": 7,
+      "full_name": "O. Bakker",
+      "place": "Eelde",
+      "gender": "m",
+      "last_name": "Bakker",
+      "first_name": "Otto"
+    },
+    {
+      "position": 8,
+      "full_name": "F.G.J.M. Kaaijk-Jacobs",
+      "place": "Warffum",
+      "gender": "v",
+      "last_name": "Kaaijk-Jacobs",
+      "first_name": "Francie"
+    }
+  ]
+}

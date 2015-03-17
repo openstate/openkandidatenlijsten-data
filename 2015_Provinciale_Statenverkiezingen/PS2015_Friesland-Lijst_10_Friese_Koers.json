@@ -1,0 +1,78 @@
+{
+  "title": "Lijst 10 Friese Koers",
+  "description": "",
+  "candidates": [
+    {
+      "position": 1,
+      "full_name": "J.E. Hiemstra",
+      "place": "Sneek",
+      "gender": "m",
+      "last_name": "Hiemstra",
+      "first_name": "Jelle"
+    },
+    {
+      "position": 2,
+      "full_name": "L.J. Broumels",
+      "place": "Itens",
+      "gender": "v",
+      "last_name": "Broumels",
+      "first_name": "Lilian"
+    },
+    {
+      "position": 3,
+      "full_name": "G.P. Vermeulen",
+      "place": "Sneek",
+      "gender": "m",
+      "last_name": "Vermeulen",
+      "first_name": "Geert Pieter"
+    },
+    {
+      "position": 4,
+      "full_name": "A.H.J. Westra",
+      "place": "Marsum",
+      "gender": "m",
+      "last_name": "Westra",
+      "first_name": "Guus"
+    },
+    {
+      "position": 5,
+      "full_name": "B.T. Huisman",
+      "place": "Sneek",
+      "gender": "v",
+      "last_name": "Huisman",
+      "first_name": "Bea"
+    },
+    {
+      "position": 6,
+      "full_name": "P. Burema",
+      "place": "Stiens",
+      "gender": "m",
+      "last_name": "Burema",
+      "first_name": "Peter"
+    },
+    {
+      "position": 7,
+      "full_name": "M. Stellingwerf",
+      "place": "Leeuwarden",
+      "gender": "m",
+      "last_name": "Stellingwerf",
+      "first_name": "Martin"
+    },
+    {
+      "position": 8,
+      "full_name": "A. Feenstra",
+      "place": "Sneek",
+      "gender": "v",
+      "last_name": "Feenstra",
+      "first_name": "Astrid"
+    },
+    {
+      "position": 9,
+      "full_name": "C.J.G.J. de Jong",
+      "place": "Stiens",
+      "gender": "m",
+      "last_name": "de Jong",
+      "first_name": "Kees"
+    }
+  ]
+}

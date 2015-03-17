@@ -1,0 +1,182 @@
+{
+  "title": "Lijst_4 Partij van de Arbeid (P.v.d.A.)",
+  "description": "",
+  "candidates": [
+    {
+      "position": 1,
+      "full_name": "E. Geurts",
+      "place": "Brunssum",
+      "gender": "m",
+      "last_name": "Geurts",
+      "first_name": "Eric"
+    },
+    {
+      "position": 2,
+      "full_name": "J.J.M. Kuntzelaers",
+      "place": "Venlo",
+      "gender": "m",
+      "last_name": "Kuntzelaers",
+      "first_name": "Jasper"
+    },
+    {
+      "position": 3,
+      "full_name": "T.A.H. Houben",
+      "place": "Roermond",
+      "gender": "v",
+      "last_name": "Houben",
+      "first_name": "Tirza"
+    },
+    {
+      "position": 4,
+      "full_name": "Z. Bouders",
+      "place": "Venlo",
+      "gender": "m",
+      "last_name": "Bouders",
+      "first_name": "Zakaria"
+    },
+    {
+      "position": 5,
+      "full_name": "A. Tromp",
+      "place": "Maastricht",
+      "gender": "m",
+      "last_name": "Tromp",
+      "first_name": "Sander"
+    },
+    {
+      "position": 6,
+      "full_name": "L.F.A. Heuvelmans",
+      "place": "Weert",
+      "gender": "m",
+      "last_name": "Heuvelmans",
+      "first_name": "Leon"
+    },
+    {
+      "position": 7,
+      "full_name": "T.H. Kersten",
+      "place": "Gennep",
+      "gender": "m",
+      "last_name": "Kersten",
+      "first_name": "Theo"
+    },
+    {
+      "position": 8,
+      "full_name": "J.H. Bours-Vogels",
+      "place": "Maasbracht",
+      "gender": "v",
+      "last_name": "Bours-Vogels",
+      "first_name": "Anneke"
+    },
+    {
+      "position": 9,
+      "full_name": "E. van Wamelen",
+      "place": "Venray",
+      "gender": "v",
+      "last_name": "van Wamelen",
+      "first_name": "Esther"
+    },
+    {
+      "position": 10,
+      "full_name": "L.E.H. Kockelkoren",
+      "place": "Nuth",
+      "gender": "m",
+      "last_name": "Kockelkoren",
+      "first_name": "Lars"
+    },
+    {
+      "position": 11,
+      "full_name": "A. Berghorst",
+      "place": "Maastricht",
+      "gender": "v",
+      "last_name": "Berghorst",
+      "first_name": "Aleida"
+    },
+    {
+      "position": 12,
+      "full_name": "H.L. Glessner",
+      "place": "Horn",
+      "gender": "v",
+      "last_name": "Glessner",
+      "first_name": "Hilde"
+    },
+    {
+      "position": 13,
+      "full_name": "M.H.M. Frenken-Ras",
+      "place": "Ospel",
+      "gender": "v",
+      "last_name": "Frenken-Ras",
+      "first_name": "Maria"
+    },
+    {
+      "position": 14,
+      "full_name": "L.C.C.M. Wolters",
+      "place": "Susteren",
+      "gender": "v",
+      "last_name": "Wolters",
+      "first_name": "Lisa"
+    },
+    {
+      "position": 15,
+      "full_name": "F.B.E. Hölscher",
+      "place": "Heerlen",
+      "gender": "m",
+      "last_name": "Hölscher",
+      "first_name": "Frans"
+    },
+    {
+      "position": 16,
+      "full_name": "J.C.L. Aelen",
+      "place": "Posterholt",
+      "gender": "v",
+      "last_name": "Aelen",
+      "first_name": "Jacqueline"
+    },
+    {
+      "position": 17,
+      "full_name": "R.G.J. Bouten",
+      "place": "Horst",
+      "gender": "m",
+      "last_name": "Bouten",
+      "first_name": "Roy"
+    },
+    {
+      "position": 18,
+      "full_name": "A. Primowees",
+      "place": "Maasbree",
+      "gender": "v",
+      "last_name": "Primowees",
+      "first_name": "Annigje"
+    },
+    {
+      "position": 19,
+      "full_name": "C.G.P.M. Peters",
+      "place": "Molenhoek",
+      "gender": "v",
+      "last_name": "Peters",
+      "first_name": "Karin"
+    },
+    {
+      "position": 20,
+      "full_name": "C.W.J.M. Roefs",
+      "place": "Bergen (L)",
+      "gender": "v",
+      "last_name": "Roefs",
+      "first_name": "Lia"
+    },
+    {
+      "position": 21,
+      "full_name": "J.A.P. Smeets",
+      "place": "Einighausen",
+      "gender": "m",
+      "last_name": "Smeets",
+      "first_name": "Jan"
+    },
+    {
+      "position": 22,
+      "full_name": "P.H. van Dijk",
+      "place": "Heerlen",
+      "gender": "m",
+      "last_name": "van Dijk",
+      "first_name": "Peter"
+    }
+  ]
+}

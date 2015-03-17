@@ -1,1 +1,150 @@
-{"description": "Gecombineerd met Staatkundig Gereformeerde Partij (SGP)", "members": [{"first_name": "Teus", "last_name": "Stam", "gender": "m", "place": "Alblasserdam", "full_name": "T. Stam", "position": 1}, {"first_name": "Harrie", "last_name": "Drost", "gender": "m", "place": "Dodewaard", "full_name": "H.P. Drost", "position": 2}, {"first_name": "Wilco", "last_name": "Scheurwater", "gender": "m", "place": "Papendrecht", "full_name": "W.C. Scheurwater", "position": 3}, {"first_name": "Marijn", "last_name": "Gunnink", "gender": "m", "place": "Nijmegen", "full_name": "M. Gunnink", "position": 4}, {"first_name": "Oene", "last_name": "Sierksma", "gender": "m", "place": "Papendrecht", "full_name": "O. Sierksma", "position": 5}, {"first_name": "Machiel", "last_name": "Verdoorn", "gender": "m", "place": "Werkendam", "full_name": "M. Verdoorn", "position": 6}, {"first_name": "Hanny", "last_name": "van Brakel-Huijgen", "gender": "v", "place": "Randwijk", "full_name": "J.J. van Brakel-Huijgen", "position": 7}, {"first_name": "Dikjan", "last_name": "Bos", "gender": "m", "place": "Waal", "full_name": "D.K. Bos", "position": 8}, {"first_name": "Peter", "last_name": "Boogaarts", "gender": "m", "place": "Dussen", "full_name": "P.C. Boogaarts", "position": 9}, {"first_name": "Leen", "last_name": "Trouwborst", "gender": "m", "place": "Hoornaar", "full_name": "L. Trouwborst", "position": 10}, {"first_name": "Jan", "last_name": "van Beuzekom", "gender": "m", "place": "Schoonrewoerd", "full_name": "J. van Beuzekom", "position": 11}, {"first_name": "Izak", "last_name": "Koedoot", "gender": "m", "place": "Andel", "full_name": "I.C. Koedoot", "position": 12}, {"first_name": "Henk", "last_name": "Aantjes", "gender": "m", "place": "Brandwijk", "full_name": "H.N. Aantjes", "position": 13}, {"first_name": "Gert-Jan", "last_name": "Donker", "gender": "m", "place": "Vuren", "full_name": "G.J. Donker", "position": 14}, {"first_name": "Wijnand", "last_name": "van der Hoeven", "gender": "m", "place": "Wijk en Aalburg", "full_name": "W.H. van der Hoeven", "position": 15}, {"first_name": "Thomas", "last_name": "Bassa", "gender": "m", "place": "Meerkerk", "full_name": "T. Bassa", "position": 16}, {"first_name": "Gert", "last_name": "Mostert", "gender": "m", "place": "Culemborg", "full_name": "G. Mostert", "position": 17}, {"first_name": "Anne", "last_name": "Duizer", "gender": "m", "place": "Giessen", "full_name": "A. Duizer", "position": 18}], "title": "Lijst_8_ChristenUnie"}
+{
+  "title": "Lijst 8 ChristenUnie",
+  "description": "Gecombineerd met Staatkundig Gereformeerde Partij (SGP)",
+  "candidates": [
+    {
+      "position": 1,
+      "full_name": "T. Stam",
+      "place": "Alblasserdam",
+      "gender": "m",
+      "last_name": "Stam",
+      "first_name": "Teus"
+    },
+    {
+      "position": 2,
+      "full_name": "H.P. Drost",
+      "place": "Dodewaard",
+      "gender": "m",
+      "last_name": "Drost",
+      "first_name": "Harrie"
+    },
+    {
+      "position": 3,
+      "full_name": "W.C. Scheurwater",
+      "place": "Papendrecht",
+      "gender": "m",
+      "last_name": "Scheurwater",
+      "first_name": "Wilco"
+    },
+    {
+      "position": 4,
+      "full_name": "M. Gunnink",
+      "place": "Nijmegen",
+      "gender": "m",
+      "last_name": "Gunnink",
+      "first_name": "Marijn"
+    },
+    {
+      "position": 5,
+      "full_name": "O. Sierksma",
+      "place": "Papendrecht",
+      "gender": "m",
+      "last_name": "Sierksma",
+      "first_name": "Oene"
+    },
+    {
+      "position": 6,
+      "full_name": "M. Verdoorn",
+      "place": "Werkendam",
+      "gender": "m",
+      "last_name": "Verdoorn",
+      "first_name": "Machiel"
+    },
+    {
+      "position": 7,
+      "full_name": "J.J. van Brakel-Huijgen",
+      "place": "Randwijk",
+      "gender": "v",
+      "last_name": "van Brakel-Huijgen",
+      "first_name": "Hanny"
+    },
+    {
+      "position": 8,
+      "full_name": "D.K. Bos",
+      "place": "Waal",
+      "gender": "m",
+      "last_name": "Bos",
+      "first_name": "Dikjan"
+    },
+    {
+      "position": 9,
+      "full_name": "P.C. Boogaarts",
+      "place": "Dussen",
+      "gender": "m",
+      "last_name": "Boogaarts",
+      "first_name": "Peter"
+    },
+    {
+      "position": 10,
+      "full_name": "L. Trouwborst",
+      "place": "Hoornaar",
+      "gender": "m",
+      "last_name": "Trouwborst",
+      "first_name": "Leen"
+    },
+    {
+      "position": 11,
+      "full_name": "J. van Beuzekom",
+      "place": "Schoonrewoerd",
+      "gender": "m",
+      "last_name": "van Beuzekom",
+      "first_name": "Jan"
+    },
+    {
+      "position": 12,
+      "full_name": "I.C. Koedoot",
+      "place": "Andel",
+      "gender": "m",
+      "last_name": "Koedoot",
+      "first_name": "Izak"
+    },
+    {
+      "position": 13,
+      "full_name": "H.N. Aantjes",
+      "place": "Brandwijk",
+      "gender": "m",
+      "last_name": "Aantjes",
+      "first_name": "Henk"
+    },
+    {
+      "position": 14,
+      "full_name": "G.J. Donker",
+      "place": "Vuren",
+      "gender": "m",
+      "last_name": "Donker",
+      "first_name": "Gert-Jan"
+    },
+    {
+      "position": 15,
+      "full_name": "W.H. van der Hoeven",
+      "place": "Wijk en Aalburg",
+      "gender": "m",
+      "last_name": "van der Hoeven",
+      "first_name": "Wijnand"
+    },
+    {
+      "position": 16,
+      "full_name": "T. Bassa",
+      "place": "Meerkerk",
+      "gender": "m",
+      "last_name": "Bassa",
+      "first_name": "Thomas"
+    },
+    {
+      "position": 17,
+      "full_name": "G. Mostert",
+      "place": "Culemborg",
+      "gender": "m",
+      "last_name": "Mostert",
+      "first_name": "Gert"
+    },
+    {
+      "position": 18,
+      "full_name": "A. Duizer",
+      "place": "Giessen",
+      "gender": "m",
+      "last_name": "Duizer",
+      "first_name": "Anne"
+    }
+  ]
+}

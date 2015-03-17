@@ -1,1 +1,350 @@
-{"description": "Gecombineerd met West-Brabant Waterbreed", "members": [{"first_name": "Louis", "last_name": "van der Kallen", "gender": "m", "place": "Bergen op Zoom", "full_name": "L.H. van der Kallen", "position": 1}, {"first_name": "Wiebo", "last_name": "de Boer", "gender": "m", "place": "Roosendaal", "full_name": "W.J.H. de Boer", "position": 2}, {"first_name": "Jan", "last_name": "Slenders", "gender": "m", "place": "Raamsdonksveer", "full_name": "J.A.M. Slenders", "position": 3}, {"first_name": "Ger", "last_name": "de Neve", "gender": "m", "place": "Steenbergen", "full_name": "G.G. de Neve", "position": 4}, {"first_name": "Henk", "last_name": "van Komen", "gender": "m", "place": "Kaatsheuvel", "full_name": "H.J. van Komen", "position": 5}, {"first_name": "Aydin", "last_name": "Akkaya", "gender": "m", "place": "Bergen op Zoom", "full_name": "A. Akkaya", "position": 6}, {"first_name": "Chris", "last_name": "Ooms", "gender": "m", "place": "Lepelstraat", "full_name": "C.W.F.M. Ooms", "position": 7}, {"first_name": "Peter", "last_name": "van den Ouden", "gender": "m", "place": "Bergen op Zoom", "full_name": "P.A. van den Ouden", "position": 8}, {"first_name": "Cees", "last_name": "Huijssoon", "gender": "m", "place": "Zevenbergen", "full_name": "C. Huijssoon", "position": 9}, {"first_name": "Fred", "last_name": "Wozniak", "gender": "m", "place": "Langeweg", "full_name": "F.W. Wozniak", "position": 10}, {"first_name": "Keesjan", "last_name": "Coenraad", "gender": "m", "place": "Tilburg", "full_name": "C.J.G. Coenraad", "position": 11}, {"first_name": "Marc", "last_name": "Augustijn", "gender": "m", "place": "Hoogerheide", "full_name": "M.P.M. Augustijn", "position": 12}, {"first_name": "Domien", "last_name": "van den Berg", "gender": "m", "place": "Made", "full_name": "D.J.P.M. van den Berg", "position": 13}, {"first_name": "Ton", "last_name": "Schijvenaars", "gender": "m", "place": "Roosendaal", "full_name": "A.J. Schijvenaars", "position": 14}, {"first_name": "Corn\u00e9", "last_name": "Welten", "gender": "m", "place": "Lage Zwaluwe", "full_name": "C.J.A. Welten", "position": 15}, {"first_name": "Wil", "last_name": "Borm", "gender": "m", "place": "Etten-Leur", "full_name": "W.J. Borm", "position": 16}, {"first_name": "Nick", "last_name": "Robben", "gender": "m", "place": "Tilburg", "full_name": "N.G. Robben", "position": 17}, {"first_name": "Piet", "last_name": "Hermus", "gender": "m", "place": "Zevenbergschen Hoek", "full_name": "P.C.B.M. Hermus", "position": 18}, {"first_name": "Rob", "last_name": "van Engelen", "gender": "m", "place": "Dinteloord", "full_name": "R.G. van Engelen", "position": 19}, {"first_name": "John", "last_name": "Leunisse", "gender": "m", "place": "Breda", "full_name": "J.C.C. Leunisse", "position": 20}, {"first_name": "Farid", "last_name": "El-Khassim", "gender": "m", "place": "Bergen op Zoom", "full_name": "F. El-Khassim", "position": 21}, {"first_name": "Piet", "last_name": "van den Kieboom", "gender": "m", "place": "Bergen op Zoom", "full_name": "P.M.I. van den Kieboom", "position": 22}, {"first_name": "Peet", "last_name": "Bakx", "gender": "m", "place": "Bergen op Zoom", "full_name": "P.C.M. Bakx", "position": 23}, {"first_name": "Diana", "last_name": "van Beest", "gender": "v", "place": "Bergen op Zoom", "full_name": "D. van Beest", "position": 24}, {"first_name": "Ennely", "last_name": "den Ronden", "gender": "v", "place": "Halsteren", "full_name": "A.P.C. den Ronden", "position": 25}, {"first_name": "Hadid", "last_name": "Wahdat", "gender": "m", "place": "Bergen op Zoom", "full_name": "H. Wahdat", "position": 26}, {"first_name": "Marcel", "last_name": "Mulder", "gender": "m", "place": "Bergen op Zoom", "full_name": "M.C. Mulder", "position": 27}, {"first_name": "Jan", "last_name": "van de Water", "gender": "m", "place": "Bergen op Zoom", "full_name": "J. van de Water", "position": 28}, {"first_name": "Ronald", "last_name": "Ravensteijn", "gender": "m", "place": "Bergen op Zoom", "full_name": "R. Ravensteijn", "position": 29}, {"first_name": "Piet", "last_name": "Juten", "gender": "m", "place": "Bergen op Zoom", "full_name": "P.W. Juten", "position": 30}, {"first_name": "Margret", "last_name": "Vreedenburgh", "gender": "v", "place": "Bergen op Zoom", "full_name": "M.M. Vreedenburgh", "position": 31}, {"first_name": "Harry", "last_name": "Weijts", "gender": "m", "place": "Bergen op Zoom", "full_name": "A.C.H.M. Weijts", "position": 32}, {"first_name": "Roger", "last_name": "van Dijk", "gender": "m", "place": "Bergen op Zoom", "full_name": "R.A.C.M. van Dijk", "position": 33}, {"first_name": "Stephan", "last_name": "Asselbergs", "gender": "m", "place": "Bergen op Zoom", "full_name": "S.C.M. Asselbergs", "position": 34}, {"first_name": "Rien", "last_name": "Slagter", "gender": "m", "place": "Steenbergen", "full_name": "M.P.J. Slagter", "position": 35}, {"first_name": "Auri", "last_name": "Peters", "gender": "v", "place": "Bergen op Zoom", "full_name": "A.D.J. Peters", "position": 36}, {"first_name": "Henk", "last_name": "Ditmer", "gender": "m", "place": "Bergen op Zoom", "full_name": "H.W.M. Ditmer", "position": 37}, {"first_name": "Melanie", "last_name": "Keller", "gender": "v", "place": "Bergen op Zoom", "full_name": "M. Keller", "position": 38}, {"first_name": "Piet", "last_name": "Borghstijn", "gender": "m", "place": "Bergen op Zoom", "full_name": "P.C.T. Borghstijn", "position": 39}, {"first_name": "Hans", "last_name": "Boschman", "gender": "m", "place": "Bergen op Zoom", "full_name": "J.E.M. Boschman", "position": 40}, {"first_name": "Ren\u00e9", "last_name": "Langenberg", "gender": "m", "place": "Bergen op Zoom", "full_name": "M.J.C. Langenberg", "position": 41}, {"first_name": "Tineke", "last_name": "Mets", "gender": "v", "place": "Bergen op Zoom", "full_name": "T.T. Mets", "position": 42}, {"first_name": "Jan", "last_name": "van Groos", "gender": "m", "place": "Waalwijk", "full_name": "J. van Groos", "position": 43}], "title": "Lijst_3_Ons_Water"}
+{
+  "title": "Lijst 3 Ons Water",
+  "description": "Gecombineerd met West-Brabant Waterbreed",
+  "candidates": [
+    {
+      "position": 1,
+      "full_name": "L.H. van der Kallen",
+      "place": "Bergen op Zoom",
+      "gender": "m",
+      "last_name": "van der Kallen",
+      "first_name": "Louis"
+    },
+    {
+      "position": 2,
+      "full_name": "W.J.H. de Boer",
+      "place": "Roosendaal",
+      "gender": "m",
+      "last_name": "de Boer",
+      "first_name": "Wiebo"
+    },
+    {
+      "position": 3,
+      "full_name": "J.A.M. Slenders",
+      "place": "Raamsdonksveer",
+      "gender": "m",
+      "last_name": "Slenders",
+      "first_name": "Jan"
+    },
+    {
+      "position": 4,
+      "full_name": "G.G. de Neve",
+      "place": "Steenbergen",
+      "gender": "m",
+      "last_name": "de Neve",
+      "first_name": "Ger"
+    },
+    {
+      "position": 5,
+      "full_name": "H.J. van Komen",
+      "place": "Kaatsheuvel",
+      "gender": "m",
+      "last_name": "van Komen",
+      "first_name": "Henk"
+    },
+    {
+      "position": 6,
+      "full_name": "A. Akkaya",
+      "place": "Bergen op Zoom",
+      "gender": "m",
+      "last_name": "Akkaya",
+      "first_name": "Aydin"
+    },
+    {
+      "position": 7,
+      "full_name": "C.W.F.M. Ooms",
+      "place": "Lepelstraat",
+      "gender": "m",
+      "last_name": "Ooms",
+      "first_name": "Chris"
+    },
+    {
+      "position": 8,
+      "full_name": "P.A. van den Ouden",
+      "place": "Bergen op Zoom",
+      "gender": "m",
+      "last_name": "van den Ouden",
+      "first_name": "Peter"
+    },
+    {
+      "position": 9,
+      "full_name": "C. Huijssoon",
+      "place": "Zevenbergen",
+      "gender": "m",
+      "last_name": "Huijssoon",
+      "first_name": "Cees"
+    },
+    {
+      "position": 10,
+      "full_name": "F.W. Wozniak",
+      "place": "Langeweg",
+      "gender": "m",
+      "last_name": "Wozniak",
+      "first_name": "Fred"
+    },
+    {
+      "position": 11,
+      "full_name": "C.J.G. Coenraad",
+      "place": "Tilburg",
+      "gender": "m",
+      "last_name": "Coenraad",
+      "first_name": "Keesjan"
+    },
+    {
+      "position": 12,
+      "full_name": "M.P.M. Augustijn",
+      "place": "Hoogerheide",
+      "gender": "m",
+      "last_name": "Augustijn",
+      "first_name": "Marc"
+    },
+    {
+      "position": 13,
+      "full_name": "D.J.P.M. van den Berg",
+      "place": "Made",
+      "gender": "m",
+      "last_name": "van den Berg",
+      "first_name": "Domien"
+    },
+    {
+      "position": 14,
+      "full_name": "A.J. Schijvenaars",
+      "place": "Roosendaal",
+      "gender": "m",
+      "last_name": "Schijvenaars",
+      "first_name": "Ton"
+    },
+    {
+      "position": 15,
+      "full_name": "C.J.A. Welten",
+      "place": "Lage Zwaluwe",
+      "gender": "m",
+      "last_name": "Welten",
+      "first_name": "Corné"
+    },
+    {
+      "position": 16,
+      "full_name": "W.J. Borm",
+      "place": "Etten-Leur",
+      "gender": "m",
+      "last_name": "Borm",
+      "first_name": "Wil"
+    },
+    {
+      "position": 17,
+      "full_name": "N.G. Robben",
+      "place": "Tilburg",
+      "gender": "m",
+      "last_name": "Robben",
+      "first_name": "Nick"
+    },
+    {
+      "position": 18,
+      "full_name": "P.C.B.M. Hermus",
+      "place": "Zevenbergschen Hoek",
+      "gender": "m",
+      "last_name": "Hermus",
+      "first_name": "Piet"
+    },
+    {
+      "position": 19,
+      "full_name": "R.G. van Engelen",
+      "place": "Dinteloord",
+      "gender": "m",
+      "last_name": "van Engelen",
+      "first_name": "Rob"
+    },
+    {
+      "position": 20,
+      "full_name": "J.C.C. Leunisse",
+      "place": "Breda",
+      "gender": "m",
+      "last_name": "Leunisse",
+      "first_name": "John"
+    },
+    {
+      "position": 21,
+      "full_name": "F. El-Khassim",
+      "place": "Bergen op Zoom",
+      "gender": "m",
+      "last_name": "El-Khassim",
+      "first_name": "Farid"
+    },
+    {
+      "position": 22,
+      "full_name": "P.M.I. van den Kieboom",
+      "place": "Bergen op Zoom",
+      "gender": "m",
+      "last_name": "van den Kieboom",
+      "first_name": "Piet"
+    },
+    {
+      "position": 23,
+      "full_name": "P.C.M. Bakx",
+      "place": "Bergen op Zoom",
+      "gender": "m",
+      "last_name": "Bakx",
+      "first_name": "Peet"
+    },
+    {
+      "position": 24,
+      "full_name": "D. van Beest",
+      "place": "Bergen op Zoom",
+      "gender": "v",
+      "last_name": "van Beest",
+      "first_name": "Diana"
+    },
+    {
+      "position": 25,
+      "full_name": "A.P.C. den Ronden",
+      "place": "Halsteren",
+      "gender": "v",
+      "last_name": "den Ronden",
+      "first_name": "Ennely"
+    },
+    {
+      "position": 26,
+      "full_name": "H. Wahdat",
+      "place": "Bergen op Zoom",
+      "gender": "m",
+      "last_name": "Wahdat",
+      "first_name": "Hadid"
+    },
+    {
+      "position": 27,
+      "full_name": "M.C. Mulder",
+      "place": "Bergen op Zoom",
+      "gender": "m",
+      "last_name": "Mulder",
+      "first_name": "Marcel"
+    },
+    {
+      "position": 28,
+      "full_name": "J. van de Water",
+      "place": "Bergen op Zoom",
+      "gender": "m",
+      "last_name": "van de Water",
+      "first_name": "Jan"
+    },
+    {
+      "position": 29,
+      "full_name": "R. Ravensteijn",
+      "place": "Bergen op Zoom",
+      "gender": "m",
+      "last_name": "Ravensteijn",
+      "first_name": "Ronald"
+    },
+    {
+      "position": 30,
+      "full_name": "P.W. Juten",
+      "place": "Bergen op Zoom",
+      "gender": "m",
+      "last_name": "Juten",
+      "first_name": "Piet"
+    },
+    {
+      "position": 31,
+      "full_name": "M.M. Vreedenburgh",
+      "place": "Bergen op Zoom",
+      "gender": "v",
+      "last_name": "Vreedenburgh",
+      "first_name": "Margret"
+    },
+    {
+      "position": 32,
+      "full_name": "A.C.H.M. Weijts",
+      "place": "Bergen op Zoom",
+      "gender": "m",
+      "last_name": "Weijts",
+      "first_name": "Harry"
+    },
+    {
+      "position": 33,
+      "full_name": "R.A.C.M. van Dijk",
+      "place": "Bergen op Zoom",
+      "gender": "m",
+      "last_name": "van Dijk",
+      "first_name": "Roger"
+    },
+    {
+      "position": 34,
+      "full_name": "S.C.M. Asselbergs",
+      "place": "Bergen op Zoom",
+      "gender": "m",
+      "last_name": "Asselbergs",
+      "first_name": "Stephan"
+    },
+    {
+      "position": 35,
+      "full_name": "M.P.J. Slagter",
+      "place": "Steenbergen",
+      "gender": "m",
+      "last_name": "Slagter",
+      "first_name": "Rien"
+    },
+    {
+      "position": 36,
+      "full_name": "A.D.J. Peters",
+      "place": "Bergen op Zoom",
+      "gender": "v",
+      "last_name": "Peters",
+      "first_name": "Auri"
+    },
+    {
+      "position": 37,
+      "full_name": "H.W.M. Ditmer",
+      "place": "Bergen op Zoom",
+      "gender": "m",
+      "last_name": "Ditmer",
+      "first_name": "Henk"
+    },
+    {
+      "position": 38,
+      "full_name": "M. Keller",
+      "place": "Bergen op Zoom",
+      "gender": "v",
+      "last_name": "Keller",
+      "first_name": "Melanie"
+    },
+    {
+      "position": 39,
+      "full_name": "P.C.T. Borghstijn",
+      "place": "Bergen op Zoom",
+      "gender": "m",
+      "last_name": "Borghstijn",
+      "first_name": "Piet"
+    },
+    {
+      "position": 40,
+      "full_name": "J.E.M. Boschman",
+      "place": "Bergen op Zoom",
+      "gender": "m",
+      "last_name": "Boschman",
+      "first_name": "Hans"
+    },
+    {
+      "position": 41,
+      "full_name": "M.J.C. Langenberg",
+      "place": "Bergen op Zoom",
+      "gender": "m",
+      "last_name": "Langenberg",
+      "first_name": "René"
+    },
+    {
+      "position": 42,
+      "full_name": "T.T. Mets",
+      "place": "Bergen op Zoom",
+      "gender": "v",
+      "last_name": "Mets",
+      "first_name": "Tineke"
+    },
+    {
+      "position": 43,
+      "full_name": "J. van Groos",
+      "place": "Waalwijk",
+      "gender": "m",
+      "last_name": "van Groos",
+      "first_name": "Jan"
+    }
+  ]
+}

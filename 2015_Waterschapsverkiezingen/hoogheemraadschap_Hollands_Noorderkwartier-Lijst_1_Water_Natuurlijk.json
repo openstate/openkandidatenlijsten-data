@@ -1,1 +1,174 @@
-{"description": "", "members": [{"first_name": "Ruud", "last_name": "Maarschall", "gender": "m", "place": "Petten", "full_name": "R. Maarschall", "position": 1}, {"first_name": "Eva", "last_name": "Tannehill", "gender": "v", "place": "Hoorn", "full_name": "E.M. Tannehill", "position": 2}, {"first_name": "Gerard", "last_name": "Roosloot", "gender": "m", "place": "Bergen (NH)", "full_name": "G.P.W. Roosloot", "position": 3}, {"first_name": "Martijn", "last_name": "de Jong", "gender": "m", "place": "Alkmaar", "full_name": "M.J. de Jong", "position": 4}, {"first_name": "Egon", "last_name": "Baldal", "gender": "m", "place": "Wormer", "full_name": "E.A. Baldal", "position": 5}, {"first_name": "Andries", "last_name": "Tijssens", "gender": "m", "place": "Amsterdam", "full_name": "A.E. Tijssens", "position": 6}, {"first_name": "Karen", "last_name": "Jonkers", "gender": "v", "place": "Spierdijk", "full_name": "K.S.D. Jonkers", "position": 7}, {"first_name": "Sjon", "last_name": "Wagenaar", "gender": "m", "place": "Hoogkarspel", "full_name": "J.C.N. Wagenaar", "position": 8}, {"first_name": "Gerrit", "last_name": "Rot", "gender": "m", "place": "Schagen", "full_name": "G. Rot", "position": 9}, {"first_name": "George", "last_name": "Freijsen", "gender": "m", "place": "Hoorn", "full_name": "G.F.H. Freijsen", "position": 10}, {"first_name": "Lean", "last_name": "van 't Hooft", "gender": "v", "place": "Zaandam", "full_name": "L.A.M. van 't Hooft", "position": 11}, {"first_name": "Jan", "last_name": "Jansen", "gender": "m", "place": "Alkmaar", "full_name": "J.W.G.J. Jansen", "position": 12}, {"first_name": "Hendrik", "last_name": "Boland", "gender": "m", "place": "Enkhuizen", "full_name": "C.H. Boland", "position": 13}, {"first_name": "Christian", "last_name": "Schouten", "gender": "m", "place": "Oudorp", "full_name": "C.C. Schouten", "position": 14}, {"first_name": "Cor", "last_name": "Stoffelsma", "gender": "m", "place": "Hoorn", "full_name": "C. Stoffelsma", "position": 15}, {"first_name": "Michiel", "last_name": "Scheele", "gender": "m", "place": "Wervershoof", "full_name": "M. Scheele", "position": 16}, {"first_name": "Arie", "last_name": "de Graaf", "gender": "m", "place": "Broek op Langedijk", "full_name": "A. de Graaf", "position": 17}, {"first_name": "Jan", "last_name": "Frens", "gender": "m", "place": "Castricum", "full_name": "J. Frens", "position": 18}, {"first_name": "Barbara", "last_name": "van Beijma-vanDam", "gender": "v", "place": "Monnickendam", "full_name": "B.M. van Beijma-vanDam", "position": 19}, {"first_name": "Tineke", "last_name": "Molenaar-Langeveld", "gender": "v", "place": "Castricum", "full_name": "T.A. Molenaar-Langeveld", "position": 20}, {"first_name": "Jan", "last_name": "Kuiper", "gender": "m", "place": "Egmond-Binnen", "full_name": "J. Kuiper", "position": 21}], "title": "Lijst_1_Water_Natuurlijk"}
+{
+  "title": "Lijst 1 Water Natuurlijk",
+  "description": "",
+  "candidates": [
+    {
+      "position": 1,
+      "full_name": "R. Maarschall",
+      "place": "Petten",
+      "gender": "m",
+      "last_name": "Maarschall",
+      "first_name": "Ruud"
+    },
+    {
+      "position": 2,
+      "full_name": "E.M. Tannehill",
+      "place": "Hoorn",
+      "gender": "v",
+      "last_name": "Tannehill",
+      "first_name": "Eva"
+    },
+    {
+      "position": 3,
+      "full_name": "G.P.W. Roosloot",
+      "place": "Bergen (NH)",
+      "gender": "m",
+      "last_name": "Roosloot",
+      "first_name": "Gerard"
+    },
+    {
+      "position": 4,
+      "full_name": "M.J. de Jong",
+      "place": "Alkmaar",
+      "gender": "m",
+      "last_name": "de Jong",
+      "first_name": "Martijn"
+    },
+    {
+      "position": 5,
+      "full_name": "E.A. Baldal",
+      "place": "Wormer",
+      "gender": "m",
+      "last_name": "Baldal",
+      "first_name": "Egon"
+    },
+    {
+      "position": 6,
+      "full_name": "A.E. Tijssens",
+      "place": "Amsterdam",
+      "gender": "m",
+      "last_name": "Tijssens",
+      "first_name": "Andries"
+    },
+    {
+      "position": 7,
+      "full_name": "K.S.D. Jonkers",
+      "place": "Spierdijk",
+      "gender": "v",
+      "last_name": "Jonkers",
+      "first_name": "Karen"
+    },
+    {
+      "position": 8,
+      "full_name": "J.C.N. Wagenaar",
+      "place": "Hoogkarspel",
+      "gender": "m",
+      "last_name": "Wagenaar",
+      "first_name": "Sjon"
+    },
+    {
+      "position": 9,
+      "full_name": "G. Rot",
+      "place": "Schagen",
+      "gender": "m",
+      "last_name": "Rot",
+      "first_name": "Gerrit"
+    },
+    {
+      "position": 10,
+      "full_name": "G.F.H. Freijsen",
+      "place": "Hoorn",
+      "gender": "m",
+      "last_name": "Freijsen",
+      "first_name": "George"
+    },
+    {
+      "position": 11,
+      "full_name": "L.A.M. van 't Hooft",
+      "place": "Zaandam",
+      "gender": "v",
+      "last_name": "van 't Hooft",
+      "first_name": "Lean"
+    },
+    {
+      "position": 12,
+      "full_name": "J.W.G.J. Jansen",
+      "place": "Alkmaar",
+      "gender": "m",
+      "last_name": "Jansen",
+      "first_name": "Jan"
+    },
+    {
+      "position": 13,
+      "full_name": "C.H. Boland",
+      "place": "Enkhuizen",
+      "gender": "m",
+      "last_name": "Boland",
+      "first_name": "Hendrik"
+    },
+    {
+      "position": 14,
+      "full_name": "C.C. Schouten",
+      "place": "Oudorp",
+      "gender": "m",
+      "last_name": "Schouten",
+      "first_name": "Christian"
+    },
+    {
+      "position": 15,
+      "full_name": "C. Stoffelsma",
+      "place": "Hoorn",
+      "gender": "m",
+      "last_name": "Stoffelsma",
+      "first_name": "Cor"
+    },
+    {
+      "position": 16,
+      "full_name": "M. Scheele",
+      "place": "Wervershoof",
+      "gender": "m",
+      "last_name": "Scheele",
+      "first_name": "Michiel"
+    },
+    {
+      "position": 17,
+      "full_name": "A. de Graaf",
+      "place": "Broek op Langedijk",
+      "gender": "m",
+      "last_name": "de Graaf",
+      "first_name": "Arie"
+    },
+    {
+      "position": 18,
+      "full_name": "J. Frens",
+      "place": "Castricum",
+      "gender": "m",
+      "last_name": "Frens",
+      "first_name": "Jan"
+    },
+    {
+      "position": 19,
+      "full_name": "B.M. van Beijma-vanDam",
+      "place": "Monnickendam",
+      "gender": "v",
+      "last_name": "van Beijma-vanDam",
+      "first_name": "Barbara"
+    },
+    {
+      "position": 20,
+      "full_name": "T.A. Molenaar-Langeveld",
+      "place": "Castricum",
+      "gender": "v",
+      "last_name": "Molenaar-Langeveld",
+      "first_name": "Tineke"
+    },
+    {
+      "position": 21,
+      "full_name": "J. Kuiper",
+      "place": "Egmond-Binnen",
+      "gender": "m",
+      "last_name": "Kuiper",
+      "first_name": "Jan"
+    }
+  ]
+}

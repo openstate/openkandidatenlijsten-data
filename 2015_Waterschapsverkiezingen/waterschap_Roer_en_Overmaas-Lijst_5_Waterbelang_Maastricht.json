@@ -1,1 +1,142 @@
-{"description": "Gecombineerd met Waterbelang Parkstad en Waterbelang Westelijke Mijnstreek en Waterbelang", "members": [{"first_name": "Jim", "last_name": "Janssen", "gender": "m", "place": "Maastricht", "full_name": "J.M. Janssen", "position": 1}, {"first_name": "Nol", "last_name": "Beckers", "gender": "m", "place": "Maastricht", "full_name": "E.H.S. Beckers", "position": 2}, {"first_name": "Tjalle", "last_name": "de Haan", "gender": "m", "place": "Maastricht", "full_name": "T de Haan", "position": 3}, {"first_name": "Mat", "last_name": "Br\u00fcll", "gender": "m", "place": "Maastricht", "full_name": "P.M.H. Br\u00fcll", "position": 4}, {"first_name": "Rob", "last_name": "Frambach", "gender": "m", "place": "Maastricht", "full_name": "R.W.M.M. Frambach", "position": 5}, {"first_name": "Olivier", "last_name": "Dols", "gender": "m", "place": "Maastricht", "full_name": "O.L.F. Dols", "position": 6}, {"first_name": "Jan", "last_name": "Janssen", "gender": "m", "place": "Maastricht", "full_name": "J.M.T. Janssen", "position": 7}, {"first_name": "Henri", "last_name": "Borgignons", "gender": "m", "place": "Veldwezelt-Lanaken (BE)", "full_name": "H.T.H. Borgignons", "position": 8}, {"first_name": "Guus", "last_name": "Horssels", "gender": "m", "place": "Maastricht", "full_name": "A.J.G.M. Horssels", "position": 9}, {"first_name": "Lei", "last_name": "Thewissen", "gender": "m", "place": "Maastricht", "full_name": "L.C.J. Thewissen", "position": 10}, {"first_name": "Tom", "last_name": "Berghmans", "gender": "m", "place": "Maastricht", "full_name": "T.A.N. Berghmans", "position": 11}, {"first_name": "Jimmy", "last_name": "Bastings", "gender": "m", "place": "Berg en Terblijt", "full_name": "J.A.H. Bastings", "position": 12}, {"first_name": "Henri", "last_name": "Cortjens", "gender": "m", "place": "Maastricht", "full_name": "H.G.M. Cortjens", "position": 13}, {"first_name": "Will", "last_name": "Lardenoije", "gender": "m", "place": "Maastricht", "full_name": "G.G. Lardenoije", "position": 14}, {"first_name": "Peter", "last_name": "Geelen", "gender": "m", "place": "Maastricht", "full_name": "P.H.J. Geelen", "position": 15}, {"first_name": "Genoveef", "last_name": "Leers-Poelmans", "gender": "v", "place": "Maastricht", "full_name": "G.H.G. Leers-Poelmans", "position": 16}, {"first_name": "Vivianne", "last_name": "Heijnen", "gender": "v", "place": "Maastricht", "full_name": "V.L.W.A. Heijnen", "position": 17}], "title": "Lijst_5_Waterbelang_Maastricht"}
+{
+  "title": "Lijst 5 Waterbelang Maastricht",
+  "description": "Gecombineerd met Waterbelang Parkstad en Waterbelang Westelijke Mijnstreek en Waterbelang",
+  "candidates": [
+    {
+      "position": 1,
+      "full_name": "J.M. Janssen",
+      "place": "Maastricht",
+      "gender": "m",
+      "last_name": "Janssen",
+      "first_name": "Jim"
+    },
+    {
+      "position": 2,
+      "full_name": "E.H.S. Beckers",
+      "place": "Maastricht",
+      "gender": "m",
+      "last_name": "Beckers",
+      "first_name": "Nol"
+    },
+    {
+      "position": 3,
+      "full_name": "T de Haan",
+      "place": "Maastricht",
+      "gender": "m",
+      "last_name": "de Haan",
+      "first_name": "Tjalle"
+    },
+    {
+      "position": 4,
+      "full_name": "P.M.H. Brüll",
+      "place": "Maastricht",
+      "gender": "m",
+      "last_name": "Brüll",
+      "first_name": "Mat"
+    },
+    {
+      "position": 5,
+      "full_name": "R.W.M.M. Frambach",
+      "place": "Maastricht",
+      "gender": "m",
+      "last_name": "Frambach",
+      "first_name": "Rob"
+    },
+    {
+      "position": 6,
+      "full_name": "O.L.F. Dols",
+      "place": "Maastricht",
+      "gender": "m",
+      "last_name": "Dols",
+      "first_name": "Olivier"
+    },
+    {
+      "position": 7,
+      "full_name": "J.M.T. Janssen",
+      "place": "Maastricht",
+      "gender": "m",
+      "last_name": "Janssen",
+      "first_name": "Jan"
+    },
+    {
+      "position": 8,
+      "full_name": "H.T.H. Borgignons",
+      "place": "Veldwezelt-Lanaken (BE)",
+      "gender": "m",
+      "last_name": "Borgignons",
+      "first_name": "Henri"
+    },
+    {
+      "position": 9,
+      "full_name": "A.J.G.M. Horssels",
+      "place": "Maastricht",
+      "gender": "m",
+      "last_name": "Horssels",
+      "first_name": "Guus"
+    },
+    {
+      "position": 10,
+      "full_name": "L.C.J. Thewissen",
+      "place": "Maastricht",
+      "gender": "m",
+      "last_name": "Thewissen",
+      "first_name": "Lei"
+    },
+    {
+      "position": 11,
+      "full_name": "T.A.N. Berghmans",
+      "place": "Maastricht",
+      "gender": "m",
+      "last_name": "Berghmans",
+      "first_name": "Tom"
+    },
+    {
+      "position": 12,
+      "full_name": "J.A.H. Bastings",
+      "place": "Berg en Terblijt",
+      "gender": "m",
+      "last_name": "Bastings",
+      "first_name": "Jimmy"
+    },
+    {
+      "position": 13,
+      "full_name": "H.G.M. Cortjens",
+      "place": "Maastricht",
+      "gender": "m",
+      "last_name": "Cortjens",
+      "first_name": "Henri"
+    },
+    {
+      "position": 14,
+      "full_name": "G.G. Lardenoije",
+      "place": "Maastricht",
+      "gender": "m",
+      "last_name": "Lardenoije",
+      "first_name": "Will"
+    },
+    {
+      "position": 15,
+      "full_name": "P.H.J. Geelen",
+      "place": "Maastricht",
+      "gender": "m",
+      "last_name": "Geelen",
+      "first_name": "Peter"
+    },
+    {
+      "position": 16,
+      "full_name": "G.H.G. Leers-Poelmans",
+      "place": "Maastricht",
+      "gender": "v",
+      "last_name": "Leers-Poelmans",
+      "first_name": "Genoveef"
+    },
+    {
+      "position": 17,
+      "full_name": "V.L.W.A. Heijnen",
+      "place": "Maastricht",
+      "gender": "v",
+      "last_name": "Heijnen",
+      "first_name": "Vivianne"
+    }
+  ]
+}

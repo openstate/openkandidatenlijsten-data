@@ -1,0 +1,238 @@
+{
+  "title": "Lijst 8 GROENLINKS",
+  "description": "Gecombineerd met Partij van de Arbeid (P.v.d.A.)",
+  "candidates": [
+    {
+      "position": 1,
+      "full_name": "J.N. Kuipers",
+      "place": "Meppel",
+      "gender": "m",
+      "last_name": "Kuipers",
+      "first_name": "Hans"
+    },
+    {
+      "position": 2,
+      "full_name": "H.R. Nijmeijer",
+      "place": "Assen",
+      "gender": "m",
+      "last_name": "Nijmeijer",
+      "first_name": "Henk"
+    },
+    {
+      "position": 3,
+      "full_name": "K. Kuipers",
+      "place": "Midlaren",
+      "gender": "m",
+      "last_name": "Kuipers",
+      "first_name": "Klaas"
+    },
+    {
+      "position": 4,
+      "full_name": "M. Reuver",
+      "place": "Nieuw-Dordrecht",
+      "gender": "v",
+      "last_name": "Reuver",
+      "first_name": "Marja"
+    },
+    {
+      "position": 5,
+      "full_name": "K. Maters",
+      "place": "Grolloo",
+      "gender": "m",
+      "last_name": "Maters",
+      "first_name": "Kristian"
+    },
+    {
+      "position": 6,
+      "full_name": "B.S. Langenkamp",
+      "place": "Beilen",
+      "gender": "v",
+      "last_name": "Langenkamp",
+      "first_name": "Barbara"
+    },
+    {
+      "position": 7,
+      "full_name": "M.M. Verf",
+      "place": "Havelte",
+      "gender": "v",
+      "last_name": "Verf",
+      "first_name": "Martje"
+    },
+    {
+      "position": 8,
+      "full_name": "O. Huisman",
+      "place": "Roden",
+      "gender": "m",
+      "last_name": "Huisman",
+      "first_name": "Otto"
+    },
+    {
+      "position": 9,
+      "full_name": "L. Klamer",
+      "place": "Erica",
+      "gender": "m",
+      "last_name": "Klamer",
+      "first_name": "Lucas"
+    },
+    {
+      "position": 10,
+      "full_name": "B.J. Epema",
+      "place": "Roden",
+      "gender": "m",
+      "last_name": "Epema",
+      "first_name": "Bertus Jan"
+    },
+    {
+      "position": 11,
+      "full_name": "J. Klinkenberg",
+      "place": "Een",
+      "gender": "m",
+      "last_name": "Klinkenberg",
+      "first_name": "Jan"
+    },
+    {
+      "position": 12,
+      "full_name": "H. Peters",
+      "place": "Meppel",
+      "gender": "v",
+      "last_name": "Peters",
+      "first_name": "Hennie"
+    },
+    {
+      "position": 13,
+      "full_name": "D. Scholte",
+      "place": "Emmen",
+      "gender": "v",
+      "last_name": "Scholte",
+      "first_name": "Dirkje"
+    },
+    {
+      "position": 14,
+      "full_name": "P.J. van der Vaart",
+      "place": "Emmen",
+      "gender": "m",
+      "last_name": "van der Vaart",
+      "first_name": "Hank"
+    },
+    {
+      "position": 15,
+      "full_name": "J.L.P.M. Creemers",
+      "place": "Eexterveenschekanaal",
+      "gender": "m",
+      "last_name": "Creemers",
+      "first_name": "Johan"
+    },
+    {
+      "position": 16,
+      "full_name": "R.C. Weima",
+      "place": "Bovensmilde",
+      "gender": "m",
+      "last_name": "Weima",
+      "first_name": "Rudie"
+    },
+    {
+      "position": 17,
+      "full_name": "A.M.G. Meerman-Scheven",
+      "place": "Eelde",
+      "gender": "v",
+      "last_name": "Meerman-Scheven",
+      "first_name": "Agnes"
+    },
+    {
+      "position": 18,
+      "full_name": "B. van der Woude",
+      "place": "Emmen",
+      "gender": "v",
+      "last_name": "van der Woude",
+      "first_name": "Bernadette"
+    },
+    {
+      "position": 19,
+      "full_name": "M. van de Kasteelen",
+      "place": "Dwingeloo",
+      "gender": "m",
+      "last_name": "van de Kasteelen",
+      "first_name": "Michiel"
+    },
+    {
+      "position": 20,
+      "full_name": "G.H. Fidom",
+      "place": "Hoogeveen",
+      "gender": "m",
+      "last_name": "Fidom",
+      "first_name": "Gerard"
+    },
+    {
+      "position": 21,
+      "full_name": "A.M. Meerman",
+      "place": "Eelde",
+      "gender": "m",
+      "last_name": "Meerman",
+      "first_name": "Arie"
+    },
+    {
+      "position": 22,
+      "full_name": "A. Meijering",
+      "place": "Rolde",
+      "gender": "v",
+      "last_name": "Meijering",
+      "first_name": "Anneke"
+    },
+    {
+      "position": 23,
+      "full_name": "E.M.M. Verheijen",
+      "place": "Zuidwolde",
+      "gender": "m",
+      "last_name": "Verheijen",
+      "first_name": "Erik"
+    },
+    {
+      "position": 24,
+      "full_name": "H. van der Leest",
+      "place": "Westerbork",
+      "gender": "m",
+      "last_name": "van der Leest",
+      "first_name": "Hendrik"
+    },
+    {
+      "position": 25,
+      "full_name": "A. Schuiling-Valkhof",
+      "place": "Eext",
+      "gender": "v",
+      "last_name": "Schuiling-Valkhof",
+      "first_name": "Nia"
+    },
+    {
+      "position": 26,
+      "full_name": "H. Groen",
+      "place": "Mantinge",
+      "gender": "m",
+      "last_name": "Groen",
+      "first_name": "Hans"
+    },
+    {
+      "position": 27,
+      "full_name": "E.E. Pieterson",
+      "place": "Ruinen",
+      "gender": "v",
+      "last_name": "Pieterson",
+      "first_name": "Emmy"
+    },
+    {
+      "position": 28,
+      "full_name": "G.M. van Dinteren",
+      "place": "Anderen",
+      "gender": "v",
+      "last_name": "van Dinteren",
+      "first_name": "Gabrielle"
+    },
+    {
+      "position": 29,
+      "full_name": "H.H. Assies",
+      "place": "Zuidlaren",
+      "gender": "m",
+      "last_name": "Assies",
+      "first_name": "Harm"
+    }
+  ]
+}

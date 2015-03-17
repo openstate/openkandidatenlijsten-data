@@ -1,1 +1,94 @@
-{"description": "", "members": [{"first_name": "Jock", "last_name": "Geselschap", "gender": "m", "place": "Rotterdam", "full_name": "J.H. Geselschap", "position": 1}, {"first_name": "Huug", "last_name": "Luigies", "gender": "m", "place": "Krimpen aan den IJssel", "full_name": "H.H. Luigies", "position": 2}, {"first_name": "Paul", "last_name": "van den Eijnden", "gender": "m", "place": "Capelle aan den IJssel", "full_name": "P.F.J. van den Eijnden", "position": 3}, {"first_name": "Karima", "last_name": "Bouchtaoui", "gender": "v", "place": "Rotterdam", "full_name": "K. Bouchtaoui", "position": 4}, {"first_name": "Jeffry", "last_name": "de Jong", "gender": "m", "place": "Rotterdam", "full_name": "J.G. de Jong", "position": 5}, {"first_name": "Jeroen", "last_name": "Pahud de Mortanges", "gender": "m", "place": "Rotterdam", "full_name": "J.E.W. Pahud de Mortanges", "position": 6}, {"first_name": "Hendrik-Jan", "last_name": "Vos", "gender": "m", "place": "Rotterdam", "full_name": "H.J. Vos", "position": 7}, {"first_name": "Theo", "last_name": "Feenstra", "gender": "m", "place": "Rotterdam", "full_name": "T.D.S. Feenstra", "position": 8}, {"first_name": "Bart", "last_name": "Wiekart", "gender": "m", "place": "Waddinxveen", "full_name": "A.A. Wiekart", "position": 9}, {"first_name": "Hans", "last_name": "van Poeteren", "gender": "m", "place": "Rotterdam", "full_name": "J. van Poeteren", "position": 10}, {"first_name": "John", "last_name": "van Eijk", "gender": "m", "place": "Zevenhuizen", "full_name": "J.G.H. van Eijk", "position": 11}], "title": "Lijst_2_VVD"}
+{
+  "title": "Lijst 2 VVD",
+  "description": "",
+  "candidates": [
+    {
+      "position": 1,
+      "full_name": "J.H. Geselschap",
+      "place": "Rotterdam",
+      "gender": "m",
+      "last_name": "Geselschap",
+      "first_name": "Jock"
+    },
+    {
+      "position": 2,
+      "full_name": "H.H. Luigies",
+      "place": "Krimpen aan den IJssel",
+      "gender": "m",
+      "last_name": "Luigies",
+      "first_name": "Huug"
+    },
+    {
+      "position": 3,
+      "full_name": "P.F.J. van den Eijnden",
+      "place": "Capelle aan den IJssel",
+      "gender": "m",
+      "last_name": "van den Eijnden",
+      "first_name": "Paul"
+    },
+    {
+      "position": 4,
+      "full_name": "K. Bouchtaoui",
+      "place": "Rotterdam",
+      "gender": "v",
+      "last_name": "Bouchtaoui",
+      "first_name": "Karima"
+    },
+    {
+      "position": 5,
+      "full_name": "J.G. de Jong",
+      "place": "Rotterdam",
+      "gender": "m",
+      "last_name": "de Jong",
+      "first_name": "Jeffry"
+    },
+    {
+      "position": 6,
+      "full_name": "J.E.W. Pahud de Mortanges",
+      "place": "Rotterdam",
+      "gender": "m",
+      "last_name": "Pahud de Mortanges",
+      "first_name": "Jeroen"
+    },
+    {
+      "position": 7,
+      "full_name": "H.J. Vos",
+      "place": "Rotterdam",
+      "gender": "m",
+      "last_name": "Vos",
+      "first_name": "Hendrik-Jan"
+    },
+    {
+      "position": 8,
+      "full_name": "T.D.S. Feenstra",
+      "place": "Rotterdam",
+      "gender": "m",
+      "last_name": "Feenstra",
+      "first_name": "Theo"
+    },
+    {
+      "position": 9,
+      "full_name": "A.A. Wiekart",
+      "place": "Waddinxveen",
+      "gender": "m",
+      "last_name": "Wiekart",
+      "first_name": "Bart"
+    },
+    {
+      "position": 10,
+      "full_name": "J. van Poeteren",
+      "place": "Rotterdam",
+      "gender": "m",
+      "last_name": "van Poeteren",
+      "first_name": "Hans"
+    },
+    {
+      "position": 11,
+      "full_name": "J.G.H. van Eijk",
+      "place": "Zevenhuizen",
+      "gender": "m",
+      "last_name": "van Eijk",
+      "first_name": "John"
+    }
+  ]
+}

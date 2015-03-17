@@ -1,0 +1,30 @@
+{
+  "title": "Lijst_19 Gelderse Centrumdemocraten (Gelderse C.D.)",
+  "description": "",
+  "candidates": [
+    {
+      "position": 1,
+      "full_name": "H.G.T Selhorst",
+      "place": "Arnhem",
+      "gender": "m",
+      "last_name": "Selhorst",
+      "first_name": ""
+    },
+    {
+      "position": 2,
+      "full_name": "J.H.K. Vister",
+      "place": "Arnhem",
+      "gender": "m",
+      "last_name": "Vister",
+      "first_name": ""
+    },
+    {
+      "position": 3,
+      "full_name": "D. Lückerath",
+      "place": "Arnhem",
+      "gender": "v",
+      "last_name": "Lückerath",
+      "first_name": "Daisy"
+    }
+  ]
+}

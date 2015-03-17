@@ -1,1 +1,62 @@
-{"description": "Gecombineerd met Water Natuurlijk", "members": [{"first_name": "Annemarie", "last_name": "van de Vusse", "gender": "v", "place": "Amsterdam", "full_name": "A.C.E. van de Vusse", "position": 1}, {"first_name": "Marika", "last_name": "Kerstens", "gender": "v", "place": "De Kwakel", "full_name": "M. Kerstens", "position": 2}, {"first_name": "Theo", "last_name": "Bergonje", "gender": "m", "place": "Kudelstaart", "full_name": "T. Bergonje", "position": 3}, {"first_name": "Jessie", "last_name": "Heemskerk", "gender": "v", "place": "Rijswijk", "full_name": "J. Heemskerk", "position": 4}, {"first_name": "Joke", "last_name": "van Vliet", "gender": "v", "place": "Uithoorn", "full_name": "J.C. van Vliet", "position": 5}, {"first_name": "Marcel", "last_name": "Smeets", "gender": "m", "place": "Amsterdam", "full_name": "M.A.G. Smeets", "position": 6}, {"first_name": "Christien", "last_name": "Brouwer", "gender": "v", "place": "Amsterdam", "full_name": "C.E. Brouwer", "position": 7}], "title": "Lijst_8_Algemene_Waterschapspartij"}
+{
+  "title": "Lijst 8 Algemene Waterschapspartij",
+  "description": "Gecombineerd met Water Natuurlijk",
+  "candidates": [
+    {
+      "position": 1,
+      "full_name": "A.C.E. van de Vusse",
+      "place": "Amsterdam",
+      "gender": "v",
+      "last_name": "van de Vusse",
+      "first_name": "Annemarie"
+    },
+    {
+      "position": 2,
+      "full_name": "M. Kerstens",
+      "place": "De Kwakel",
+      "gender": "v",
+      "last_name": "Kerstens",
+      "first_name": "Marika"
+    },
+    {
+      "position": 3,
+      "full_name": "T. Bergonje",
+      "place": "Kudelstaart",
+      "gender": "m",
+      "last_name": "Bergonje",
+      "first_name": "Theo"
+    },
+    {
+      "position": 4,
+      "full_name": "J. Heemskerk",
+      "place": "Rijswijk",
+      "gender": "v",
+      "last_name": "Heemskerk",
+      "first_name": "Jessie"
+    },
+    {
+      "position": 5,
+      "full_name": "J.C. van Vliet",
+      "place": "Uithoorn",
+      "gender": "v",
+      "last_name": "van Vliet",
+      "first_name": "Joke"
+    },
+    {
+      "position": 6,
+      "full_name": "M.A.G. Smeets",
+      "place": "Amsterdam",
+      "gender": "m",
+      "last_name": "Smeets",
+      "first_name": "Marcel"
+    },
+    {
+      "position": 7,
+      "full_name": "C.E. Brouwer",
+      "place": "Amsterdam",
+      "gender": "v",
+      "last_name": "Brouwer",
+      "first_name": "Christien"
+    }
+  ]
+}

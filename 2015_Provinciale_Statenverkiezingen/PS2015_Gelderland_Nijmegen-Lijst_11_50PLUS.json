@@ -1,0 +1,78 @@
+{
+  "title": "Lijst_11 50PLUS",
+  "description": "",
+  "candidates": [
+    {
+      "position": 1,
+      "full_name": "M.H. Bruins",
+      "place": "Doorwerth",
+      "gender": "m",
+      "last_name": "Bruins",
+      "first_name": "Marcel"
+    },
+    {
+      "position": 2,
+      "full_name": "F.P.W.J. Surink",
+      "place": "Vaassen",
+      "gender": "m",
+      "last_name": "Surink",
+      "first_name": "Frank"
+    },
+    {
+      "position": 3,
+      "full_name": "W.J.H. Verhoeven",
+      "place": "Elst",
+      "gender": "m",
+      "last_name": "Verhoeven",
+      "first_name": "Walter"
+    },
+    {
+      "position": 4,
+      "full_name": "J. Opschoor",
+      "place": "Nederhemert",
+      "gender": "m",
+      "last_name": "Opschoor",
+      "first_name": "Jan"
+    },
+    {
+      "position": 5,
+      "full_name": "A.P.G.A. Peters",
+      "place": "Driel",
+      "gender": "m",
+      "last_name": "Peters",
+      "first_name": "Arnold"
+    },
+    {
+      "position": 6,
+      "full_name": "T.A. Weijers",
+      "place": "Wijchen",
+      "gender": "m",
+      "last_name": "Weijers",
+      "first_name": "Theo"
+    },
+    {
+      "position": 7,
+      "full_name": "G.C. Sprik",
+      "place": "Apeldoorn",
+      "gender": "m",
+      "last_name": "Sprik",
+      "first_name": "Gerrit"
+    },
+    {
+      "position": 8,
+      "full_name": "R.G.J. Bakkers",
+      "place": "Millingen aan de Rijn",
+      "gender": "m",
+      "last_name": "Bakkers",
+      "first_name": "Ruud"
+    },
+    {
+      "position": 9,
+      "full_name": "A.W. Wagenaar",
+      "place": "Doetinchem",
+      "gender": "m",
+      "last_name": "Wagenaar",
+      "first_name": "Puck"
+    }
+  ]
+}

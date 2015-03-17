@@ -1,0 +1,94 @@
+{
+  "title": "Lijst_16 Partij voor Mens en Spirit (MenS)",
+  "description": "",
+  "candidates": [
+    {
+      "position": 1,
+      "full_name": "T.A. Kruger",
+      "place": "Dieren",
+      "gender": "v",
+      "last_name": "Kruger",
+      "first_name": "Trix"
+    },
+    {
+      "position": 2,
+      "full_name": "M.J.M. Cornielje",
+      "place": "Nijmegen",
+      "gender": "v",
+      "last_name": "Cornielje",
+      "first_name": "Marielle"
+    },
+    {
+      "position": 3,
+      "full_name": "G. Breeschoten-van den Broek",
+      "place": "Wageningen",
+      "gender": "v",
+      "last_name": "Breeschoten-van den Broek",
+      "first_name": "Regina"
+    },
+    {
+      "position": 4,
+      "full_name": "E. Endeveld-Visscher",
+      "place": "Etten",
+      "gender": "v",
+      "last_name": "Endeveld-Visscher",
+      "first_name": "Lies"
+    },
+    {
+      "position": 5,
+      "full_name": "S. Kaddouri",
+      "place": "Ochten",
+      "gender": "m",
+      "last_name": "Kaddouri",
+      "first_name": "Said"
+    },
+    {
+      "position": 6,
+      "full_name": "S.T.P.L. Bruijnen",
+      "place": "Uden",
+      "gender": "m",
+      "last_name": "Bruijnen",
+      "first_name": "Sung"
+    },
+    {
+      "position": 7,
+      "full_name": "J.T.M. Baas",
+      "place": "Amersfoort",
+      "gender": "m",
+      "last_name": "Baas",
+      "first_name": "Jeroen"
+    },
+    {
+      "position": 8,
+      "full_name": "F.L.G. Hamende",
+      "place": "Rosmalen",
+      "gender": "v",
+      "last_name": "Hamende",
+      "first_name": "Fabienne"
+    },
+    {
+      "position": 9,
+      "full_name": "R. Kwestro",
+      "place": "Zoetermeer",
+      "gender": "v",
+      "last_name": "Kwestro",
+      "first_name": "Ramona"
+    },
+    {
+      "position": 10,
+      "full_name": "S.R. Jongert",
+      "place": "Culemborg",
+      "gender": "v",
+      "last_name": "Jongert",
+      "first_name": "Suzanne"
+    },
+    {
+      "position": 11,
+      "full_name": "M.E. Thierens",
+      "place": "Arnhem",
+      "gender": "v",
+      "last_name": "Thierens",
+      "first_name": "Maya"
+    }
+  ]
+}

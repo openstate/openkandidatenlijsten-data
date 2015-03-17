@@ -1,0 +1,246 @@
+{
+  "title": "Lijst 6 SP (Socialistische Partij)",
+  "description": "Gecombineerd met GROENLINKS",
+  "candidates": [
+    {
+      "position": 1,
+      "full_name": "F. Feenstra",
+      "place": "Sneek",
+      "gender": "v",
+      "last_name": "Feenstra",
+      "first_name": "Fenna"
+    },
+    {
+      "position": 2,
+      "full_name": "J.W. van der Hoek",
+      "place": "Bakkeveen",
+      "gender": "m",
+      "last_name": "van der Hoek",
+      "first_name": "Jacob"
+    },
+    {
+      "position": 3,
+      "full_name": "R. van der Heide",
+      "place": "Lioessens",
+      "gender": "v",
+      "last_name": "van der Heide",
+      "first_name": "Renny"
+    },
+    {
+      "position": 4,
+      "full_name": "P.J. Kraaima",
+      "place": "Harlingen",
+      "gender": "m",
+      "last_name": "Kraaima",
+      "first_name": "Pieter"
+    },
+    {
+      "position": 5,
+      "full_name": "M.H.J.L. Aarten",
+      "place": "Sneek",
+      "gender": "m",
+      "last_name": "Aarten",
+      "first_name": "Machiel"
+    },
+    {
+      "position": 6,
+      "full_name": "B. Mollema",
+      "place": "Bolsward",
+      "gender": "v",
+      "last_name": "Mollema",
+      "first_name": "Tineke"
+    },
+    {
+      "position": 7,
+      "full_name": "M. Schrier",
+      "place": "Drachtstercompagnie",
+      "gender": "m",
+      "last_name": "Schrier",
+      "first_name": "Michiel"
+    },
+    {
+      "position": 8,
+      "full_name": "R.M. Burger",
+      "place": "Appelscha",
+      "gender": "m",
+      "last_name": "Burger",
+      "first_name": "Rob"
+    },
+    {
+      "position": 9,
+      "full_name": "J.A.W. Geerling-van Overhagen",
+      "place": "Lippenhuizen",
+      "gender": "v",
+      "last_name": "Geerling-van Overhagen",
+      "first_name": "Jolanda"
+    },
+    {
+      "position": 10,
+      "full_name": "E. Gerbens",
+      "place": "Oudehaske",
+      "gender": "v",
+      "last_name": "Gerbens",
+      "first_name": "Esmé"
+    },
+    {
+      "position": 11,
+      "full_name": "O.C. Vermeeren-de Groot",
+      "place": "Leeuwarden",
+      "gender": "v",
+      "last_name": "Vermeeren-de Groot",
+      "first_name": "Olga"
+    },
+    {
+      "position": 12,
+      "full_name": "G. Rinzema-Noor",
+      "place": "Leeuwarden",
+      "gender": "v",
+      "last_name": "Rinzema-Noor",
+      "first_name": "Gré"
+    },
+    {
+      "position": 13,
+      "full_name": "M. de Wind",
+      "place": "Uitwellingerga",
+      "gender": "m",
+      "last_name": "de Wind",
+      "first_name": "Marten"
+    },
+    {
+      "position": 14,
+      "full_name": "P.E. van Dijk",
+      "place": "Drachten",
+      "gender": "m",
+      "last_name": "van Dijk",
+      "first_name": "Paul"
+    },
+    {
+      "position": 15,
+      "full_name": "P. van Noort",
+      "place": "Hollum",
+      "gender": "m",
+      "last_name": "van Noort",
+      "first_name": "Peter"
+    },
+    {
+      "position": 16,
+      "full_name": "R.H. Hettema",
+      "place": "Sneek",
+      "gender": "m",
+      "last_name": "Hettema",
+      "first_name": "Richard"
+    },
+    {
+      "position": 17,
+      "full_name": "H. Prins",
+      "place": "Wolvega",
+      "gender": "m",
+      "last_name": "Prins",
+      "first_name": "Henk"
+    },
+    {
+      "position": 18,
+      "full_name": "A.G. Schäffer",
+      "place": "Oudeschoot",
+      "gender": "m",
+      "last_name": "Schäffer",
+      "first_name": "Tony"
+    },
+    {
+      "position": 19,
+      "full_name": "H. Zijlstra-Heida",
+      "place": "Wijnaldum",
+      "gender": "v",
+      "last_name": "Zijlstra-Heida",
+      "first_name": "Riekje"
+    },
+    {
+      "position": 20,
+      "full_name": "H. Luis",
+      "place": "Gorredijk",
+      "gender": "m",
+      "last_name": "Luis",
+      "first_name": "Harald"
+    },
+    {
+      "position": 21,
+      "full_name": "C. Schaap",
+      "place": "Wijckel",
+      "gender": "m",
+      "last_name": "Schaap",
+      "first_name": "Chris"
+    },
+    {
+      "position": 22,
+      "full_name": "R.H. Vos",
+      "place": "Drachten",
+      "gender": "m",
+      "last_name": "Vos",
+      "first_name": "Ramon"
+    },
+    {
+      "position": 23,
+      "full_name": "H.E. de Koe",
+      "place": "Lemmer",
+      "gender": "v",
+      "last_name": "de Koe",
+      "first_name": "Hillie"
+    },
+    {
+      "position": 24,
+      "full_name": "D. van der Meulen",
+      "place": "Gytsjerk",
+      "gender": "m",
+      "last_name": "van der Meulen",
+      "first_name": "Durk"
+    },
+    {
+      "position": 25,
+      "full_name": "I. Doetjes",
+      "place": "Leeuwarden",
+      "gender": "v",
+      "last_name": "Doetjes",
+      "first_name": "Ingrid"
+    },
+    {
+      "position": 26,
+      "full_name": "T. van der Meer",
+      "place": "Gorredijk",
+      "gender": "m",
+      "last_name": "van der Meer",
+      "first_name": "Tomas"
+    },
+    {
+      "position": 27,
+      "full_name": "M.L. Landstra",
+      "place": "Leeuwarden",
+      "gender": "v",
+      "last_name": "Landstra",
+      "first_name": "Marjolein"
+    },
+    {
+      "position": 28,
+      "full_name": "A. Tuinstra",
+      "place": "Drachten",
+      "gender": "m",
+      "last_name": "Tuinstra",
+      "first_name": "Andries"
+    },
+    {
+      "position": 29,
+      "full_name": "G. Olivier-Vonk",
+      "place": "Leeuwarden",
+      "gender": "v",
+      "last_name": "Olivier-Vonk",
+      "first_name": "Gusta"
+    },
+    {
+      "position": 30,
+      "full_name": "J.B. van der Horst",
+      "place": "Drachten",
+      "gender": "m",
+      "last_name": "van der Horst",
+      "first_name": "Jos"
+    }
+  ]
+}

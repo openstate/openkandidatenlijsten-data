@@ -1,1 +1,86 @@
-{"description": "", "members": [{"first_name": "Leonie", "last_name": "Bruggink-van der Steen", "gender": "v", "place": "Budel-Schoot", "full_name": "L. Bruggink-van der Steen", "position": 1}, {"first_name": "Emile", "last_name": "van Esch", "gender": "m", "place": "Oirschot", "full_name": "E.J.J.F. van Esch", "position": 2}, {"first_name": "Susan", "last_name": "Mogony", "gender": "v", "place": "Liempde", "full_name": "A.E.S. Mogony", "position": 3}, {"first_name": "Clemens", "last_name": "Verhoeven", "gender": "m", "place": "Oisterwijk", "full_name": "C.A.J.M. Verhoeven", "position": 4}, {"first_name": "Yentl", "last_name": "van Bakel", "gender": "v", "place": "Veldhoven", "full_name": "Y.Y.E. van Bakel", "position": 5}, {"first_name": "Peter", "last_name": "Verhagen", "gender": "m", "place": "Eindhoven", "full_name": "P.H.M. Verhagen", "position": 6}, {"first_name": "Henk", "last_name": "Wiersma", "gender": "m", "place": "Sint-Oedenrode", "full_name": "H.E. Wiersma", "position": 7}, {"first_name": "Marc", "last_name": "van der Steen", "gender": "m", "place": "Eindhoven", "full_name": "M. van der Steen", "position": 8}, {"first_name": "Joop", "last_name": "Baltussen", "gender": "m", "place": "Best", "full_name": "J.J.M. Baltussen", "position": 9}, {"first_name": "Ad", "last_name": "van Dommelen", "gender": "m", "place": "Esbeek", "full_name": "A.L.G. van Dommelen", "position": 10}], "title": "Lijst_6_Algemene_Waterschapspartij"}
+{
+  "title": "Lijst 6 Algemene Waterschapspartij",
+  "description": "",
+  "candidates": [
+    {
+      "position": 1,
+      "full_name": "L. Bruggink-van der Steen",
+      "place": "Budel-Schoot",
+      "gender": "v",
+      "last_name": "Bruggink-van der Steen",
+      "first_name": "Leonie"
+    },
+    {
+      "position": 2,
+      "full_name": "E.J.J.F. van Esch",
+      "place": "Oirschot",
+      "gender": "m",
+      "last_name": "van Esch",
+      "first_name": "Emile"
+    },
+    {
+      "position": 3,
+      "full_name": "A.E.S. Mogony",
+      "place": "Liempde",
+      "gender": "v",
+      "last_name": "Mogony",
+      "first_name": "Susan"
+    },
+    {
+      "position": 4,
+      "full_name": "C.A.J.M. Verhoeven",
+      "place": "Oisterwijk",
+      "gender": "m",
+      "last_name": "Verhoeven",
+      "first_name": "Clemens"
+    },
+    {
+      "position": 5,
+      "full_name": "Y.Y.E. van Bakel",
+      "place": "Veldhoven",
+      "gender": "v",
+      "last_name": "van Bakel",
+      "first_name": "Yentl"
+    },
+    {
+      "position": 6,
+      "full_name": "P.H.M. Verhagen",
+      "place": "Eindhoven",
+      "gender": "m",
+      "last_name": "Verhagen",
+      "first_name": "Peter"
+    },
+    {
+      "position": 7,
+      "full_name": "H.E. Wiersma",
+      "place": "Sint-Oedenrode",
+      "gender": "m",
+      "last_name": "Wiersma",
+      "first_name": "Henk"
+    },
+    {
+      "position": 8,
+      "full_name": "M. van der Steen",
+      "place": "Eindhoven",
+      "gender": "m",
+      "last_name": "van der Steen",
+      "first_name": "Marc"
+    },
+    {
+      "position": 9,
+      "full_name": "J.J.M. Baltussen",
+      "place": "Best",
+      "gender": "m",
+      "last_name": "Baltussen",
+      "first_name": "Joop"
+    },
+    {
+      "position": 10,
+      "full_name": "A.L.G. van Dommelen",
+      "place": "Esbeek",
+      "gender": "m",
+      "last_name": "van Dommelen",
+      "first_name": "Ad"
+    }
+  ]
+}

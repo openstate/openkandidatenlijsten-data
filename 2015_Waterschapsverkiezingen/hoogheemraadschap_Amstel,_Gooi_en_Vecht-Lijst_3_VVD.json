@@ -1,1 +1,94 @@
-{"description": "", "members": [{"first_name": "Ariane", "last_name": "Hoog", "gender": "v", "place": "Amsterdam", "full_name": "P.A.M. Hoog", "position": 1}, {"first_name": "Andr\u00e9", "last_name": "Spils", "gender": "m", "place": "Loosdrecht", "full_name": "A.P.M. Spils", "position": 2}, {"first_name": "Evert", "last_name": "de Jong", "gender": "m", "place": "Laren", "full_name": "E.J. de Jong", "position": 3}, {"first_name": "Reimond", "last_name": "Went", "gender": "m", "place": "Amsterdam", "full_name": "R.G. Went", "position": 4}, {"first_name": "Haitske", "last_name": "van de Linde", "gender": "v", "place": "Hilversum", "full_name": "H.M.G.J. van de Linde", "position": 5}, {"first_name": "Lars", "last_name": "Wieringa", "gender": "m", "place": "Bussum", "full_name": "L.A. Wieringa", "position": 6}, {"first_name": "Ger-Jan", "last_name": "Marsilj\u00e9", "gender": "m", "place": "Maarssen", "full_name": "G.J. Marsilj\u00e9", "position": 7}, {"first_name": "Harald", "last_name": "Agterhuis", "gender": "m", "place": "Amsterdam", "full_name": "H.R. Agterhuis", "position": 8}, {"first_name": "Peter", "last_name": "Smit", "gender": "m", "place": "Blaricum", "full_name": "P.M. Smit", "position": 9}, {"first_name": "Jan", "last_name": "van Gilse", "gender": "m", "place": "Naarden", "full_name": "J.P.M. van Gilse", "position": 10}, {"first_name": "Bouke", "last_name": "Siebenga", "gender": "m", "place": "Kortenhoef", "full_name": "B.J. Siebenga", "position": 11}], "title": "Lijst_3_VVD"}
+{
+  "title": "Lijst 3 VVD",
+  "description": "",
+  "candidates": [
+    {
+      "position": 1,
+      "full_name": "P.A.M. Hoog",
+      "place": "Amsterdam",
+      "gender": "v",
+      "last_name": "Hoog",
+      "first_name": "Ariane"
+    },
+    {
+      "position": 2,
+      "full_name": "A.P.M. Spils",
+      "place": "Loosdrecht",
+      "gender": "m",
+      "last_name": "Spils",
+      "first_name": "André"
+    },
+    {
+      "position": 3,
+      "full_name": "E.J. de Jong",
+      "place": "Laren",
+      "gender": "m",
+      "last_name": "de Jong",
+      "first_name": "Evert"
+    },
+    {
+      "position": 4,
+      "full_name": "R.G. Went",
+      "place": "Amsterdam",
+      "gender": "m",
+      "last_name": "Went",
+      "first_name": "Reimond"
+    },
+    {
+      "position": 5,
+      "full_name": "H.M.G.J. van de Linde",
+      "place": "Hilversum",
+      "gender": "v",
+      "last_name": "van de Linde",
+      "first_name": "Haitske"
+    },
+    {
+      "position": 6,
+      "full_name": "L.A. Wieringa",
+      "place": "Bussum",
+      "gender": "m",
+      "last_name": "Wieringa",
+      "first_name": "Lars"
+    },
+    {
+      "position": 7,
+      "full_name": "G.J. Marsiljé",
+      "place": "Maarssen",
+      "gender": "m",
+      "last_name": "Marsiljé",
+      "first_name": "Ger-Jan"
+    },
+    {
+      "position": 8,
+      "full_name": "H.R. Agterhuis",
+      "place": "Amsterdam",
+      "gender": "m",
+      "last_name": "Agterhuis",
+      "first_name": "Harald"
+    },
+    {
+      "position": 9,
+      "full_name": "P.M. Smit",
+      "place": "Blaricum",
+      "gender": "m",
+      "last_name": "Smit",
+      "first_name": "Peter"
+    },
+    {
+      "position": 10,
+      "full_name": "J.P.M. van Gilse",
+      "place": "Naarden",
+      "gender": "m",
+      "last_name": "van Gilse",
+      "first_name": "Jan"
+    },
+    {
+      "position": 11,
+      "full_name": "B.J. Siebenga",
+      "place": "Kortenhoef",
+      "gender": "m",
+      "last_name": "Siebenga",
+      "first_name": "Bouke"
+    }
+  ]
+}

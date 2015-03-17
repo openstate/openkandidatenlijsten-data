@@ -1,1 +1,254 @@
-{"description": "Gecombineerd met Stichting Veilig Vitaal Waterbeheer", "members": [{"first_name": "Willem", "last_name": "Boer", "gender": "", "place": "Berkenwoude", "full_name": "W. Boer", "position": 1}, {"first_name": "Jacques", "last_name": "Vollebregt", "gender": "", "place": "Bleiswijk", "full_name": "J.A.M. Vollebregt", "position": 2}, {"first_name": "Ad", "last_name": "Merks", "gender": "", "place": "Haastrecht", "full_name": "A.J.M. Merks", "position": 3}, {"first_name": "Teun", "last_name": "Biemond", "gender": "", "place": "Moerkapelle", "full_name": "T. Biemond", "position": 4}, {"first_name": "Jan", "last_name": "Graveland", "gender": "", "place": "Stolwijk", "full_name": "J. Graveland", "position": 5}, {"first_name": "Dirk", "last_name": "van der Spek", "gender": "", "place": "Zevenhuizen", "full_name": "D. van der Spek", "position": 6}, {"first_name": "Thea", "last_name": "van der Wekken", "gender": "", "place": "Gouderak", "full_name": "T. van der Wekken", "position": 7}, {"first_name": "Adri", "last_name": "Noordergraaf", "gender": "", "place": "Gouderak", "full_name": "A. Noordergraaf", "position": 8}, {"first_name": "Harry", "last_name": "van den Berg", "gender": "", "place": "Capelle aan den IJssel", "full_name": "A.J. van den Berg", "position": 9}, {"first_name": "Jan", "last_name": "Speksnijder", "gender": "", "place": "Lekkerkerk", "full_name": "J. Speksnijder", "position": 10}, {"first_name": "Jaap", "last_name": "Slingerland", "gender": "", "place": "Berkenwoude", "full_name": "J. Slingerland", "position": 11}, {"first_name": "Piet", "last_name": "Meerkerk", "gender": "", "place": "Lekkerkerk", "full_name": "P.A. Meerkerk", "position": 12}, {"first_name": "Jan", "last_name": "de Jong", "gender": "", "place": "Ouderkerk aan den IJssel", "full_name": "H.J. de Jong", "position": 13}, {"first_name": "Ria", "last_name": "Slob-Verburg", "gender": "", "place": "Berkenwoude", "full_name": "M. Slob-Verburg", "position": 14}, {"first_name": "Adriaan", "last_name": "Verduijn", "gender": "", "place": "Nieuwerkerk aan den IJssel", "full_name": "A. Verduijn", "position": 15}, {"first_name": "Cees", "last_name": "Oudijk", "gender": "", "place": "Bergambacht", "full_name": "C. Oudijk", "position": 16}, {"first_name": "Harmen", "last_name": "Jansen", "gender": "", "place": "Bergambacht", "full_name": "H. Jansen", "position": 17}, {"first_name": "Arie", "last_name": "Kok", "gender": "", "place": "Ouderkerk aan den IJssel", "full_name": "A. Kok", "position": 18}, {"first_name": "Hans", "last_name": "Olieman", "gender": "", "place": "Moordrecht", "full_name": "J.J. Olieman", "position": 19}, {"first_name": "Cees", "last_name": "Heuvelman", "gender": "", "place": "Krimpen aan den IJssel", "full_name": "C.H.M. Heuvelman", "position": 20}, {"first_name": "John", "last_name": "de Vreede", "gender": "", "place": "Bleiswijk", "full_name": "J.G.M. de Vreede", "position": 21}, {"first_name": "Caroline", "last_name": "van Waalwijk van Doorn", "gender": "", "place": "Bergambacht", "full_name": "C.J.M. van Waalwijk van Doorn", "position": 22}, {"first_name": "Bram", "last_name": "de Groot", "gender": "", "place": "Gouderak", "full_name": "A.J. de Groot", "position": 23}, {"first_name": "Rien", "last_name": "Bregman", "gender": "", "place": "Zevenhuizen", "full_name": "M. Bregman", "position": 24}, {"first_name": "Ab", "last_name": "Vonk Noordegraaf", "gender": "", "place": "Ouderkerk aan den IJssel", "full_name": "A.S. Vonk Noordegraaf", "position": 25}, {"first_name": "Dirk", "last_name": "Oudijk", "gender": "", "place": "Moordrecht", "full_name": "D.L. Oudijk", "position": 26}, {"first_name": "Martin", "last_name": "Verhoef", "gender": "", "place": "Bergambacht", "full_name": "M. Verhoef", "position": 27}, {"first_name": "Piet", "last_name": "Reijm", "gender": "", "place": "Nieuwerkerk aan den IJssel", "full_name": "P. Reijm", "position": 28}, {"first_name": "Inge", "last_name": "Halling", "gender": "", "place": "Gouderak", "full_name": "I. Halling", "position": 29}, {"first_name": "Ad", "last_name": "de Jong", "gender": "", "place": "Bergambacht", "full_name": "A.P. de Jong", "position": 30}, {"first_name": "Willem", "last_name": "Schoof", "gender": "", "place": "Stolwijk", "full_name": "W.J. Schoof", "position": 31}], "title": "Lijst_6_DWLK_&_Schieland:_Helder_als_water"}
+{
+  "title": "Lijst 6 DWLK & Schieland: Helder als water",
+  "description": "Gecombineerd met Stichting Veilig Vitaal Waterbeheer",
+  "candidates": [
+    {
+      "position": 1,
+      "full_name": "W. Boer",
+      "place": "Berkenwoude",
+      "gender": "",
+      "last_name": "Boer",
+      "first_name": "Willem"
+    },
+    {
+      "position": 2,
+      "full_name": "J.A.M. Vollebregt",
+      "place": "Bleiswijk",
+      "gender": "",
+      "last_name": "Vollebregt",
+      "first_name": "Jacques"
+    },
+    {
+      "position": 3,
+      "full_name": "A.J.M. Merks",
+      "place": "Haastrecht",
+      "gender": "",
+      "last_name": "Merks",
+      "first_name": "Ad"
+    },
+    {
+      "position": 4,
+      "full_name": "T. Biemond",
+      "place": "Moerkapelle",
+      "gender": "",
+      "last_name": "Biemond",
+      "first_name": "Teun"
+    },
+    {
+      "position": 5,
+      "full_name": "J. Graveland",
+      "place": "Stolwijk",
+      "gender": "",
+      "last_name": "Graveland",
+      "first_name": "Jan"
+    },
+    {
+      "position": 6,
+      "full_name": "D. van der Spek",
+      "place": "Zevenhuizen",
+      "gender": "",
+      "last_name": "van der Spek",
+      "first_name": "Dirk"
+    },
+    {
+      "position": 7,
+      "full_name": "T. van der Wekken",
+      "place": "Gouderak",
+      "gender": "",
+      "last_name": "van der Wekken",
+      "first_name": "Thea"
+    },
+    {
+      "position": 8,
+      "full_name": "A. Noordergraaf",
+      "place": "Gouderak",
+      "gender": "",
+      "last_name": "Noordergraaf",
+      "first_name": "Adri"
+    },
+    {
+      "position": 9,
+      "full_name": "A.J. van den Berg",
+      "place": "Capelle aan den IJssel",
+      "gender": "",
+      "last_name": "van den Berg",
+      "first_name": "Harry"
+    },
+    {
+      "position": 10,
+      "full_name": "J. Speksnijder",
+      "place": "Lekkerkerk",
+      "gender": "",
+      "last_name": "Speksnijder",
+      "first_name": "Jan"
+    },
+    {
+      "position": 11,
+      "full_name": "J. Slingerland",
+      "place": "Berkenwoude",
+      "gender": "",
+      "last_name": "Slingerland",
+      "first_name": "Jaap"
+    },
+    {
+      "position": 12,
+      "full_name": "P.A. Meerkerk",
+      "place": "Lekkerkerk",
+      "gender": "",
+      "last_name": "Meerkerk",
+      "first_name": "Piet"
+    },
+    {
+      "position": 13,
+      "full_name": "H.J. de Jong",
+      "place": "Ouderkerk aan den IJssel",
+      "gender": "",
+      "last_name": "de Jong",
+      "first_name": "Jan"
+    },
+    {
+      "position": 14,
+      "full_name": "M. Slob-Verburg",
+      "place": "Berkenwoude",
+      "gender": "",
+      "last_name": "Slob-Verburg",
+      "first_name": "Ria"
+    },
+    {
+      "position": 15,
+      "full_name": "A. Verduijn",
+      "place": "Nieuwerkerk aan den IJssel",
+      "gender": "",
+      "last_name": "Verduijn",
+      "first_name": "Adriaan"
+    },
+    {
+      "position": 16,
+      "full_name": "C. Oudijk",
+      "place": "Bergambacht",
+      "gender": "",
+      "last_name": "Oudijk",
+      "first_name": "Cees"
+    },
+    {
+      "position": 17,
+      "full_name": "H. Jansen",
+      "place": "Bergambacht",
+      "gender": "",
+      "last_name": "Jansen",
+      "first_name": "Harmen"
+    },
+    {
+      "position": 18,
+      "full_name": "A. Kok",
+      "place": "Ouderkerk aan den IJssel",
+      "gender": "",
+      "last_name": "Kok",
+      "first_name": "Arie"
+    },
+    {
+      "position": 19,
+      "full_name": "J.J. Olieman",
+      "place": "Moordrecht",
+      "gender": "",
+      "last_name": "Olieman",
+      "first_name": "Hans"
+    },
+    {
+      "position": 20,
+      "full_name": "C.H.M. Heuvelman",
+      "place": "Krimpen aan den IJssel",
+      "gender": "",
+      "last_name": "Heuvelman",
+      "first_name": "Cees"
+    },
+    {
+      "position": 21,
+      "full_name": "J.G.M. de Vreede",
+      "place": "Bleiswijk",
+      "gender": "",
+      "last_name": "de Vreede",
+      "first_name": "John"
+    },
+    {
+      "position": 22,
+      "full_name": "C.J.M. van Waalwijk van Doorn",
+      "place": "Bergambacht",
+      "gender": "",
+      "last_name": "van Waalwijk van Doorn",
+      "first_name": "Caroline"
+    },
+    {
+      "position": 23,
+      "full_name": "A.J. de Groot",
+      "place": "Gouderak",
+      "gender": "",
+      "last_name": "de Groot",
+      "first_name": "Bram"
+    },
+    {
+      "position": 24,
+      "full_name": "M. Bregman",
+      "place": "Zevenhuizen",
+      "gender": "",
+      "last_name": "Bregman",
+      "first_name": "Rien"
+    },
+    {
+      "position": 25,
+      "full_name": "A.S. Vonk Noordegraaf",
+      "place": "Ouderkerk aan den IJssel",
+      "gender": "",
+      "last_name": "Vonk Noordegraaf",
+      "first_name": "Ab"
+    },
+    {
+      "position": 26,
+      "full_name": "D.L. Oudijk",
+      "place": "Moordrecht",
+      "gender": "",
+      "last_name": "Oudijk",
+      "first_name": "Dirk"
+    },
+    {
+      "position": 27,
+      "full_name": "M. Verhoef",
+      "place": "Bergambacht",
+      "gender": "",
+      "last_name": "Verhoef",
+      "first_name": "Martin"
+    },
+    {
+      "position": 28,
+      "full_name": "P. Reijm",
+      "place": "Nieuwerkerk aan den IJssel",
+      "gender": "",
+      "last_name": "Reijm",
+      "first_name": "Piet"
+    },
+    {
+      "position": 29,
+      "full_name": "I. Halling",
+      "place": "Gouderak",
+      "gender": "",
+      "last_name": "Halling",
+      "first_name": "Inge"
+    },
+    {
+      "position": 30,
+      "full_name": "A.P. de Jong",
+      "place": "Bergambacht",
+      "gender": "",
+      "last_name": "de Jong",
+      "first_name": "Ad"
+    },
+    {
+      "position": 31,
+      "full_name": "W.J. Schoof",
+      "place": "Stolwijk",
+      "gender": "",
+      "last_name": "Schoof",
+      "first_name": "Willem"
+    }
+  ]
+}

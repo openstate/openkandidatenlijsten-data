@@ -1,0 +1,142 @@
+{
+  "title": "Lijst 2 Partij van de Arbeid (P.v.d.A.)",
+  "description": "Gecombineerd met GROENLINKS",
+  "candidates": [
+    {
+      "position": 1,
+      "full_name": "R.G.H. van Muilekom",
+      "place": "Amersfoort",
+      "gender": "m",
+      "last_name": "van Muilekom",
+      "first_name": "Rob"
+    },
+    {
+      "position": 2,
+      "full_name": "P.J. van Viegen",
+      "place": "Utrecht",
+      "gender": "v",
+      "last_name": "van Viegen",
+      "first_name": "Pauline"
+    },
+    {
+      "position": 3,
+      "full_name": "A. Essousi",
+      "place": "Utrecht",
+      "gender": "m",
+      "last_name": "Essousi",
+      "first_name": "Ali"
+    },
+    {
+      "position": 4,
+      "full_name": "C. de Kruijf",
+      "place": "Leusden",
+      "gender": "m",
+      "last_name": "de Kruijf",
+      "first_name": "Kees"
+    },
+    {
+      "position": 5,
+      "full_name": "J.P. d' Hondt",
+      "place": "Utrecht",
+      "gender": "v",
+      "last_name": "d' Hondt",
+      "first_name": "Julie"
+    },
+    {
+      "position": 6,
+      "full_name": "H.O. Suna",
+      "place": "Soest",
+      "gender": "m",
+      "last_name": "Suna",
+      "first_name": "Osman"
+    },
+    {
+      "position": 7,
+      "full_name": "W.W.M. Wagenmans",
+      "place": "Houten",
+      "gender": "m",
+      "last_name": "Wagenmans",
+      "first_name": "Willy"
+    },
+    {
+      "position": 8,
+      "full_name": "N.A. Krijgsman",
+      "place": "Utrecht",
+      "gender": "v",
+      "last_name": "Krijgsman",
+      "first_name": "Annet"
+    },
+    {
+      "position": 9,
+      "full_name": "P.V. van der Linden",
+      "place": "Bilthoven",
+      "gender": "m",
+      "last_name": "van der Linden",
+      "first_name": "Paul"
+    },
+    {
+      "position": 10,
+      "full_name": "H.M. Lejeune",
+      "place": "Montfoort",
+      "gender": "v",
+      "last_name": "Lejeune",
+      "first_name": "Marieke"
+    },
+    {
+      "position": 11,
+      "full_name": "W.P.R. van der Steen",
+      "place": "Woudenberg",
+      "gender": "m",
+      "last_name": "van der Steen",
+      "first_name": "Wils"
+    },
+    {
+      "position": 12,
+      "full_name": "A. Veenstra",
+      "place": "Hoogland",
+      "gender": "m",
+      "last_name": "Veenstra",
+      "first_name": "Bert"
+    },
+    {
+      "position": 13,
+      "full_name": "M. Nebbeling",
+      "place": "Nieuwegein",
+      "gender": "m",
+      "last_name": "Nebbeling",
+      "first_name": "Mitchel"
+    },
+    {
+      "position": 14,
+      "full_name": "I. Schippers",
+      "place": "Utrecht",
+      "gender": "v",
+      "last_name": "Schippers",
+      "first_name": "Inez"
+    },
+    {
+      "position": 15,
+      "full_name": "U.P. Blom",
+      "place": "Driebergen-Rijsenburg",
+      "gender": "v",
+      "last_name": "Blom",
+      "first_name": "Ursula"
+    },
+    {
+      "position": 16,
+      "full_name": "L. de la Combé",
+      "place": "Amersfoort",
+      "gender": "m",
+      "last_name": "de la Combé",
+      "first_name": "Louis"
+    },
+    {
+      "position": 17,
+      "full_name": "R.A.P. Smulders",
+      "place": "Amersfoort",
+      "gender": "m",
+      "last_name": "Smulders",
+      "first_name": "Rob"
+    }
+  ]
+}

@@ -1,1 +1,126 @@
-{"description": "", "members": [{"first_name": "Carla", "last_name": "Alma", "gender": "v", "place": "Groningen", "full_name": "C.C. Alma", "position": 1}, {"first_name": "Wim", "last_name": "van Boekel", "gender": "m", "place": "Peize", "full_name": "W.H.M. van Boekel", "position": 2}, {"first_name": "Paul", "last_name": "Tameling", "gender": "m", "place": "Leek", "full_name": "P.E. Tameling", "position": 3}, {"first_name": "Sjoerd", "last_name": "Schoonhoven", "gender": "m", "place": "Zuidwolde", "full_name": "S.W. Schoonhoven", "position": 4}, {"first_name": "Doede", "last_name": "de Vries", "gender": "m", "place": "Groningen", "full_name": "J.D. de Vries", "position": 5}, {"first_name": "Henk", "last_name": "van der Meij", "gender": "m", "place": "Roden", "full_name": "H. van der Meij", "position": 6}, {"first_name": "Gewo", "last_name": "de Jager", "gender": "m", "place": "Uithuizen", "full_name": "G.W. de Jager", "position": 7}, {"first_name": "Attie", "last_name": "Bos", "gender": "v", "place": "Houwerzijl", "full_name": "A.F. Bos", "position": 8}, {"first_name": "Allard", "last_name": "Polak", "gender": "m", "place": "Groningen", "full_name": "A. Polak", "position": 9}, {"first_name": "Hanneke", "last_name": "de Vries", "gender": "v", "place": "Groningen", "full_name": "J.C.L. de Vries", "position": 10}, {"first_name": "Hans", "last_name": "van der Lans", "gender": "m", "place": "Rhee", "full_name": "H.E. van der Lans", "position": 11}, {"first_name": "Ria", "last_name": "Damhof", "gender": "v", "place": "Warffum", "full_name": "H.A. Damhof", "position": 12}, {"first_name": "Mels", "last_name": "Geelen", "gender": "m", "place": "Groningen", "full_name": "M.W. Geelen", "position": 13}, {"first_name": "Tineke", "last_name": "van der Schoor", "gender": "v", "place": "Winsum", "full_name": "C. van der Schoor", "position": 14}, {"first_name": "Nienke", "last_name": "Homan", "gender": "v", "place": "Groningen", "full_name": "N. Homan", "position": 15}], "title": "Lijst_1_Water_Natuurlijk"}
+{
+  "title": "Lijst 1 Water Natuurlijk",
+  "description": "",
+  "candidates": [
+    {
+      "position": 1,
+      "full_name": "C.C. Alma",
+      "place": "Groningen",
+      "gender": "v",
+      "last_name": "Alma",
+      "first_name": "Carla"
+    },
+    {
+      "position": 2,
+      "full_name": "W.H.M. van Boekel",
+      "place": "Peize",
+      "gender": "m",
+      "last_name": "van Boekel",
+      "first_name": "Wim"
+    },
+    {
+      "position": 3,
+      "full_name": "P.E. Tameling",
+      "place": "Leek",
+      "gender": "m",
+      "last_name": "Tameling",
+      "first_name": "Paul"
+    },
+    {
+      "position": 4,
+      "full_name": "S.W. Schoonhoven",
+      "place": "Zuidwolde",
+      "gender": "m",
+      "last_name": "Schoonhoven",
+      "first_name": "Sjoerd"
+    },
+    {
+      "position": 5,
+      "full_name": "J.D. de Vries",
+      "place": "Groningen",
+      "gender": "m",
+      "last_name": "de Vries",
+      "first_name": "Doede"
+    },
+    {
+      "position": 6,
+      "full_name": "H. van der Meij",
+      "place": "Roden",
+      "gender": "m",
+      "last_name": "van der Meij",
+      "first_name": "Henk"
+    },
+    {
+      "position": 7,
+      "full_name": "G.W. de Jager",
+      "place": "Uithuizen",
+      "gender": "m",
+      "last_name": "de Jager",
+      "first_name": "Gewo"
+    },
+    {
+      "position": 8,
+      "full_name": "A.F. Bos",
+      "place": "Houwerzijl",
+      "gender": "v",
+      "last_name": "Bos",
+      "first_name": "Attie"
+    },
+    {
+      "position": 9,
+      "full_name": "A. Polak",
+      "place": "Groningen",
+      "gender": "m",
+      "last_name": "Polak",
+      "first_name": "Allard"
+    },
+    {
+      "position": 10,
+      "full_name": "J.C.L. de Vries",
+      "place": "Groningen",
+      "gender": "v",
+      "last_name": "de Vries",
+      "first_name": "Hanneke"
+    },
+    {
+      "position": 11,
+      "full_name": "H.E. van der Lans",
+      "place": "Rhee",
+      "gender": "m",
+      "last_name": "van der Lans",
+      "first_name": "Hans"
+    },
+    {
+      "position": 12,
+      "full_name": "H.A. Damhof",
+      "place": "Warffum",
+      "gender": "v",
+      "last_name": "Damhof",
+      "first_name": "Ria"
+    },
+    {
+      "position": 13,
+      "full_name": "M.W. Geelen",
+      "place": "Groningen",
+      "gender": "m",
+      "last_name": "Geelen",
+      "first_name": "Mels"
+    },
+    {
+      "position": 14,
+      "full_name": "C. van der Schoor",
+      "place": "Winsum",
+      "gender": "v",
+      "last_name": "van der Schoor",
+      "first_name": "Tineke"
+    },
+    {
+      "position": 15,
+      "full_name": "N. Homan",
+      "place": "Groningen",
+      "gender": "v",
+      "last_name": "Homan",
+      "first_name": "Nienke"
+    }
+  ]
+}

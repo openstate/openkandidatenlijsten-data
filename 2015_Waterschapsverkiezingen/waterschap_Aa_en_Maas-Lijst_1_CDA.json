@@ -1,1 +1,134 @@
-{"description": "", "members": [{"first_name": "Peter", "last_name": "Ketelaars", "gender": "m", "place": "Boekel", "full_name": "P.C.M. Ketelaars", "position": 1}, {"first_name": "Toon", "last_name": "Jaspers", "gender": "m", "place": "Ravenstein", "full_name": "A.J.P. Jaspers", "position": 2}, {"first_name": "Ed", "last_name": "Wagemakers", "gender": "m", "place": "'s-Hertogenbosch", "full_name": "E.C.M. Wagemakers", "position": 3}, {"first_name": "Ingeborg", "last_name": "Verschuuren", "gender": "v", "place": "Gemert", "full_name": "I.R.G.W. Verschuuren", "position": 4}, {"first_name": "Peter", "last_name": "Brouwers", "gender": "m", "place": "Rijkevoort", "full_name": "P.W.M. Brouwers", "position": 5}, {"first_name": "Adri", "last_name": "School", "gender": "m", "place": "Heesch", "full_name": "A.H.J. School", "position": 6}, {"first_name": "Iwan", "last_name": "Gijsbers", "gender": "m", "place": "Deurne", "full_name": "J.J.W.M. Gijsbers", "position": 7}, {"first_name": "Simon", "last_name": "Middelkamp", "gender": "m", "place": "Berlicum", "full_name": "S. Middelkamp", "position": 8}, {"first_name": "Erik", "last_name": "Geene", "gender": "m", "place": "Landhorst", "full_name": "H.J.J. Geene", "position": 9}, {"first_name": "Jochem", "last_name": "Jacobs", "gender": "m", "place": "Velp", "full_name": "J. Jacobs", "position": 10}, {"first_name": "Huub", "last_name": "van Hout", "gender": "m", "place": "Bakel", "full_name": "H.A.M. van Hout", "position": 11}, {"first_name": "Peter", "last_name": "Stevens", "gender": "m", "place": "Vortum-Mullem", "full_name": "P.I.M.H. Stevens", "position": 12}, {"first_name": "Jan", "last_name": "Swinkels", "gender": "m", "place": "Someren", "full_name": "J.L.G. Swinkels", "position": 13}, {"first_name": "Willy", "last_name": "de Groot", "gender": "m", "place": "Volkel", "full_name": "W. de Groot", "position": 14}, {"first_name": "Jan", "last_name": "Stoffelen", "gender": "m", "place": "Vierlingsbeek", "full_name": "J.W.M. Stoffelen", "position": 15}, {"first_name": "Liesbeth", "last_name": "Lamers-Litjens", "gender": "v", "place": "Helmond", "full_name": "E.J.W.T. Lamers-Litjens", "position": 16}], "title": "Lijst_1_CDA"}
+{
+  "title": "Lijst 1 CDA",
+  "description": "",
+  "candidates": [
+    {
+      "position": 1,
+      "full_name": "P.C.M. Ketelaars",
+      "place": "Boekel",
+      "gender": "m",
+      "last_name": "Ketelaars",
+      "first_name": "Peter"
+    },
+    {
+      "position": 2,
+      "full_name": "A.J.P. Jaspers",
+      "place": "Ravenstein",
+      "gender": "m",
+      "last_name": "Jaspers",
+      "first_name": "Toon"
+    },
+    {
+      "position": 3,
+      "full_name": "E.C.M. Wagemakers",
+      "place": "'s-Hertogenbosch",
+      "gender": "m",
+      "last_name": "Wagemakers",
+      "first_name": "Ed"
+    },
+    {
+      "position": 4,
+      "full_name": "I.R.G.W. Verschuuren",
+      "place": "Gemert",
+      "gender": "v",
+      "last_name": "Verschuuren",
+      "first_name": "Ingeborg"
+    },
+    {
+      "position": 5,
+      "full_name": "P.W.M. Brouwers",
+      "place": "Rijkevoort",
+      "gender": "m",
+      "last_name": "Brouwers",
+      "first_name": "Peter"
+    },
+    {
+      "position": 6,
+      "full_name": "A.H.J. School",
+      "place": "Heesch",
+      "gender": "m",
+      "last_name": "School",
+      "first_name": "Adri"
+    },
+    {
+      "position": 7,
+      "full_name": "J.J.W.M. Gijsbers",
+      "place": "Deurne",
+      "gender": "m",
+      "last_name": "Gijsbers",
+      "first_name": "Iwan"
+    },
+    {
+      "position": 8,
+      "full_name": "S. Middelkamp",
+      "place": "Berlicum",
+      "gender": "m",
+      "last_name": "Middelkamp",
+      "first_name": "Simon"
+    },
+    {
+      "position": 9,
+      "full_name": "H.J.J. Geene",
+      "place": "Landhorst",
+      "gender": "m",
+      "last_name": "Geene",
+      "first_name": "Erik"
+    },
+    {
+      "position": 10,
+      "full_name": "J. Jacobs",
+      "place": "Velp",
+      "gender": "m",
+      "last_name": "Jacobs",
+      "first_name": "Jochem"
+    },
+    {
+      "position": 11,
+      "full_name": "H.A.M. van Hout",
+      "place": "Bakel",
+      "gender": "m",
+      "last_name": "van Hout",
+      "first_name": "Huub"
+    },
+    {
+      "position": 12,
+      "full_name": "P.I.M.H. Stevens",
+      "place": "Vortum-Mullem",
+      "gender": "m",
+      "last_name": "Stevens",
+      "first_name": "Peter"
+    },
+    {
+      "position": 13,
+      "full_name": "J.L.G. Swinkels",
+      "place": "Someren",
+      "gender": "m",
+      "last_name": "Swinkels",
+      "first_name": "Jan"
+    },
+    {
+      "position": 14,
+      "full_name": "W. de Groot",
+      "place": "Volkel",
+      "gender": "m",
+      "last_name": "de Groot",
+      "first_name": "Willy"
+    },
+    {
+      "position": 15,
+      "full_name": "J.W.M. Stoffelen",
+      "place": "Vierlingsbeek",
+      "gender": "m",
+      "last_name": "Stoffelen",
+      "first_name": "Jan"
+    },
+    {
+      "position": 16,
+      "full_name": "E.J.W.T. Lamers-Litjens",
+      "place": "Helmond",
+      "gender": "v",
+      "last_name": "Lamers-Litjens",
+      "first_name": "Liesbeth"
+    }
+  ]
+}

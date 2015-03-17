@@ -1,0 +1,246 @@
+{
+  "title": "Lijst 1 VVD",
+  "description": "",
+  "candidates": [
+    {
+      "position": 1,
+      "full_name": "A.H.L. Kocken",
+      "place": "Utrecht",
+      "gender": "m",
+      "last_name": "Kocken",
+      "first_name": "Arthur"
+    },
+    {
+      "position": 2,
+      "full_name": "J.C.V. Vaessen",
+      "place": "Utrecht",
+      "gender": "v",
+      "last_name": "Vaessen",
+      "first_name": "Jacqueline"
+    },
+    {
+      "position": 3,
+      "full_name": "A.J. Vlam",
+      "place": "Nieuwegein",
+      "gender": "v",
+      "last_name": "Vlam",
+      "first_name": "Anita"
+    },
+    {
+      "position": 4,
+      "full_name": "W. Joustra",
+      "place": "Langbroek",
+      "gender": "m",
+      "last_name": "Joustra",
+      "first_name": "Willem"
+    },
+    {
+      "position": 5,
+      "full_name": "A.A. Ens",
+      "place": "Amersfoort",
+      "gender": "v",
+      "last_name": "Ens",
+      "first_name": "Astrid"
+    },
+    {
+      "position": 6,
+      "full_name": "Z. el Yassini",
+      "place": "Utrecht",
+      "gender": "m",
+      "last_name": "el Yassini",
+      "first_name": "Zohair"
+    },
+    {
+      "position": 7,
+      "full_name": "N. Eijsbroek",
+      "place": "Utrecht",
+      "gender": "v",
+      "last_name": "Eijsbroek",
+      "first_name": "Neeke"
+    },
+    {
+      "position": 8,
+      "full_name": "D.S.L. Tuijnman",
+      "place": "Utrecht",
+      "gender": "m",
+      "last_name": "Tuijnman",
+      "first_name": "Daniël"
+    },
+    {
+      "position": 9,
+      "full_name": "J. Germs",
+      "place": "Renswoude",
+      "gender": "m",
+      "last_name": "Germs",
+      "first_name": "Jakob"
+    },
+    {
+      "position": 10,
+      "full_name": "R. van Reenen",
+      "place": "IJsselstein",
+      "gender": "m",
+      "last_name": "van Reenen",
+      "first_name": "Ron"
+    },
+    {
+      "position": 11,
+      "full_name": "B.M.H. de Brey",
+      "place": "Doorn",
+      "gender": "m",
+      "last_name": "de Brey",
+      "first_name": "Baerte"
+    },
+    {
+      "position": 12,
+      "full_name": "J.A. Godschalx-Dekker",
+      "place": "Woerden",
+      "gender": "v",
+      "last_name": "Godschalx-Dekker",
+      "first_name": "Judith"
+    },
+    {
+      "position": 13,
+      "full_name": "J.J. van Doesburgh-Ferwerda",
+      "place": "Loenen aan de Vecht",
+      "gender": "v",
+      "last_name": "van Doesburgh-Ferwerda",
+      "first_name": "Janine"
+    },
+    {
+      "position": 14,
+      "full_name": "H. Barske",
+      "place": "Amersfoort",
+      "gender": "m",
+      "last_name": "Barske",
+      "first_name": "Henk-Jan"
+    },
+    {
+      "position": 15,
+      "full_name": "G.F. Wegman",
+      "place": "Utrecht",
+      "gender": "m",
+      "last_name": "Wegman",
+      "first_name": "Geert"
+    },
+    {
+      "position": 16,
+      "full_name": "I.T.J. Beekers",
+      "place": "Amersfoort",
+      "gender": "m",
+      "last_name": "Beekers",
+      "first_name": "Ivo"
+    },
+    {
+      "position": 17,
+      "full_name": "R.S. te Velde",
+      "place": "Maarn",
+      "gender": "m",
+      "last_name": "te Velde",
+      "first_name": "Roelof"
+    },
+    {
+      "position": 18,
+      "full_name": "T.H. van der Maas",
+      "place": "Utrecht",
+      "gender": "m",
+      "last_name": "van der Maas",
+      "first_name": "Tom"
+    },
+    {
+      "position": 19,
+      "full_name": "M.R. Mascini",
+      "place": "Baarn",
+      "gender": "m",
+      "last_name": "Mascini",
+      "first_name": "Marc"
+    },
+    {
+      "position": 20,
+      "full_name": "G. te Hoonte",
+      "place": "Utrecht",
+      "gender": "m",
+      "last_name": "te Hoonte",
+      "first_name": "Gertjan"
+    },
+    {
+      "position": 21,
+      "full_name": "U. Ak",
+      "place": "Utrecht",
+      "gender": "m",
+      "last_name": "Ak",
+      "first_name": "Uygar"
+    },
+    {
+      "position": 22,
+      "full_name": "Jhr.C.F.C.T.M. van Nispen tot Sevenaer",
+      "place": "Bilthoven",
+      "gender": "m",
+      "last_name": "van Nispen tot Sevenaer",
+      "first_name": "Christiaan"
+    },
+    {
+      "position": 23,
+      "full_name": "D.W.F. van den Engel",
+      "place": "Utrecht",
+      "gender": "m",
+      "last_name": "van den Engel",
+      "first_name": "Daniël"
+    },
+    {
+      "position": 24,
+      "full_name": "P.R. Arora",
+      "place": "Amersfoort",
+      "gender": "v",
+      "last_name": "Arora",
+      "first_name": "Pauline"
+    },
+    {
+      "position": 25,
+      "full_name": "A.E.W. Verschoor",
+      "place": "Vleuten",
+      "gender": "m",
+      "last_name": "Verschoor",
+      "first_name": "Andre"
+    },
+    {
+      "position": 26,
+      "full_name": "E.A.M. Leeuw",
+      "place": "Vianen",
+      "gender": "v",
+      "last_name": "Leeuw",
+      "first_name": "Ellen"
+    },
+    {
+      "position": 27,
+      "full_name": "M. van Dijk-van der Wel",
+      "place": "Baarn",
+      "gender": "v",
+      "last_name": "van Dijk-van der Wel",
+      "first_name": "Marjolijn"
+    },
+    {
+      "position": 28,
+      "full_name": "J.M. van der Marel",
+      "place": "Utrecht",
+      "gender": "v",
+      "last_name": "van der Marel",
+      "first_name": "Hanneke"
+    },
+    {
+      "position": 29,
+      "full_name": "N.D. van den Broek",
+      "place": "Utrecht",
+      "gender": "v",
+      "last_name": "van den Broek",
+      "first_name": "Danielle"
+    },
+    {
+      "position": 30,
+      "full_name": "J.W.R. van Lunteren",
+      "place": "Amersfoort",
+      "gender": "m",
+      "last_name": "van Lunteren",
+      "first_name": "Remco"
+    }
+  ]
+}

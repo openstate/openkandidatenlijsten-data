@@ -1,1 +1,38 @@
-{"description": "", "members": [{"first_name": "Peter", "last_name": "Prins", "gender": "m", "place": "Diemen", "full_name": "P.A. Prins", "position": 1}, {"first_name": "Ton", "last_name": "Richter", "gender": "m", "place": "Vinkeveen", "full_name": "A.P.J. Richter", "position": 2}, {"first_name": "Carlo", "last_name": "Braun", "gender": "m", "place": "Amsterdam", "full_name": "C.F. Braun", "position": 3}, {"first_name": "Yuen", "last_name": "Ng", "gender": "m", "place": "Amsterdam", "full_name": "Y.K. Ng", "position": 4}], "title": "Lijst_11_50PLUS"}
+{
+  "title": "Lijst 11 50PLUS",
+  "description": "",
+  "candidates": [
+    {
+      "position": 1,
+      "full_name": "P.A. Prins",
+      "place": "Diemen",
+      "gender": "m",
+      "last_name": "Prins",
+      "first_name": "Peter"
+    },
+    {
+      "position": 2,
+      "full_name": "A.P.J. Richter",
+      "place": "Vinkeveen",
+      "gender": "m",
+      "last_name": "Richter",
+      "first_name": "Ton"
+    },
+    {
+      "position": 3,
+      "full_name": "C.F. Braun",
+      "place": "Amsterdam",
+      "gender": "m",
+      "last_name": "Braun",
+      "first_name": "Carlo"
+    },
+    {
+      "position": 4,
+      "full_name": "Y.K. Ng",
+      "place": "Amsterdam",
+      "gender": "m",
+      "last_name": "Ng",
+      "first_name": "Yuen"
+    }
+  ]
+}

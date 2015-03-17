@@ -1,0 +1,166 @@
+{
+  "title": "Lijst 8 GROENLINKS",
+  "description": "Gecombineerd met Partij van de Arbeid (P.v.d.A.)",
+  "candidates": [
+    {
+      "position": 1,
+      "full_name": "S. Miske",
+      "place": "Dronten",
+      "gender": "m",
+      "last_name": "Miske",
+      "first_name": "Simon"
+    },
+    {
+      "position": 2,
+      "full_name": "J. Staalman",
+      "place": "Almere",
+      "gender": "v",
+      "last_name": "Staalman",
+      "first_name": "Judith"
+    },
+    {
+      "position": 3,
+      "full_name": "C.R. Korteweg",
+      "place": "Dronten",
+      "gender": "m",
+      "last_name": "Korteweg",
+      "first_name": "Cebus"
+    },
+    {
+      "position": 4,
+      "full_name": "A.A. Laurense",
+      "place": "Almere",
+      "gender": "v",
+      "last_name": "Laurense",
+      "first_name": "Alida"
+    },
+    {
+      "position": 5,
+      "full_name": "M. Oosterbos",
+      "place": "Zeewolde",
+      "gender": "m",
+      "last_name": "Oosterbos",
+      "first_name": "Marcel"
+    },
+    {
+      "position": 6,
+      "full_name": "E.T. van den Berg",
+      "place": "Lelystad",
+      "gender": "v",
+      "last_name": "van den Berg",
+      "first_name": "Ellen"
+    },
+    {
+      "position": 7,
+      "full_name": "J.F. van Tol",
+      "place": "Zeewolde",
+      "gender": "m",
+      "last_name": "van Tol",
+      "first_name": "Jeroen"
+    },
+    {
+      "position": 8,
+      "full_name": "M.P.M.M. van der Wee",
+      "place": "Dronten",
+      "gender": "v",
+      "last_name": "van der Wee",
+      "first_name": "Riet"
+    },
+    {
+      "position": 9,
+      "full_name": "J.W. Bakker",
+      "place": "Emmeloord",
+      "gender": "m",
+      "last_name": "Bakker",
+      "first_name": "Judo"
+    },
+    {
+      "position": 10,
+      "full_name": "K.C. Aksoy",
+      "place": "Lelystad",
+      "gender": "m",
+      "last_name": "Aksoy",
+      "first_name": "Kadir"
+    },
+    {
+      "position": 11,
+      "full_name": "P.L.A. Vermast",
+      "place": "Dronten",
+      "gender": "m",
+      "last_name": "Vermast",
+      "first_name": "Paul"
+    },
+    {
+      "position": 12,
+      "full_name": "J. Kips",
+      "place": "Almere",
+      "gender": "v",
+      "last_name": "Kips",
+      "first_name": "Jessica"
+    },
+    {
+      "position": 13,
+      "full_name": "J. Terpstra",
+      "place": "Lelystad",
+      "gender": "m",
+      "last_name": "Terpstra",
+      "first_name": "Jaap"
+    },
+    {
+      "position": 14,
+      "full_name": "A. Bleijenberg",
+      "place": "Dronten",
+      "gender": "m",
+      "last_name": "Bleijenberg",
+      "first_name": "Albert"
+    },
+    {
+      "position": 15,
+      "full_name": "K. Mol",
+      "place": "Dronten",
+      "gender": "m",
+      "last_name": "Mol",
+      "first_name": "Kevin"
+    },
+    {
+      "position": 16,
+      "full_name": "H.M. Hekkenberg",
+      "place": "Marknesse",
+      "gender": "m",
+      "last_name": "Hekkenberg",
+      "first_name": "Hylke"
+    },
+    {
+      "position": 17,
+      "full_name": "S.M. de Reus",
+      "place": "Lelystad",
+      "gender": "m",
+      "last_name": "de Reus",
+      "first_name": "Bas"
+    },
+    {
+      "position": 18,
+      "full_name": "P.B.M. van Dijk",
+      "place": "Almere",
+      "gender": "v",
+      "last_name": "van Dijk",
+      "first_name": "Nel"
+    },
+    {
+      "position": 19,
+      "full_name": "S. Kruis",
+      "place": "Lelystad",
+      "gender": "m",
+      "last_name": "Kruis",
+      "first_name": "Sjaak"
+    },
+    {
+      "position": 20,
+      "full_name": "R. Pet",
+      "place": "Almere",
+      "gender": "m",
+      "last_name": "Pet",
+      "first_name": "Ruud"
+    }
+  ]
+}

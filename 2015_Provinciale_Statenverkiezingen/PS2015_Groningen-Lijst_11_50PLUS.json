@@ -1,0 +1,78 @@
+{
+  "title": "Lijst 11 50PLUS",
+  "description": "",
+  "candidates": [
+    {
+      "position": 1,
+      "full_name": "F.F. Booij",
+      "place": "Mussel",
+      "gender": "m",
+      "last_name": "Booij",
+      "first_name": "Ferry"
+    },
+    {
+      "position": 2,
+      "full_name": "G. Karstens",
+      "place": "Niekerk",
+      "gender": "v",
+      "last_name": "Karstens",
+      "first_name": "Geertje"
+    },
+    {
+      "position": 3,
+      "full_name": "A.W.G.J. de Vries",
+      "place": "Tolbert",
+      "gender": "m",
+      "last_name": "de Vries",
+      "first_name": "Bert"
+    },
+    {
+      "position": 4,
+      "full_name": "C.J. Bakker",
+      "place": "Uithuizen",
+      "gender": "m",
+      "last_name": "Bakker",
+      "first_name": "Chris"
+    },
+    {
+      "position": 5,
+      "full_name": "S.W.H.T. Broekema",
+      "place": "Kantens",
+      "gender": "m",
+      "last_name": "Broekema",
+      "first_name": "Siebrand"
+    },
+    {
+      "position": 6,
+      "full_name": "R.J. Barsema",
+      "place": "Groningen",
+      "gender": "m",
+      "last_name": "Barsema",
+      "first_name": "Ruud"
+    },
+    {
+      "position": 7,
+      "full_name": "K.H. de Vries",
+      "place": "Hoogezand",
+      "gender": "m",
+      "last_name": "de Vries",
+      "first_name": "Kor"
+    },
+    {
+      "position": 8,
+      "full_name": "G.T. Karmelk-Brom",
+      "place": "Stadskanaal",
+      "gender": "v",
+      "last_name": "Karmelk-Brom",
+      "first_name": "Gerda"
+    },
+    {
+      "position": 9,
+      "full_name": "F.E. Colnot",
+      "place": "Blijham",
+      "gender": "m",
+      "last_name": "Colnot",
+      "first_name": "Frits"
+    }
+  ]
+}

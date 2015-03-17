@@ -1,1 +1,70 @@
-{"description": "", "members": [{"first_name": "Ramona", "last_name": "Bleyie", "gender": "v", "place": "IJmuiden", "full_name": "M. Bleyie", "position": 1}, {"first_name": "Judith", "last_name": "Boomsma", "gender": "v", "place": "Oegstgeest", "full_name": "J.C. Boomsma", "position": 2}, {"first_name": "Frank", "last_name": "van Waard", "gender": "m", "place": "Haarlem", "full_name": "F.M. van Waard", "position": 3}, {"first_name": "Harbert", "last_name": "van der Kaap", "gender": "m", "place": "Leiden", "full_name": "H. van der Kaap", "position": 4}, {"first_name": "Joep", "last_name": "Beneken genaamd Kolmer", "gender": "m", "place": "Haarlem", "full_name": "J.P.W. Beneken genaamd Kolmer", "position": 5}, {"first_name": "Jeroen", "last_name": "Schrama", "gender": "m", "place": "Leiden", "full_name": "J.E. Schrama", "position": 6}, {"first_name": "Lowie", "last_name": "van Liere", "gender": "m", "place": "Haarlem", "full_name": "E. van Liere", "position": 7}, {"first_name": "Dick", "last_name": "de Vos", "gender": "m", "place": "Leiden", "full_name": "D. de Vos", "position": 8}], "title": "Lijst_7_Partij_voor_de_Dieren"}
+{
+  "title": "Lijst 7 Partij voor de Dieren",
+  "description": "",
+  "candidates": [
+    {
+      "position": 1,
+      "full_name": "M. Bleyie",
+      "place": "IJmuiden",
+      "gender": "v",
+      "last_name": "Bleyie",
+      "first_name": "Ramona"
+    },
+    {
+      "position": 2,
+      "full_name": "J.C. Boomsma",
+      "place": "Oegstgeest",
+      "gender": "v",
+      "last_name": "Boomsma",
+      "first_name": "Judith"
+    },
+    {
+      "position": 3,
+      "full_name": "F.M. van Waard",
+      "place": "Haarlem",
+      "gender": "m",
+      "last_name": "van Waard",
+      "first_name": "Frank"
+    },
+    {
+      "position": 4,
+      "full_name": "H. van der Kaap",
+      "place": "Leiden",
+      "gender": "m",
+      "last_name": "van der Kaap",
+      "first_name": "Harbert"
+    },
+    {
+      "position": 5,
+      "full_name": "J.P.W. Beneken genaamd Kolmer",
+      "place": "Haarlem",
+      "gender": "m",
+      "last_name": "Beneken genaamd Kolmer",
+      "first_name": "Joep"
+    },
+    {
+      "position": 6,
+      "full_name": "J.E. Schrama",
+      "place": "Leiden",
+      "gender": "m",
+      "last_name": "Schrama",
+      "first_name": "Jeroen"
+    },
+    {
+      "position": 7,
+      "full_name": "E. van Liere",
+      "place": "Haarlem",
+      "gender": "m",
+      "last_name": "van Liere",
+      "first_name": "Lowie"
+    },
+    {
+      "position": 8,
+      "full_name": "D. de Vos",
+      "place": "Leiden",
+      "gender": "m",
+      "last_name": "de Vos",
+      "first_name": "Dick"
+    }
+  ]
+}
