@@ -1,3 +1,6 @@
+THIS REPOSITORY IS OUTDATED. PLEASE GO TO: https://github.com/openstate/openkandidatenlijsten/
+
+
 openkandidatenlijsten-data
 ==========================
 
